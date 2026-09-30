@@ -7,6 +7,10 @@ Public research methodology, source records, datasets, citations, corrections, a
 
 This repository makes CTL research **inspectable and citable**. It is the public companion to [CultureTechLens](https://culturetechlens.com).
 
+> 🌐 **Website:** [culturetechlens.com](https://culturetechlens.com) · 💛 **Donate:** [culturetechlens.com/donate](https://culturetechlens.com/donate/) · ✉️ **Contact:** [culturetechlens.com/contact](https://culturetechlens.com/contact/)
+
+---
+
 The repository documents how CTL:
 
 - identifies and evaluates evidence;

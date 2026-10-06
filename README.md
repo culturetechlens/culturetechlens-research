@@ -19,12 +19,15 @@ The repository documents how CTL:
 
 ## Core documents
 
+- [Papers & public deposits](papers/README.md)
 - [Research Methodology](METHODOLOGY.md)
+- [CultureTechLens Index research record](RESEARCH/index/README.md)
 - [Citation Guide](CITATION.md)
 - [Source Register](SOURCES/source-register.csv)
 - [Source Register Guide](SOURCES/README.md)
 - [Research Projects](RESEARCH/README.md)
 - [Data](DATA/README.md)
+- [Operational documents](docs/README.md)
 - [Corrections](CORRECTIONS.md)
 - [Changelog](CHANGELOG.md)
 

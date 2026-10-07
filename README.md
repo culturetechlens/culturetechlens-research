@@ -62,3 +62,32 @@ Not every source can be reproduced or republished. Copyright restrictions, priva
 ## Website
 
 https://culturetechlens.com
+
+Unknowns are never zero: a claim marked UNKNOWN, NOT APPLICABLE, NOT YET RESEARCHED, or NOT PUBLICLY AVAILABLE is a statement about the record, not a gap in it.
+
+## How to cite
+
+Corpus as a whole:
+
+> CultureTechLens NFP, "CultureTechLens Research Corpus," 2026-09-28.
+
+A single package — cite its Research ID and title, e.g.:
+
+> CultureTechLens NFP, "How We Lived: An Encyclopedia of Black Everyday Life (CTL-DR-LIFE-001)," 2026-09-28.
+
+A single claim — cite the claim ID, its grade, and the package, e.g. "per CTL-DR-LIFE-001, CLAIM-012 (VERIFIED)."
+
+## What's not here
+
+Internal build artifacts are intentionally excluded: package `working/` directories, `_tracks/` build tracks, pre-remediation backups, and cross-package audit working files. What ships is the governed package: research, evidence, sources, timelines, red-team findings, and rights logs.
+
+## License
+
+- All editorial content, research documents, and data files (JSON, CSV, Markdown): Creative Commons Attribution 4.0 International (CC BY 4.0) — see [LICENSE](LICENSE).
+- All code (including validation scripts): MIT License — see [LICENSE-CODE](LICENSE-CODE).
+
+Copyright 2026 CultureTechLens NFP (EIN 39-3143901).
+
+---
+
+*CULTURETECHLENS · "Culture, Clearly Seen." · Black Cultural Intelligence*

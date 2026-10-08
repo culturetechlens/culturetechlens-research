@@ -2,6 +2,20 @@
 
 ## October 2026
 
+### Sports lane dossiers — October 7, 2026
+
+Five research dossiers for the Sports lane ("The Black Athletic Record") added under `RESEARCH/sports-lane/`:
+
+- `01-chicago-american-giants-dossier.md` — the Chicago American Giants: Rube Foster, the Negro National League, and Black baseball's Chicago dynasty
+- `02-nineties-bulls-dossier.md` — the 1990s Bulls as global Black cultural export
+- `03-chicago-sky-dossier.md` — the Chicago Sky and the economics of the WNBA
+- `04-jackie-robinson-chicago-press-dossier.md` — Jackie Robinson's Chicago press story: the *Chicago Defender* as actor in baseball's integration
+- `05-black-quarterbacks-dossier.md` — Black quarterbacks' desegregation, from Fritz Pollard to Super Bowl LVII
+
+Each dossier is evidence-graded throughout (VERIFIED / SUPPORTED / PROVISIONAL / DISPUTED / UNRESOLVED) with named sources, a Chicago connection, image notes with license status, and a gaps section stating what could not be verified. Lane README at `RESEARCH/sports-lane/README.md`.
+
+**Status: DRAFT.** Research foundations, not publications. CC BY 4.0.
+
 ### Visual assets — October 5, 2026
 
 Shareable visual assets added under `visuals/` (93 PNGs, CC BY 4.0, all original programmatic renders — no AI faces, no stock imagery):

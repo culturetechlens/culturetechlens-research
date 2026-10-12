@@ -91,3 +91,7 @@ Copyright 2026 CultureTechLens NFP (EIN 39-3143901).
 ---
 
 *CULTURETECHLENS · "Culture, Clearly Seen." · Black Cultural Intelligence*
+
+## Identifiers
+
+- Wikidata: [Q141705779](https://www.wikidata.org/wiki/Q141705779)

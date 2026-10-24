@@ -1,0 +1,352 @@
+{
+  "brief_id": "CTL-RB-BIZ-000003",
+  "rule": "Every factual edge carries provenance (claim refs) and grade. Only VERIFIED claims enter verified-only graph edges; SUPPORTED edges retain visible grade. Format: SUBJECT → RELATIONSHIP → OBJECT.",
+  "relationships": [
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "worked_for",
+      "object": "Madam C. J. Walker Manufacturing Company",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C04"
+      ],
+      "notes": "National supervisor of ~200 beauty schools; later vice president; 50+ years."
+    },
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "owned",
+      "object": "Joyner's salon (South State Street)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C03"
+      ],
+      "notes": "Opened c. 1916 after graduating A.B. Molar."
+    },
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "invented",
+      "object": "Permanent wave machine",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C05"
+      ],
+      "notes": "U.S. Patent 1,693,515 (1928)."
+    },
+    {
+      "subject": "Madam C. J. Walker Manufacturing Company",
+      "relationship": "held_rights_to",
+      "object": "Permanent wave machine",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C06"
+      ],
+      "notes": "Patent rights assigned to company; Joyner saw no profit."
+    },
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "co_founded",
+      "object": "United Beauty School Owners and Teachers Association",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C09"
+      ],
+      "notes": "1945, with Mary McLeod Bethune."
+    },
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "organized",
+      "object": "Bud Billiken Parade (first, 1929)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C10"
+      ],
+      "notes": "Beauty-culture leadership spilling into civic life."
+    },
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "helped_draft",
+      "object": "Illinois cosmetology licensing regime",
+      "grade": "PROVISIONAL",
+      "claim_refs": [
+        "C08"
+      ],
+      "notes": "Role agreed; date disputed (1924 vs. later)."
+    },
+    {
+      "subject": "Annie Turnbo Malone",
+      "relationship": "founded",
+      "object": "Poro College / Poro Company",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C13"
+      ],
+      "notes": "Poro College, St. Louis, 1918."
+    },
+    {
+      "subject": "Poro College / Poro Company",
+      "relationship": "located_in",
+      "object": "Poro Block",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C15"
+      ],
+      "notes": "4415 S. Parkway, Chicago, from c. 1930."
+    },
+    {
+      "subject": "Anthony Overton",
+      "relationship": "founded",
+      "object": "Overton Hygienic Manufacturing Company",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C16"
+      ],
+      "notes": "Founded 1898; moved to Chicago 1911."
+    },
+    {
+      "subject": "Anthony Overton",
+      "relationship": "commissioned",
+      "object": "Overton Hygienic Building",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C18"
+      ],
+      "notes": "1922; architect Z. Erol Smith."
+    },
+    {
+      "subject": "Overton Hygienic Manufacturing Company",
+      "relationship": "operated_in",
+      "object": "Overton Hygienic Building",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C18"
+      ],
+      "notes": "Plus bank, insurance, professional offices."
+    },
+    {
+      "subject": "George E. Johnson",
+      "relationship": "co_founded",
+      "object": "Johnson Products Company",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C20"
+      ],
+      "notes": "With Joan Henderson Johnson, Chicago, 1954."
+    },
+    {
+      "subject": "Joan Henderson Johnson",
+      "relationship": "co_founded",
+      "object": "Johnson Products Company",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C20"
+      ],
+      "notes": null
+    },
+    {
+      "subject": "George E. Johnson",
+      "relationship": "trained_at",
+      "object": "S. B. Fuller Products",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C20"
+      ],
+      "notes": "Pre-1954 employment; cross-firm knowledge transfer."
+    },
+    {
+      "subject": "Johnson Products Company",
+      "relationship": "sponsored",
+      "object": "Soul Train",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C24"
+      ],
+      "notes": "Exclusive sponsor from 1971. Cross-ref CTL-DR-BMI-002."
+    },
+    {
+      "subject": "Johnson Products Company",
+      "relationship": "listed_on",
+      "object": "American Stock Exchange",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C23"
+      ],
+      "notes": "1971; first Black-owned listing."
+    },
+    {
+      "subject": "Johnson Products Company",
+      "relationship": "sold_to",
+      "object": "IVAX Corporation",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C25"
+      ],
+      "notes": "1993, ~$67M, following founders' divorce."
+    },
+    {
+      "subject": "Edward Gardner",
+      "relationship": "co_founded",
+      "object": "Soft Sheen Products, Inc.",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C27"
+      ],
+      "notes": "With Bettiann Gardner, Chicago, 1964."
+    },
+    {
+      "subject": "Bettiann Gardner",
+      "relationship": "co_founded",
+      "object": "Soft Sheen Products, Inc.",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C27"
+      ],
+      "notes": null
+    },
+    {
+      "subject": "Soft Sheen Products, Inc.",
+      "relationship": "distributed_through",
+      "object": "South Side salons (salon-professional channel)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C28"
+      ],
+      "notes": "Gardner trunk-to-salon deliveries; Care Free Curl salon-only."
+    },
+    {
+      "subject": "Soft Sheen Products, Inc.",
+      "relationship": "sold_to",
+      "object": "L'Oréal",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C30"
+      ],
+      "notes": "1998."
+    },
+    {
+      "subject": "National Beauty Culturists' League (NBCL)",
+      "relationship": "formed_in_response_to",
+      "object": "segregated white beauty trade organizations",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C32"
+      ],
+      "notes": "Originated 1919; chartered 1940."
+    },
+    {
+      "subject": "National Beauty Culturists' League (NBCL)",
+      "relationship": "hosted",
+      "object": "Martin Luther King Jr. (1957 address)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C33"
+      ],
+      "notes": null
+    },
+    {
+      "subject": "National Beauty Culturists' League (NBCL)",
+      "relationship": "advocated_to",
+      "object": "Illinois cosmetology licensing regime",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C32",
+        "C35"
+      ],
+      "notes": "State-board representation; standards and legislation."
+    },
+    {
+      "subject": "Illinois cosmetology licensing regime",
+      "relationship": "policed",
+      "object": "home/kitchen beauticians (unlicensed practitioners)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C35"
+      ],
+      "notes": "Licensed owners reporting unlicensed home shops (Gill/Walker)."
+    },
+    {
+      "subject": "Oscar J. Freeman",
+      "relationship": "owned",
+      "object": "Metropolitan Barber Shop",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C36"
+      ],
+      "notes": "14 years in business as of 1942."
+    },
+    {
+      "subject": "Metropolitan Barber Shop",
+      "relationship": "located_at",
+      "object": "Metropolitan Barber Shop site",
+      "grade": "VERIFIED",
+      "claim_refs": [
+        "C36"
+      ],
+      "notes": "4654 South Parkway, Chicago."
+    },
+    {
+      "subject": "Harrison's Barber Shop",
+      "relationship": "located_on",
+      "object": "63rd Street corridor",
+      "grade": "PROVISIONAL",
+      "claim_refs": [
+        "C39"
+      ],
+      "notes": "Per CTL-DR-PLACE-001; pending directory work."
+    },
+    {
+      "subject": "Binga Block barber shop",
+      "relationship": "located_in",
+      "object": "Binga Block (State at 47th–48th)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C49"
+      ],
+      "notes": "Unnamed; IIT Bronzeville booklet."
+    },
+    {
+      "subject": "Permanent wave machine",
+      "relationship": "exhibited_by",
+      "object": "Smithsonian Institution (1987)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C45"
+      ],
+      "notes": "Exhibit + salon reconstruction."
+    },
+    {
+      "subject": "Marjorie Stewart Joyner",
+      "relationship": "papers_held_by",
+      "object": "Vivian G. Harsh Research Collection (Chicago Public Library)",
+      "grade": "PROVISIONAL",
+      "claim_refs": [
+        "C42"
+      ],
+      "notes": "Lead; not verified against catalog."
+    },
+    {
+      "subject": "Overton Hygienic Manufacturing Company",
+      "relationship": "supplied_products_to",
+      "object": "Black beauty shops (door-to-door and retail)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C17"
+      ],
+      "notes": "~400 door-to-door salespeople c. 1912."
+    },
+    {
+      "subject": "Ultra Sheen",
+      "relationship": "displaced",
+      "object": "beauty-shop hot-comb services (marketed function)",
+      "grade": "SUPPORTED",
+      "claim_refs": [
+        "C21"
+      ],
+      "notes": "Product strategy; not proof of shop-economics effect."
+    }
+  ],
+  "counts": {
+    "edges": 34,
+    "VERIFIED_edges": 14,
+    "graded_non_verified_edges": 20
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "brief_id": "CTL-RB-BIZ-000005",
+  "graph_rule": "Only VERIFIED claims feed verified-only edges; SUPPORTED claims feed edges with grade visible. PROVISIONAL claims do not feed edges.",
+  "relationships": [
+    {
+      "claim_ids": [
+        "C001"
+      ],
+      "grade": "SUPPORTED",
+      "object": "2013-05-22 CPS closure vote",
+      "provenance": "EdWeek on Consortium May 2018 report",
+      "relationship": "VOTED_FOR",
+      "subject": "Chicago Public Schools"
+    },
+    {
+      "claim_ids": [
+        "C002",
+        "C003",
+        "C004",
+        "C005"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Chicago Public Schools",
+      "provenance": "Consortium May 2018 / Jan 2015 reports via EdWeek",
+      "relationship": "DOCUMENTED_EFFECTS_OF",
+      "subject": "University of Chicago Consortium on School Research"
+    },
+    {
+      "claim_ids": [
+        "C006"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Bronzeville, Chicago",
+      "provenance": "Ewing (2018); reviews",
+      "relationship": "DOCUMENTED_COMMUNITY_LOSS_IN",
+      "subject": "Eve Ewing"
+    },
+    {
+      "claim_ids": [
+        "C006"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Dyett High School, Bronzeville",
+      "provenance": "Reviews of Ewing (2018)",
+      "relationship": "ORGANIZED_TO_SAVE",
+      "subject": "Bronzeville, Chicago"
+    },
+    {
+      "claim_ids": [
+        "C007"
+      ],
+      "grade": "VERIFIED",
+      "object": "2008-06-05 Michael Reese closure announcement",
+      "provenance": "Modern Healthcare 2008-06-05",
+      "relationship": "ANNOUNCED",
+      "subject": "Michael Reese Hospital"
+    },
+    {
+      "claim_ids": [
+        "C007"
+      ],
+      "grade": "VERIFIED",
+      "object": "Former Michael Reese Hospital campus",
+      "provenance": "Modern Healthcare; Connecting the Windy City; Urbanize Chicago",
+      "relationship": "CLOSED_AND_DEMOLISHED",
+      "subject": "Michael Reese Hospital"
+    },
+    {
+      "subject": "Michael Reese Hospital",
+      "relationship": "ENDED_ADULT_TRAUMA_SERVICES",
+      "object": "1991 Michael Reese adult trauma center closure",
+      "claim_ids": [
+        "C008"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Daily Southtown (2018)",
+      "temporal_note": "adult trauma center closed 1991"
+    },
+    {
+      "subject": "University of Chicago Medicine",
+      "relationship": "ENDED_TRAUMA_SERVICES",
+      "object": "1988 UChicago Hospital trauma service closure",
+      "claim_ids": [
+        "C008"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Daily Southtown (2018)",
+      "temporal_note": "predecessor UChicago Hospital ended trauma services 1988; no Level I adult trauma center on the South Side 1991-2018"
+    },
+    {
+      "subject": "Dr. Marie Crandall",
+      "relationship": "STUDIED_DISTANCE_MORTALITY_ASSOCIATION",
+      "object": "trauma-care distance and mortality (AJPH 2013)",
+      "claim_ids": [
+        "C009"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Crandall et al., American Journal of Public Health (2013)",
+      "temporal_note": ">5 miles from trauma care associated with greater mortality"
+    },
+    {
+      "claim_ids": [
+        "C010"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Former Michael Reese Hospital campus",
+      "provenance": "Urbanize Chicago via Daily Line",
+      "relationship": "PURCHASED_AND_HELD_VACANT",
+      "subject": "City of Chicago"
+    },
+    {
+      "claim_ids": [
+        "C010"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Former Michael Reese Hospital campus",
+      "provenance": "Urbanize Chicago",
+      "relationship": "APPROVED_REDEVELOPMENT_OF",
+      "subject": "GRIT LLC"
+    },
+    {
+      "claim_ids": [
+        "C011"
+      ],
+      "grade": "VERIFIED",
+      "object": "2023-04-16 Walmart Chicago closures",
+      "provenance": "Walmart statement via Chain Store Age",
+      "relationship": "CLOSED",
+      "subject": "Walmart Inc."
+    },
+    {
+      "claim_ids": [
+        "C011"
+      ],
+      "grade": "VERIFIED",
+      "object": "Chatham, Chicago",
+      "provenance": "Walmart statement via Chain Store Age",
+      "relationship": "CLOSED_STORE_IN",
+      "subject": "Walmart Inc."
+    },
+    {
+      "claim_ids": [
+        "C013"
+      ],
+      "grade": "SUPPORTED",
+      "object": "2012-09 Walmart Chatham opening",
+      "provenance": "Progressive Grocer 2012; Crusader",
+      "relationship": "OPENED",
+      "subject": "Walmart Inc."
+    },
+    {
+      "claim_ids": [
+        "C014"
+      ],
+      "grade": "VERIFIED",
+      "object": "2023-09-13 municipal grocery announcement",
+      "provenance": "City of Chicago press release",
+      "relationship": "ANNOUNCED_WITH",
+      "subject": "Brandon Johnson"
+    },
+    {
+      "claim_ids": [
+        "C014"
+      ],
+      "grade": "VERIFIED",
+      "object": "2023-09-13 municipal grocery announcement",
+      "provenance": "City of Chicago press release",
+      "relationship": "PARTNERED_ON",
+      "subject": "Economic Security Project"
+    },
+    {
+      "claim_ids": [
+        "C015"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Chatham, Chicago",
+      "provenance": "City Bureau",
+      "relationship": "RAN_EMERGENCY_FOOD_DISTRIBUTION_IN",
+      "subject": "My Block My Hood My City"
+    },
+    {
+      "claim_ids": [
+        "C016"
+      ],
+      "grade": "SUPPORTED",
+      "object": "832 W 63rd St, Chicago",
+      "provenance": "NextCity via DPD; CEGU",
+      "relationship": "SUBSIDIZED_ANCHOR_AT",
+      "subject": "City of Chicago"
+    },
+    {
+      "claim_ids": [
+        "C016",
+        "C017"
+      ],
+      "grade": "SUPPORTED",
+      "object": "2022 Whole Foods Englewood closure",
+      "provenance": "CEGU; edairynews",
+      "relationship": "CLOSED",
+      "subject": "Whole Foods Market"
+    },
+    {
+      "claim_ids": [
+        "C018"
+      ],
+      "grade": "SUPPORTED",
+      "object": "832 W 63rd St, Chicago",
+      "provenance": "Chicago Tribune via Connect CRE",
+      "relationship": "LEASED_AS_SAVE_A_LOT",
+      "subject": "Yellow Banana"
+    },
+    {
+      "claim_ids": [
+        "C018"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Yellow Banana",
+      "provenance": "Edinburg Post on Tribune",
+      "relationship": "PUBLICLY_OPPOSED_REPLACEMENT_BY",
+      "subject": "Stephanie Coleman"
+    },
+    {
+      "claim_ids": [
+        "C018"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Yellow Banana",
+      "provenance": "Edinburg Post on Tribune",
+      "relationship": "DOCUMENTED_EXCLUSION_FROM_DECISION_BY",
+      "subject": "Asiaha Butler"
+    },
+    {
+      "claim_ids": [
+        "C019"
+      ],
+      "grade": "SUPPORTED",
+      "object": "2026-07-25 Save-A-Lot Chicago closures",
+      "provenance": "Progressive Grocer; Fox32",
+      "relationship": "CLOSED_ALL_CHICAGO_STORES",
+      "subject": "Yellow Banana"
+    },
+    {
+      "claim_ids": [
+        "C019"
+      ],
+      "grade": "SUPPORTED",
+      "object": "832 W 63rd St, Chicago",
+      "provenance": "Progressive Grocer",
+      "relationship": "CLOSED_STORE_AT",
+      "subject": "Yellow Banana"
+    },
+    {
+      "claim_ids": [
+        "C020"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Yellow Banana",
+      "provenance": "Chicago DPD via REBusinessOnline; Progressive Grocer",
+      "relationship": "SUBSIDIZED_RENOVATION_OF",
+      "subject": "City of Chicago"
+    },
+    {
+      "claim_ids": [
+        "C023"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Walmart Inc.",
+      "provenance": "NextCity",
+      "relationship": "PUBLISHED_CRITIQUE_OF_CLOSURE_RATIONALE",
+      "subject": "Marynia Kolak"
+    },
+    {
+      "claim_ids": [
+        "C013"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Rahm Emanuel",
+      "provenance": "Progressive Grocer 2012",
+      "relationship": "CELEBRATED_OPENING_WITH",
+      "subject": "Walmart Inc."
+    },
+    {
+      "claim_ids": [
+        "C001"
+      ],
+      "grade": "SUPPORTED",
+      "object": "Rahm Emanuel",
+      "provenance": "Multiple",
+      "relationship": "ORDERED_UNDER_ADMINISTRATION_OF",
+      "subject": "Chicago Public Schools",
+      "temporal_note": "2013 closures under Emanuel administration"
+    },
+    {
+      "subject": "Walmart Inc.",
+      "relationship": "CITED_UNPROFITABILITY_AS_CAUSE",
+      "object": "2023-04-16 Walmart Chicago closures",
+      "claim_ids": [
+        "C012"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Walmart statement via USA Today/Beacon Journal; HomePage News",
+      "temporal_note": "company stated Chicago stores never profitable in ~17 years; losses nearly doubled in five years"
+    },
+    {
+      "subject": "University of Chicago Medicine",
+      "relationship": "OPENED_LEVEL_I_TRAUMA_CENTER",
+      "object": "2018-05-01 UChicago Level I trauma center opening",
+      "claim_ids": [
+        "C009"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Chicago Maroon on JAMA study (2019)",
+      "temporal_note": "JAMA study reported 3.9% decrease in South Side firearm deaths after opening"
+    }
+  ]
+}

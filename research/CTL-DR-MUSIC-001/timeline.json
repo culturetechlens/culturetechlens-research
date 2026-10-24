@@ -1,0 +1,1282 @@
+{
+ "project": "CTL-DR-MUSIC-001",
+ "event_count": 87,
+ "events": [
+  {
+   "date": null,
+   "description": "Mahalia Jackson migrates from New Orleans to Chicago and joins the choir of Greater Salem Baptist Church, beginning the Chicago phase of her gospel career. Some sources report 1928.",
+   "entities": [
+    "Mahalia Jackson",
+    "Greater Salem Baptist Church"
+   ],
+   "genre": "gospel",
+   "source": "https://shec.ashp.cuny.edu/items/show/1598",
+   "source_type": "academic",
+   "verification": "Provisional",
+   "year": 1927,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "4719 South Parkway (later Martin Luther King Jr. Drive)",
+   "date": "1928-02-04",
+   "description": "The Regal Theater opens at 4719 South Parkway, the premier South Side venue for Black entertainment.",
+   "entities": [
+    "Regal Theater"
+   ],
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf",
+   "source_type": "government",
+   "status": "opened",
+   "verification": "Verified",
+   "year": 1928,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Rev. Clarence H. Cobbs founds the First Church of Deliverance in Chicago; early services meet at his mother's residence, then a storefront at 4155 South State Street.",
+   "entities": [
+    "Rev. Clarence H. Cobbs",
+    "First Church of Deliverance"
+   ],
+   "genre": "gospel",
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1929,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Thomas A. Dorsey turns exclusively to gospel composition after years as a blues pianist, crystallizing the blues-gospel synthesis that defines modern gospel music.",
+   "entities": [
+    "Thomas A. Dorsey"
+   ],
+   "genre": "gospel",
+   "source": "https://www.pbssocal.org/shows/artbound/timeline-the-roots-and-growth-of-gospel-music-in-los-angeles",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1930,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "3301 S. Indiana Avenue",
+   "date": null,
+   "description": "Thomas A. Dorsey joins Pilgrim Baptist Church, 3301 S. Indiana Avenue, and organizes its gospel chorus, the first modern gospel chorus in a Black Chicago church.",
+   "entities": [
+    "Thomas A. Dorsey",
+    "Pilgrim Baptist Church"
+   ],
+   "genre": "gospel",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-118/extensions-of-remarks-section/article/E1274-2",
+   "source_type": "government",
+   "verification": "Verified",
+   "year": 1931,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "3301 S. Indiana Avenue",
+   "date": null,
+   "description": "Pilgrim Baptist Church, 3301 S. Indiana Avenue, becomes a gospel music landmark when Thomas A. Dorsey organizes its gospel chorus in 1931.",
+   "entities": [
+    "Pilgrim Baptist Church",
+    "Thomas A. Dorsey"
+   ],
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-118/extensions-of-remarks-section/article/E1274-2",
+   "source_type": "government",
+   "status": "active",
+   "verification": "Verified",
+   "year": 1931,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Thomas A. Dorsey co-founds the National Convention of Gospel Choirs and Choruses, institutionalizing gospel music training and performance networks.",
+   "entities": [
+    "Thomas A. Dorsey",
+    "National Convention of Gospel Choirs and Choruses"
+   ],
+   "genre": "gospel",
+   "source": "https://www.pbssocal.org/shows/gospel/clip/thomas-dorseys-legacy",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1933,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "4315 S. Wabash Avenue",
+   "date": null,
+   "description": "The First Church of Deliverance moves to a brick building at 4315 S. Wabash Avenue, later replaced by a large new building designed by Walter T. Bailey in 1939.",
+   "entities": [
+    "First Church of Deliverance",
+    "Rev. Clarence H. Cobbs"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "status": "moved",
+   "verification": "Provisional",
+   "year": 1933,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "The First Church of Deliverance begins broadcasting services on radio station WSBC; its hour-long Midnight Broadcast pioneers the religious radio program format.",
+   "entities": [
+    "First Church of Deliverance",
+    "WSBC",
+    "Rev. Clarence H. Cobbs"
+   ],
+   "genre": "gospel",
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1935,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The First Church of Deliverance begins broadcasting services on WSBC in 1935; its hour-long Midnight Broadcast pioneers a format followed by many subsequent religious programs.",
+   "entities": [
+    "First Church of Deliverance",
+    "WSBC",
+    "Rev. Clarence H. Cobbs"
+   ],
+   "frequency": null,
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "station": "WSBC",
+   "verification": "Provisional",
+   "year": 1935,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "address": "4315 S. Wabash Avenue",
+   "date": null,
+   "description": "The First Church of Deliverance moves into a large new building designed by Walter T. Bailey; composer Kenneth Morris has a Hammond organ installed, giving the choir its distinctive sound.",
+   "entities": [
+    "First Church of Deliverance",
+    "Kenneth Morris",
+    "Walter T. Bailey"
+   ],
+   "genre": "gospel",
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1939,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Muddy Waters migrates from the Mississippi Delta (Clarksdale area) to Chicago, carrying Delta blues north in the Great Migration.",
+   "destination": "Chicago",
+   "entities": [
+    "Muddy Waters"
+   ],
+   "genre": "blues",
+   "origin": "Mississippi Delta",
+   "source": "https://picturingblackhistory.org/muddy-waters-aint-that-a-man/",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1943,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Muddy Waters begins recording for Aristocrat Records in 1947-1948 sessions, electrifying Delta blues into the Chicago blues sound.",
+   "entities": [
+    "Muddy Waters",
+    "Aristocrat Records"
+   ],
+   "genre": "blues",
+   "source": "https://www.ndinsider.com/story/news/2004/12/13/muddy-waters-creates-a-new-blues-sound-in-chicago/26135644007/",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1947,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Chess Records is established in Chicago as successor to Aristocrat Records (founded 1947), becoming the central label of Chicago electric blues and R&B.",
+   "entities": [
+    "Chess Records",
+    "Aristocrat Records",
+    "Leonard Chess",
+    "Phil Chess"
+   ],
+   "genre": "blues",
+   "source": "https://en.wikipedia.org/wiki/Chess_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1950,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Howlin' Wolf's first singles are issued in 1951: 'Moanin' at Midnight'/'How Many More Years' on Chess, while 'Riding in the Moonlight' sides go to Modern's RPM; in December 1951 Leonard Chess secures his contract.",
+   "entities": [
+    "Howlin' Wolf",
+    "Chess Records",
+    "Leonard Chess"
+   ],
+   "genre": "blues",
+   "source": "https://en.wikipedia.org/wiki/Howlin%27_Wolf",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1951,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Chess Records launches subsidiary Checker Records.",
+   "entities": [
+    "Chess Records",
+    "Checker Records"
+   ],
+   "genre": "blues",
+   "source": "https://en.wikipedia.org/wiki/Chess_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1952,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Howlin' Wolf relocates to Chicago in late 1952 at the urging of Leonard Chess, who secured his contract in December 1951; his first Chess singles date to 1951.",
+   "entities": [
+    "Howlin' Wolf",
+    "Chess Records",
+    "Leonard Chess"
+   ],
+   "genre": "blues",
+   "source": "https://www.nps.gov/locations/lowermsdeltaregion/howlin-wolf.htm",
+   "source_type": "government",
+   "verification": "Verified",
+   "year": 1952,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Vivian Carter and James Bracken found Vee-Jay Records in Gary, Indiana, with operations centered in Chicago; it becomes a leading Black-owned R&B and soul imprint.",
+   "entities": [
+    "Vee-Jay Records",
+    "Vivian Carter",
+    "James Bracken"
+   ],
+   "genre": "R&B",
+   "source": "https://www.smithsonianmag.com/history/the-black-record-label-that-introduced-the-beatles-to-america-180979606/",
+   "source_type": "institutional",
+   "verification": "Verified",
+   "year": 1953,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The First Church of Deliverance becomes the first Black church in the country to televise its services, carried on WLS-TV for 12 weeks.",
+   "entities": [
+    "First Church of Deliverance",
+    "WLS-TV"
+   ],
+   "genre": "gospel",
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1953,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The First Church of Deliverance becomes the first Black church in the country to televise its services, carried on WLS-TV for 12 weeks in 1953.",
+   "entities": [
+    "First Church of Deliverance",
+    "WLS-TV"
+   ],
+   "frequency": null,
+   "source": "https://en.wikipedia.org/wiki/Clarence_H._Cobbs",
+   "source_type": "reference",
+   "station": "WLS-TV",
+   "verification": "Provisional",
+   "year": 1953,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "Chess Records launches subsidiary Argo Records (later renamed Cadet).",
+   "entities": [
+    "Chess Records",
+    "Argo Records"
+   ],
+   "genre": "blues",
+   "source": "https://en.wikipedia.org/wiki/Chess_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1955,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "2120 S. Michigan Avenue",
+   "date": null,
+   "description": "Chess Records establishes its studios at 2120 S. Michigan Avenue (May 1957-1967), the address that becomes synonymous with Chicago electric blues.",
+   "entities": [
+    "Chess Records"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chess_Records",
+   "source_type": "reference",
+   "status": "opened",
+   "verification": "Provisional",
+   "year": 1957,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "The Impressions cut their first record, 'For Your Precious Love,' with Curtis Mayfield and Jerry Butler; Chicago soul's vocal-group era takes shape.",
+   "entities": [
+    "The Impressions",
+    "Curtis Mayfield",
+    "Jerry Butler"
+   ],
+   "genre": "soul",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/chicago-impressions-180958906/",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1958,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Sam Cooke founds SAR Records with J.W. Alexander and Roy Crain; the label folds after Cooke's death on December 11, 1964.",
+   "entities": [
+    "Sam Cooke",
+    "SAR Records",
+    "J.W. Alexander",
+    "Roy Crain"
+   ],
+   "genre": "soul",
+   "source": "https://en.wikipedia.org/wiki/SAR_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1961,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Major Lance's 'The Monkey Time,' written by Curtis Mayfield and produced by Carl Davis with arranger Johnny Pate, becomes Okeh's first hit single in 10 years: number 2 R&B, number 8 pop.",
+   "entities": [
+    "Major Lance",
+    "Curtis Mayfield",
+    "Carl Davis",
+    "Johnny Pate",
+    "Okeh Records"
+   ],
+   "genre": "soul",
+   "source": "https://music.fandom.com/wiki/Major_Lance",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1963,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Vee-Jay creates reissue imprints Oldies-45 and Oldies-33.",
+   "entities": [
+    "Vee-Jay Records",
+    "Oldies-45",
+    "Oldies-33"
+   ],
+   "genre": "R&B",
+   "source": "https://en.wikipedia.org/wiki/Oldies-45",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1963,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": "1963-04-01",
+   "description": "WVON launches after Leonard and Phil Chess buy WHFC 1450 AM, giving Chicago a Black-oriented soul and R&B radio powerhouse.",
+   "entities": [
+    "WVON",
+    "WHFC",
+    "Leonard Chess",
+    "Phil Chess"
+   ],
+   "genre": "soul",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "source_type": "government",
+   "verification": "Verified",
+   "year": 1963,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": "1963-04-01",
+   "description": "WVON launches on April 1, 1963 after Leonard and Phil Chess buy WHFC 1450 AM.",
+   "entities": [
+    "WVON",
+    "WHFC",
+    "Leonard Chess",
+    "Phil Chess"
+   ],
+   "frequency": "1450 AM",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "source_type": "government",
+   "station": "WVON",
+   "verification": "Verified",
+   "year": 1963,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "WVON's original 'Good Guys' lineup: Franklin McCarthy, E. Rodney Jones, Herb Kent, Wesley South and Pervis Spann.",
+   "entities": [
+    "WVON",
+    "Franklin McCarthy",
+    "E. Rodney Jones",
+    "Herb Kent",
+    "Wesley South",
+    "Pervis Spann"
+   ],
+   "frequency": "1450 AM",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "source_type": "government",
+   "station": "WVON",
+   "verification": "Verified",
+   "year": 1963,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "The Impressions' 'Keep On Pushing' becomes a top-10 hit, carrying gospel-rooted soul into the civil-rights era.",
+   "entities": [
+    "The Impressions",
+    "Curtis Mayfield"
+   ],
+   "genre": "soul",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/chicago-impressions-180958906/",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1964,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "2120 S. Michigan Avenue",
+   "date": null,
+   "description": "The Rolling Stones record at Chess Studios, 2120 S. Michigan Avenue, on June 10-11, 1964, returning November 8, 1964 and May 10, 1965; sessions yield 'It's All Over Now,' 'I Can't Be Satisfied,' and '2120 South Michigan Avenue.'",
+   "entities": [
+    "The Rolling Stones",
+    "Chess Records"
+   ],
+   "genre": "blues",
+   "source": "https://rollingstonesdata.com/articles/when-the-rolling-stones-recorded-at-chess-studios-chicago-1964/",
+   "source_type": "discography",
+   "verification": "Provisional",
+   "year": 1964,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "2120 S. Michigan Avenue",
+   "date": null,
+   "description": "The Rolling Stones record at Chess Studios, 2120 S. Michigan Avenue, on June 10-11, 1964, returning November 8, 1964 and May 10, 1965.",
+   "entities": [
+    "The Rolling Stones",
+    "Chess Records"
+   ],
+   "source": "https://rollingstonesdata.com/articles/when-the-rolling-stones-recorded-at-chess-studios-chicago-1964/",
+   "source_type": "discography",
+   "status": "active",
+   "verification": "Provisional",
+   "year": 1964,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Muhal Richard Abrams, Jodie Christian, Steve McCall and Phil Cohran found the Association for the Advancement of Creative Musicians (AACM) in Chicago, devoted to original music and musician self-determination.",
+   "entities": [
+    "Muhal Richard Abrams",
+    "Jodie Christian",
+    "Steve McCall",
+    "Phil Cohran",
+    "AACM"
+   ],
+   "genre": "jazz",
+   "source": "http://www.arts.gov/stories/jazz-moments/muhal-richard-abrams-founding-aacm",
+   "source_type": "government",
+   "verification": "Verified",
+   "year": 1965,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The Impressions' 'People Get Ready' becomes a civil-rights-era anthem; that same year the Wailers' recording of 'One Love' incorporates large portions of it, later released as 'One Love / People Get Ready' with Marley-Mayfield co-authorship.",
+   "entities": [
+    "The Impressions",
+    "Curtis Mayfield",
+    "Bob Marley",
+    "The Wailers"
+   ],
+   "genre": "soul",
+   "source": "https://www.CurtisMayfield.com/currents.html",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1965,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Under producer and A&R man Carl Davis, Brunswick Records begins recording Chicago-style soul with Jackie Wilson recording in Chicago, launching the Brunswick/Chicago soul era.",
+   "entities": [
+    "Carl Davis",
+    "Brunswick Records",
+    "Jackie Wilson"
+   ],
+   "genre": "soul",
+   "source": "https://en.wikipedia.org/wiki/Chicago_soul",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1966,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "320 E. 21st Street",
+   "date": null,
+   "description": "Chess Records launches the Cadet Concept imprint and moves its operations to 320 E. 21st Street.",
+   "entities": [
+    "Chess Records",
+    "Cadet Concept"
+   ],
+   "genre": "blues",
+   "source": "https://en.wikipedia.org/wiki/Chess_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1967,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "320 E. 21st Street",
+   "date": null,
+   "description": "Chess Records moves from 2120 S. Michigan Avenue to 320 E. 21st Street in 1967.",
+   "entities": [
+    "Chess Records"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chess_Records",
+   "source_type": "reference",
+   "status": "moved",
+   "verification": "Provisional",
+   "year": 1967,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Curtis Mayfield and Eddie Thomas found Curtom Records in Chicago in March 1968; the label closes in 1980.",
+   "entities": [
+    "Curtom Records",
+    "Curtis Mayfield",
+    "Eddie Thomas"
+   ],
+   "genre": "soul",
+   "source": "https://en.wikipedia.org/wiki/Curtom_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1968,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The Chi-Lites sign with Brunswick Records after meeting producer Carl Davis; their first charting song 'Give It Away' (US R&B top 10) is co-written by Eugene Record with Davis.",
+   "entities": [
+    "The Chi-Lites",
+    "Carl Davis",
+    "Brunswick Records",
+    "Eugene Record"
+   ],
+   "genre": "soul",
+   "source": "https://www.deejay.de/The_Chi_Lites_TOO_GOOD_TO_BE_FORGOTTEN_DEMREC974__993538",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1968,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "4719 South Parkway",
+   "date": null,
+   "description": "The Regal Theater closes in 1968.",
+   "entities": [
+    "Regal Theater"
+   ],
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf",
+   "source_type": "government",
+   "status": "closed",
+   "verification": "Verified",
+   "year": 1968,
+   "dataset": "venue_timeline"
+  },
+  {
+   "address": "8541 S. Stony Island Blvd.",
+   "date": null,
+   "description": "Curtom Records is headquartered at 8541 S. Stony Island Blvd. during its 1968-1980 run.",
+   "entities": [
+    "Curtom Records"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Curtom_Records",
+   "source_type": "reference",
+   "status": "active",
+   "verification": "Provisional",
+   "year": 1968,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Gramaphone Records opens in Chicago; by the 1980s it shifts toward house and DJ vinyl, becoming a key record source for Chicago DJs.",
+   "entities": [
+    "Gramaphone Records"
+   ],
+   "genre": "dance",
+   "source": "https://www.iowapublicradio.org/2021-11-10/digging-into-the-legacy-of-chicagos-gramaphone-records",
+   "source_type": "institutional",
+   "verification": "Provisional",
+   "year": 1969,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Syl Johnson's 'Is It Because I'm Black' on Chicago's Twinight Records climbs to number 11 on Billboard's R&B chart, becoming Twinight's biggest hit.",
+   "entities": [
+    "Syl Johnson",
+    "Twinight Records"
+   ],
+   "genre": "soul",
+   "source": "https://www.nprillinois.org/2022-02-06/syl-johnson-chicago-soul-singer-widely-sampled-in-hip-hop-is-dead-at-85",
+   "source_type": "institutional",
+   "verification": "Verified",
+   "year": 1969,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The Chi-Lites release 'Are You My Woman (Tell Me So)'; its horn intro is later sampled by Beyonce for the 2003 global hit 'Crazy in Love.'",
+   "entities": [
+    "The Chi-Lites",
+    "Eugene Record"
+   ],
+   "genre": "soul",
+   "source": "https://en.wikipedia.org/wiki/Crazy_in_Love_(Beyonce_Knowles_song)",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1970,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "423 E. 43rd Street",
+   "date": null,
+   "description": "The Checkerboard Lounge opens at 423 E. 43rd Street, a South Side blues anchor co-owned by Buddy Guy and L.C. Thurman.",
+   "entities": [
+    "Checkerboard Lounge",
+    "Buddy Guy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Checkerboard_Lounge",
+   "source_type": "reference",
+   "status": "opened",
+   "verification": "Provisional",
+   "year": 1972,
+   "dataset": "venue_timeline"
+  },
+  {
+   "address": "4719 South Parkway",
+   "date": null,
+   "description": "The Regal Theater is demolished in 1973.",
+   "entities": [
+    "Regal Theater"
+   ],
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf",
+   "source_type": "government",
+   "status": "demolished",
+   "verification": "Verified",
+   "year": 1973,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Sam Chatman coins and popularizes the term 'stepping' for Chicago's evolving bop dance tradition, the foundation of Chicago steppin'.",
+   "entities": [
+    "Sam Chatman"
+   ],
+   "genre": "dance",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1974,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "WKKC 89.3 begins steppers programming, giving Chicago stepping a radio home.",
+   "entities": [
+    "WKKC"
+   ],
+   "genre": "dance",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1975,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "WKKC 89.3 begins steppers programming in 1975.",
+   "entities": [
+    "WKKC"
+   ],
+   "frequency": "89.3 FM",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "station": "WKKC",
+   "verification": "Provisional",
+   "year": 1975,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "The Chi-Lites leave Brunswick for Mercury Records, recording 'Happy Being Lonely' (1976) and 'The Fantastic Chi-Lites' (1977) before reuniting with Carl Davis on Chi-Sound.",
+   "entities": [
+    "The Chi-Lites",
+    "Mercury Records",
+    "Carl Davis",
+    "Chi-Sound Records"
+   ],
+   "genre": "soul",
+   "source": "https://www.deejay.de/The_Chi_Lites_TOO_GOOD_TO_BE_FORGOTTEN_DEMREC974__993538",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1976,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "206 S. Jefferson Street",
+   "date": null,
+   "description": "The Warehouse relocates to 206 S. Jefferson Street; Frankie Knuckles' residency during the club's 1977-1982 period of significance makes it the birthplace of house music.",
+   "entities": [
+    "The Warehouse",
+    "Frankie Knuckles"
+   ],
+   "genre": "house",
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf",
+   "source_type": "government",
+   "verification": "Verified",
+   "year": 1977,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "206 S. Jefferson Street",
+   "date": null,
+   "description": "The Warehouse operates at 206 S. Jefferson Street with Frankie Knuckles as resident DJ; the city's landmark report defines 1977-1982 as its period of significance.",
+   "entities": [
+    "The Warehouse",
+    "Frankie Knuckles"
+   ],
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf",
+   "source_type": "government",
+   "status": "active",
+   "verification": "Verified",
+   "year": 1977,
+   "dataset": "venue_timeline"
+  },
+  {
+   "address": "206 S. Jefferson Street",
+   "date": null,
+   "description": "The Warehouse relocates in 1977 from 555 W. Adams to 206 S. Jefferson Street, per the city's announcement.",
+   "entities": [
+    "The Warehouse"
+   ],
+   "source": "http://chicago.gov/content/city/en/depts/dca/provdrs/attractions_eventsandexhibitions/news/2024/september/warehouse.html",
+   "source_type": "government",
+   "status": "moved",
+   "verification": "Verified",
+   "year": 1977,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Wax Trax opens its Chicago record store, an industrial and dance retail hub that remains on Lincoln Avenue until 1993.",
+   "entities": [
+    "Wax Trax!"
+   ],
+   "genre": "dance",
+   "source": "https://pt-br.ra.co/news/82855",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1978,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": "1979-07-12",
+   "description": "Disco Demolition Night at Comiskey Park: WLUP DJ Steve Dahl's anti-disco promotion ends in a riot and a forfeited game, a flashpoint in the disco backlash that pushes dance music underground toward house.",
+   "entities": [
+    "Steve Dahl",
+    "WLUP",
+    "Comiskey Park"
+   ],
+   "genre": "disco",
+   "source": "https://en.wikipedia.org/wiki/Disco_Demolition_Night",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1979,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "Comiskey Park",
+   "date": "1979-07-12",
+   "description": "Comiskey Park hosts Disco Demolition Night, the WLUP/Steve Dahl anti-disco promotion that ends in a riot and a forfeited White Sox game.",
+   "entities": [
+    "Comiskey Park",
+    "Steve Dahl",
+    "WLUP"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Disco_Demolition_Night",
+   "source_type": "reference",
+   "status": "event",
+   "verification": "Provisional",
+   "year": 1979,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": "1979-07-12",
+   "description": "WLUP DJ Steve Dahl promotes Disco Demolition Night at Comiskey Park on July 12, 1979, which ends in a riot and a forfeited game.",
+   "entities": [
+    "WLUP",
+    "Steve Dahl"
+   ],
+   "frequency": null,
+   "source": "https://en.wikipedia.org/wiki/Disco_Demolition_Night",
+   "source_type": "reference",
+   "station": "WLUP",
+   "verification": "Provisional",
+   "year": 1979,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "Curtom Records closes, ending the Mayfield-Thomas label's 12-year run.",
+   "entities": [
+    "Curtom Records"
+   ],
+   "genre": "soul",
+   "source": "https://en.wikipedia.org/wiki/Curtom_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1980,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "The Chi-Lites reunite with Carl Davis on his Chi-Sound label for 'Heavenly Body' (1980) and 'Me And You' (1981).",
+   "entities": [
+    "The Chi-Lites",
+    "Carl Davis",
+    "Chi-Sound Records"
+   ],
+   "genre": "soul",
+   "source": "https://www.deejay.de/The_Chi_Lites_TOO_GOOD_TO_BE_FORGOTTEN_DEMREC974__993538",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1981,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "1632 S. Indiana Ave. (disputed; also reported as 326 N. Michigan Ave.)",
+   "date": null,
+   "description": "The Music Box opens with Ron Hardy as resident DJ, the harder-edged counterpart to the Warehouse in Chicago's club network. The address is reported as 1632 S. Indiana Ave. in oral histories versus 326 N. Michigan Ave. in secondary references; treated as disputed.",
+   "entities": [
+    "Music Box",
+    "Ron Hardy"
+   ],
+   "genre": "house",
+   "source": "https://www.iheart.com/podcast/1119-the-history-of-the-worlds-117401452/episode/warehouse-music-box-chicago-119671688/",
+   "source_type": "oral_history",
+   "verification": "Disputed",
+   "year": 1983,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "1015 N. Halsted Street",
+   "date": null,
+   "description": "Frankie Knuckles opens the Power Plant at 1015 N. Halsted Street after the Warehouse era.",
+   "entities": [
+    "Frankie Knuckles",
+    "Power Plant"
+   ],
+   "genre": "house",
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf",
+   "source_type": "government",
+   "verification": "Verified",
+   "year": 1983,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "1015 N. Halsted Street",
+   "date": null,
+   "description": "Frankie Knuckles opens the Power Plant at 1015 N. Halsted Street in 1983.",
+   "entities": [
+    "Power Plant",
+    "Frankie Knuckles"
+   ],
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf",
+   "source_type": "government",
+   "status": "opened",
+   "verification": "Verified",
+   "year": 1983,
+   "dataset": "venue_timeline"
+  },
+  {
+   "address": "1632 S. Indiana Ave. (disputed; also reported as 326 N. Michigan Ave.)",
+   "date": null,
+   "description": "The Music Box opens in February 1983 with Ron Hardy as resident DJ. Oral histories place it at 1632 S. Indiana Ave.; secondary references cite 326 N. Michigan Ave.; the address is disputed.",
+   "entities": [
+    "Music Box",
+    "Ron Hardy"
+   ],
+   "source": "https://www.iheart.com/podcast/1119-the-history-of-the-worlds-117401452/episode/warehouse-music-box-chicago-119671688/",
+   "source_type": "oral_history",
+   "status": "opened",
+   "verification": "Disputed",
+   "year": 1983,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "The Hot Mix 5 DJs broadcast Chicago house on WBMX in the 1980s, reaching a large audience and carrying the club sound to radio.",
+   "entities": [
+    "Hot Mix 5",
+    "WBMX"
+   ],
+   "frequency": null,
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf",
+   "source_type": "government",
+   "station": "WBMX",
+   "verification": "Verified",
+   "year": 1983,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "Jesse Saunders and Vince Lawrence release 'On & On,' widely considered the first Chicago house record pressed to vinyl.",
+   "entities": [
+    "Jesse Saunders",
+    "Vince Lawrence"
+   ],
+   "genre": "house",
+   "source": "https://www.knkx.org/2023-03-01/from-the-warehouse-to-the-world-chicago-and-the-birth-of-house-music",
+   "source_type": "institutional",
+   "verification": "Verified",
+   "year": 1984,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Trax Records is founded; sources disagree on the founding year (late 1984 vs 1985) and on founder credits, so both are marked disputed.",
+   "entities": [
+    "Trax Records",
+    "Larry Sherman"
+   ],
+   "genre": "house",
+   "source": "https://djmag.com/news/legendary-house-label-trax-records-co-founder-larry-sherman-has-died-aged-70",
+   "source_type": "journalism",
+   "verification": "Disputed",
+   "year": 1984,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "DJ International Records is founded by Rocky Jones and Benji Espinoza, issuing key releases by Knuckles, Hardy, Farley, Hurley, Jefferson and Fast Eddie.",
+   "entities": [
+    "DJ International Records",
+    "Rocky Jones",
+    "Benji Espinoza"
+   ],
+   "genre": "house",
+   "source": "https://en.wikipedia.org/wiki/DJ_International_Records",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1985,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "423 E. 43rd Street",
+   "date": null,
+   "description": "Buddy Guy leaves Checkerboard Lounge ownership in 1985.",
+   "entities": [
+    "Checkerboard Lounge",
+    "Buddy Guy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Checkerboard_Lounge",
+   "source_type": "reference",
+   "status": "ownership_change",
+   "verification": "Provisional",
+   "year": 1985,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Farley 'Jackmaster' Funk featuring gospel singer Darryl Pandy releases 'Love Can't Turn Around,' which becomes a UK Top 10 hit.",
+   "entities": [
+    "Farley 'Jackmaster' Funk",
+    "Darryl Pandy"
+   ],
+   "genre": "house",
+   "source": "https://www.knkx.org/2023-03-01/from-the-warehouse-to-the-world-chicago-and-the-birth-of-house-music",
+   "source_type": "institutional",
+   "verification": "Verified",
+   "year": 1986,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "WVON runs a music-centered soul and R&B format through the 1960s and switches to African-American-oriented talk programming in 1986.",
+   "entities": [
+    "WVON"
+   ],
+   "frequency": "1450 AM",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "source_type": "government",
+   "station": "WVON",
+   "verification": "Verified",
+   "year": 1986,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "Steve 'Silk' Hurley's 'Jack Your Body' reaches number 1 on the UK singles chart.",
+   "entities": [
+    "Steve 'Silk' Hurley"
+   ],
+   "genre": "house",
+   "source": "https://nightlife.fandom.com/wiki/House",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1987,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Chicago house and acid house feed the UK's 1988-1989 Second Summer of Love, through Chicago recordings by Phuture, Frankie Knuckles, Marshall Jefferson, Fingers Inc., Steve 'Silk' Hurley and others.",
+   "entities": [
+    "Phuture",
+    "Frankie Knuckles",
+    "Marshall Jefferson"
+   ],
+   "genre": "house",
+   "source": "https://dubiks.com/2018/07/04/summer-of-love-3cd-mix-from-paul-oakenfold/",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1988,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "WVAZ 102.7 adds Saturday-night steppers programming, expanding stepping's radio footprint.",
+   "entities": [
+    "WVAZ"
+   ],
+   "genre": "dance",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 1989,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "WVAZ 102.7 adds Saturday-night steppers music in 1989.",
+   "entities": [
+    "WVAZ"
+   ],
+   "frequency": "102.7 FM",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "station": "WVAZ",
+   "verification": "Provisional",
+   "year": 1989,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "Common releases debut album 'Can I Borrow a Dollar?,' co-produced substantially by No I.D., anchoring Chicago's alternative hip-hop lineage.",
+   "entities": [
+    "Common",
+    "No I.D."
+   ],
+   "genre": "hip-hop",
+   "source": "https://ucsdguardian.org/2019/01/24/chicago-hip-hop/",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1992,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "Common releases 'Resurrection,' a landmark of Chicago conscious hip-hop.",
+   "entities": [
+    "Common"
+   ],
+   "genre": "hip-hop",
+   "source": "https://ucsdguardian.org/2019/01/24/chicago-hip-hop/",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 1994,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": "2003-09-30",
+   "description": "Kanye West releases debut single 'Through the Wire,' which prominently samples Chaka Khan's 1985 'Through the Fire' in his signature chipmunk-soul style; it is the lead single from 'The College Dropout' (2004).",
+   "entities": [
+    "Kanye West",
+    "Chaka Khan"
+   ],
+   "genre": "hip-hop",
+   "source": "https://en.wikipedia.org/wiki/Through_the_Wire",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 2003,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "R. Kelly's 'Step in the Name of Love' helps nationalize Chicago stepping.",
+   "entities": [
+    "R. Kelly"
+   ],
+   "genre": "dance",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 2003,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "5201 S. Harper Court",
+   "date": null,
+   "description": "The Checkerboard Lounge moves in 2003 to 5201 S. Harper Court in Hyde Park.",
+   "entities": [
+    "Checkerboard Lounge"
+   ],
+   "source": "https://news.pollstar.com/2005/11/21/chicago-back-in-check/",
+   "source_type": "journalism",
+   "status": "moved",
+   "verification": "Provisional",
+   "year": 2003,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Twista featuring Kanye West and Jamie Foxx: 'Slow Jamz' reaches Billboard number 1, described as the first Billboard number 1 by a Chicago rapper.",
+   "entities": [
+    "Twista",
+    "Kanye West",
+    "Jamie Foxx"
+   ],
+   "genre": "hip-hop",
+   "source": "https://www.kwit.org/2023-07-24/how-chicago-rap-became-a-home-for-controversial-visionary-stars",
+   "source_type": "journalism",
+   "verification": "Provisional",
+   "year": 2004,
+   "dataset": "genre_timeline"
+  },
+  {
+   "date": null,
+   "description": "R. Kelly's 'Happy People' further nationalizes the Chicago stepping dance.",
+   "entities": [
+    "R. Kelly"
+   ],
+   "genre": "dance",
+   "source": "https://en.wikipedia.org/wiki/Chicago_stepping",
+   "source_type": "reference",
+   "verification": "Provisional",
+   "year": 2004,
+   "dataset": "genre_timeline"
+  },
+  {
+   "address": "700 S. Wabash Avenue",
+   "date": null,
+   "description": "Buddy Guy's Legends moves in 2010 to 700 S. Wabash Avenue.",
+   "entities": [
+    "Buddy Guy's Legends",
+    "Buddy Guy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Buddy_Guy%27s_Legends",
+   "source_type": "reference",
+   "status": "moved",
+   "verification": "Provisional",
+   "year": 2010,
+   "dataset": "venue_timeline"
+  },
+  {
+   "address": "5201 S. Harper Court",
+   "date": null,
+   "description": "The Checkerboard Lounge closes in 2015.",
+   "entities": [
+    "Checkerboard Lounge"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Checkerboard_Lounge",
+   "source_type": "reference",
+   "status": "closed",
+   "verification": "Provisional",
+   "year": 2015,
+   "dataset": "venue_timeline"
+  },
+  {
+   "address": "754 S. Wabash Avenue",
+   "date": null,
+   "description": "Buddy Guy's Legends operates at its first location, 754 S. Wabash Avenue. Opening year not confirmed in sources reviewed; marked unresolved.",
+   "entities": [
+    "Buddy Guy's Legends",
+    "Buddy Guy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Buddy_Guy%27s_Legends",
+   "source_type": "reference",
+   "status": "active",
+   "verification": "Unresolved",
+   "year": null,
+   "dataset": "venue_timeline"
+  },
+  {
+   "date": null,
+   "description": "Later WVON personalities include Don Cornelius and Richard Pegue.",
+   "entities": [
+    "WVON",
+    "Don Cornelius",
+    "Richard Pegue"
+   ],
+   "frequency": "1450 AM",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "source_type": "government",
+   "station": "WVON",
+   "verification": "Verified",
+   "year": null,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "WVON's history is documented in a Loyola University Chicago dissertation, a key academic source on the station.",
+   "entities": [
+    "WVON"
+   ],
+   "frequency": "1450 AM",
+   "source": "https://ecommons.luc.edu/luc_diss/688/",
+   "source_type": "academic",
+   "station": "WVON",
+   "verification": "Verified",
+   "year": null,
+   "dataset": "radio_ecosystem"
+  },
+  {
+   "date": null,
+   "description": "WHPK hosts the Common-Kanye West rap faceoff when Kanye is 19, before either is a star; the station is part of Chicago hip-hop's origin network.",
+   "entities": [
+    "WHPK",
+    "Common",
+    "Kanye West"
+   ],
+   "frequency": null,
+   "source": "http://news.uchicago.edu/story/whpk-hosted-commonkanye-faceoff-they-were-stars",
+   "source_type": "institutional",
+   "station": "WHPK",
+   "verification": "Provisional",
+   "year": null,
+   "dataset": "radio_ecosystem"
+  }
+ ]
+}

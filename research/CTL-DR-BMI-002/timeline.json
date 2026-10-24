@@ -1,0 +1,1382 @@
+{
+  "project": "CTL-DR-BMI-002",
+  "event_count": 172,
+  "events": [
+    {
+      "date": "1907",
+      "event": "Green Mill opens as Pop Morse's Roadhouse, 4802 N. Broadway (Uptown)",
+      "source": "secondary",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1919",
+      "event": "Sutherland Hotel building completed as General Hospital #32 (military hospital); decommissioned May 1919",
+      "source": "NPS nomination",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1925",
+      "event": "building purchased, rehabilitated, and named the Sutherland (for William J. Sutherland)",
+      "source": "NPS nomination",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1928-02",
+      "event": "Regal Theater opens, 4719 South Parkway, Bronzeville",
+      "source": "City of Chicago landmark report",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1928",
+      "event": "Grand Terrace Cafe opens, 3955 South Parkway Blvd",
+      "source": "UChicago exhibit",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1928",
+      "event": "Savoy Ballroom era as jazz center begins (1928–1948 per UChicago exhibit)",
+      "source": "UChicago exhibit",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1931",
+      "event": "National Theater Corporation sells Regal to Balaban & Katz",
+      "source": "City landmark report",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1933-02-28",
+      "event": "Club DeLisa opens, 5521 S. State St.",
+      "source": "African American Registry",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1939",
+      "event": "Ken Blewett becomes Regal manager (first Black B&K house manager; to 1959)",
+      "source": "City landmark report",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1941",
+      "event": "original Club DeLisa building burns; New Club DeLisa built nearby",
+      "source": "Savad/Lee-photo research",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1942-04",
+      "event": "Rhumboogie Café opens, 343 E. 55th St., owned by Charlie Glenn and Joe Louis",
+      "source": "Wikipedia",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1942-08",
+      "event": "T-Bone Walker first performs at Rhumboogie (Milt Larkin band residency)",
+      "source": "Wikipedia",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1944-10",
+      "event": "Rhumboogie Recording Company records T-Bone Walker (house band led by Marl Young); distributed by Mercury",
+      "source": "Wikipedia",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1945-12-31",
+      "event": "fire closes Rhumboogie Café",
+      "source": "Wikipedia",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1946-06",
+      "event": "Rhumboogie reopens",
+      "source": "Wikipedia",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1947-05",
+      "event": "Rhumboogie closes for good",
+      "source": "Wikipedia",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1949 (late)",
+      "event": "Theresa's Lounge opens, 4801 S. Indiana Ave. basement, by Theresa Needham",
+      "source": "Blues Roadhouse",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1952",
+      "event": "Sutherland Hotel integrated under new ownership; Black manager Earl Clark Ormes",
+      "source": "NPS nomination",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1953",
+      "event": "Herman Roberts opens the Lucky Spot; Kitty Kat opens on 63rd St.",
+      "source": "HistoryMakers; Beachwood Reporter",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "~1954",
+      "event": "Roberts Show Club opens in converted taxicab garage; live music begins at Theresa's (singer Carl Jones brings band)",
+      "source": "HistoryMakers; Blues Roadhouse",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1954",
+      "event": "Savoy Ballroom era ends (per UChicago exhibit 1928–1948; Lindström map says 1927–1954)",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1956",
+      "event": "Sutherland Lounge advertised as \"Where the Stars and Celebrities Meet\"; Sun Ra plays Roberts Show Club (June 24)",
+      "source": "NPS nomination; setlist.fm",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1958-02-16",
+      "event": "Club DeLisa closes",
+      "source": "African American Registry",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1959-04-25",
+      "event": "Ray Charles at Roberts Show Club (w/ Redd Foxx)",
+      "source": "setlist.fm",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1960",
+      "event": "Roberts opens first Roberts Motel",
+      "source": "Congressional Record",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1961",
+      "event": "John Coltrane Quintet recorded live at Sutherland Hotel Lounge (dates disputed: Mar 1 vs. Oct 10–15)",
+      "source": "Discogs; organissimo",
+      "status": "Disputed",
+      "status_raw": "Disputed",
+      "track": "A"
+    },
+    {
+      "date": "1962-06",
+      "event": "Stevie Wonder's \"Fingertips\" recorded live at Regal (Motortown Revue)",
+      "source": "Alchetron/Wikipedia mirror",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1963",
+      "event": "Sutherland Lounge closes \"for repairs\"",
+      "source": "NPS nomination",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1963-06-06",
+      "event": "Miles Davis at Sutherland Lounge",
+      "source": "setlist.fm",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1964-02",
+      "event": "Sutherland Lounge closes again after brief reopening; jazz era ends",
+      "source": "NPS nomination",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1964-11",
+      "event": "B.B. King records \"Live at the Regal\"",
+      "source": "Alchetron/Wikipedia mirror",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1966",
+      "event": "Club DeLisa building reopens as \"The Club\"",
+      "source": "African American Registry",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1968",
+      "event": "Regal closes; Kingston Mines (theatre/café) opens",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1972",
+      "event": "Kingston Mines Café acquired by Doc Pellegrino; Checkerboard Lounge founded by L.C. Thurman & Buddy Guy, 423 E. 43rd St.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1973",
+      "event": "Regal Theater demolished",
+      "source": "Encyclopedia of Chicago",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1977",
+      "event": "The Warehouse opens at 206 S. Jefferson St.; Frankie Knuckles resident DJ",
+      "source": "City landmark report",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1979-04",
+      "event": "B.L.U.E.S. opens, 2519 N. Halsted",
+      "source": "Chicago Bar Project",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1981-11-22",
+      "event": "Muddy Waters + Jagger/Richards/Wood at Checkerboard Lounge",
+      "source": "On Air; Eric Alper",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1982",
+      "event": "The Warehouse closes; Ron Hardy era begins at rebranded Muzic Box; Kingston Mines moves to 2548 N. Halsted; Sutherland Hotel closes",
+      "source": "various",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1983",
+      "event": "Frankie Knuckles opens the Power Plant, 1015 N. Halsted; Lee's Unleaded Blues opens (7401 S. South Chicago Ave.); Muzic Box runs 1983–1988",
+      "source": "landmark report; SomerCor; Wikipedia",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1983",
+      "event": "Theresa's leaves 4801 S. Indiana; closes for good a few years later",
+      "source": "BluesWave",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1985",
+      "event": "Buddy Guy leaves Checkerboard; Green Mill poetry slam launches (first Uptown Poetry Slam July 25, 1986)",
+      "source": "Wikipedia; poets.org",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1986",
+      "event": "Knuckles leaves Power Plant for NYC (Def Mix); Dave Jemilo-era Green Mill restoration per lore",
+      "source": "landmark report; TikTok copy",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1987–1999",
+      "event": "B.L.U.E.S. Etcetera operates at 1122/1124 W. Belmont",
+      "source": "Chicago Bar Project",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "A"
+    },
+    {
+      "date": "1989",
+      "event": "Sutherland Hotel converted to affordable housing",
+      "source": "NPS nomination",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1992",
+      "event": "Avalon Theater renamed New Regal Theater (per architecture.org \"late 1980s\"; Chicago Landmark designation 1992-06-17); Theresa Needham dies",
+      "source": "architecture.org; BluesWave",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "2001",
+      "event": "Gerri's Palm Tavern shut down by the city; Stan Davis buys Lee's Unleaded Blues",
+      "source": "Daily Northwestern; Beachwood Reporter",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "2003",
+      "event": "Checkerboard closes (April, code violations), moves to 5201 S. Harper Court, Hyde Park (reopens Nov)",
+      "source": "Pollstar; GlobeSt",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2004-08-25",
+      "event": "Jefferson St. block renamed \"Frankie Knuckles Way\" (Frankie Knuckles Day)",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2011-05-04",
+      "event": "Sutherland Hotel listed on National Register of Historic Places",
+      "source": "NPS",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2012-07-10",
+      "event": "\"Live at the Checkerboard Lounge, Chicago 1981\" released",
+      "source": "Eric Alper",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2015",
+      "event": "Checkerboard closes after L.C. Thurman's death; Lee's Unleaded Blues closes",
+      "source": "Wikipedia; SomerCor",
+      "status": "Verified",
+      "status_raw": "Verified / Provisional",
+      "track": "A"
+    },
+    {
+      "date": "2018",
+      "event": "Berger acquires Lee's building; Doc Pellegrino dies (Kingston Mines to daughters Donna & Lisa)",
+      "source": "SomerCor; Wikipedia",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2020",
+      "event": "Kingston Mines and B.L.U.E.S. close (pandemic)",
+      "source": "Wikipedia; RattleInAustin",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2022-12",
+      "event": "Warehouse building sold to two lawyers; listed for redevelopment",
+      "source": "DJ DiscJockey",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2023-06-21",
+      "event": "The Warehouse designated a Chicago Landmark",
+      "source": "City Council; Urbanize Chicago",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "2024",
+      "event": "Lee's Unleaded Blues reopens",
+      "source": "Tripadvisor",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "A"
+    },
+    {
+      "date": "1916",
+      "event": "Brunswick label founded by Brunswick-Balke-Collender piano makers",
+      "source": "donaldclarkemusicbox.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1947",
+      "event": "Leonard Chess buys a stake in Aristocrat Records",
+      "source": "Wikipedia (Chess Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1950",
+      "event": "Chess Records founded in Chicago by Leonard and Phil Chess (renamed from Aristocrat); Chance Records founded in Chicago by Art Sheridan",
+      "source": "Wikipedia (Chess Records); Wikipedia (Chance Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1952",
+      "event": "Checker Records started as Chess subsidiary; Parrot Records founded in Chicago by DJ Al Benson",
+      "source": "Wikipedia (Checker Records); Wikipedia (Parrot Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1953",
+      "event": "Vee-Jay Records founded in Gary, Indiana, by Vivian Carter and James C. Bracken; Arc Music (BMI) publishing set up by Leonard Chess and Gene Goodman; Delmar Records founded in St. Louis by Bob Koester",
+      "source": "Wikipedia (Vee-Jay Records); Wikipedia (Chess Records); discogs.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1954",
+      "event": "Chance Records closes (end of year); Art Sheridan becomes a Vee-Jay financial backer; Vee-Jay's earliest recordings cut at Chance's Chicago studio",
+      "source": "Wikipedia (Chance Records); blog.history.in.gov",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1954–55",
+      "event": "Vee-Jay buys downtown Chicago offices at 2129 S. Michigan Avenue (\"Record Row\"); the El Dorados give Vee-Jay its first national pop-chart hit",
+      "source": "madeinchicagomuseum.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1955",
+      "event": "Ewart Abner leaves Chance to join Vee-Jay as general manager (Wikipedia: 1955; Smithsonian: 1954",
+      "source": "disputed); Chess launches jazz/pop label Marterry, quickly renamed Argo — Wikipedia (Vee-Jay Records); Wikipedia (Argo Records) [Disputed on Abner year; Verified on Argo]",
+      "status": "Unresolved",
+      "status_raw": null,
+      "track": "B"
+    },
+    {
+      "date": "1956",
+      "event": "Cobra Records begins operating (through 1959); Chess moves to 2120 S. Michigan Avenue (May 1957 per Chicago landmark publication",
+      "source": "the commonly cited move year is 1957; one source says 1956) — alchetron.com; Wikipedia (Chess Records) [Provisional/Disputed on exact month-year of move]",
+      "status": "Unresolved",
+      "status_raw": null,
+      "track": "B"
+    },
+    {
+      "date": "1957",
+      "event": "Brunswick's R&B era begins with Jackie Wilson's \"Reet Petite\"; Nat Tarnopol joins as A&R head",
+      "source": "Wikipedia (Brunswick Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1958",
+      "event": "Koester moves Delmark to Chicago; Vee-Jay starts its jazz line under Sid McCoy; Jerry Butler & the Impressions' \"For Your Precious Love\" crosses over",
+      "source": "jazztimes.com; ipm.org; WCMU/NPR",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1960",
+      "event": "Curtom Publishing formed by Curtis Mayfield and Eddie Thomas (Jerry Butler silent partner)",
+      "source": "thestrangebrew.co.uk",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1962",
+      "event": "Gene Chandler's \"Duke of Earl\" released on Vee-Jay; tops pop and R&B charts",
+      "source": "Cook County Resolution 18-6430; alchetron.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1963",
+      "event": "Vee-Jay moves offices to Los Angeles (label leadership shakeup); Beatles licensing via EMI",
+      "source": "faroutmagazine.co.uk; groovespin.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1964",
+      "event": "Vee-Jay sells ~2.6 million Beatles singles in one month (Vee-Jay + Tollie)",
+      "source": "groovespin.com; theartsdesk.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1965",
+      "event": "Argo renamed Cadet Records; the Brackens buy Vee-Jay back and return it to Chicago, resources exhausted",
+      "source": "Wikipedia (Cadet Records); faroutmagazine.co.uk",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1966",
+      "event": "Jackie Wilson comeback \"Whispers\" produced by Carl Davis; Davis becomes Brunswick VP of A&R with a new Michigan Avenue studio; Vee-Jay files for bankruptcy (May vs August",
+      "source": "disputed), ~$3M in debt — Wikipedia (Nat Tarnopol); Wikipedia (Vee-Jay Records); NPR/WCMU",
+      "status": "Disputed",
+      "status_raw": "Disputed on month",
+      "track": "B"
+    },
+    {
+      "date": "1967",
+      "event": "Vee-Jay assets bought by Betty Chiappetta and Randy Wood, renamed Vee-Jay International; Twinight Records founded in Chicago by Howard Bedno and Peter Wright (later + E. Rodney Jones); Chess relocates to 320 E. 21st Street",
+      "source": "Wikipedia (Vee-Jay Records); Wikipedia (Twinight Records); Wikipedia (Chess Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1968",
+      "event": "Curtom Records founded in Chicago by Curtis Mayfield and Eddie Thomas",
+      "source": "Wikipedia (Curtom Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1969",
+      "event": "Dakar Records founded by Carl Davis; Chess brothers sell to GRT for $6.5M (early 1969); Leonard Chess dies of a heart attack, age 52 (October); Syl Johnson's \"Is It Because I'm Black\" on Twinight",
+      "source": "Wikipedia (Brunswick Records); Wikipedia (Chess Records); publicradioeast.org",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1971",
+      "event": "Checker discontinued after GRT consolidation; Cadet artists moved to Chess",
+      "source": "Wikipedia (Checker Records); Wikipedia (Cadet Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1972",
+      "event": "Dakar moves under Brunswick distribution (January); GRT folds Chess into Janus; \"My Ding-A-Ling\" becomes Chess's only No. 1 pop record",
+      "source": "Wikipedia (Brunswick Records); tsimon.com",
+      "status": "Provisional",
+      "status_raw": "Provisional on Janus detail",
+      "track": "B"
+    },
+    {
+      "date": "1974",
+      "event": "Cadet stops releasing records",
+      "source": "Wikipedia (Cadet Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1975",
+      "event": "GRT sells Chess remains to All Platinum Records",
+      "source": "tsimon.com; noise11.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1976",
+      "event": "Dakar folds; Carl Davis founds Chi-Sound Records",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1978",
+      "event": "Chi-Sound's Gene Chandler \"Get Down\" is a major hit",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1980",
+      "event": "Curtom defunct",
+      "source": "Wikipedia (Curtom Records)",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1981",
+      "event": "Chi-Sound's 20th Century Records distribution deal ends",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1982",
+      "event": "Brunswick stops producing new product (150+ Billboard-charted singles)",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1985",
+      "event": "MCA acquires rights to the Chess catalog",
+      "source": "tsimon.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1990",
+      "event": "Chameleon Music Group's Daniel Pritzker buys VJ International from Chiapetta; 2120 S. Michigan designated a Chicago Landmark (May 16)",
+      "source": "groovespin.com; Wikipedia (Chess Records) [Provisional on Chameleon; Verified on landmark]",
+      "status": "Unresolved",
+      "status_raw": null,
+      "track": "B"
+    },
+    {
+      "date": "1993",
+      "event": "Marie Dixon (Willie Dixon's widow) purchases 2120 S. Michigan",
+      "source": "Wikipedia (Chess Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1995",
+      "event": "Brunswick revived by Paul and Mara Tarnopol",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "1997",
+      "event": "Blues Heaven Foundation museum opens at 2120 S. Michigan",
+      "source": "Wikipedia (Chess Records)",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1998",
+      "event": "Vee-Jay catalog licensing deal with Rhino Records (Michele Tayler)",
+      "source": "groovespin.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "2012",
+      "event": "Carl Davis dies (August 9), age 77",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "2016",
+      "event": "Phil Chess dies (October 19), age 95",
+      "source": "NPR/KRVS",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "2018",
+      "event": "Delmark sold by Koester; becomes Delmark Records LLC",
+      "source": "discogs.com",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "B"
+    },
+    {
+      "date": "2021",
+      "event": "Bob Koester dies (May 12), age 88",
+      "source": "americanbluesscene.com; jazztimes.com",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "B"
+    },
+    {
+      "date": "1962",
+      "event": "Gordon McLendon buys the station that becomes WYNR (1390 AM), drops foreign-language programming for an all-Black format; announcers include Yvonne Daniels",
+      "source": "WGRB station history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1963-04-01",
+      "event": "WVON launches on 1450 AM (ex-WHFC, Cicero), bought by Leonard and Phil Chess; \"The Voice of the Negro\"; original Good Guys on air",
+      "source": "Congressional Record; IL HR0201",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1969",
+      "event": "Leonard Chess dies; WVON sold to Globetrotter Communications (George Gillette, Potter Palmer)",
+      "source": "Congressional Record",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1973",
+      "event": "Yvonne Daniels becomes the first female air personality at WLS",
+      "source": "aircheck-archivist biographies",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "C"
+    },
+    {
+      "date": "1974",
+      "event": "102.7 FM takes WBMX call letters (\"Black Music EXperience\"), urban contemporary format",
+      "source": "WVAZ history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1975-02",
+      "event": "Globetrotter buys WNUS AM-FM for $3,550,000; WVON moves 1450→1390; 107.5 FM becomes WGCI with a disco format (\"Studio 107\")",
+      "source": "WGCI-FM/WGRB histories",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1977",
+      "event": "The Warehouse opens at 206 S. Jefferson (Robert Williams); Frankie Knuckles begins residency",
+      "source": "Landmark report",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1977",
+      "event": "Combined Communications buys Globetrotter (merges with Gannett 1978)",
+      "source": "WGCI-FM history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1979-07-12",
+      "event": "Disco Demolition Night at Comiskey Park (rock DJ Steve Dahl's promotion turns a double-header into a riot)",
+      "source": "KTTZ/NPR obituary",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1979-08",
+      "event": "WXOL premieres on 1450 AM (Midway Broadcasting: Wesley South + Pervis Spann)",
+      "source": "Congressional Record",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1980",
+      "event": "WGCI shifts from disco to urban contemporary",
+      "source": "WGCI-FM history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1981",
+      "event": "Lee Michaels assembles the Hot Mix 5 on WBMX (\"Saturday Night Live, Ain't No Jive\")",
+      "source": "Hot Mix 5 history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1982",
+      "event": "The Warehouse closes (period of significance ends); Knuckles departs; \"Your Love\" tapes begin circulating among Chicago DJs",
+      "source": "Landmark report; LoC Registry notes",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1983",
+      "event": "Music Box opens with Ron Hardy as resident DJ; AM 1390 flips call letters to WGCI; Knuckles opens the Power Plant",
+      "source": "multiple histories",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1983-10-03",
+      "event": "AM 1390 call-sign change to WGCI",
+      "source": "WGRB history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1984",
+      "event": "Jesse Saunders & Vince Lawrence release \"On and On\" (Jes Say); Trax Records founded (late 1984, Sherman/Saunders, Lawrence's design/signings); Scott Silz leaves Hot Mix 5, replaced by Julian Perez",
+      "source": "RA; GO BANG!; Hot Mix 5 history",
+      "status": "Verified",
+      "status_raw": "Verified/Provisional",
+      "track": "C"
+    },
+    {
+      "date": "1985",
+      "event": "DJ International Records founded (Rocky Jones, Benji Espinoza); debut \"Music Is the Key\" (J.M. Silk/Steve \"Silk\" Hurley)",
+      "source": "DJ Mag; DJI history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1986-04",
+      "event": "Jamie Principle's \"Your Love\" released on Persona Records",
+      "source": "LoC Registry notes",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1986-06",
+      "event": "Marshall Jefferson's \"Move Your Body\" released (label attribution disputed: Trax vs. DJ International)",
+      "source": "\"Move Your Body\" history",
+      "status": "Disputed",
+      "status_raw": "Disputed",
+      "track": "C"
+    },
+    {
+      "date": "1986",
+      "event": "Mr. Fingers (Larry Heard) \"Can You Feel It\" on Trax; \"The House Sound of Chicago\" comp on DJ International; Farley \"Jackmaster\" Funk's \"Love Can't Turn Around\"; WVON flips to Black talk format; three Hot Mix 5 members defect to WGCI's \"Jackmasters\" (July)",
+      "source": "multiple sources [Verified, except defect story: Provisional]",
+      "status": "Unresolved",
+      "status_raw": null,
+      "track": "C"
+    },
+    {
+      "date": "1987",
+      "event": "Phuture's \"Acid Tracks\" on Trax; Music Box closes (after-hours ordinance); first DJ International UK/European house tour (March); Knuckles's \"Your Love\" version on Trax",
+      "source": "multiple sources",
+      "status": "Verified",
+      "status_raw": "Verified/Provisional",
+      "track": "C"
+    },
+    {
+      "date": "1987-02",
+      "event": "WGCI cancels the \"Jackmasters\" program",
+      "source": "aircheck-archivist biography",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "C"
+    },
+    {
+      "date": "1988",
+      "event": "Fingers Inc. *Another Side* (first long-form house LP, per biographies); WBMX sold ($27M); 1988-10-18: 102.7 FM becomes WVAZ \"V103\" (urban AC)",
+      "source": "WVAZ history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1989-01-16",
+      "event": "AM 1390 debuts African-American talk format (WGCI-FM stays urban contemporary)",
+      "source": "WGRB history",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1991",
+      "event": "Disputed death year for Ron Hardy in some sources (Wikipedia: March 2, 1992) —",
+      "source": "",
+      "status": "Disputed",
+      "status_raw": "Disputed",
+      "track": "C"
+    },
+    {
+      "date": "1992-03-02",
+      "event": "Ron Hardy dies (AIDS-related), per Wikipedia —",
+      "source": "",
+      "status": "Disputed",
+      "status_raw": "Disputed on year",
+      "track": "C"
+    },
+    {
+      "date": "1997",
+      "event": "Knuckles wins the first Grammy for Remixer of the Year, Non-Classical",
+      "source": "Landmark report",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2004-08-25",
+      "event": "\"Frankie Knuckles Way\" dedicated; Frankie Knuckles Day (backed by State Sen. Barack Obama)",
+      "source": "Landmark report",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2006",
+      "event": "Rachael Cain revives/takes over Trax",
+      "source": "DJ Mag; 5 Mag",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2014-03-31",
+      "event": "Frankie Knuckles dies, age 59",
+      "source": "SPIN",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2016-10-22",
+      "event": "Herb Kent dies, age 88, hours after his final broadcast",
+      "source": "Ebony; Final Call",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2020-04-09",
+      "event": "Larry Sherman dies, age 70",
+      "source": "DJ Mag; Trax statement",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2023-06-21",
+      "event": "The Warehouse designated a Chicago Landmark",
+      "source": "city records; Wikipedia",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2024-10-05",
+      "event": "Warehouse landmark dedication block party",
+      "source": "city press release",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "2026",
+      "event": "\"Your Love\" (Principle 1986; Knuckles 1987) added to the National Recording Registry",
+      "source": "5 Mag/LoC",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "C"
+    },
+    {
+      "date": "1890–91",
+      "event": "Pilgrim building constructed as Adler & Sullivan synagogue",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1916",
+      "event": "Thomas A. Dorsey moves to Chicago",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1920 / 1922",
+      "event": "Pilgrim Baptist Church occupies the building",
+      "source": "",
+      "status": "Disputed",
+      "status_raw": "Disputed, ±2 years",
+      "track": "D"
+    },
+    {
+      "date": "1929",
+      "event": "First Church of Deliverance founded by Rev. Clarence H. Cobbs; Dorsey works solely in religious music from this year",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1931",
+      "event": "Rose Records reportedly founded as Rose Radio by Aaron Rosenbloom",
+      "source": "",
+      "status": "Unresolved",
+      "status_raw": "Unresolved",
+      "track": "D"
+    },
+    {
+      "date": "1932",
+      "event": "Dorsey becomes Pilgrim's choral director (Verified, through late 1970s); Dorsey House of Music established (Provisional); NCGCC founded per some sources",
+      "source": "",
+      "status": "Disputed",
+      "status_raw": "Disputed",
+      "track": "D"
+    },
+    {
+      "date": "1933",
+      "event": "Martin-Frye Quartet organized (Verified); NCGCC founded per other sources",
+      "source": "",
+      "status": "Disputed",
+      "status_raw": "Disputed",
+      "track": "D"
+    },
+    {
+      "date": "1934",
+      "event": "First Church of Deliverance begins Sunday radio broadcasts (Verified); Morris performs at Chicago World's Fair, relocates to Chicago",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1935",
+      "event": "\"Midnight Broadcast\" hour-long program on WSBC",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1936",
+      "event": "Martin-Frye Quartet becomes the Roberta Martin Singers",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1937",
+      "event": "Rev. Cobbs privately funds printing of Kenneth Morris's \"Heaven Bells\"",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1939",
+      "event": "Roberta Martin Studio of Music founded (Provisional); electric organ introduced at First Church after its building move",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1940",
+      "event": "Martin and Morris Music Company founded by Sallie Martin and Kenneth Morris (Verified); Morris arranges/publishes \"Just a Closer Walk with Thee\" (Provisional); Sallie Martin Singers formed",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1943",
+      "event": "Muddy Waters moves to Chicago; postwar electric blues takes shape",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1947",
+      "event": "Little Walter's first released recordings on Ora Nelle (Provisional); Morris accompanies Mahalia Jackson on \"Move On Up a Little Higher\"",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1953",
+      "event": "Vee-Jay founded by Vivian Carter and James Bracken (Verified); First Church televises services on WLS-TV",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1958",
+      "event": "WGCI first airs as WFMQ (Verified); Koester moves to Chicago",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1959",
+      "event": "Koester takes over Seymour's Jazz Mart, renames it Jazz Record Mart",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1962",
+      "event": "Jazz Record Mart brand dates to this year",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1968",
+      "event": "Curtom Records founded by Curtis Mayfield and Eddie Thomas",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1969",
+      "event": "Gramaphone Records opens (Provisional); Chi-Lites' Brunswick era begins",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1975",
+      "event": "WGCI call letters adopted",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1978",
+      "event": "Joe Dale and Carl Borowski take ownership of Gramaphone",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1979",
+      "event": "Paul Weisberg starts a record pool at Importes, Etc.",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1980",
+      "event": "Dr. Wax opens in Lincoln Park",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1984",
+      "event": "Dr. Wax Hyde Park opens",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1986",
+      "event": "SPIN's contemporary feature on Importes, Etc.",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1991",
+      "event": "WGCI's \"Rap Down\" broadcasts; Common featured in *The Source*'s \"Unsigned Hype\"",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1992",
+      "event": "Twista's debut *Runnin' Off at da Mouth*; Guinness fastest-rapper listing; Common's *Can I Borrow a Dollar?* (Oct 6, Relativity)",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional/Verified",
+      "track": "D"
+    },
+    {
+      "date": "1994",
+      "event": "Maxwell Street market moved for UIC expansion",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "1995",
+      "event": "Rose Records reportedly closes",
+      "source": "",
+      "status": "Unresolved",
+      "status_raw": "Unresolved",
+      "track": "D"
+    },
+    {
+      "date": "1996",
+      "event": "Do or Die's \"Po Pimp\" released independently on Creator's Way, then nationally on Rap-A-Lot",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1997",
+      "event": "Twista's *Adrenaline Rush* on Atlantic/Big Beat",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "1998",
+      "event": "Roberta Martin Singers honored with U.S. postage stamp",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "2006",
+      "event": "Pilgrim Baptist Church fire",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "2008",
+      "event": "Maxwell Street market moves again (Verified); Dr. Wax Evanston closes",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "2010",
+      "event": "Hyde Park Records opens; last Dr. Wax location closes",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "2016",
+      "event": "Jazz Record Mart closes (27 E. Illinois); Bob's Blues & Jazz Mart opens",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    },
+    {
+      "date": "2017",
+      "event": "Pilgrim sold to the National Museum of Gospel Music",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "2021",
+      "event": "James Rosenbloom obituary confirms Rose Records' 60+ year family history (Verified); Bob Koester tributes",
+      "source": "",
+      "status": "Provisional",
+      "status_raw": "Provisional",
+      "track": "D"
+    },
+    {
+      "date": "2025",
+      "event": "Gramaphone co-owner Joe Dale dies (announced March 26)",
+      "source": "",
+      "status": "Verified",
+      "status_raw": "Verified",
+      "track": "D"
+    }
+  ]
+}

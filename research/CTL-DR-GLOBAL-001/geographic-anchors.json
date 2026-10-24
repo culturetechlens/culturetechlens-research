@@ -1,0 +1,84 @@
+{
+ "project": "CTL-DR-GLOBAL-001",
+ "note": "Chicago-presence records reclassified from exchange relationships per red-team (presence is not exchange).",
+ "count": 11,
+ "anchors": [
+  {
+   "entity": "Haitian American Museum of Chicago",
+   "entity_id": "GBL-100",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Consulate of Jamaica in Chicago",
+   "entity_id": "GBL-101",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "UNIA Chicago Divisions",
+   "entity_id": "GBL-104",
+   "anchor_type": "organized_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Chicago Concerned Jamaicans",
+   "entity_id": "GBL-105",
+   "anchor_type": "organized_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Belizean Cricket Association of Chicago",
+   "entity_id": "GBL-107",
+   "anchor_type": "organized_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Wild Hare",
+   "entity_id": "GBL-114",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Evangelical Bethel Church of Chicago",
+   "entity_id": "GBL-103",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Ephraim Malachi Martin",
+   "entity_id": "GBL-095",
+   "anchor_type": "based_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Consulate General of Haiti in Chicago",
+   "entity_id": "GBL-102",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "D's Roti and Trini Cuisine",
+   "entity_id": "GBL-113",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  },
+  {
+   "entity": "Blue Angel",
+   "entity_id": "GBL-115",
+   "anchor_type": "located_in",
+   "track": "c",
+   "note": "Geographic presence, not a transnational exchange link."
+  }
+ ]
+}

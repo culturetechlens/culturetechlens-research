@@ -1,0 +1,429 @@
+{
+  "brief_id": "CTL-RB-MEDIA-000003",
+  "brief_title": "Black Images on Chicago Television",
+  "claim_count": 46,
+  "claims": [
+    {
+      "dimension": "on-air performance",
+      "era": "era_1",
+      "evidence": "Ryan Ellett, 'Destination: Radio - A Look at Some of Chicago's African-American Radio Pioneers' (adapted from McFarland Encyclopedia of Black Radio in the United States, 1921-1955, 2011). Also listed in Defender media-milestone references.",
+      "grade": "SUPPORTED",
+      "id": "C-ERA-1A",
+      "statement": "In 1947 the Chicago Defender and WBBM co-sponsored Star Quest, a televised Black talent contest (March-May 1947), with a 13-week WBBM contract as grand prize."
+    },
+    {
+      "caveat": "Absence-of-evidence is not evidence of absence; loss of early kinescopes may hide counterexamples.",
+      "dimension": "creative control",
+      "era": "era_1",
+      "evidence": "Negative claim inferred from absence in J. Fred MacDonald's Blacks and White TV (1983) local coverage, Encyclopedia of Television station histories, and the suddenness of the 1963/1968 milestones; treated as SUPPORTED-with-inference, not VERIFIED.",
+      "grade": "SUPPORTED",
+      "id": "C-ERA-1B",
+      "statement": "Before 1968, Chicago local television contained no sustained Black-produced or Black-hosted programming; Black appearances were limited to variety cameos, talent contests, and Sunday-morning gospel slots."
+    },
+    {
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "T Dog Media obituary of Jim Tilmon (2021); The HistoryMakers finding aid A2003_023 (EAD/EAC); WGBH/AAPB 'Black Power' exhibit listing Our People (Chicago).",
+      "grade": "SUPPORTED",
+      "id": "C-ERA-2A",
+      "statement": "WTTW's Our People premiered in 1968, one week after Dr. Martin Luther King Jr.'s assassination; hosted by Jim Tilmon; guests included Muhammad Ali, James Baldwin, Oscar Brown Jr., and Harold Washington."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "HistoryMakers Porterfield/Campbell finding aids; Congressional Record Vol. 168 (Merri Dee tribute); corroborating obituaries (Black Enterprise, TVNewsCheck).",
+      "grade": "SUPPORTED",
+      "id": "C-ERA-2B",
+      "statement": "By 1978-1979, Black journalists held anchor and reporting roles at multiple Chicago commercial stations (WBBM, WGN, WLS), ending the era in which Black local-TV presence was confined to music and public-affairs formats."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_3",
+      "evidence": "Daily Southtown obituary (2018, via Chicago Tribune); TVNewsCheck retirement coverage (2009); Defender/WMAQ 75th anniversary reference.",
+      "grade": "VERIFIED",
+      "id": "C-ERA-3A",
+      "statement": "Warner Saunders moved from WBBM to WMAQ in 1980 and rose to 10 p.m. news co-anchor, placing a Black anchor in Chicago's flagship evening slot."
+    },
+    {
+      "dimension": "ownership",
+      "era": "era_3",
+      "evidence": "'Out of the Picture 2007' minority TV ownership study (policyarchive.org) lists WJYS as Black-owned in the Chicago DMA in 2006; no contrary station found in journal-isms ownership reporting.",
+      "grade": "SUPPORTED",
+      "id": "C-ERA-3B",
+      "statement": "The 1990s closed with no second Black-owned full-power commercial TV station in the Chicago market; WJYS remained the only one."
+    },
+    {
+      "caveat": "Interpretive synthesis; no systematic content sample underlies the normalization claim.",
+      "dimension": "news presence",
+      "era": "era_4",
+      "evidence": "FCC ownership record showing no Black-owned major-affiliate; long anchor tenures documented in obituaries (Saunders 2009, Porterfield 2015 retirements). The normalization claim is qualitative (interpretive) rather than measured.",
+      "grade": "SUPPORTED",
+      "id": "C-ERA-4A",
+      "statement": "From 2000 onward, Chicago's commercial TV stations underwent consolidation and digital transition while on-camera Black representation normalized and Black station ownership remained essentially absent."
+    },
+    {
+      "dimension": "n/a (archival)",
+      "era": "era_4",
+      "evidence": "Obituaries: T Dog Media (Tilmon), Reel Chicago / Congressional Record (Dee), Black Enterprise (Porterfield).",
+      "grade": "VERIFIED",
+      "id": "C-ERA-4B",
+      "statement": "The pioneer generation (Tilmon 2021, Merri Dee 2022, Porterfield 2023) died within three years, creating archival urgency for Chicago Black television history."
+    },
+    {
+      "dimension": "on-air performance",
+      "era": "era_1/era_2",
+      "evidence": "Los Angeles Sentinel 50th-anniversary coverage (2013); jubileeshowcase.com (Ordower family archive); Gospel Music Fever; Rhythm & Light.",
+      "grade": "SUPPORTED",
+      "id": "C-JUB-1",
+      "statement": "Jubilee Showcase, a weekly Black gospel music program, aired on WLS-TV from 1963 to 1984 (21 years), created/produced/hosted by Sid Ordower."
+    },
+    {
+      "caveat": "Attribution rests on anniversary coverage; Emmy database not independently verified.",
+      "dimension": "on-air performance",
+      "era": "era_1",
+      "evidence": "Los Angeles Sentinel 50th-anniversary article (2013); jubileeshowcase.com. Primary Emmy records not checked.",
+      "grade": "SUPPORTED",
+      "id": "C-JUB-2",
+      "statement": "Jubilee Showcase won a national Emmy Award for a 'Pioneering Project in Television.'"
+    },
+    {
+      "dimension": "creative control",
+      "era": "era_1",
+      "evidence": "Rhythm & Light ('his Jubilee Showcase show... hosted by a white Jewish man'); Los Angeles Sentinel ('Sid Ordower stepped out on faith...'). The analytical inference (white editorial control) is the brief's own.",
+      "grade": "SUPPORTED",
+      "id": "C-JUB-3",
+      "statement": "Sid Ordower, the creator/producer/host of Jubilee Showcase, was white (a civil-rights activist), so the show's two decades of Black musical performance occurred under white editorial control."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_1/era_2",
+      "evidence": "BET gallery on Don Cornelius; corroborating Soul Train history summaries; VH1 documentary PR (2010).",
+      "grade": "SUPPORTED",
+      "id": "C-SOUL-1",
+      "statement": "Don Cornelius was hired by WCIU-TV in 1967 as a news and sports reporter and hosted 'A Black's View of the News.'"
+    },
+    {
+      "caveat": "Exact first-episode guest lineup differs across sources; do not assert a definitive list.",
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "Wikipedia Soul Train article (Chicago launch details); VH1 'Hippest Trip in America' PR (2010); corroborating Black press coverage. First-guest lineup varies across sources (O'Jays named elsewhere) - lineup treated as SUPPORTED-with-variance.",
+      "grade": "SUPPORTED",
+      "id": "C-SOUL-2",
+      "statement": "Soul Train premiered on WCIU-TV on August 17, 1970, as a live weekday afternoon program sponsored by Sears; first guests included Jerry Butler, the Chi-Lites, and the Emotions."
+    },
+    {
+      "caveat": "The 'Johnson Products financed the color upgrade' story is repeated but weakly sourced; treat as PROVISIONAL within this SUPPORTED claim.",
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "Wikipedia Soul Train article; VH1 documentary PR; corroborating histories. Sponsorship/financing details (Johnson Products paying to colorize cameras) appear in secondary accounts and are not independently corroborated.",
+      "grade": "SUPPORTED",
+      "id": "C-SOUL-3",
+      "statement": "Soul Train entered national syndication in October 1971, co-sponsored by Johnson Products Company (Afro Sheen/Ultra Sheen); production moved to Los Angeles; a local Chicago version hosted by Clinton Ghent continued until 1976 (reruns to 1979)."
+    },
+    {
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "Wikipedia article (citing contemporary coverage); Ryan Ellett OTRR article ( funding loss after seven weeks). 'First all-Black television soap opera' and 'highest-rated' rest on single secondary sources.",
+      "grade": "SUPPORTED",
+      "id": "C-BIRD-1",
+      "statement": "Bird of the Iron Feather, created by Richard Durham, aired on WTTW (distributed by NET) January 19 - March 6, 1970: 21 episodes over seven weeks; themes included racism, school desegregation, policing, and Black urban life; it won a Chicago/Midwest Emmy and was WTTW's highest-rated local show."
+    },
+    {
+      "caveat": "Cause of funding loss unknown; do not speculate.",
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "Ryan Ellett OTRR article ('funding disappeared after only seven weeks'). The reason for the funding loss is not documented - unexplained.",
+      "grade": "SUPPORTED",
+      "id": "C-BIRD-2",
+      "statement": "Bird of the Iron Feather's funding disappeared after its initial seven-week run, ending an ambitious Black-authored local drama despite audience success."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "The HistoryMakers finding aid A2003_023 (EAD/EAC); T Dog Media obituary (2021). The 'first' phrasing is The HistoryMakers' and is broader than evidence supports - see red-team.",
+      "grade": "SUPPORTED",
+      "id": "C-TIL-1",
+      "statement": "Jim Tilmon hosted Our People on WTTW beginning in 1968, described by The HistoryMakers as 'the first television show produced by and for African Americans'; he later hosted Tilmon's Tempo, became a WMAQ meteorologist (1975), and retired in 1994."
+    },
+    {
+      "caveat": "Exact year of WMAQ move variously implied (~1970/1975); 'first' claims rest on HistoryMakers.",
+      "dimension": "news presence",
+      "era": "era_1/era_2",
+      "evidence": "The HistoryMakers finding aids A2007_249 (EAD/EAC); American Academy of Arts & Sciences profile.",
+      "grade": "SUPPORTED",
+      "id": "C-SIMP-1",
+      "statement": "Carole Simpson was the first woman to broadcast news in Chicago (WCFL radio, 1965) and became Chicago's first Black woman television reporter (WMAQ); she later became an ABC News national correspondent, World News Tonight weekend anchor, and the first woman/minority to moderate a U.S. presidential debate (1992)."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "Congressional Record Vol. 168, Issue 76 (Rep. Bobby Rush tribute, 2022); Illinois Broadcasters Association bio; Reel Chicago obituary (2022).",
+      "grade": "VERIFIED",
+      "id": "C-DEE-1",
+      "statement": "Merri Dee (Mary Francine Dorham) hosted entertainment programming on WCIU (1967-68), The Merri Dee Show on WSNS (1970-71), and became a WGN-TV anchor in 1972."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "Congressional Record tribute; Illinois Broadcasters Association bio; corroborating obituaries.",
+      "grade": "VERIFIED",
+      "id": "C-DEE-2",
+      "statement": "On July 17, 1971, Merri Dee and guest Alan Sandler were kidnapped outside WSNS studios and shot; Sandler died and Dee survived, returning to broadcasting."
+    },
+    {
+      "caveat": "Do not repeat as fact; use only as 'described in a 2022 Congressional tribute as...' with the dispute noted.",
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "Claim originates in Rep. Bobby Rush's Congressional Record tribute (2022); repeated by IBA/Reel Chicago as 'one of the first.' Competing candidates (e.g., other market lead anchors before 1972) are unresearched; the precise category ('lead anchor,' 'major U.S. city') is undefined. Downgraded per first-claim policy.",
+      "grade": "DISPUTED",
+      "id": "C-DEE-3",
+      "statement": "Merri Dee was 'the first African American lead anchor for a news station in a major U.S. city.'"
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "The HistoryMakers biography and finding aid A2002_090 (EAC); corroborating obituaries (Black Enterprise, TVNewsCheck). The 'first weekday anchor' qualifier is needed because Ben Holman preceded him as an on-air newscaster.",
+      "grade": "SUPPORTED",
+      "id": "C-PORT-1",
+      "statement": "Harry Porterfield joined WBBM-TV as a news writer in 1964, became a reporter in 1971, anchored Saturday news in 1972, and in 1978 became Chicago's first Black weekday news anchor (co-anchoring the 6 p.m. news with Bill Kurtis)."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "The HistoryMakers biography; Adweek/TVSpy; obituaries. Emphasis on Black community figures is interpretive from episode descriptions.",
+      "grade": "SUPPORTED",
+      "id": "C-PORT-2",
+      "statement": "Porterfield created Someone You Should Know in 1977, a segment profiling ordinary Chicagoans, especially Black community figures."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_3",
+      "evidence": "Adweek/TVSpy ('demotion during the 1980s spurred a boycott led by Jesse Jackson'); Black Enterprise obituary; corroborating Chicago press history. The boycott's measurable effect on hiring is UNRESOLVED (C-UNK-3).",
+      "grade": "SUPPORTED",
+      "id": "C-PORT-3",
+      "statement": "In 1985 WBBM demoted Porterfield to accommodate Bill Kurtis's return; Rev. Jesse Jackson led a boycott of WBBM focused on minority hiring on camera and in management; Porterfield moved to WLS-TV."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2/era_3",
+      "evidence": "Daily Southtown obituary (via Chicago Tribune, 2018); TVNewsCheck retirement article (2009).",
+      "grade": "VERIFIED",
+      "id": "C-SAUN-1",
+      "statement": "Warner Saunders led community affairs at WBBM and hosted Common Ground (and the Good Gang Express), moved to WMAQ in 1980, and rose to 10 p.m. news co-anchor; he retired May 21, 2009, and died October 9, 2018."
+    },
+    {
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "The HistoryMakers finding aid A2001_008 (EAC).",
+      "grade": "SUPPORTED",
+      "id": "C-CAMP-1",
+      "statement": "Bill Campbell joined WLS-TV in 1978 as Director of Community Services and hosted/produced the community-affairs program Chicagoing."
+    },
+    {
+      "dimension": "ownership",
+      "era": "era_3",
+      "evidence": "Wikipedia WJYS article citing FCC comparative-hearing history; journal-isms.com ownership reporting; 'Out of the Picture 2007' (policyarchive.org) listing WJYS as Black-owned in the Chicago DMA (2006).",
+      "grade": "SUPPORTED",
+      "id": "C-WJYS-1",
+      "statement": "Jovon Minority Broadcasting, owned by Joseph and Yvonne Stroud, won the FCC comparative hearing for channel 62 after the review board overturned an initial decision (1985); WJYS signed on March 2, 1991, as a Black-owned full-power commercial station serving the Chicago market."
+    },
+    {
+      "dimension": "ownership",
+      "era": "era_3/era_4",
+      "evidence": "Station history summaries (Wikipedia WJYS citing local press); the programming trajectory is documented but thinly sourced. The analytical inference is the brief's own.",
+      "grade": "SUPPORTED",
+      "id": "C-WJYS-2",
+      "statement": "WJYS's programming shifted from home shopping/general entertainment toward infomercials and paid religious programming, showing that ownership did not automatically produce Black-oriented original programming."
+    },
+    {
+      "dimension": "advertising images",
+      "era": "era_2",
+      "evidence": "Campaign US (One Club Creative Hall of Fame coverage, 2017); Black Enterprise; agency history summaries. Tom Burrell's own account ('Black people are not dark-skinned white people').",
+      "grade": "VERIFIED",
+      "id": "C-BURR-1",
+      "statement": "Burrell Communications was founded in Chicago in 1971 by Tom Burrell and Emmett McBain (as Burrell McBain) to create advertising speaking authentically to Black consumers; its 'positive realism' work for McDonald's and Coca-Cola changed Black images in national TV commercials."
+    },
+    {
+      "dimension": "advertising images",
+      "era": "era_3",
+      "evidence": "Black Enterprise (2017); One Club statement; Wikipedia Burrell Communications Group (citing NYT).",
+      "grade": "VERIFIED",
+      "id": "C-BURR-2",
+      "statement": "A collection of Burrell's Coca-Cola advertisements is archived at the Library of Congress for cultural and historical significance."
+    },
+    {
+      "dimension": "n/a (archive)",
+      "era": "era_4",
+      "evidence": "TV Technology (2020); WebProNews; Television Academy interviews; Wikipedia institutional article (citing Encyclopedia of Television).",
+      "grade": "SUPPORTED",
+      "id": "C-MBC-1",
+      "statement": "The Museum of Broadcast Communications, founded by Bruce DuMont and headquartered in Chicago, holds approximately 85,000-100,000 hours of broadcast programming and more than 10,000 commercials, and published the Encyclopedia of Television."
+    },
+    {
+      "dimension": "n/a (archive)",
+      "era": "era_4",
+      "evidence": "Wikipedia institutional article (360 N. State, pop-up dates citing 2025 reporting); Radio Survivor.",
+      "grade": "SUPPORTED",
+      "id": "C-MBC-2",
+      "statement": "The MBC operated from 360 N. State St. (2012) and ran a pop-up at 440 W. Randolph St. (Oct 2025 - Jan 2027) while pursuing a permanent home."
+    },
+    {
+      "dimension": "n/a (context)",
+      "era": "era_2",
+      "evidence": "Kerner Report (public record); WGBH/AAPB 'Black Power' exhibit (post-Kerner Black public-affairs programming, citing Our People, Chicago); CJR summary via CTL-DR-BPM-003 (Black journalists <1% of newsroom jobs, 1968). Contextual application to Chicago is the brief's own.",
+      "grade": "VERIFIED",
+      "id": "C-KERN-1",
+      "statement": "The 1968 Kerner Commission indicted news-media failures on race and urged integration of newsrooms; it forms the institutional context for Chicago stations' post-1968 Black programming and hiring."
+    },
+    {
+      "dimension": "on-air performance",
+      "era": "era_1",
+      "evidence": "J. Fred MacDonald, Blacks and White TV (1983) (via escholarship PDF).",
+      "grade": "VERIFIED",
+      "id": "C-HOW-1",
+      "scope_note": "National network program; included for context only - Chicago production link UNRESOLVED (C-UNK-2).",
+      "statement": "The Bob Howard Show aired on the CBS network (1948-1950) as a Black-hosted musical-variety series."
+    },
+    {
+      "caveat": "Do not repeat as fact.",
+      "dimension": "on-air performance",
+      "era": "era_1",
+      "evidence": "Repeated in secondary sources but contradicted by earlier candidates and by the difficulty of defining 'regularly scheduled' in the 1948 experimental era. Downgraded per first-claim policy; Chicago link absent in any case.",
+      "grade": "DISPUTED",
+      "id": "C-HOW-2",
+      "statement": "The Bob Howard Show was 'the first regularly scheduled Black-hosted network series.'"
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_3",
+      "evidence": "The HistoryMakers finding aid A2014_029 (EAC).",
+      "grade": "SUPPORTED",
+      "id": "C-THO-1",
+      "statement": "Charles Thomas became a political reporter at WLS-TV in 1991."
+    },
+    {
+      "dimension": "n/a (press)",
+      "era": "era_1/era_3",
+      "evidence": "Ellett (Star Quest); MacDonald (Defender writer on Billy Daniels cancellation); blackfacts.com mirror of Defender WMAQ-75 piece.",
+      "grade": "SUPPORTED",
+      "id": "C-DEF-1",
+      "statement": "The Chicago Defender covered television as a Black critical institution: it co-sponsored Star Quest (1947), its writers commented on TV's treatment of Black performers (e.g., Billy Daniels), and its anniversary coverage noted Chicago's first 10 p.m. Black news anchor (WMAQ's 75th anniversary piece)."
+    },
+    {
+      "caveat": "May exist in station HR archives or FCC paper records not digitized.",
+      "dimension": "creative control",
+      "era": "all",
+      "evidence": "Exhaustive-search negative: FCC Form 395-B historical data, station EEO public files, and trade-press employment surveys were sought; none located in public sources for Chicago by race.",
+      "grade": "UNRESOLVED",
+      "id": "C-UNK-1",
+      "statement": "No public source provides Chicago TV-station employment by race for any year; behind-the-camera Black employment is effectively undocumented."
+    },
+    {
+      "dimension": "on-air performance",
+      "era": "era_1",
+      "evidence": "No Chicago-station records located; MacDonald treats it as CBS network (New York).",
+      "grade": "UNRESOLVED",
+      "id": "C-UNK-2",
+      "statement": "Whether The Bob Howard Show (1948) had any Chicago production connection is unknown."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_3",
+      "evidence": "Boycott is documented (Adweek, obituaries); hiring outcomes are not.",
+      "grade": "UNRESOLVED",
+      "id": "C-UNK-3",
+      "statement": "The measurable effect of the 1985 Jesse Jackson boycott of WBBM on the station's minority hiring is undocumented in available sources."
+    },
+    {
+      "dimension": "n/a (archive)",
+      "era": "all",
+      "evidence": "Institutional collection-scale figures are documented (C-MBC-1); item-level confirmation is not.",
+      "grade": "UNRESOLVED",
+      "id": "C-UNK-4",
+      "statement": "The Museum of Broadcast Communications' specific holdings on Black Chicago television (Our People, Bird of the Iron Feather, early Soul Train, Jubilee Showcase, news footage) are unconfirmed; no item-level catalog search has been performed."
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_2",
+      "evidence": "Named only in passing in obituaries; no dedicated biography located.",
+      "grade": "UNRESOLVED",
+      "id": "C-UNK-5",
+      "statement": "Ben Holman, cited in Porterfield obituaries as a Black on-air newscaster who preceded Porterfield in Chicago, has no recoverable career record in available sources."
+    },
+    {
+      "caveat": "Do not assert a definitive first-episode lineup.",
+      "dimension": "on-air performance",
+      "era": "era_2",
+      "evidence": "Wikipedia Soul Train article (Jerry Butler, Chi-Lites, Emotions); other secondary accounts name the O'Jays. Single-source, conflicting.",
+      "grade": "PROVISIONAL",
+      "id": "C-PROV-1",
+      "statement": "Jerry Butler, the Chi-Lites, and the Emotions appeared on the first Soul Train broadcast (Aug 17, 1970); the O'Jays are named in some accounts."
+    },
+    {
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "Wikipedia article (single secondary source for both superlatives); corroboration not located.",
+      "grade": "PROVISIONAL",
+      "id": "C-PROV-2",
+      "statement": "Bird of the Iron Feather was 'the first all-Black television soap opera' and 'the highest-rated local show in WTTW history.'"
+    },
+    {
+      "caveat": "Do not repeat as fact without qualification.",
+      "dimension": "creative control",
+      "era": "era_2",
+      "evidence": "The HistoryMakers finding aid A2003_023 (EAD abstract). The phrasing is the archive's; its scope (national? Chicago?) is ambiguous and competing candidates are unresearched. Downgraded from institutional statement to PROVISIONAL.",
+      "grade": "PROVISIONAL",
+      "id": "C-PROV-3",
+      "statement": "Our People was 'the first television show produced by and for African Americans.'"
+    },
+    {
+      "dimension": "news presence",
+      "era": "era_3/era_4",
+      "evidence": "Names are widely known; no source work performed in this brief. Listed as further research, not finding.",
+      "grade": "PROVISIONAL",
+      "id": "C-PROV-4",
+      "statement": "Tamron Hall (WFLD), Robin Robinson (WLS), and Diann Burns (WBBM) represent the 1990s-2000s generation of Black Chicago anchors; details are unresearched in this brief."
+    }
+  ],
+  "compiled": "2026-09-28",
+  "era_boundaries": {
+    "era_1": {
+      "boundary_end_claim": "C-ERA-1B",
+      "boundary_start_claim": "C-ERA-1A",
+      "justification": "Era opens with the Defender/WBBM Star Quest (1947), Chicago's first documented Black television vehicle; closes at the end of the pre-Kerner era, just before Cornelius's WCIU hire (1967) and the 1968 catalytic year. Boundary is institutional: no sustained Black-produced local programming in this window.",
+      "label": "Live and Local, Thinly Black",
+      "span": "1947-1967"
+    },
+    "era_2": {
+      "boundary_end_claim": "C-ERA-2B",
+      "boundary_start_claim": "C-ERA-2A",
+      "justification": "Opens with Dr. King's assassination and Our People (1968), the documented institutional rupture; closes with Porterfield's 1978 anchor breakthrough and Campbell's Chicagoing (1978), by which time Black on-air authority at affiliates was established and the production boom had subsided.",
+      "label": "The Black Production Decade",
+      "span": "1968-1979"
+    },
+    "era_3": {
+      "boundary_end_claim": "C-ERA-3B",
+      "boundary_start_claim": "C-ERA-3A",
+      "justification": "Opens with Warner Saunders's WMAQ move (1980), marking Black authority in the 10 p.m. slot; includes the 1985 Porterfield demotion/boycott as the era's central contestation event; closes before the digital-consolidation era, with WJYS (1991) as the sole ownership breakthrough.",
+      "label": "The Anchor Desk and the Backlash",
+      "span": "1980-1999"
+    },
+    "era_4": {
+      "boundary_end_claim": "C-ERA-4B",
+      "boundary_start_claim": "C-ERA-4A",
+      "justification": "Opens with station consolidation/duopoly logic and digital transition; on-camera representation normalizes while ownership remains essentially absent; the pioneer generation's deaths (2021-2023) mark the archival-urgency rationale. End open (present).",
+      "label": "Consolidation and the Ownership Gap",
+      "span": "2000-present"
+    }
+  },
+  "grade_counts": {
+    "SUPPORTED": 26,
+    "VERIFIED": 9,
+    "DISPUTED": 2,
+    "UNRESOLVED": 5,
+    "PROVISIONAL": 4
+  },
+  "grade_policy": "VERIFIED: primary or strong independent corroboration. SUPPORTED: credible secondary source(s), thin or single corroboration. PROVISIONAL: plausible, weak sourcing. DISPUTED: contradicted or overclaimed relative to evidence. UNRESOLVED: cannot be determined from available sources. NEVER invent a missing fact; downgrade aggressively on first claims.",
+  "status": "Research",
+  "version": "0.1"
+}

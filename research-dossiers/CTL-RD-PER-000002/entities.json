@@ -1,0 +1,409 @@
+{
+  "dossier_id": "CTL-RD-PER-000002",
+  "evidence_file_id": "CTL-EF-PER-000002",
+  "schema": "CTL-Type-03-entities/1.0",
+  "note": "Dossier-local entity IDs; the subject carries the CTL graph ID CTL-E-1412. Grades are entity-level confidence; claim-level grades live in dossier.md §15 and evidence-file CTL-EF-PER-000002.",
+  "subject": {
+    "id": "CTL-E-1412",
+    "canonical_id": "per-freeman-marcus",
+    "type": "person",
+    "name": "Marcus Louis Freeman",
+    "aliases": [
+      "Marcus Freeman"
+    ],
+    "birth": "1986-01-10",
+    "birth_place": "Wright-Patterson Air Force Base Medical Center, Dayton/Fairborn, Ohio",
+    "death": null,
+    "death_place": null,
+    "role": "Head football coach, University of Notre Dame (Dec 3, 2021–present); former Ohio State linebacker",
+    "claims": [
+      "CLAIM-001",
+      "CLAIM-004",
+      "CLAIM-006",
+      "CLAIM-007",
+      "CLAIM-009",
+      "CLAIM-015a",
+      "CLAIM-021",
+      "CLAIM-026a",
+      "CLAIM-042a",
+      "CLAIM-055a"
+    ],
+    "grade": "VERIFIED",
+    "evidence": "CTL-EF-PER-000002 (CLAIM-001, CLAIM-015a, CLAIM-021, CLAIM-026a)"
+  },
+  "people": [
+    {
+      "id": "per-freeman-michael",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Michael Freeman",
+      "role": "father of Marcus Freeman; 26-year U.S. Air Force veteran",
+      "claims": [
+        "CLAIM-002"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-002)"
+    },
+    {
+      "id": "per-freeman-chong",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Chong Freeman",
+      "role": "mother of Marcus Freeman; born in Daegu, South Korea",
+      "claims": [
+        "CLAIM-002",
+        "CLAIM-003"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-002)"
+    },
+    {
+      "id": "per-freeman-joanna",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Joanna Freeman (née Herncane)",
+      "role": "wife of Marcus Freeman (m. 2010)",
+      "claims": [
+        "CLAIM-056"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-056)"
+    },
+    {
+      "id": "per-willingham-tyrone",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Tyrone Willingham",
+      "role": "Notre Dame head football coach 2002–04; first Black head coach in Notre Dame football history",
+      "claims": [
+        "CLAIM-018",
+        "CLAIM-019"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-018)"
+    },
+    {
+      "id": "per-kelly-brian",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Brian Kelly",
+      "role": "Notre Dame head football coach until Nov 2021; hired Freeman as defensive coordinator (Jan 2021); departed to LSU",
+      "claims": [
+        "CLAIM-014",
+        "CLAIM-046"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-014)"
+    },
+    {
+      "id": "per-fickell-luke",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Luke Fickell",
+      "role": "Cincinnati head coach who hired Freeman as defensive coordinator (Dec 13, 2016)",
+      "claims": [
+        "CLAIM-011"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-011)"
+    },
+    {
+      "id": "per-swarbrick-jack",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Jack Swarbrick",
+      "role": "Notre Dame athletics director who hired Freeman twice (DC 2021; HC Dec 2021); in role until March 2024",
+      "claims": [
+        "CLAIM-046",
+        "CLAIM-047"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-046)"
+    },
+    {
+      "id": "per-bevacqua-pete",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Pete Bevacqua",
+      "role": "Notre Dame athletics director from March 25, 2024; public commitment to top-tier annual pay revisions",
+      "claims": [
+        "CLAIM-047"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-047)"
+    },
+    {
+      "id": "per-locksley-mike",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Mike Locksley",
+      "role": "founder (2020) of the National Coalition of Minority Football Coaches",
+      "claims": [
+        "CLAIM-055b"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-055b)"
+    },
+    {
+      "id": "per-mickens-mike",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Mike Mickens",
+      "role": "Notre Dame cornerbacks coach / pass-game coordinator; Freeman's Wayne HS teammate; left for the Baltimore Ravens (Jan 2026)",
+      "claims": [
+        "CLAIM-048",
+        "CLAIM-049"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-049)"
+    },
+    {
+      "id": "per-golden-al",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Al Golden",
+      "role": "Freeman's defensive coordinator at Notre Dame (2022–24)",
+      "claims": [
+        "CLAIM-048"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-048)"
+    },
+    {
+      "id": "per-ash-chris",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Chris Ash",
+      "role": "Notre Dame defensive coordinator hired 2025 (over internal candidate Mike Mickens)",
+      "claims": [
+        "CLAIM-048",
+        "CLAIM-049"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-049)"
+    },
+    {
+      "id": "per-edmonds-wayne",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Wayne Edmonds",
+      "role": "first Black player to earn a Notre Dame football monogram (1953)",
+      "claims": [
+        "CLAIM-023"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-023)"
+    },
+    {
+      "id": "per-chow-norm",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Norm Chow",
+      "role": "Hawaii head coach (2012–15); the only FBS head coach of Asian descent before Freeman",
+      "claims": [
+        "CLAIM-022"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-022)"
+    },
+    {
+      "id": "per-franklin-james",
+      "canonical_id": null,
+      "type": "person",
+      "name": "James Franklin",
+      "role": "Penn State head coach; Freeman's opposing coach in the Jan 9, 2025 Orange Bowl semifinal; fired by Penn State Oct 12, 2025",
+      "claims": [
+        "CLAIM-041",
+        "CLAIM-045"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-045)"
+    },
+    {
+      "id": "per-tucker-mel",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Mel Tucker",
+      "role": "Michigan State head coach fired for cause Sept 27, 2023 (pipeline context)",
+      "claims": [
+        "CLAIM-041"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-041)"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org-notre-dame-football",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Notre Dame Fighting Irish football (University of Notre Dame)",
+      "kind": "university football program",
+      "description": "Freeman's employer; head coach since Dec 3, 2021; South Bend, Indiana",
+      "claims": [
+        "CLAIM-015a",
+        "CLAIM-016",
+        "CLAIM-026a"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-015a)"
+    },
+    {
+      "id": "org-ohio-state-football",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Ohio State Buckeyes football",
+      "kind": "university football program",
+      "description": "Freeman's playing program (2004–08) and first coaching stop (GA, 2010)",
+      "claims": [
+        "CLAIM-006",
+        "CLAIM-010"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-006)"
+    },
+    {
+      "id": "org-chicago-bears",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Chicago Bears",
+      "kind": "NFL franchise",
+      "description": "Drafted Freeman in the 5th round (154th overall) of the 2009 NFL Draft; waived him Sept 4, 2009; reported head-coach interview interest Jan 2025",
+      "claims": [
+        "CLAIM-007",
+        "CLAIM-051"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-007)"
+    },
+    {
+      "id": "org-buffalo-bills",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Buffalo Bills",
+      "kind": "NFL franchise",
+      "description": "Practice-squad stop, Sept 22–Oct 5, 2009 (not his drafting team)",
+      "claims": [
+        "CLAIM-008a"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-008a)"
+    },
+    {
+      "id": "org-houston-texans",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Houston Texans",
+      "kind": "NFL franchise",
+      "description": "Practice-squad stop from Nov 4, 2009",
+      "claims": [
+        "CLAIM-008a"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-008a)"
+    },
+    {
+      "id": "org-kent-state-football",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Kent State Golden Flashes football",
+      "kind": "university football program",
+      "description": "Linebackers coach, 2011–12",
+      "claims": [
+        "CLAIM-010"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-010)"
+    },
+    {
+      "id": "org-purdue-football",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Purdue Boilermakers football",
+      "kind": "university football program",
+      "description": "Linebackers coach 2013–15; co-defensive coordinator 2016",
+      "claims": [
+        "CLAIM-010"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-010)"
+    },
+    {
+      "id": "org-cincinnati-bearcats-football",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Cincinnati Bearcats football",
+      "kind": "university football program",
+      "description": "Defensive coordinator/linebackers, 2017–2020, under Luke Fickell",
+      "claims": [
+        "CLAIM-011"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-011)"
+    },
+    {
+      "id": "org-ncmfc",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "National Coalition of Minority Football Coaches",
+      "kind": "coaching-pipeline organization",
+      "description": "Founded by Mike Locksley (2020); Freeman is a member",
+      "claims": [
+        "CLAIM-055a",
+        "CLAIM-055b"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-055a, CLAIM-055b)"
+    }
+  ],
+  "places": [
+    {
+      "id": "place-huber-heights-ohio",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Huber Heights, Ohio",
+      "description": "Freeman's hometown; Wayne High School",
+      "claims": [
+        "CLAIM-004"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-004)"
+    },
+    {
+      "id": "place-south-bend-indiana",
+      "canonical_id": null,
+      "type": "place",
+      "name": "South Bend, Indiana",
+      "description": "Notre Dame; Freeman's professional base since 2021",
+      "claims": [
+        "CLAIM-015"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-015)"
+    },
+    {
+      "id": "place-notre-dame-stadium",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Notre Dame Stadium",
+      "description": "Site of the Dec 20, 2024 CFP first-round win over Indiana",
+      "claims": [
+        "CLAIM-026"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-026)"
+    },
+    {
+      "id": "place-mercedes-benz-stadium",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Mercedes-Benz Stadium, Atlanta",
+      "description": "Site of the Jan 20, 2025 CFP National Championship (Ohio State 34, Notre Dame 23)",
+      "claims": [
+        "CLAIM-026"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000002 (CLAIM-026)"
+    }
+  ]
+}

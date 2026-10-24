@@ -1,0 +1,165 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CTL Black Cultural Knowledge Graph \u2014 Music Constellation schema (CTL-DR-MUSIC-001)",
+  "description": "Machine-readable entity/relationship schema for incorporation into the CTL Black Cultural Knowledge Graph. Every entity and relationship carries evidence and verification status.",
+  "entity_types": {
+    "person": {
+      "subtypes": [
+        "artist",
+        "group",
+        "dj",
+        "producer",
+        "songwriter",
+        "musician",
+        "vocalist",
+        "session_musician",
+        "background_singer",
+        "engineer",
+        "promoter",
+        "manager",
+        "journalist",
+        "dancer",
+        "club_worker",
+        "record_store_employee",
+        "church_musician",
+        "local_dj"
+      ]
+    },
+    "organization": {
+      "subtypes": [
+        "label",
+        "studio",
+        "venue",
+        "church",
+        "radio_station",
+        "record_store",
+        "publication",
+        "school",
+        "distributor",
+        "pressing_plant",
+        "archive"
+      ]
+    },
+    "community": {
+      "subtypes": [
+        "dance_community",
+        "audience",
+        "scene"
+      ]
+    },
+    "work": {
+      "subtypes": [
+        "song",
+        "album"
+      ]
+    },
+    "event": {
+      "subtypes": [
+        "concert",
+        "festival",
+        "broadcast",
+        "session",
+        "battle",
+        "residency"
+      ]
+    },
+    "place": {
+      "subtypes": [
+        "neighborhood",
+        "city",
+        "address"
+      ]
+    },
+    "technology": {
+      "subtypes": [
+        "instrument",
+        "recording_tech",
+        "distribution_tech",
+        "broadcast_tech"
+      ]
+    }
+  },
+  "relationship_types": [
+    "artist\u2192artist",
+    "artist\u2192producer",
+    "artist\u2192label",
+    "artist\u2192venue",
+    "artist\u2192radio",
+    "artist\u2192neighborhood",
+    "dj\u2192club",
+    "dj\u2192record",
+    "producer\u2192studio",
+    "church\u2192musician",
+    "song\u2192sample",
+    "song\u2192cover",
+    "label\u2192distributor",
+    "label\u2192label",
+    "venue\u2192event",
+    "radio\u2192audience",
+    "genre\u2192place",
+    "technology\u2192practice",
+    "person\u2192place",
+    "place\u2192place"
+  ],
+  "required_entity_fields": [
+    "id",
+    "type",
+    "name",
+    "claims"
+  ],
+  "recommended_entity_fields": [
+    "subtype",
+    "aliases",
+    "genres",
+    "active_years",
+    "location",
+    "neighborhoods",
+    "record_source"
+  ],
+  "required_claim_fields": [
+    "claim",
+    "evidence",
+    "source",
+    "source_type",
+    "verification"
+  ],
+  "recommended_claim_fields": [
+    "publication_date",
+    "uncertainty",
+    "contradictory_evidence"
+  ],
+  "required_relationship_fields": [
+    "id",
+    "rel_type",
+    "from",
+    "to",
+    "evidence",
+    "source",
+    "verification"
+  ],
+  "recommended_relationship_fields": [
+    "description",
+    "date",
+    "source_type",
+    "record_source",
+    "entities"
+  ],
+  "verification_vocabulary": [
+    "verified",
+    "provisional",
+    "disputed",
+    "unresolved"
+  ],
+  "source_type_vocabulary": [
+    "primary",
+    "secondary"
+  ],
+  "rules": [
+    "Every visible connection must be traceable to evidence.",
+    "Never manufacture relationships or claims.",
+    "Disputed and contradictory evidence is preserved, not harmonized.",
+    "Honorifics ('father of', 'first', 'invented') are not converted into singular-origin facts.",
+    "'First' claims must be disambiguated by medium (created / circulated / club-tested / pressed).",
+    "Unknowns are null, never guessed."
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "brief_id": "CTL-RB-PRES-000002",
+  "generated": "2026-09-28",
+  "entity_count": 71,
+  "entities": [
+    {
+      "id": "ENT-P-WASOW",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Omar Wasow",
+      "description": "Co-founder of BlackPlanet (1999). Later cited NetNoir as a defunct predecessor; claimed MySpace's founders looked to BlackPlanet as a model (provisional).",
+      "claims": [
+        "CTL-RB-PRES-000002-C002",
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-SUN",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Benjamin Sun",
+      "description": "Co-founder/CEO of Community Connect (BlackPlanet, MiGente, AsianAvenue).",
+      "claims": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-ELLINGTON",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "E. David Ellington",
+      "description": "Entertainment lawyer; co-founder of NetNoir (1994-1995).",
+      "claims": [
+        "CTL-RB-PRES-000002-C001"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-CASSELLE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Malcolm CasSelle",
+      "description": "Stanford computer scientist; co-founder of NetNoir (1994-1995).",
+      "claims": [
+        "CTL-RB-PRES-000002-C001"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-COOPER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Barry Cooper",
+      "description": "Founder of BlackVoices.com (1995), then with the Orlando Sentinel Online.",
+      "claims": [
+        "CTL-RB-PRES-000002-C003"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-GATES",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Henry Louis Gates Jr.",
+      "description": "Co-founder of Africana.com (1999).",
+      "claims": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-APPIAH",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Kwame Anthony Appiah",
+      "description": "Co-founder of Africana.com (1999).",
+      "claims": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-FRASIER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Marcus Frasier",
+      "description": "Founder of DatPiff (2005).",
+      "claims": [
+        "CTL-RB-PRES-000002-C013"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-BARBER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Andrew Barber",
+      "description": "Founder of FakeShoreDrive (Chicago, 2007); two-person operation documenting Chicago hip-hop.",
+      "claims": [
+        "CTL-RB-PRES-000002-C028"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-FOSTER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Makiba J. Foster",
+      "description": "Co-developer of Archiving the Black Web; led Documenting Ferguson; formerly Schomburg Center and Broward County's African American Research Library and Cultural Center.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-JULES",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Bergis Jules",
+      "description": "Co-developer of Archiving the Black Web (Shift Collective); co-founder of Documenting the Now.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-COLLIER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Zakiya Collier",
+      "description": "ATBW WARC School Program Director (2024-present), Shift Collective.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-SUMMERS",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Ed Summers",
+      "description": "Co-founder/technical lead of Documenting the Now; developer of twarc.",
+      "claims": [
+        "CTL-RB-PRES-000002-C016"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-SUTHERLAND",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Tonia Sutherland",
+      "description": "Scholar of Black archival practices and digital afterlife; Resurrecting the Black Body (UC Press, 2023).",
+      "claims": [
+        "CTL-RB-PRES-000002-C032"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-MCILWAIN",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Charlton McIlwain",
+      "description": "Scholar; documented capital starvation of early Black web entrepreneurs.",
+      "claims": [
+        "CTL-RB-PRES-000002-C034"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-KAHLE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Brewster Kahle",
+      "description": "Founder of the Internet Archive; confirmed the October 2024 attacks.",
+      "claims": [
+        "CTL-RB-PRES-000002-C020"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-SCOTT",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Jason Scott",
+      "description": "Internet Archive archivist; led the 2009 Archive Team GeoCities rescue; co-created the MySpace 'Dragon Hoard' salvage.",
+      "claims": [
+        "CTL-RB-PRES-000002-C008",
+        "CTL-RB-PRES-000002-C006"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-MCCOY",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Regan Sommer McCoy",
+      "description": "Founder of The Mixtape Museum, community archive for mixtape history.",
+      "claims": [
+        "CTL-RB-PRES-000002-C033"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-P-PETERSON",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "person",
+      "name": "Latoya Peterson",
+      "description": "Owner/Editor of Racialicious, award-winning race-and-pop-culture blog; domain now dead, archive status unresolved.",
+      "claims": [
+        "CTL-RB-PRES-000002-C036"
+      ],
+      "privacy": "public_professional"
+    },
+    {
+      "id": "ENT-O-NETNOIR",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "NetNoir",
+      "description": "Black-oriented online service (1995); defunct; content disposition unresolved.",
+      "claims": [
+        "CTL-RB-PRES-000002-C001",
+        "CTL-RB-PRES-000002-C002",
+        "CTL-RB-PRES-000002-C024"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-BLACKVOICES",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "BlackVoices.com",
+      "description": "Black portal (1995); Tribune -> AOL (2004) -> HuffPost; message boards removed; domain dead.",
+      "claims": [
+        "CTL-RB-PRES-000002-C003",
+        "CTL-RB-PRES-000002-C004",
+        "CTL-RB-PRES-000002-C024"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-AFRICANA",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Africana.com",
+      "description": "Black culture website (1999-2005); Time Warner acquisition; closed Jan 31, 2005; features to AOL BlackVoices.",
+      "claims": [
+        "CTL-RB-PRES-000002-C003",
+        "CTL-RB-PRES-000002-C026",
+        "CTL-RB-PRES-000002-C024"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-BLACKPLANET",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "BlackPlanet",
+      "description": "Black social network (launched 1999-09-01); 20M users peak; Radio One $38M acquisition (2008); survived, declined.",
+      "claims": [
+        "CTL-RB-PRES-000002-C027",
+        "CTL-RB-PRES-000002-C024"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-COMMUNITYCONNECT",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Community Connect Inc.",
+      "description": "BlackPlanet, MiGente, AsianAvenue; sold to Radio One April 2008 ($38M).",
+      "claims": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-RADIOONE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Radio One / Urban One",
+      "description": "Acquirer of Community Connect (2008); steward of BlackPlanet via Interactive One.",
+      "claims": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-AOL",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "AOL / Time Warner",
+      "description": "Acquired Africana.com (2000) and BlackVoices (2004); closed/consolidated both.",
+      "claims": [
+        "CTL-RB-PRES-000002-C003",
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-TRIBUNE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Tribune Company",
+      "description": "Original owner of BlackVoices (via Orlando Sentinel).",
+      "claims": [
+        "CTL-RB-PRES-000002-C003"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-HUFFPOST",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "The Huffington Post",
+      "description": "Absorbed BlackVoices; reportedly removed the message boards (provisional).",
+      "claims": [
+        "CTL-RB-PRES-000002-C004"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-MYSPACE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "MySpace",
+      "description": "Social network; confirmed 2019 loss of ~50M songs (2003-2015) in server migration.",
+      "claims": [
+        "CTL-RB-PRES-000002-C005",
+        "CTL-RB-PRES-000002-C006"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-GEOCITIES",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "GeoCities",
+      "description": "Web-hosting service; shut by Yahoo Oct 26, 2009; unrescued content deleted.",
+      "claims": [
+        "CTL-RB-PRES-000002-C007",
+        "CTL-RB-PRES-000002-C008"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-YAHOO",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Yahoo! / Verizon",
+      "description": "Shut GeoCities (2009); deleted Yahoo Groups content (Dec 2019); closed Groups (Dec 2020).",
+      "claims": [
+        "CTL-RB-PRES-000002-C007",
+        "CTL-RB-PRES-000002-C009"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-YAHOOGROUPS",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Yahoo Groups",
+      "description": "Discussion groups; all posted content deleted Dec 14, 2019; site closed Dec 15, 2020.",
+      "claims": [
+        "CTL-RB-PRES-000002-C009",
+        "CTL-RB-PRES-000002-C010"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-TWITTER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Twitter / X",
+      "description": "Discontinued Vine (2017); removed Vine archive (2019); ended free API access (2023).",
+      "claims": [
+        "CTL-RB-PRES-000002-C011",
+        "CTL-RB-PRES-000002-C015",
+        "CTL-RB-PRES-000002-C016"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-VINE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Vine",
+      "description": "Short-video app (Twitter); discontinued Jan 17, 2017; read-only archive removed ~Apr 2019.",
+      "claims": [
+        "CTL-RB-PRES-000002-C011",
+        "CTL-RB-PRES-000002-C012"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-DATPIFF",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "DatPiff",
+      "description": "Mixtape platform (2005); MediaLab acquisition (2019); outages Mar 2023; IA archive status unresolved.",
+      "claims": [
+        "CTL-RB-PRES-000002-C013",
+        "CTL-RB-PRES-000002-C014",
+        "CTL-RB-PRES-000002-C024"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-MEDIALAB",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "MediaLab AI Inc.",
+      "description": "Acquired DatPiff (2019); portfolio includes Genius and WorldStarHipHop.",
+      "claims": [
+        "CTL-RB-PRES-000002-C013"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-META",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Meta (Facebook)",
+      "description": "2018 page/account purges affecting Black-themed pages; framing disputed.",
+      "claims": [
+        "CTL-RB-PRES-000002-C017",
+        "CTL-RB-PRES-000002-C022"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-IA",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Internet Archive",
+      "description": "Archive of last resort; GeoCities/DatPiff/MySpace-salvage steward; breached + DDoS'd Oct 2024.",
+      "claims": [
+        "CTL-RB-PRES-000002-C020",
+        "CTL-RB-PRES-000002-C006"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-ARCHIVETEAM",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Archive Team",
+      "description": "Volunteer rescue collective; GeoCities crawl (2009); Yahoo Groups alarm.",
+      "claims": [
+        "CTL-RB-PRES-000002-C008"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-ATBW",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Archiving the Black Web / Shift Collective",
+      "description": "$2.5M Mellon grant (Mar 2023); training + research on Black web archiving.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-DOCNOW",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Documenting the Now",
+      "description": "Ethical social-media archiving (from Ferguson 2014); Catalog/Hydrator/twarc degraded by 2023 API paywall.",
+      "claims": [
+        "CTL-RB-PRES-000002-C016",
+        "CTL-RB-PRES-000002-C023",
+        "CTL-RB-PRES-000002-C031"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-MIXTAPEMUSEUM",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "The Mixtape Museum",
+      "description": "Community archive for mixtape history, hip-hop priority (Regan Sommer McCoy).",
+      "claims": [
+        "CTL-RB-PRES-000002-C033"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-PEW",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Pew Research Center",
+      "description": "'When Online Content Disappears' (May 2024): 25% of 2013-2023 pages gone.",
+      "claims": [
+        "CTL-RB-PRES-000002-C018"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-ESPN",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "ESPN / Walt Disney Company",
+      "description": "The Undefeated -> Andscape rebrand (Feb 28, 2022): clean migration control case.",
+      "claims": [
+        "CTL-RB-PRES-000002-C029"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-FSD",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "FakeShoreDrive",
+      "description": "Chicago hip-hop blog (founded Oct 2007, Andrew Barber); live; structural single point of failure.",
+      "claims": [
+        "CTL-RB-PRES-000002-C028"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-RACIALICIOUS",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Racialicious",
+      "description": "Award-winning race-and-pop-culture blog (Latoya Peterson, Owner/Editor); domain dead 2026-09-28; archive status unresolved.",
+      "claims": [
+        "CTL-RB-PRES-000002-C036"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-CLUTCH",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Clutch Magazine (web edition)",
+      "description": "Black women's magazine web edition; domain redirects to GoDaddy for-sale page (2026-09-28).",
+      "claims": [
+        "CTL-RB-PRES-000002-C024"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-L-NYC",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "place",
+      "name": "New York, NY",
+      "description": "Community Connect HQ (205 Hudson St.); BlackPlanet's institutional home.",
+      "claims": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-L-CHICAGO",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "place",
+      "name": "Chicago, IL",
+      "description": "BlackVoices' home after 1998 move; FakeShoreDrive's base; Chicago drill-era hip-hop documented via FSD/DatPiff.",
+      "claims": [
+        "CTL-RB-PRES-000002-C003",
+        "CTL-RB-PRES-000002-C028"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-L-CAMBRIDGE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "place",
+      "name": "Cambridge, MA",
+      "description": "Africana.com HQ.",
+      "claims": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-L-SF",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "place",
+      "name": "San Francisco, CA",
+      "description": "NetNoir's base; Internet Archive HQ (300 Funston Ave.).",
+      "claims": [
+        "CTL-RB-PRES-000002-C001"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-L-FERGUSON",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "place",
+      "name": "Ferguson, MO",
+      "description": "2014 protests seeded Documenting the Now and the Black Lives Matter social-media archive problem.",
+      "claims": [
+        "CTL-RB-PRES-000002-C031"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-L-BROWARD",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "place",
+      "name": "Broward County, FL",
+      "description": "African American Research Library and Cultural Center; Makiba Foster's base when ATBW launched.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-T-WAYBACK",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "technology",
+      "name": "Wayback Machine",
+      "description": "Archive of last resort for nearly every case; attacked but not breached at the content layer in Oct 2024.",
+      "claims": [
+        "CTL-RB-PRES-000002-C020",
+        "CTL-RB-PRES-000002-C025"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-T-TWARC",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "technology",
+      "name": "twarc / DocNow Hydrator / DocNow Catalog",
+      "description": "Open-source Twitter archiving tools; degraded by the 2023 API paywall.",
+      "claims": [
+        "CTL-RB-PRES-000002-C016"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-T-BROWSER",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "technology",
+      "name": "Browsertrix (Webrecorder)",
+      "description": "Web-archiving tool demonstrated for Black-collections archivists by ATBW (Oct 2024).",
+      "claims": [],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-T-WARC",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "technology",
+      "name": "WARC (web-archive file standard)",
+      "description": "Standard ATBW's WARC School teaches.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-T-PERMA",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "technology",
+      "name": "Perma.cc",
+      "description": "Library-consortium link-preservation network; a model for what Black scholarship lacks.",
+      "claims": [
+        "CTL-RB-PRES-000002-C019"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-NETNOIR-LAUNCH",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "NetNoir launch (June 1995)",
+      "description": "First Black-oriented online service on AOL and the web.",
+      "claims": [
+        "CTL-RB-PRES-000002-C001"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-AFRICANA-CLOSE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "Africana.com closure (Jan 31, 2005)",
+      "description": "Time Warner closure; features moved to AOL BlackVoices.",
+      "claims": [
+        "CTL-RB-PRES-000002-C003",
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-GEOCITIES-SHUTDOWN",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "GeoCities shutdown (Oct 26, 2009)",
+      "description": "Yahoo deletes unrescued user content; partial Archive Team/IA rescue.",
+      "claims": [
+        "CTL-RB-PRES-000002-C007",
+        "CTL-RB-PRES-000002-C008"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-MYSPACE-LOSS",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "MySpace loss confirmation (Mar 18, 2019)",
+      "description": "~50M songs (2003-2015) destroyed in server migration.",
+      "claims": [
+        "CTL-RB-PRES-000002-C005"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-VINE-SHUTDOWN",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "Vine app discontinuation (Jan 17, 2017); archive removal (~Apr 2019)",
+      "description": "Twitter kills Vine; read-only archive later removed.",
+      "claims": [
+        "CTL-RB-PRES-000002-C011",
+        "CTL-RB-PRES-000002-C012"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-YAHOOGROUPS-DEL",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "Yahoo Groups content deletion (Dec 14, 2019); closure (Dec 15, 2020)",
+      "description": "All previously posted content deleted; site fully closed a year later.",
+      "claims": [
+        "CTL-RB-PRES-000002-C009"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-TWITTER-API",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "Twitter ends free API access (Feb 13, 2023)",
+      "description": "Academic research track closed; archiving tools degraded.",
+      "claims": [
+        "CTL-RB-PRES-000002-C015",
+        "CTL-RB-PRES-000002-C016"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-DATPIFF-OUTAGE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "DatPiff outages (Mar 2023); IA partnership (Apr 2023); collection disappearance (2024)",
+      "description": "Mixtape platform dark; rescue collection vanishes unresolved.",
+      "claims": [
+        "CTL-RB-PRES-000002-C013",
+        "CTL-RB-PRES-000002-C014"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-ATBW-GRANT",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "ATBW Mellon grant (Mar 2023)",
+      "description": "$2.5M for Black web-archiving training + research.",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-IA-ATTACK",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "Internet Archive breach + DDoS (Oct 8-14, 2024)",
+      "description": "31M records breached; Wayback down ~6 days.",
+      "claims": [
+        "CTL-RB-PRES-000002-C020"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-ANDSCAPE",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "The Undefeated -> Andscape (Feb 28, 2022)",
+      "description": "Clean migration control case.",
+      "claims": [
+        "CTL-RB-PRES-000002-C029"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-E-FERGUSON",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "event",
+      "name": "Ferguson protests (2014)",
+      "description": "Seeded Documenting the Now and the social-media movement-archive problem.",
+      "claims": [
+        "CTL-RB-PRES-000002-C031"
+      ],
+      "privacy": "n/a"
+    },
+    {
+      "id": "ENT-O-MELLON",
+      "brief_id": "CTL-RB-PRES-000002",
+      "type": "organization",
+      "name": "Mellon Foundation",
+      "description": "$2.5M grant to Archiving the Black Web (Mar 2023).",
+      "claims": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "privacy": "n/a"
+    }
+  ]
+}

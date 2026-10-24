@@ -1,0 +1,353 @@
+[
+ {
+  "subject": "CTL-E-MUS2-026",
+  "relationship": "gave_name_to",
+  "object": "CTL-E-MUS2-039",
+  "note": "The Warehouse",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "resident_dj_at",
+  "object": "CTL-E-MUS2-026",
+  "note": "from March 1977",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-003",
+  "relationship": "founded_and_promoted",
+  "object": "CTL-E-MUS2-026",
+  "note": "",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-003",
+  "relationship": "offered_residency_to",
+  "object": "CTL-E-MUS2-004",
+  "note": "1976; declined",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-004",
+  "relationship": "recommended",
+  "object": "CTL-E-MUS2-001",
+  "note": "for the Warehouse residency",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "developed_dj_practice_with",
+  "object": "CTL-E-MUS2-004",
+  "note": "Continental Baths, NYC",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-003",
+  "relationship": "rebranded_as",
+  "object": "CTL-E-MUS2-027",
+  "note": "1983",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-002",
+  "relationship": "resident_dj_at",
+  "object": "CTL-E-MUS2-027",
+  "note": "from 1983",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "opened",
+  "object": "CTL-E-MUS2-028",
+  "note": "1983, after Warehouse split",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-020",
+  "relationship": "assembled",
+  "object": "CTL-E-MUS2-029",
+  "note": "1981",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023); CTL-DR-MUSIC-001",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-029",
+  "relationship": "broadcast_on",
+  "object": "CTL-E-MUS2-033",
+  "note": "",
+  "grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-005",
+  "relationship": "co_created_with",
+  "object": "CTL-E-MUS2-006",
+  "note": "'On & On' (1984)",
+  "grade": "SUPPORTED",
+  "provenance": "WCSU/NPR (2023); Gridface interview",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-005",
+  "relationship": "pressed_on",
+  "object": "CTL-E-MUS2-036",
+  "note": "Jan 1984",
+  "grade": "SUPPORTED",
+  "provenance": "NPR/KMUC (2012); WCSU/NPR (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-006",
+  "relationship": "wrote",
+  "object": "CTL-E-MUS2-043",
+  "note": "(Vince Lawrence wrote 'Love Can't Turn Around')",
+  "grade": "VERIFIED",
+  "provenance": "WCSU/NPR (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-012",
+  "relationship": "sang_on",
+  "object": "CTL-E-MUS2-043",
+  "note": "",
+  "grade": "VERIFIED",
+  "provenance": "WCSU/NPR (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-011",
+  "relationship": "released",
+  "object": "CTL-E-MUS2-043",
+  "note": "1986",
+  "grade": "VERIFIED",
+  "provenance": "WCSU/NPR (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-007",
+  "relationship": "authored",
+  "object": "CTL-E-MUS2-040",
+  "note": "",
+  "grade": "SUPPORTED",
+  "provenance": "Insomniac; RA",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "credited_on",
+  "object": "CTL-E-MUS2-040",
+  "note": "1987 Trax version; contested authorship",
+  "grade": "SUPPORTED",
+  "provenance": "Wikipedia 'Your Love (Jamie Principle song)'; Principle (2014)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-008",
+  "relationship": "produced",
+  "object": "CTL-E-MUS2-042",
+  "note": "1986",
+  "grade": "SUPPORTED",
+  "provenance": "Grammy.com",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-013",
+  "relationship": "created",
+  "object": "CTL-E-MUS2-041",
+  "note": "recorded to tape; club-tested by Hardy",
+  "grade": "SUPPORTED",
+  "provenance": "MusicRadar",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-002",
+  "relationship": "club_tested",
+  "object": "CTL-E-MUS2-041",
+  "note": "at the Music Box",
+  "grade": "SUPPORTED",
+  "provenance": "MusicRadar; NTS",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-031",
+  "relationship": "pressed",
+  "object": "CTL-E-MUS2-041",
+  "note": "1987",
+  "grade": "SUPPORTED",
+  "provenance": "MusicRadar; Wikipedia 'Phuture'",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-031",
+  "relationship": "pressed",
+  "object": "CTL-E-MUS2-042",
+  "note": "1986; first-label question unresolved",
+  "grade": "SUPPORTED",
+  "provenance": "Grammy.com; CTL-DR-BMI-002 quarantine",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-009",
+  "relationship": "produced_as",
+  "object": "CTL-E-MUS2-010",
+  "note": "Mr. Fingers / Fingers Inc.",
+  "grade": "VERIFIED",
+  "provenance": "NPR Illinois (2016); WCSU/NPR (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-021",
+  "relationship": "co_founded_with",
+  "object": "CTL-E-MUS2-022",
+  "note": "DJ International (1985)",
+  "grade": "SUPPORTED",
+  "provenance": "DJ Mag",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-011",
+  "relationship": "member_of",
+  "object": "CTL-E-MUS2-029",
+  "note": "",
+  "grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-017",
+  "relationship": "founded",
+  "object": "CTL-E-MUS2-030",
+  "note": "1977",
+  "grade": "VERIFIED",
+  "provenance": "Grooveist (2022); 5Mag; RA",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-018",
+  "relationship": "member_of",
+  "object": "CTL-E-MUS2-048",
+  "note": "",
+  "grade": "SUPPORTED",
+  "provenance": "CBMR oral history",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-025",
+  "relationship": "promoted",
+  "object": "CTL-E-MUS2-038",
+  "note": "July 12, 1979",
+  "grade": "VERIFIED",
+  "provenance": "Britannica",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-044",
+  "relationship": "enabled",
+  "object": "CTL-E-MUS2-041",
+  "note": "acid bassline",
+  "grade": "SUPPORTED",
+  "provenance": "MusicRadar",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-024",
+  "relationship": "designed",
+  "object": "CTL-E-MUS2-044",
+  "note": "1981",
+  "grade": "SUPPORTED",
+  "provenance": "en.wikipedia 'Roland TB-303'",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-045",
+  "relationship": "used_on",
+  "object": "CTL-E-MUS2-041",
+  "note": "",
+  "grade": "SUPPORTED",
+  "provenance": "Wikipedia 'Phuture' (cited)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "used",
+  "object": "CTL-E-MUS2-046",
+  "note": "re-edits of disco/soul",
+  "grade": "VERIFIED",
+  "provenance": "City landmark report (Knuckles/Levan process)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-004",
+  "relationship": "used",
+  "object": "CTL-E-MUS2-046",
+  "note": "",
+  "grade": "VERIFIED",
+  "provenance": "City landmark report (Knuckles/Levan process)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-026",
+  "relationship": "hosted",
+  "object": "CTL-E-MUS2-047",
+  "note": "the dance community",
+  "grade": "VERIFIED",
+  "provenance": "City landmark report; Salkind oral histories",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-043",
+  "relationship": "charted_in",
+  "object": "United Kingdom",
+  "note": "UK Top 10, 1986",
+  "grade": "VERIFIED",
+  "provenance": "WCSU/NPR (2023)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-038",
+  "relationship": "context_not_cause_for",
+  "object": "house music",
+  "note": "disco continuity frame",
+  "grade": "DISPUTED",
+  "provenance": "CTL-DR-MUSIC-001 red team; Lady D interview",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-034",
+  "relationship": "connected_scene_to",
+  "object": "Detroit techno",
+  "note": "Detroit producers encountered house at Imports Etc.",
+  "grade": "SUPPORTED",
+  "provenance": "SPIN (Nov 1986)",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ },
+ {
+  "subject": "CTL-E-MUS2-037",
+  "relationship": "released",
+  "object": "Z-Factor 'Fantasy'",
+  "note": "March 1984",
+  "grade": "PROVISIONAL",
+  "provenance": "Hyperreal 'Sample and Hold'",
+  "note_for_graph": "VERIFIED-only edges feed verified graph; SUPPORTED edges carry grade flag"
+ }
+]

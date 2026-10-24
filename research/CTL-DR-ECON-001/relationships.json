@@ -1,0 +1,557 @@
+{
+  "project": "CTL-DR-ECON-001",
+  "title": "The Black Business Ecosystem",
+  "generated": "2026-09-28",
+  "policy": "Verified-only. Non-Verified edges held out (see gaps.md). Endpoints normalized to ECON-IDs; bracketed refs are external (sibling CTL projects).",
+  "relationships": [
+    {
+      "date_context": "1929 (disputed); bankruptcy 1969/1971",
+      "evidence": "Wikipedia 'Samuel B. Fuller'; FEE; HNN (2005).",
+      "grade": "Verified",
+      "object": "ECON-025",
+      "relation": "founded",
+      "source": "Wikipedia 'Samuel B. Fuller'",
+      "subject": "ECON-055"
+    },
+    {
+      "date_context": "1961 purchase from Englestein Company; lost 1968",
+      "evidence": "City of Chicago New Regal Theater designation report (Feb 1989): 'the Regal came under black ownership for the first time in 1961 when S.B. Fuller purchased it from the Englestein Company,' losing it in 1968 to financial problems.",
+      "grade": "Verified",
+      "object": "Regal Theater (original) [CTL-DR-BVM-005 venue-regal-theater-original]",
+      "relation": "purchased",
+      "source": "City of Chicago, New Regal Theater designation report (1989)",
+      "subject": "ECON-055"
+    },
+    {
+      "date_context": "Before founding Johnson Products (1954)",
+      "evidence": "Wikipedia 'Samuel B. Fuller': Fuller Products 'gave training to many future entrepreneurs and other leaders,' listing George Ellis Johnson. Face2Face Africa (2021) concurs.",
+      "grade": "Verified",
+      "object": "George E. Johnson (founder of ECON-W2-011)",
+      "relation": "trained",
+      "source": "Wikipedia 'Samuel B. Fuller'; Face2Face Africa (2021)",
+      "subject": "ECON-055"
+    },
+    {
+      "date_context": "Before founding JPC (1942)",
+      "evidence": "Face2Face Africa (2021): 'The likes of John H. Johnson of Johnson Publishing... were trained and inspired by Fuller.'",
+      "grade": "Verified",
+      "object": "ECON-035",
+      "relation": "trained",
+      "source": "Face2Face Africa (2021)",
+      "subject": "ECON-055"
+    },
+    {
+      "date_context": "Fuller's door-to-door company; Dudley was a Fuller distributor",
+      "evidence": "Wikipedia 'Samuel B. Fuller': 'Joe L. Dudley Senior of Greensboro, North Carolina had a similar business, the Dudley Products Company, which was a major distributor of Fuller products.'",
+      "grade": "Verified",
+      "object": "Dudley Products Company",
+      "relation": "distributed-products-of",
+      "source": "Wikipedia 'Samuel B. Fuller'",
+      "subject": "ECON-025"
+    },
+    {
+      "date_context": "1898 Kansas City; 1911 Chicago",
+      "evidence": "BlackPast.org; CTL-DR-BVM-005.",
+      "grade": "Verified",
+      "object": "ECON-049",
+      "relation": "founded",
+      "source": "BlackPast.org",
+      "subject": "ECON-008"
+    },
+    {
+      "date_context": "1916-1925, Chicago",
+      "evidence": "Wikipedia 'Half-Century Magazine'; ERIC ED189632.",
+      "grade": "Verified",
+      "object": "ECON-028",
+      "relation": "founded",
+      "source": "Wikipedia; ERIC",
+      "subject": "ECON-008"
+    },
+    {
+      "date_context": "1920s",
+      "evidence": "Wikipedia 'Anthony Overton'; BlackPast.org.",
+      "grade": "Verified",
+      "object": "ECON-027",
+      "relation": "owned",
+      "source": "Wikipedia; BlackPast.org",
+      "subject": "ECON-008"
+    },
+    {
+      "date_context": "1922 (year disputed 1921/1922/1923)",
+      "evidence": "BlackPast.org; CTL-DR-BVM-005 (Douglass National Bank entity).",
+      "grade": "Verified",
+      "object": "Douglass National Bank [CTL-DR-BVM-005]",
+      "relation": "founded",
+      "source": "BlackPast.org; CTL-DR-BVM-005",
+      "subject": "ECON-008"
+    },
+    {
+      "date_context": "1929 commissioned; newspaper 1925/26",
+      "evidence": "Next City (2019); CTL-DR-BVM-005 (Chicago Bee Building; Chicago Bee).",
+      "grade": "Verified",
+      "object": "Chicago Bee Building / Chicago Bee [CTL-DR-BVM-005]",
+      "relation": "commissioned-founded",
+      "source": "Next City (2019); CTL-DR-BVM-005",
+      "subject": "ECON-008"
+    },
+    {
+      "date_context": "1920s-1946",
+      "evidence": "BlackPast.org; Next City (2019).",
+      "grade": "Verified",
+      "object": "ECON-063",
+      "relation": "owned",
+      "source": "BlackPast.org; Next City (2019)",
+      "subject": "ECON-008"
+    },
+    {
+      "date_context": "1942-1943",
+      "evidence": "Wikipedia 'Johnson Publishing Company': 'The first headquarters from 1942 until 1943, was inside the Supreme Life Building at 3501 S. Parkway Ave.'",
+      "grade": "Verified",
+      "object": "ECON-061",
+      "relation": "tenant-of",
+      "source": "Wikipedia 'Johnson Publishing Company'",
+      "subject": "ECON-035"
+    },
+    {
+      "date_context": "1936 office assistant; board 1957; largest shareholder 1964",
+      "evidence": "stephenhicks.org (Forbes reprint): Johnson's first job was at Supreme Liberty Life; joined board 1957 after buying 1,000 shares; by 1964 largest shareholder.",
+      "grade": "Verified",
+      "object": "ECON-061",
+      "relation": "worked-for / board-member / shareholder",
+      "source": "stephenhicks.org (Forbes reprint, 2012)",
+      "subject": "ECON-035"
+    },
+    {
+      "date_context": "1942",
+      "evidence": "CTL-DR-BPM-003 co-jpc (Verified).",
+      "grade": "Verified",
+      "object": "ECON-035",
+      "relation": "founded",
+      "source": "CTL-DR-BPM-003",
+      "subject": "ECON-035"
+    },
+    {
+      "date_context": "1973-1994",
+      "evidence": "CTL-DR-BPM-003 red-team: JPC bought WGRT May 1973 ($1.8M, first Black-owned Chicago radio); sold Dec 1994.",
+      "grade": "Verified",
+      "object": "WJPC (radio) [CTL-DR-BPM-003 co-wjpc]",
+      "relation": "owned",
+      "source": "CTL-DR-BPM-003",
+      "subject": "ECON-035"
+    },
+    {
+      "date_context": "1930-1957",
+      "evidence": "SHSMO; LA Sentinel.",
+      "grade": "Verified",
+      "object": "ECON-052",
+      "relation": "headquartered (Chicago era)",
+      "source": "SHSMO",
+      "subject": "ECON-007"
+    },
+    {
+      "date_context": "1919 founded as Liberty Life; 1929 merger",
+      "evidence": "Wikipedia 'Frank L. Gillespie'; insurance.museum.",
+      "grade": "Verified",
+      "object": "ECON-061",
+      "relation": "founded",
+      "source": "Wikipedia",
+      "subject": "Frank L. Gillespie"
+    },
+    {
+      "date_context": "1954 Chicago",
+      "evidence": "Black Enterprise; BET.com (2009).",
+      "grade": "Verified",
+      "object": "ECON-034",
+      "relation": "founded",
+      "source": "Black Enterprise; BET.com",
+      "subject": "George E. Johnson and Joan Johnson"
+    },
+    {
+      "date_context": "1993 sale to Ivax; 2009 Black-investor buyback",
+      "evidence": "Wikipedia 'Johnson Products Company'; Black Enterprise (No. 18); BET.com (2009).",
+      "grade": "Verified",
+      "object": "ECON-034",
+      "relation": "sold-to / reacquired",
+      "source": "Wikipedia; Black Enterprise; BET.com",
+      "subject": "Ivax Corp (1993) / Black investor consortium (2009)"
+    },
+    {
+      "date_context": "1964 Chicago basement",
+      "evidence": "TheHistoryMakers.org (oral histories, 2002).",
+      "grade": "Verified",
+      "object": "ECON-057",
+      "relation": "co-founded",
+      "source": "TheHistoryMakers.org",
+      "subject": "Edward and Bettiann Gardner"
+    },
+    {
+      "date_context": "1988 merger; 1998 L'Or\u00e9al acquisition",
+      "evidence": "Black Enterprise; TheHistoryMakers.org.",
+      "grade": "Verified",
+      "object": "ECON-057",
+      "relation": "merged-with / acquired-by",
+      "source": "Black Enterprise",
+      "subject": "Carson Products (1988) / L'Or\u00e9al (1998)"
+    },
+    {
+      "date_context": "1985-87 purchase; opened October 1987",
+      "evidence": "City of Chicago New Regal Theater report (1989); TheHistoryMakers.org.",
+      "grade": "Verified",
+      "object": "New Regal Theater (Avalon Theater)",
+      "relation": "revived",
+      "source": "City of Chicago (1989); TheHistoryMakers.org",
+      "subject": "Edward and Bettiann Gardner"
+    },
+    {
+      "date_context": "1963 (white-owned founding); 1979 Midway Broadcasting; calls restored 1984",
+      "evidence": "Congressional Record; Wikipedia 'WVON'; DePaul paper.",
+      "grade": "Verified",
+      "object": "ECON-064",
+      "relation": "founded-then-Black-owned",
+      "source": "Congressional Record; Wikipedia",
+      "subject": "Chess Records / Pervis Spann and Wesley South"
+    },
+    {
+      "date_context": "1965-2017",
+      "evidence": "Banking Exchange; Black Enterprise; Congressional Record (Davis tribute, 2013).",
+      "grade": "Verified",
+      "object": "ECON-056",
+      "relation": "founded / chaired",
+      "source": "Banking Exchange; Congressional Record",
+      "subject": "Chicago businessmen (founders) / Jacoby Dickens (chair 1982/83-2013)"
+    },
+    {
+      "date_context": "1933 Chicago",
+      "evidence": "Black Enterprise (2026); leakandsonsfuneralhomes.com.",
+      "grade": "Verified",
+      "object": "ECON-040",
+      "relation": "founded",
+      "source": "Black Enterprise (2026)",
+      "subject": "Rev. A.R. Leak"
+    },
+    {
+      "date_context": "1918 (St. Louis); relocated Chicago 1930",
+      "evidence": "DRLOIH Journal; Face2Face Africa; LA Sentinel",
+      "grade": "Verified",
+      "object": "ECON-052",
+      "relation": "founded",
+      "source": "DRLOIH Journal; Face2Face Africa",
+      "subject": "ECON-007"
+    },
+    {
+      "date_context": "1930",
+      "evidence": "DRLOIH Journal; LA Sentinel; Face2Face Africa (all date the move to 1930; LA Sentinel/Face2Face use the 'Poro Block' name)",
+      "grade": "Verified",
+      "object": "Chicago ('Poro Block')",
+      "relation": "relocated to",
+      "source": "DRLOIH Journal; Face2Face Africa",
+      "subject": "ECON-052"
+    },
+    {
+      "date_context": "1916",
+      "evidence": "Lemelson-MIT Center; Happi; National Inventors Hall of Fame fact sheet",
+      "grade": "Verified",
+      "object": "A.B. Molar Beauty School (ECON-W3-003)",
+      "relation": "graduated from (first Black graduate)",
+      "source": "Lemelson-MIT Center; Happi",
+      "subject": "Marjorie Stewart Joyner"
+    },
+    {
+      "date_context": "1916",
+      "evidence": "Lemelson-MIT Center; Happi",
+      "grade": "Verified",
+      "object": "her beauty salon (ECON-W3-002)",
+      "relation": "opened",
+      "source": "Lemelson-MIT Center; Happi",
+      "subject": "Marjorie Stewart Joyner"
+    },
+    {
+      "date_context": "c. 1920-1970s",
+      "evidence": "Lemelson-MIT Center; Happi",
+      "grade": "Verified",
+      "object": "Madame C.J. Walker beauty schools",
+      "relation": "national supervisor of",
+      "source": "Lemelson-MIT Center; Happi",
+      "subject": "Marjorie Stewart Joyner"
+    },
+    {
+      "date_context": "1933",
+      "evidence": "Black Enterprise (2026-06-01); Leak & Sons company site",
+      "grade": "Verified",
+      "object": "Leak & Sons Funeral Chapels (ECON-W3-006)",
+      "relation": "founded",
+      "source": "Black Enterprise",
+      "subject": "Rev. A.R. Leak"
+    },
+    {
+      "date_context": "1959",
+      "evidence": "Leak & Sons company site",
+      "grade": "Verified",
+      "object": "7838 S. Cottage Grove Ave.",
+      "relation": "relocated to",
+      "source": "Leak & Sons company site",
+      "subject": "Leak & Sons Funeral Chapels (ECON-W3-006)"
+    },
+    {
+      "date_context": "1969",
+      "evidence": "The HistoryMakers finding aid A2007_156",
+      "grade": "Verified",
+      "object": "George's Music Room (ECON-W3-007)",
+      "relation": "assumed ownership of / renamed",
+      "source": "The HistoryMakers",
+      "subject": "George Xavier Daniels"
+    },
+    {
+      "date_context": "n.d.",
+      "evidence": "The HistoryMakers finding aid A2007_156",
+      "grade": "Verified",
+      "object": "National United Independent Retailers",
+      "relation": "created and headed",
+      "source": "The HistoryMakers",
+      "subject": "George Xavier Daniels"
+    },
+    {
+      "date_context": "1933",
+      "evidence": "Daily Northwestern (2001-10-17)",
+      "grade": "Verified",
+      "object": "Palm Tavern (ECON-W3-008)",
+      "relation": "opened",
+      "source": "Daily Northwestern",
+      "subject": "James 'Genial Jim' Knight"
+    },
+    {
+      "date_context": "1956-2001",
+      "evidence": "Daily Northwestern (2001-10-17)",
+      "grade": "Verified",
+      "object": "Palm Tavern (ECON-W3-008)",
+      "relation": "owned",
+      "source": "Daily Northwestern",
+      "subject": "Geraldine 'Mama Gerri' Oliver"
+    },
+    {
+      "date_context": "2001",
+      "evidence": "Daily Northwestern (2001-10-17)",
+      "grade": "Verified",
+      "object": "Palm Tavern (ECON-W3-008)",
+      "relation": "seized by eminent domain",
+      "source": "Daily Northwestern",
+      "subject": "City of Chicago"
+    },
+    {
+      "date_context": "1994",
+      "evidence": "In These Times; Wikipedia 'Maxwell Street'",
+      "grade": "Verified",
+      "object": "ECON-045",
+      "relation": "demolished to accommodate",
+      "source": "In These Times",
+      "subject": "University of Illinois at Chicago campus expansion"
+    },
+    {
+      "date_context": "1920s-1940s",
+      "evidence": "Google Arts & Culture; voices.uchicago.edu; chicagohistory.org",
+      "grade": "Verified",
+      "object": "ECON-045",
+      "relation": "sold and performed at (vendors, musicians)",
+      "source": "Google Arts & Culture",
+      "subject": "Black street vendors and blues musicians"
+    },
+    {
+      "date_context": "1920-1971",
+      "evidence": "UChicago Law Dickerson centennial page states Dickerson became Supreme Liberty Life's general counsel in 1920/1921 and its president until 1971; corroborated by NPS and Stanford King Institute.",
+      "grade": "Verified",
+      "object": "ECON-061",
+      "relation": "served as general counsel of, then president and chairman of",
+      "source": "UChicago Law; NPS; Stanford King Institute",
+      "source_date": "2020-2021; 2022; n.d.",
+      "subject": "ECON-023"
+    },
+    {
+      "date_context": "1940",
+      "evidence": "UChicago News (2025): Dickerson 'advocated for the mortgage loan Supreme Life made to Carl Hansberry'; UChicago Library guide: he argued Hansberry v. Lee before the Supreme Court.",
+      "grade": "Verified",
+      "object": "Carl Hansberry (and the Hansberry v. Lee case)",
+      "relation": "engineered the mortgage loan for; represented before the U.S. Supreme Court",
+      "source": "UChicago News; UChicago Library guide",
+      "source_date": "2025; n.d.",
+      "subject": "ECON-023"
+    },
+    {
+      "date_context": "1969-1971 (dedicated 1972-05-16)",
+      "evidence": "City of Chicago landmark designation report (Oct 2017): Moutoussamy designed the Johnson Publishing Company Building at 820 S. Michigan.",
+      "grade": "Verified",
+      "object": "Johnson Publishing Company Building (820 S. Michigan)",
+      "relation": "designed",
+      "source": "City of Chicago landmark designation report",
+      "source_date": "2017-10",
+      "subject": "ECON-033"
+    },
+    {
+      "date_context": "career",
+      "evidence": "City of Chicago landmark designation report (Oct 2017): Moutoussamy was the first African American partner in a large Chicago architectural firm, Dubin, Dubin, Black & Moutoussamy.",
+      "grade": "Verified",
+      "object": "Dubin, Dubin, Black & Moutoussamy",
+      "relation": "partner in (first African American partner in a large Chicago firm)",
+      "source": "City of Chicago landmark designation report",
+      "source_date": "2017-10",
+      "subject": "ECON-033"
+    },
+    {
+      "date_context": "1926",
+      "evidence": "Art Institute of Chicago identifies Bailey as designer of the National Pythian Temple; NPS nomination corroborates the 1926 erection.",
+      "grade": "Verified",
+      "object": "National Pythian Temple",
+      "relation": "designed",
+      "source": "Art Institute of Chicago; NPS nomination",
+      "source_date": "n.d.; 1985",
+      "subject": "ECON-065"
+    },
+    {
+      "date_context": "1930s-1940s",
+      "evidence": "Northwestern Magazine (2018): Washington worked at Binga State Bank 'under Arthur Wilson'; Black Enterprise (2018): she worked as assistant to Wilson, vice president of Binga Bank.",
+      "grade": "Verified",
+      "object": "Arthur Wilson (Binga State Bank)",
+      "relation": "trained under / worked as assistant to",
+      "source": "Northwestern Magazine; Black Enterprise",
+      "source_date": "2018; 2018",
+      "subject": "ECON-044"
+    },
+    {
+      "date_context": "1964",
+      "evidence": "Newcity Design (2015) identifies Independence Bank as co-founded by George Johnson; AP obituary (2026) independently confirms he founded Independence Bank in 1964.",
+      "grade": "Verified",
+      "object": "ECON-031",
+      "relation": "co-founded",
+      "source": "Newcity Design; AP via v103",
+      "source_date": "2015-11-19; 2026-07",
+      "subject": "George E. Johnson"
+    },
+    {
+      "date_context": "1954",
+      "evidence": "AP obituary (2026): 'Johnson founded Johnson Products in 1954'; v103 corroborates.",
+      "grade": "Verified",
+      "object": "ECON-034",
+      "relation": "founded (with Joan Johnson)",
+      "source": "AP (Hamilton County Herald); v103",
+      "source_date": "2026-07",
+      "subject": "George E. Johnson"
+    },
+    {
+      "date_context": "1961",
+      "evidence": "CTL-DR-BVM-005 entities.json citing the City of Chicago's 1989 landmark designation report for the Regal Theater.",
+      "grade": "Verified",
+      "object": "ECON-053",
+      "relation": "purchased (first Black ownership of the venue)",
+      "source": "CTL-DR-BVM-005 (City of Chicago 1989 landmark report)",
+      "source_date": "2026-09-28",
+      "subject": "ECON-055"
+    },
+    {
+      "date_context": "1934 (statement); company active 1919\u20131962+",
+      "evidence": "Supreme Liberty Life president Harry H. Pace (1934), quoted in Houchins, 'Causes of Negro Insurance Company Failures,' Negro Statistical Bulletin #15 (1937), p. 5; reproduced in a Cambridge-published peer-reviewed article on Black insurers and homeownership.",
+      "grade": "Verified",
+      "object": "Black homeowners (mortgage money)",
+      "relation": "provided mortgage capital to",
+      "source": "Houchins (1937) via Cambridge peer-reviewed article",
+      "subject": "Supreme Liberty Life Insurance Company"
+    },
+    {
+      "date_context": "1936\u20131940",
+      "evidence": "Congressional Record (Extensions of Remarks, vol. 144, issue 11): Johnson was hired by Supreme Liberty Life's president after a 1936 Urban League banquet speech and worked in the company's offices for four years.",
+      "grade": "Verified",
+      "object": "ECON-035",
+      "relation": "employed",
+      "source": "Congressional Record, congress.gov",
+      "subject": "Supreme Liberty Life Insurance Company"
+    },
+    {
+      "date_context": "1942",
+      "evidence": "Johnson founded Negro Digest (1942) and Ebony (1945) after his Supreme Liberty Life employment; Congressional Record narrative links the employment to the founding.",
+      "grade": "Verified",
+      "object": "ECON-035",
+      "relation": "worker became founder of",
+      "source": "Congressional Record, congress.gov",
+      "subject": "ECON-035"
+    },
+    {
+      "date_context": "1961",
+      "evidence": "Fuller purchased the Regal Theater (first Black ownership since 1928); documented by CTL-DR-BVM-005.",
+      "grade": "Verified",
+      "object": "ECON-053",
+      "relation": "manufacturing profits bought",
+      "source": "face2faceafrica.com; CTL-DR-BVM-005",
+      "subject": "ECON-025"
+    },
+    {
+      "date_context": "1982\u20132011 (30-year supplier relationship)",
+      "evidence": "Shelby Report (2026): Best Chicago Meat 'produced burgers and sausages for Moo & Oink for 30 years' before the auction purchase.",
+      "grade": "Verified",
+      "object": "Moo & Oink (retailer)",
+      "relation": "supplied",
+      "source": "theshelbyreport.com",
+      "subject": "Best Chicago Meat Co."
+    },
+    {
+      "date_context": "2012",
+      "evidence": "Meat & Poultry trade press: brand and IP bought at public auction for $530,000 after the 2011 Chapter 7; Shelby Report: brand rebuilt to 300 stores in five states under Black-owned ownership.",
+      "grade": "Verified",
+      "object": "Moo & Oink brand and IP",
+      "relation": "acquired out of bankruptcy",
+      "source": "meatpoultry.com; theshelbyreport.com",
+      "subject": "Best Chicago Meat Co."
+    },
+    {
+      "date_context": "1966 (Easter weekend)",
+      "evidence": "Royal Holloway PhD thesis (2024, citing SCLC board reports): Country Delight lost $500,000+ during the boycott and capitulated with 44 jobs; Borden, Hawthorn-Mellody, Wanzer, Bowman followed.",
+      "grade": "Verified",
+      "object": "Country Delight dairy (and four other dairies)",
+      "relation": "boycotted into hiring concessions",
+      "source": "pure.royalholloway.ac.uk (PhD thesis)",
+      "subject": "Operation Breadbasket"
+    },
+    {
+      "date_context": "1929\u2013c.1932",
+      "evidence": "Opie, Southern Food and Civil Rights: Porter, Bibb (slogan coiner), and MacNeal created the campaign with the NAACP; targeted A&P and Silver Dollar Food chains with picketing and boycotts.",
+      "grade": "Verified",
+      "object": "A&P and Silver Dollar Food grocery chains",
+      "relation": "boycotted for Black jobs",
+      "source": "everand.com (Opie ebook); briandolinar.com (Durham essay, Harsh Collection)",
+      "subject": "ECON-001"
+    },
+    {
+      "date_context": "1931",
+      "evidence": "CTL-DR-BVM-005: the Regal (built 1928 by National Theater Corporation) was sold to the Balaban & Katz chain in 1931 \u2014 corporate consolidation of a Black-audience anchor venue.",
+      "grade": "Verified",
+      "object": "ECON-053",
+      "relation": "chain consolidated",
+      "source": "CTL-DR-BVM-005",
+      "subject": "Balaban & Katz"
+    },
+    {
+      "date_context": "1966\u20132002",
+      "evidence": "CityCast Chicago: city declared the market 'slum and blighted' (1966); UIC received eminent-domain permission; market moved 1994 over vendor protests; final buildings demolished 2002; vendors fell 1,200+ to ~35.",
+      "grade": "Verified",
+      "object": "ECON-045",
+      "relation": "eminent-domain / urban renewal displaced",
+      "source": "chicago.citycast.fm; chicago.gov",
+      "subject": "City of Chicago / UIC expansion"
+    },
+    {
+      "date_context": "1960s\u20131990s",
+      "evidence": "Weems (OHCHR submission; Marketplace 2020 interview): white insurance giants aggressively pursued the Black consumer market and recruited top Black agents; Black insurers fell from 50 (1962) to 23 (1992), unable to expand client base while losing policyholders.",
+      "grade": "Verified",
+      "object": "Black-owned insurance companies",
+      "relation": "entered market and poached agents/customers from",
+      "source": "ohchr.org (Weems); marketplace.org",
+      "subject": "White insurance industry giants (post-integration)"
+    },
+    {
+      "date_context": "1993\u20132026",
+      "evidence": "Black Enterprise (2026): A.R. Leak \u2192 Spencer Leak Sr. (CEO after 1993) \u2192 Spencer Leak Jr. (VP, d. 2026) and brothers Stacy and Stephen; three locations.",
+      "grade": "Verified",
+      "object": "Spencer Leak Sr.; Spencer Leak Jr. and brothers",
+      "relation": "intergenerational transfer to",
+      "source": "blackenterprise.com",
+      "subject": "A.R. Leak (founder, Leak & Sons)"
+    }
+  ]
+}

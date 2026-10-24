@@ -1,0 +1,534 @@
+{
+  "brief_id": "CTL-RB-PRES-000001",
+  "brief_title": "Who Preserves Black Chicago?",
+  "version": "0.1",
+  "generated": "2026-09-28",
+  "entity_count": 32,
+  "entities": [
+    {
+      "claims": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C054",
+        "C055",
+        "C056",
+        "C057",
+        "C067",
+        "C068"
+      ],
+      "evidence": [
+        "chipublib.org — Harsh collection access page (verified 2026-09-28)",
+        "CPL archival finding aids (Harsh; Harold Washington Archives & Collections)",
+        "City of Chicago Black Renaissance landmark report",
+        "Editor & Publisher — Abbott-Sengstacke donation (2009)"
+      ],
+      "id": "E-CPL",
+      "name": "Chicago Public Library",
+      "notes": "Parent institution of the Harsh Collection and the Harold Washington Archives & Collections. Harsh is its flagship Black research collection; HWLC Special Collections (9th floor) hold the Harold Washington papers.",
+      "privacy_status": "no private data; public institutional addresses only",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C005",
+        "C009",
+        "C001",
+        "C002",
+        "C006",
+        "C007",
+        "C072"
+      ],
+      "evidence": [
+        "chipublib.org — collection access page (verified 2026-09-28)",
+        "City of Chicago landmark report"
+      ],
+      "id": "E-HARSH",
+      "name": "Vivian G. Harsh Research Collection of Afro-American History and Literature",
+      "notes": "Housed at the Carter G. Woodson Regional Library, Washington Heights. Described by CPL as the Midwest's largest Black history collection (institutional self-description). Currently closed for maintenance (C001).",
+      "privacy_status": "no private data",
+      "type": "collection",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C006"
+      ],
+      "evidence": [
+        "Editor & Publisher — donation report (2009)"
+      ],
+      "id": "E-ABBOTT-SENGSTACKE",
+      "name": "Abbott-Sengstacke Family Papers",
+      "notes": "The Chicago Defender's founding-family archive. Kept in Chicago by donor choice after national bids. ~83 boxes, ~4,000 photos, ~100 home movies. Must not be equated with the Defender's corporate archive (C066).",
+      "privacy_status": "no private data",
+      "type": "collection",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C007"
+      ],
+      "evidence": [
+        "chipublib.org — Illinois Writers Project finding aid"
+      ],
+      "id": "E-NEGRO-IL",
+      "name": "Illinois Writers Project 'Negro in Illinois' Papers",
+      "notes": "1936–1942, 53 boxes, no restrictions, majority digitized. Strongest digitization example in the Harsh holdings.",
+      "privacy_status": "no private data",
+      "type": "collection",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C010",
+        "C011",
+        "C012",
+        "C013",
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C018",
+        "C019"
+      ],
+      "evidence": [
+        "dusablemuseum.org — five-year archives plan",
+        "Smithsonian Magazine — founding coverage",
+        "Legal Talk Network podcast (Feb 2025) — Irmer interview",
+        "2018 Hamilton Institute announcement"
+      ],
+      "id": "E-DUSABLE",
+      "name": "DuSable Black History Museum and Education Center",
+      "notes": "Founded 1961 as the Ebony Museum of Negro History. Collection size DISPUTED (13,000 vs 15,000+). Archive access: by appointment (SUPPORTED, not primary).",
+      "privacy_status": "no private data; publicly documented addresses only",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C020",
+        "C021",
+        "C022"
+      ],
+      "evidence": [
+        "chicagohistory.org — research center page (verified 2026-09-28)",
+        "libguides.chicagohistory.org — research portal"
+      ],
+      "id": "E-CHM",
+      "name": "Chicago History Museum — Abakanowicz Research Center",
+      "notes": "Most openly accessible major repository: free, no appointment required. Some finding aids temporarily offline (C021).",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C023",
+        "C024",
+        "C025",
+        "C026",
+        "C027",
+        "C028",
+        "C070"
+      ],
+      "evidence": [
+        "bmrc.lib.uchicago.edu — membership and mission pages",
+        "UChicago News",
+        "BMRC YouTube video (own description: 26 members)"
+      ],
+      "id": "E-BMRC",
+      "name": "Black Metropolis Research Consortium",
+      "notes": "Launched 2006 at UChicago (host). 20+ members (own video: 26). Searchable Archives Portal; 95 summer fellowships since 2008 (ca. 2019).",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C029",
+        "C030"
+      ],
+      "evidence": [
+        "newberry.org — Chicago Renaissance Quick Guide (verified 2026-09-28)"
+      ],
+      "id": "E-NEWBERRY",
+      "name": "Newberry Library",
+      "notes": "Independent research library. Black Chicago strengths: Pullman Company Records, Jack Conroy Papers, Mark J. Satter Papers, Great Migration lantern slides (1922–23). Reading rooms free with free reader card.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C031",
+        "C032"
+      ],
+      "evidence": [
+        "Collection directories"
+      ],
+      "id": "E-UCHICAGO",
+      "name": "University of Chicago — Hanna Holborn Gray Special Collections Research Center",
+      "notes": "Ida B. Wells Papers; Julius Rosenwald Papers (1905–1963, 44 linear feet, unrestricted). BMRC host; namesake context: Drake and Cayton's Black Metropolis (1945).",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C033"
+      ],
+      "evidence": [
+        "bmrc.lib.uchicago.edu — membership page"
+      ],
+      "id": "E-NORTHWESTERN",
+      "name": "Northwestern University Libraries",
+      "notes": "BMRC member; board representation. Collection-level Black Chicago descriptions not verified in this pilot.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C034",
+        "C035"
+      ],
+      "evidence": [
+        "bmrc.lib.uchicago.edu — UIC member entry"
+      ],
+      "id": "E-UIC",
+      "name": "University of Illinois Chicago — Special Collections and University Archives",
+      "notes": "Black strengths: Chicago Urban League Records, Hyde Park Neighborhood Club Records, Maxwell Street Exhibition Photographs. Appointment-only (SUPPORTED via BMRC page; confirm against UIC's own page before reuse).",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C036",
+        "C037"
+      ],
+      "evidence": [
+        "catalog.csu.edu — special collections catalog"
+      ],
+      "id": "E-CSU",
+      "name": "Chicago State University — Gwendolyn Brooks Library",
+      "notes": "Focus: African American history, literature, politics; Chicago neighborhoods. Holds Brooks Black Writers' Conference AV, Lerone Bennett Jr. Papers, Provident Hospital Collection, and more.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C038",
+        "C039",
+        "C040",
+        "C041",
+        "C042",
+        "C047"
+      ],
+      "evidence": [
+        "aaa.si.edu — repository survey (verified)",
+        "Driehaus Foundation (2025)"
+      ],
+      "id": "E-SSAC",
+      "name": "South Side Community Art Center",
+      "notes": "Founded 1940 (committee 1938); oldest African American art center in the U.S.; National Treasure (2017). Archives: 75 linear feet, 1938–2008, appointment-only. $15M renovation, completion anticipated 2027.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C043",
+        "C044"
+      ],
+      "evidence": [
+        "edit.cookcountyil.gov — CARO page (verified 2026-09-28)",
+        "UChicago Harris news"
+      ],
+      "id": "E-COOKCOUNTY",
+      "name": "Cook County Historic Archives and Records Office",
+      "notes": "Established 2020; first Manager of Archives Skyla Hearn. Currently closed to the public; remote reference only.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C045",
+        "C046",
+        "C047",
+        "C048"
+      ],
+      "evidence": [
+        "NPR (2026-09-19)"
+      ],
+      "id": "E-SHOREFRONT",
+      "name": "Shorefront Legacy Center",
+      "notes": "Founded by Morris 'Dino' Robinson; ~30 years documenting Black life on Chicago's North Shore; housed in the basement of Evanston's Lula B. Sherman Church. Records underpinned Evanston's reparations research. Exact access terms UNRESOLVED.",
+      "privacy_status": "no private data; church basement is the archive's own stated location in NPR coverage",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C049",
+        "C050",
+        "C051",
+        "C052",
+        "C053"
+      ],
+      "evidence": [
+        "Rebuild Foundation collection descriptions; press coverage"
+      ],
+      "id": "E-REBUILD",
+      "name": "Rebuild Foundation",
+      "notes": "Artist-led nonprofit (501(c)(3) December 2010; founder Theaster Gates). Stony Island Arts Bank (Greater Grand Crossing): 60,000+ lantern slides, JPC books/periodicals, Frankie Knuckles vinyl, Edward J. Williams Collection. Stated research-access policy UNRESOLVED.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C058"
+      ],
+      "evidence": [
+        "BMRC founding accounts"
+      ],
+      "id": "E-COLUMBIA",
+      "name": "Columbia College Chicago — Center for Black Music Research",
+      "notes": "BMRC founding-discussion participant; temporarily housed SSAC administrative archives during renovation.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C059",
+        "C060",
+        "C061",
+        "C062"
+      ],
+      "evidence": [
+        "nmaahc.si.edu — transfer announcement (verified)",
+        "Hyperallergic; The Art Newspaper"
+      ],
+      "id": "E-JPC",
+      "name": "Johnson Publishing Company archive",
+      "notes": "Founded 1942. 4M+ images, 9,000+ recordings, ~2.25 TB digital, textual records. Sold 2019 ($30M); transferred July 28, 2022 to joint NMAAHC + Getty Research Institute ownership; physically housed at NMAAHC, Washington, DC. Getty committed $30M to processing/digitization. No longer in Chicago.",
+      "privacy_status": "no private data",
+      "type": "collection",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C063",
+        "C064",
+        "C065",
+        "C066"
+      ],
+      "evidence": [
+        "NPR (2019)",
+        "ProQuest product records",
+        "Obsidian Collection Archives coverage"
+      ],
+      "id": "E-DEFENDER",
+      "name": "Chicago Defender archive",
+      "notes": "Print ended July 10, 2019; continues online. Founding-family papers at CPL/Harsh (E-ABBOTT-SENGSTACKE). Backfiles 1909–1975 via ProQuest. Obsidian Collection digitizes Black newspaper archives incl. the Defender. Custodianship of the paper's own business/operational archives after 2019: UNRESOLVED.",
+      "privacy_status": "no private data",
+      "type": "collection",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C065"
+      ],
+      "evidence": [
+        "Obsidian Collection Archives coverage"
+      ],
+      "id": "E-OBSIDIAN",
+      "name": "Obsidian Collection Archives",
+      "notes": "Nonprofit (executive director Angela Ford) digitizing Black newspaper archives including the Chicago Defender.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C061"
+      ],
+      "evidence": [
+        "nmaahc.si.edu — transfer announcement"
+      ],
+      "id": "E-NMAAHC",
+      "name": "Smithsonian National Museum of African American History and Culture",
+      "notes": "Joint owner and physical custodian of the JPC archive (with the Getty Research Institute). Appears only as a custodial endpoint, not an inventoried Chicago collection.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C061",
+        "C062"
+      ],
+      "evidence": [
+        "nmaahc.si.edu — transfer announcement"
+      ],
+      "id": "E-GETTY",
+      "name": "Getty Research Institute",
+      "notes": "Joint owner of the JPC archive with NMAAHC; committed $30M to processing/digitization.",
+      "privacy_status": "no private data",
+      "type": "institution",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C067"
+      ],
+      "evidence": [
+        "CPL histories"
+      ],
+      "id": "P-HARSH",
+      "name": "Vivian G. Harsh",
+      "notes": "CPL's first African American branch manager (January 18, 1932); founded the Special Negro Collection. Public historical figure; deceased 1960.",
+      "privacy_status": "no private data",
+      "type": "person",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C010"
+      ],
+      "evidence": [
+        "Smithsonian Magazine"
+      ],
+      "id": "P-BURROUGHS",
+      "name": "Margaret Taylor-Burroughs; Charles Burroughs",
+      "notes": "Co-founded the Ebony Museum of Negro History (1961), seed of the DuSable. Public historical figures.",
+      "privacy_status": "no private data",
+      "type": "person",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C049"
+      ],
+      "evidence": [
+        "Foundation records"
+      ],
+      "id": "P-GATES",
+      "name": "Theaster Gates",
+      "notes": "Artist; founder of Rebuild Foundation (2010). Living public figure; institutional role only.",
+      "privacy_status": "no private data",
+      "type": "person",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C045",
+        "C073"
+      ],
+      "evidence": [
+        "NPR (2026-09-19)"
+      ],
+      "id": "P-ROBINSON",
+      "name": "Morris 'Dino' Robinson; Laurice Bell",
+      "notes": "Robinson founded Shorefront Legacy Center; Bell runs its archive. Public institutional roles.",
+      "privacy_status": "no private data",
+      "type": "person",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C043"
+      ],
+      "evidence": [
+        "UChicago Harris news"
+      ],
+      "id": "P-HEARN",
+      "name": "Skyla S. Hearn",
+      "notes": "First Manager of Archives, Cook County Historic Archives and Records Office (2020). Public institutional role.",
+      "privacy_status": "no private data",
+      "type": "person",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C061"
+      ],
+      "evidence": [
+        "nmaahc.si.edu"
+      ],
+      "id": "EV-JPC-TRANSFER",
+      "name": "JPC archive transfer (July 28, 2022)",
+      "notes": "Formal transfer of sole ownership of the historic Ebony and Jet archive to joint NMAAHC + Getty Research Institute ownership; physical housing at NMAAHC, Washington, DC. Confirmed displacement from Chicago.",
+      "privacy_status": "no private data",
+      "type": "event",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C060"
+      ],
+      "evidence": [
+        "Hyperallergic; The Art Newspaper"
+      ],
+      "id": "EV-JPC-AUCTION",
+      "name": "JPC bankruptcy auction (2019)",
+      "notes": "$30 million purchase by the Ford, Getty Trust, MacArthur, and Mellon foundations.",
+      "privacy_status": "no private data",
+      "type": "event",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C001"
+      ],
+      "evidence": [
+        "chipublib.org (2026-09-28)"
+      ],
+      "id": "EV-HARSH-CLOSURE",
+      "name": "Harsh Collection maintenance closure (2026)",
+      "notes": "Temporarily unavailable for research; CPL 'targeting November for reopening'; researcher wait list; remote reference continues.",
+      "privacy_status": "no private data",
+      "type": "event",
+      "verification_status": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C063"
+      ],
+      "evidence": [
+        "NPR (2019)"
+      ],
+      "id": "EV-DEFENDER-PRINT-END",
+      "name": "Chicago Defender ends print (July 10, 2019)",
+      "notes": "Continues online.",
+      "privacy_status": "no private data",
+      "type": "event",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C013"
+      ],
+      "evidence": [
+        "All public-institution addresses in the brief"
+      ],
+      "id": "PL-CHICAGO",
+      "name": "Chicago institutional locations",
+      "notes": "All addresses in the brief are public institutions or publicly documented sites: Woodson Regional Library (9525 S. Halsted St.); Harold Washington Library Center (400 S. State St.); DuSable (740 E. 56th Pl.); Chicago History Museum (1601 N. Clark St.); Newberry (60 W. Walton St.); SSAC (3831 S. Michigan Ave.). No private addresses appear.",
+      "privacy_status": "passed — no private locations",
+      "type": "place",
+      "verification_status": "VERIFIED"
+    }
+  ]
+}

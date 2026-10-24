@@ -1,0 +1,914 @@
+{
+  "dossier_id": "CTL-RD-PER-000001",
+  "evidence_file_id": "CTL-EF-PER-000001",
+  "schema": "CTL-Type-03-entities/1.0",
+  "note": "Dossier-local entity IDs; canonical audit IDs attached where the cross-project audit assigns one. Grades are entity-level confidence; claim-level grades live in dossier.md §15 and evidence-file CTL-EF-PER-000001.",
+  "subject": {
+    "id": "per-wells-ida",
+    "canonical_id": null,
+    "type": "person",
+    "name": "Ida Bell Wells-Barnett",
+    "aliases": [
+      "Ida B. Wells",
+      "Iola"
+    ],
+    "birth": "1862-07-16",
+    "birth_place": "Holly Springs, Mississippi",
+    "death": "1931-03-25",
+    "death_place": "Chicago, Illinois",
+    "claims": [
+      "CLAIM-001",
+      "CLAIM-002",
+      "CLAIM-003",
+      "CLAIM-004",
+      "CLAIM-005",
+      "CLAIM-006",
+      "CLAIM-040"
+    ],
+    "grade": "VERIFIED",
+    "evidence": "CTL-EF-PER-000001 (CLAIM-001–CLAIM-006, CLAIM-040)"
+  },
+  "people": [
+    {
+      "id": "per-wells-james",
+      "canonical_id": null,
+      "type": "person",
+      "name": "James Madison Wells",
+      "role": "father of Ida B. Wells; carpenter; formerly enslaved",
+      "claims": [
+        "CLAIM-002",
+        "CLAIM-003"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-002, CLAIM-003)"
+    },
+    {
+      "id": "per-wells-elizabeth",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Elizabeth \"Lizzie\" Warrenton Wells",
+      "role": "mother of Ida B. Wells; formerly enslaved",
+      "claims": [
+        "CLAIM-002",
+        "CLAIM-003"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-002, CLAIM-003)"
+    },
+    {
+      "id": "per-moss-thomas",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Thomas Moss",
+      "role": "friend of Wells; lynched in Memphis, 1892-03-09",
+      "claims": [
+        "CLAIM-012",
+        "CLAIM-013"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-012, CLAIM-013)"
+    },
+    {
+      "id": "per-mcdowell-calvin",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Calvin McDowell",
+      "role": "lynched in Memphis, 1892-03-09",
+      "claims": [
+        "CLAIM-012"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-012)"
+    },
+    {
+      "id": "per-stewart-will",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Will (Henry/Harry) Stewart",
+      "role": "lynched in Memphis, 1892-03-09; first name varies across sources",
+      "claims": [
+        "CLAIM-012"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-012)"
+    },
+    {
+      "id": "per-fleming-jl",
+      "canonical_id": null,
+      "type": "person",
+      "name": "J. L. Fleming",
+      "role": "business manager of the Memphis Free Speech; run out of Memphis, 1892-05",
+      "claims": [
+        "CLAIM-014"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-014)"
+    },
+    {
+      "id": "per-fortune-thomas",
+      "canonical_id": null,
+      "type": "person",
+      "name": "T. Thomas Fortune",
+      "role": "editor of the New York Age; received Wells after her exile",
+      "claims": [
+        "CLAIM-016"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-016)"
+    },
+    {
+      "id": "per-douglass-frederick",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Frederick Douglass",
+      "role": "wrote the introduction to Southern Horrors; contributor to The Reason Why",
+      "claims": [
+        "CLAIM-017",
+        "CLAIM-021"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-017, CLAIM-021)"
+    },
+    {
+      "id": "per-penn-irvine",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Irvine Garland Penn",
+      "role": "contributor to The Reason Why",
+      "claims": [
+        "CLAIM-021"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-021)"
+    },
+    {
+      "id": "per-barnett-ferdinand",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Ferdinand Lee Barnett",
+      "role": "Chicago attorney; founder of the Chicago Conservator; husband of Wells from 1895; co-founder of the Negro Fellowship League",
+      "claims": [
+        "CLAIM-023",
+        "CLAIM-024",
+        "CLAIM-030",
+        "CLAIM-047"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-023, CLAIM-024, CLAIM-030, CLAIM-047)"
+    },
+    {
+      "id": "per-duster-alfreda",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Alfreda Barnett Duster",
+      "role": "daughter of Wells and Barnett; edited and published Crusade for Justice (1970)",
+      "claims": [
+        "CLAIM-025",
+        "CLAIM-044"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-025, CLAIM-044)"
+    },
+    {
+      "id": "per-terrell-mary",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Mary Church Terrell",
+      "role": "co-signer (with Wells) of the 1909 NAACP call; Black women organizer",
+      "claims": [
+        "CLAIM-026"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-026)"
+    },
+    {
+      "id": "per-washington-booker",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Booker T. Washington",
+      "role": "opposed by Wells over accommodationist strategy",
+      "claims": [
+        "CLAIM-039"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-039)"
+    },
+    {
+      "id": "per-willard-frances",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Frances Willard",
+      "role": "president of the Woman's Christian Temperance Union; pressured by Wells into anti-lynching resolutions",
+      "claims": [
+        "CLAIM-022"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-022)"
+    },
+    {
+      "id": "per-anthony-susan",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Susan B. Anthony",
+      "role": "hosted Wells in 1894 during the Willard conflict",
+      "claims": [
+        "CLAIM-022"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-022)"
+    },
+    {
+      "id": "per-squire-belle",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Belle Squire",
+      "role": "co-founder (with Wells) of the Alpha Suffrage Club, 1913-01",
+      "claims": [
+        "CLAIM-032"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-032)"
+    },
+    {
+      "id": "per-baker-frazier",
+      "canonical_id": null,
+      "type": "person",
+      "name": "Frazier B. Baker",
+      "role": "Black postmaster lynched in Lake City, SC, 1898-02-22; Wells protested to President McKinley",
+      "claims": [
+        "CLAIM-029"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-029)"
+    },
+    {
+      "id": "per-mckinley-william",
+      "canonical_id": null,
+      "type": "person",
+      "name": "William McKinley",
+      "role": "U.S. president; received Wells's 1898 anti-lynching appeal",
+      "claims": [
+        "CLAIM-029"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-029)"
+    },
+    {
+      "id": "canon-oscar-de-priest",
+      "canonical_id": "canon-oscar-de-priest",
+      "type": "person",
+      "name": "Oscar De Priest",
+      "role": "cross-project canonical entity; Chicago political orbit of Wells",
+      "claims": [],
+      "grade": "PROVISIONAL",
+      "evidence": "cross-project audit reference only; dossier-local relationship not asserted"
+    },
+    {
+      "id": "canon-robert-sengstacke-abbott",
+      "canonical_id": "canon-robert-sengstacke-abbott",
+      "type": "person",
+      "name": "Robert Sengstacke Abbott",
+      "role": "founder of the Chicago Defender (1905); institutional orbit only — no personal Wells relationship asserted",
+      "claims": [
+        "CLAIM-038"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-038); audit harmonization: birth year 1868 vs. 1870 DISPUTED — no bare year printed",
+      "audit_note": "canon-robert-sengstacke-abbott used where needed for the Abbott orbit"
+    },
+    {
+      "id": "per-dubois-web",
+      "canonical_id": null,
+      "type": "person",
+      "name": "W. E. B. Du Bois",
+      "role": "NAACP figure; strategy and leadership differences with Wells",
+      "claims": [
+        "CLAIM-026"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-026)"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org-free-speech",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Memphis Free Speech and Headlight",
+      "kind": "newspaper",
+      "description": "Memphis Black newspaper; Wells was editor and part-owner by 1889; office destroyed May 1892",
+      "claims": [
+        "CLAIM-009",
+        "CLAIM-014"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-009, CLAIM-014)"
+    },
+    {
+      "id": "org-new-york-age",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "New York Age",
+      "kind": "newspaper",
+      "description": "New York Black newspaper edited by T. Thomas Fortune; Wells was a staff writer after 1892",
+      "claims": [
+        "CLAIM-016"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-016)"
+    },
+    {
+      "id": "org-conservator",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Chicago Conservator",
+      "kind": "newspaper",
+      "description": "founded 1878 by Ferdinand Barnett; Chicago's first Black newspaper; Wells bought an interest and wrote/edited for it",
+      "claims": [
+        "CLAIM-024"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-024)"
+    },
+    {
+      "id": "canon-chicago-defender",
+      "canonical_id": "canon-chicago-defender",
+      "type": "organization",
+      "name": "Chicago Defender",
+      "kind": "newspaper",
+      "description": "Black newspaper founded 1905 by Robert S. Abbott; Wells wrote for it (institutional link to the Abbott orbit)",
+      "claims": [
+        "CLAIM-037",
+        "CLAIM-038"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-037, CLAIM-038)",
+      "audit_note": "distinct from Defender buildings; founding date harmonized: May 5, 1905 (BlackPast May 6 dissent footnoted)"
+    },
+    {
+      "id": "org-colored-press-assoc",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Colored Press Association",
+      "kind": "professional association",
+      "description": "Wells elected secretary in 1889; 'Princess of the Press' nickname",
+      "claims": [
+        "CLAIM-010"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-010)"
+    },
+    {
+      "id": "org-nfl",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Negro Fellowship League",
+      "kind": "settlement house",
+      "description": "founded 1910 by Wells and Barnett; served southern migrants in Chicago; published the Fellowship Herald",
+      "claims": [
+        "CLAIM-030"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-030)"
+    },
+    {
+      "id": "org-alpha-suffrage",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Alpha Suffrage Club",
+      "kind": "suffrage organization",
+      "description": "founded January 1913 by Wells and Belle Squire; Chicago's first Black women's suffrage organization",
+      "claims": [
+        "CLAIM-032"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-032)"
+    },
+    {
+      "id": "org-naacp",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "National Association for the Advancement of Colored People",
+      "kind": "civil rights organization",
+      "description": "formed from the 1909 National Negro Conference call, which Wells signed; she distanced herself early",
+      "claims": [
+        "CLAIM-026"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-026)"
+    },
+    {
+      "id": "org-nacw",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "National Association of Colored Women",
+      "kind": "women's organization",
+      "description": "founded 1896; Wells participated in its founding",
+      "claims": [
+        "CLAIM-027"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-027)"
+    },
+    {
+      "id": "org-afro-american-council",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Afro-American Council",
+      "kind": "civil rights organization",
+      "description": "founded 1898; Wells participated in its founding",
+      "claims": [
+        "CLAIM-027"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-027)"
+    },
+    {
+      "id": "org-wctu",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Woman's Christian Temperance Union",
+      "kind": "reform organization",
+      "description": "led by Frances Willard; passed anti-lynching resolutions under Wells's pressure",
+      "claims": [
+        "CLAIM-022"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-022)"
+    },
+    {
+      "id": "org-wells-womens-club",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Ida B. Wells Women's Club",
+      "kind": "women's club",
+      "description": "founded by Wells in Chicago, 1893",
+      "claims": [
+        "CLAIM-028"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-028)"
+    },
+    {
+      "id": "org-bscp",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Brotherhood of Sleeping Car Porters",
+      "kind": "labor union",
+      "description": "supported by Wells in the 1920s",
+      "claims": [
+        "CLAIM-037"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-037)"
+    },
+    {
+      "id": "org-third-ward-wpc",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Third Ward Women's Political Club",
+      "kind": "political club",
+      "description": "founded by Wells in Chicago, 1927",
+      "claims": [
+        "CLAIM-037"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-037)"
+    },
+    {
+      "id": "org-daily-inter-ocean",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "Chicago Daily Inter Ocean",
+      "kind": "newspaper",
+      "description": "Wells wrote for it, including \"The Brutal Truth\" (1893)",
+      "claims": [
+        "CLAIM-045"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-045)"
+    },
+    {
+      "id": "org-living-way",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "The Living Way",
+      "kind": "newspaper",
+      "description": "Memphis Black newspaper; Wells wrote as \"Iola\"",
+      "claims": [
+        "CLAIM-008"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-008)"
+    },
+    {
+      "id": "org-uchicago-scrc",
+      "canonical_id": null,
+      "type": "organization",
+      "name": "University of Chicago Library Special Collections",
+      "kind": "archive",
+      "description": "holds the Ida B. Wells Papers",
+      "claims": [
+        "CLAIM-046"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-046)"
+    }
+  ],
+  "places": [
+    {
+      "id": "place-holly-springs",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Holly Springs, Mississippi",
+      "description": "Wells's birthplace (1862-07-16); site of Shaw University/Rust College",
+      "claims": [
+        "CLAIM-001",
+        "CLAIM-005"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-001, CLAIM-005)"
+    },
+    {
+      "id": "place-memphis",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Memphis, Tennessee",
+      "description": "Wells's teaching, journalism, and Free Speech years; site of the 1892 lynchings and her exile",
+      "claims": [
+        "CLAIM-006",
+        "CLAIM-011",
+        "CLAIM-012",
+        "CLAIM-014",
+        "CLAIM-015"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-006, CLAIM-011, CLAIM-012, CLAIM-014, CLAIM-015)"
+    },
+    {
+      "id": "place-chicago",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Chicago, Illinois",
+      "description": "Wells's organizing, publishing, and political base from 1895; place of death",
+      "claims": [
+        "CLAIM-023",
+        "CLAIM-024",
+        "CLAIM-030",
+        "CLAIM-031",
+        "CLAIM-032",
+        "CLAIM-040",
+        "CLAIM-042"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-023–CLAIM-032, CLAIM-040, CLAIM-042)"
+    },
+    {
+      "id": "place-britain",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Great Britain (England, Scotland, Wales)",
+      "description": "site of Wells's 1893 and 1894 anti-lynching speaking tours",
+      "claims": [
+        "CLAIM-020"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-020)"
+    },
+    {
+      "id": "place-wells-barnett-house",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Wells-Barnett House, Chicago",
+      "description": "Wells's Chicago residence; National Historic Landmark (1974)",
+      "claims": [
+        "CLAIM-045"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-045)"
+    },
+    {
+      "id": "canon-ida-b-wells-homes",
+      "canonical_id": "canon-ida-b-wells-homes",
+      "type": "place",
+      "name": "Ida B. Wells Homes, Chicago",
+      "description": "public housing project built 1941 and named for Wells; the country's largest at the time",
+      "claims": [
+        "CLAIM-043"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-043)",
+      "audit_note": "distinct from Wells herself and from the Wells-Barnett House"
+    },
+    {
+      "id": "place-light-of-truth",
+      "canonical_id": null,
+      "type": "place",
+      "name": "The Light of Truth Ida B. Wells National Monument, Bronzeville, Chicago",
+      "description": "Richard Hunt sculpture unveiled June 30, 2021; Chicago's first monument honoring a Black woman",
+      "claims": [
+        "CLAIM-044"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-044)"
+    },
+    {
+      "id": "place-ida-b-wells-drive",
+      "canonical_id": null,
+      "type": "place",
+      "name": "Ida B. Wells Drive, Chicago",
+      "description": "formerly Congress Parkway; renamed 2019",
+      "claims": [
+        "CLAIM-044"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-044)"
+    }
+  ],
+  "works": [
+    {
+      "id": "work-southern-horrors",
+      "canonical_id": null,
+      "type": "work",
+      "title": "Southern Horrors: Lynch Law in All Its Phases",
+      "year": 1892,
+      "kind": "pamphlet",
+      "description": "Wells's first anti-lynching pamphlet; introduction by Frederick Douglass",
+      "claims": [
+        "CLAIM-017"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-017)"
+    },
+    {
+      "id": "work-red-record",
+      "canonical_id": null,
+      "type": "work",
+      "title": "The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States",
+      "year": 1895,
+      "kind": "pamphlet",
+      "description": "conventionally described as the first statistical study of lynching; built from white newspapers' own accounts",
+      "claims": [
+        "CLAIM-018",
+        "CLAIM-019"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-018, CLAIM-019)"
+    },
+    {
+      "id": "work-reason-why",
+      "canonical_id": null,
+      "type": "work",
+      "title": "The Reason Why the Colored American Is Not in the World's Columbian Exposition",
+      "year": 1893,
+      "kind": "pamphlet",
+      "description": "initiated, edited, and largely written by Wells; contributions by Douglass, Penn, and Barnett",
+      "claims": [
+        "CLAIM-021"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-021)"
+    },
+    {
+      "id": "work-arkansas-race-riot",
+      "canonical_id": null,
+      "type": "work",
+      "title": "The Arkansas Race Riot",
+      "year": 1922,
+      "kind": "pamphlet",
+      "description": "84-page pamphlet on the 1919 Elaine, Arkansas, massacres and the convicted twelve",
+      "claims": [
+        "CLAIM-036"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-036)"
+    },
+    {
+      "id": "work-crusade-justice",
+      "canonical_id": null,
+      "type": "work",
+      "title": "Crusade for Justice: The Autobiography of Ida B. Wells",
+      "year": 1970,
+      "kind": "autobiography",
+      "description": "published posthumously; edited by Alfreda Barnett Duster; key primary source",
+      "claims": [
+        "CLAIM-044"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-044)"
+    },
+    {
+      "id": "work-fellowship-herald",
+      "canonical_id": null,
+      "type": "work",
+      "title": "The Fellowship Herald",
+      "year": 1910,
+      "kind": "newspaper",
+      "description": "official newspaper of the Negro Fellowship League",
+      "claims": [
+        "CLAIM-030"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-030)"
+    }
+  ],
+  "events": [
+    {
+      "id": "ev-yellow-fever-1878",
+      "canonical_id": null,
+      "type": "event",
+      "name": "1878 yellow fever epidemic, Holly Springs",
+      "date": "1878",
+      "description": "killed Wells's parents and youngest sibling; she became caretaker and teacher at 16",
+      "claims": [
+        "CLAIM-004"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-004)"
+    },
+    {
+      "id": "ev-railcar-1884",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Chesapeake & Ohio railcar ejection and lawsuit",
+      "date": "1884-05/1887-04",
+      "description": "ejection from a first-class car; $500 verdict; reversed by the Tennessee Supreme Court",
+      "claims": [
+        "CLAIM-007"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-007)"
+    },
+    {
+      "id": "ev-lynchings-1892",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Lynchings of Moss, McDowell, and Stewart, Memphis",
+      "date": "1892-03-09",
+      "description": "catalyst of Wells's anti-lynching investigation",
+      "claims": [
+        "CLAIM-012",
+        "CLAIM-013"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-012, CLAIM-013)"
+    },
+    {
+      "id": "ev-exile-1892",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Destruction of the Free Speech and Wells's exile from Memphis",
+      "date": "1892-05",
+      "description": "white committee destroyed the office and ran Fleming out; Wells never returned",
+      "claims": [
+        "CLAIM-014",
+        "CLAIM-015"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-014, CLAIM-015)"
+    },
+    {
+      "id": "ev-britain-tours",
+      "canonical_id": null,
+      "type": "event",
+      "name": "British anti-lynching speaking tours",
+      "date": "1893/1894",
+      "description": "speaking tours across England, Scotland, and Wales",
+      "claims": [
+        "CLAIM-020"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-020)"
+    },
+    {
+      "id": "ev-exposition-1893",
+      "canonical_id": null,
+      "type": "event",
+      "name": "World's Columbian Exposition protest pamphlet",
+      "date": "1893",
+      "description": "publication of The Reason Why",
+      "claims": [
+        "CLAIM-021"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-021)"
+    },
+    {
+      "id": "ev-mckinley-1898",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Wells's White House appeal to President McKinley",
+      "date": "1898",
+      "description": "protest of the Frazier B. Baker lynching; call for federal anti-lynching law",
+      "claims": [
+        "CLAIM-029"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-029)"
+    },
+    {
+      "id": "ev-naacp-1909",
+      "canonical_id": null,
+      "type": "event",
+      "name": "National Negro Conference call / NAACP formation",
+      "date": "1909",
+      "description": "Wells signed the call; later distanced herself",
+      "claims": [
+        "CLAIM-026"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-026)"
+    },
+    {
+      "id": "ev-suffrage-parade-1913",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Woman suffrage procession, Washington DC",
+      "date": "1913-03-03",
+      "description": "Wells defied segregation and marched with the Illinois delegation",
+      "claims": [
+        "CLAIM-033"
+      ],
+      "grade": "VERIFIED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-033)"
+    },
+    {
+      "id": "ev-illinois-suffrage-1913",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Illinois partial woman suffrage",
+      "date": "1913-06",
+      "description": "presidential and municipal suffrage enacted",
+      "claims": [
+        "CLAIM-034"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-034)"
+    },
+    {
+      "id": "ev-east-st-louis-1917",
+      "canonical_id": null,
+      "type": "event",
+      "name": "East St. Louis riot reporting",
+      "date": "1917",
+      "description": "Wells reported on the riot for the Chicago Defender",
+      "claims": [
+        "CLAIM-037"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-037)"
+    },
+    {
+      "id": "ev-elaine-1919",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Elaine, Arkansas, massacres and Wells's investigation",
+      "date": "1919/1921-22",
+      "description": "massacres of Black sharecroppers; Wells's 1921–22 investigation and pamphlet",
+      "claims": [
+        "CLAIM-036"
+      ],
+      "grade": "PROVISIONAL",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-036)"
+    },
+    {
+      "id": "ev-state-senate-1930",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Illinois State Senate candidacy",
+      "date": "1930",
+      "description": "Wells ran unsuccessfully for the Illinois State Senate",
+      "claims": [
+        "CLAIM-042"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-042)"
+    },
+    {
+      "id": "ev-pulitzer-2020",
+      "canonical_id": null,
+      "type": "event",
+      "name": "Posthumous Pulitzer Prize citation",
+      "date": "2020",
+      "description": "Pulitzer citation for her investigative reporting on lynching",
+      "claims": [
+        "CLAIM-041"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-041)"
+    },
+    {
+      "id": "ev-rnc-1928",
+      "canonical_id": null,
+      "type": "event",
+      "name": "1928 Republican National Convention delegate race",
+      "date": "1928",
+      "description": "Wells ran unsuccessfully for delegate; lost to Oscar De Priest",
+      "claims": [
+        "CLAIM-038"
+      ],
+      "grade": "SUPPORTED",
+      "evidence": "CTL-EF-PER-000001 (CLAIM-038)"
+    }
+  ]
+}

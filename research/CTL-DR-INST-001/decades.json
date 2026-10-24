@@ -1,0 +1,2250 @@
+{
+ "project": "CTL-DR-INST-001",
+ "track": "E",
+ "presence_scale": "strong | moderate | weak | absent | unknown",
+ "institution_types": [
+  "churches",
+  "newspapers_press",
+  "magazines_publishing",
+  "radio_broadcast",
+  "banks",
+  "insurance",
+  "theaters_venues",
+  "hospitals",
+  "k12_schools",
+  "colleges",
+  "libraries_archives",
+  "museums",
+  "fraternal_mutual_aid",
+  "settlement_centers",
+  "civil_rights_orgs",
+  "business_commerce",
+  "sports",
+  "social_clubs",
+  "professional_associations",
+  "funeral_homes"
+ ],
+ "matrix": [
+  {
+   "decade": "1900s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Quinn Chapel AME (1847)",
+      "Olivet Baptist (1853)",
+      "Bethel AME (1862)",
+      "Ebenezer Missionary Baptist (1902)"
+     ],
+     "evidence_note": "Four anchor congregations operating; Ebenezer founded 1902. Churches are the oldest continuous Black institutional type in Chicago."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago Conservator (to 1914)"
+     ],
+     "evidence_note": "The Conservator (Ferdinand Barnett) still publishing; the Defender launches in 1905 \u2014 the decade's key press event."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No Chicago Black magazine documented in this track for the 1900s; marked unknown rather than absent."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "Commercial radio broadcasting did not exist before the 1920s; absence is historically established."
+    },
+    {
+     "type": "banks",
+     "presence": "weak",
+     "key_institutions": [
+      "Binga State Bank (1908)"
+     ],
+     "evidence_note": "Single institution: Binga State Bank founded 1908."
+    },
+    {
+     "type": "insurance",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Pre-Supreme Life Black insurers not documented in this track; marked unknown."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "weak",
+     "key_institutions": [
+      "Pekin Theatre (1905-1911)"
+     ],
+     "evidence_note": "Pekin Theatre (Robert T. Motts), the first Black-owned theater in Chicago, opens 1905."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital (1891)"
+     ],
+     "evidence_note": "Single institution: Provident Hospital, the first Black-owned hospital in the U.S."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "weak",
+     "key_institutions": [
+      "Wendell Phillips Academy (1904)"
+     ],
+     "evidence_note": "Phillips opens 1904; Black student enrollment still small pre-Great Migration."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-serving college in Chicago; Chicago State exists (1867) but not as a Black institution."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No dedicated Black collection documented before the Harsh Collection (1932); marked unknown."
+    },
+    {
+     "type": "museums",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black museum in Chicago before the DuSable (1961); absence historically established."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "moderate",
+     "key_institutions": [
+      "Prince Hall Masons",
+      "Knights of Pythias lodges"
+     ],
+     "evidence_note": "Prince Hall and Pythian lodges active; the great temple-building decade comes in the 1920s."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Frederick Douglass Center (1904)"
+     ],
+     "evidence_note": "Celia Parker Woolley's Frederick Douglass Center opens 1904; institutional church settlements active."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Pre-NAACP decade nationally; local protest infrastructure not documented in this track."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "moderate",
+     "key_institutions": [
+      "35th/State commercial strip",
+      "Binga and Overton enterprises"
+     ],
+     "evidence_note": "Black commercial strip emerging on the South Side; Binga and Overton building business bases."
+    },
+    {
+     "type": "sports",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Black baseball clubs active (Leland Giants predate 1910 \u2014 unverified in this track); organized league play begins 1911."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    }
+   ]
+  },
+  {
+   "decade": "1910s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Quinn Chapel",
+      "Olivet Baptist",
+      "Bethel AME",
+      "Ebenezer",
+      "Liberty Baptist (1915)"
+     ],
+     "evidence_note": "Churches absorb Great Migration arrivals; Liberty Baptist founded 1915."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender (1905)",
+      "Chicago Conservator (to 1914)",
+      "Chicago Whip (1919)"
+     ],
+     "evidence_note": "The Defender becomes the national voice of the Great Migration; the Whip launches 1919 with Black financier backing."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No Chicago Black magazine documented in this track; marked unknown."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "Commercial broadcasting still nascent; no Black programming documented before 1929."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Binga State Bank (to 1930)"
+     ],
+     "evidence_note": "Binga State Bank operating; Douglass National comes in 1921."
+    },
+    {
+     "type": "insurance",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Pre-Supreme Life insurers not documented; marked unknown."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "moderate",
+     "key_institutions": [
+      "Pekin Theatre (to 1911)",
+      "Eighth Regiment Armory (1914, cultural events)"
+     ],
+     "evidence_note": "Pekin closes 1911; the 1914 Armory doubles as a major Black cultural venue (e.g., 1937 battle of the bands)."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues as the sole Black hospital."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "moderate",
+     "key_institutions": [
+      "Wendell Phillips Academy"
+     ],
+     "evidence_note": "Black enrollment at Phillips and nearby schools grows with the Migration."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-serving college in Chicago."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No dedicated Black collection documented; marked unknown."
+    },
+    {
+     "type": "museums",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black museum in Chicago; absence historically established."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "moderate",
+     "key_institutions": [
+      "Prince Hall Masons",
+      "Knights of Pythias"
+     ],
+     "evidence_note": "Lodges strong; temple construction begins in the 1920s."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "strong",
+     "key_institutions": [
+      "Wabash Avenue YMCA (1913)",
+      "South Side Settlement (1919)"
+     ],
+     "evidence_note": "Wabash YMCA opens 1913 (Rosenwald philanthropy); Ada S. McKinley founds the South Side Settlement in 1919 for Black WWI veterans and migrant families."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "strong",
+     "key_institutions": [
+      "Negro Fellowship League (1910-1920)",
+      "NAACP Chicago Branch (1913)",
+      "Chicago Urban League (1916)"
+     ],
+     "evidence_note": "Foundational decade: Wells/Barnett's Fellowship League, the NAACP branch, and the Urban League all launch."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "strong",
+     "key_institutions": [
+      "Black Metropolis commercial corridor",
+      "Overton Hygienic enterprises"
+     ],
+     "evidence_note": "The 'Black Metropolis' economy takes shape around 35th and State."
+    },
+    {
+     "type": "sports",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago American Giants (1911)"
+     ],
+     "evidence_note": "Rube Foster founds the American Giants in 1911."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association (1914)"
+     ],
+     "evidence_note": "Black lawyers organize (1914, commonly cited)."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    }
+   ]
+  },
+  {
+   "decade": "1920s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Pilgrim Baptist (1922)",
+      "First Church of Deliverance (1929)"
+     ],
+     "evidence_note": "Pilgrim founded 1922 (later the birthplace of gospel music); Cobbs founds First Church of Deliverance 1929."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender",
+      "Chicago Bee (1925)",
+      "Chicago Whip (to 1939)"
+     ],
+     "evidence_note": "Three-paper Black press: the Defender, Overton's Bee, and the Whip \u2014 the strongest Black press decade in Chicago history."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No Chicago Black magazine documented in this track; marked unknown."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "weak",
+     "key_institutions": [
+      "Jack L. Cooper (WSBC, 1929)"
+     ],
+     "evidence_note": "Cooper becomes Chicago's first Black radio announcer in 1929 \u2014 the seed of Black broadcast presence."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Binga State Bank (to 1930)",
+      "Douglass National Bank (1921-1932)"
+     ],
+     "evidence_note": "Two Black-owned banks operating; both fail in the early Depression."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance (1921)"
+     ],
+     "evidence_note": "Supreme Life founded 1921 \u2014 the first northern Black-owned insurer."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "strong",
+     "key_institutions": [
+      "Regal Theater (1928)",
+      "Sunset Cafe (1921)"
+     ],
+     "evidence_note": "The Regal opens 1928 (white-chain controlled until 1961); the Sunset Cafe anchors jazz."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues as the sole Black hospital."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "moderate",
+     "key_institutions": [
+      "Wendell Phillips Academy"
+     ],
+     "evidence_note": "Black-majority schooling consolidates on the South Side."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-serving college in Chicago."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No dedicated Black collection documented before 1932; marked unknown."
+    },
+    {
+     "type": "museums",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black museum in Chicago; absence historically established."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "strong",
+     "key_institutions": [
+      "National Pythian Temple (built 1925-30)"
+     ],
+     "evidence_note": "The $1M Pythian Temple rises at 3735-45 S. State \u2014 'the largest structure financed, designed and built by African Americans.'"
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "strong",
+     "key_institutions": [
+      "Wabash Avenue YMCA",
+      "Ada S. McKinley Community Services"
+     ],
+     "evidence_note": "The Wabash YMCA is the national anchor Black YMCA; McKinley's settlement grows."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Urban League",
+      "NAACP Chicago",
+      "Brotherhood of Sleeping Car Porters (1925)"
+     ],
+     "evidence_note": "A. Philip Randolph founds the BSCP in 1925; the League and NAACP anchor civic life."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "strong",
+     "key_institutions": [
+      "Overton Hygienic Building",
+      "South Center Department Store (1929)",
+      "Binga enterprises"
+     ],
+     "evidence_note": "Peak of the Black Metropolis commercial ecosystem \u2014 Overton's cross-subsidized bank/cosmetics/building/newspaper complex."
+    },
+    {
+     "type": "sports",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago American Giants",
+      "Negro National League (1920)"
+     ],
+     "evidence_note": "Foster's NNL (1920) with the American Giants as charter dominators; World Series titles 1926-27."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    }
+   ]
+  },
+  {
+   "decade": "1930s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "First Church of Deliverance (radio ministry, 1935)",
+      "Pilgrim Baptist"
+     ],
+     "evidence_note": "Cobbs's radio ministry (WSBC, 1935) and televised services (1953) make Deliverance a broadcast church."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender",
+      "Chicago Bee",
+      "Chicago Whip (to 1939)"
+     ],
+     "evidence_note": "Three-paper press survives the Depression; the Whip folds 1939."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "No Chicago Black magazine documented in this track; marked unknown."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "weak",
+     "key_institutions": [
+      "Jack L. Cooper (WSBC)",
+      "First Church of Deliverance (WSBC, 1935)"
+     ],
+     "evidence_note": "Black radio presence is program-based, not station-based."
+    },
+    {
+     "type": "banks",
+     "presence": "weak",
+     "key_institutions": [
+      "Illinois Service Federal (1934)"
+     ],
+     "evidence_note": "Binga (1930) and Douglass (1932) fail; Illinois Service Federal is founded 1934 by 13 Black men \u2014 the institutional restart."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance"
+     ],
+     "evidence_note": "Supreme Life weathers the Depression."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "strong",
+     "key_institutions": [
+      "Regal Theater",
+      "Sunset Cafe / Grand Terrace (to 1937)"
+     ],
+     "evidence_note": "Regal and Sunset/Grand Terrace anchor Black entertainment; the Sunset era ends 1937."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues as the sole Black hospital."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "moderate",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School (built 1931-34, opened 1935)"
+     ],
+     "evidence_note": "DuSable is built to relieve Phillips overcrowding \u2014 the physical plant of segregated Black secondary schooling."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-serving college in Chicago."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection (1932)"
+     ],
+     "evidence_note": "Vivian Harsh begins the Black history collection at the Chicago Public Library in 1932."
+    },
+    {
+     "type": "museums",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black museum in Chicago; absence historically established."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "moderate",
+     "key_institutions": [
+      "National Pythian Temple (WPA acquisition)"
+     ],
+     "evidence_note": "Financial distress leads to WPA acquisition and conversion of the Pythian Temple to multifamily housing \u2014 the first major adaptive-reuse succession."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "strong",
+     "key_institutions": [
+      "Wabash Avenue YMCA",
+      "Ada S. McKinley Community Services"
+     ],
+     "evidence_note": "Settlement infrastructure holds through the Depression."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago Urban League",
+      "NAACP Chicago",
+      "Brotherhood of Sleeping Car Porters"
+     ],
+     "evidence_note": "Depression-era organizing; the BSCP builds toward its 1937 Pullman contract."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "The Depression devastates the Black Metropolis commercial base; the Overton ecosystem collapses."
+    },
+    {
+     "type": "sports",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago American Giants (Negro Southern League / NNL II)"
+     ],
+     "evidence_note": "The Giants win the 1932 Negro Southern League pennant as Cole's American Giants and the 1934 NNL second-half title."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home (1933)"
+     ],
+     "evidence_note": "A.R. Leak founded 1933 (commonly cited)."
+    }
+   ]
+  },
+  {
+   "decade": "1940s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Olivet Baptist",
+      "Pilgrim Baptist",
+      "First Church of Deliverance"
+     ],
+     "evidence_note": "Churches anchor the second Great Migration wave."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender",
+      "Chicago Bee (to 1947)",
+      "Chicago Crusader (1940)"
+     ],
+     "evidence_note": "The Crusader launches 1940 (Balm Leavell); the Bee closes 1947 after Overton's death."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "moderate",
+     "key_institutions": [
+      "Negro Digest (1942)",
+      "Ebony (1945)"
+     ],
+     "evidence_note": "Johnson Publishing launches Negro Digest (1942) and Ebony (1945) \u2014 Chicago becomes the Black magazine capital."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "weak",
+     "key_institutions": [
+      "Jack L. Cooper (WSBC)"
+     ],
+     "evidence_note": "Black radio remains program-based."
+    },
+    {
+     "type": "banks",
+     "presence": "weak",
+     "key_institutions": [
+      "Illinois Service Federal"
+     ],
+     "evidence_note": "ISF is the sole Black-owned bank."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance"
+     ],
+     "evidence_note": "Supreme Life operates from its landmark building."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "strong",
+     "key_institutions": [
+      "Regal Theater"
+     ],
+     "evidence_note": "The Regal's heyday as the premier Black vaudeville/movie palace."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues as the sole Black hospital."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "moderate",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School"
+     ],
+     "evidence_note": "DuSable and Phillips serve the growing Black student population."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-serving college in Chicago."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection grows at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "weak",
+     "key_institutions": [
+      "South Side Community Art Center (1940)"
+     ],
+     "evidence_note": "SSCAC founded 1940 \u2014 the seed of Black museum infrastructure."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "moderate",
+     "key_institutions": [
+      "Prince Hall Masons",
+      "Knights of Pythias lodges"
+     ],
+     "evidence_note": "Lodges continue; the Pythian Temple is lost to housing conversion."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "strong",
+     "key_institutions": [
+      "Wabash Avenue YMCA",
+      "Ada S. McKinley Community Services"
+     ],
+     "evidence_note": "Settlement infrastructure serves the second Migration."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago Urban League",
+      "NAACP Chicago",
+      "Brotherhood of Sleeping Car Porters"
+     ],
+     "evidence_note": "Double V era; postwar organizing builds toward the 1950s-60s movement."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "moderate",
+     "key_institutions": [
+      "47th Street commercial corridor"
+     ],
+     "evidence_note": "Wartime prosperity partially restores the commercial corridor."
+    },
+    {
+     "type": "sports",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago American Giants (Negro American League)"
+     ],
+     "evidence_note": "The Giants continue in the Negro American League through the decade."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Black funeral homes serve the community; under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "1950s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Fellowship Missionary Baptist (1950)",
+      "Pilgrim Baptist",
+      "First Church of Deliverance"
+     ],
+     "evidence_note": "Clay Evans founds Fellowship in 1950; gospel music peaks at Pilgrim."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender (daily from 1956)",
+      "Chicago Crusader"
+     ],
+     "evidence_note": "The Defender becomes a daily in 1956 \u2014 the height of Black daily newspaper power in Chicago."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "strong",
+     "key_institutions": [
+      "Ebony",
+      "Jet (1951)",
+      "Negro Digest / Black World"
+     ],
+     "evidence_note": "Jet launches 1951; Johnson Publishing's magazine empire peaks."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Black-appeal radio grows but no Black-owned station documented yet in this track."
+    },
+    {
+     "type": "banks",
+     "presence": "weak",
+     "key_institutions": [
+      "Illinois Service Federal"
+     ],
+     "evidence_note": "ISF is the sole Black-owned bank."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance"
+     ],
+     "evidence_note": "Supreme Life operates from its landmark building."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "strong",
+     "key_institutions": [
+      "Regal Theater (to 1968)"
+     ],
+     "evidence_note": "The Regal remains the premier venue; Black ownership (S.B. Fuller) begins 1961."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues as the sole Black hospital."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School"
+     ],
+     "evidence_note": "DuSable and Phillips at peak enrollment as comprehensive neighborhood high schools."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-serving college in Chicago."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "weak",
+     "key_institutions": [
+      "South Side Community Art Center"
+     ],
+     "evidence_note": "SSCAC continues."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "moderate",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Lodges continue; Pythian Temple long converted."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "strong",
+     "key_institutions": [
+      "Wabash Avenue YMCA",
+      "Ada S. McKinley Community Services"
+     ],
+     "evidence_note": "The Wabash YMCA remains a citywide Black social center."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago Urban League",
+      "NAACP Chicago"
+     ],
+     "evidence_note": "Pre-movement organizing; TWO comes in 1961."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "moderate",
+     "key_institutions": [
+      "47th Street commercial corridor"
+     ],
+     "evidence_note": "The corridor holds but faces suburban competition."
+    },
+    {
+     "type": "sports",
+     "presence": "weak",
+     "key_institutions": [
+      "Chicago American Giants (to mid-1950s)"
+     ],
+     "evidence_note": "The Giants leave the NAL in 1952 and disband by the mid-1950s \u2014 integration drains Black baseball."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "1960s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Trinity United Church of Christ (1961)",
+      "Fellowship Missionary Baptist"
+     ],
+     "evidence_note": "Trinity founded 1961; churches anchor civil-rights organizing."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender (daily)",
+      "Chicago Crusader",
+      "Chicago Citizen (1965)"
+     ],
+     "evidence_note": "The Citizen launches 1965; the Defender daily covers the movement."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "strong",
+     "key_institutions": [
+      "Ebony",
+      "Jet",
+      "Negro Digest / Black World"
+     ],
+     "evidence_note": "Johnson Publishing at national peak."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON 1450 (1963)"
+     ],
+     "evidence_note": "WVON launches 1963 under Chess ownership \u2014 'The Voice of the Negro' and movement soundtrack."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Illinois Service Federal",
+      "Seaway National Bank (1965)"
+     ],
+     "evidence_note": "Seaway founded 1965 \u2014 two Black-owned banks."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance"
+     ],
+     "evidence_note": "Supreme Life operates from its landmark building."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "moderate",
+     "key_institutions": [
+      "Regal Theater (to 1968)"
+     ],
+     "evidence_note": "Fuller's Black ownership of the Regal (1961-68); the theater closes and is demolished 1973."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School"
+     ],
+     "evidence_note": "Comprehensive Black high schools at scale."
+    },
+    {
+     "type": "colleges",
+     "presence": "weak",
+     "key_institutions": [
+      "Kennedy-King College (renamed 1969)"
+     ],
+     "evidence_note": "Wilson Junior College renamed Kennedy-King in 1969; Black-serving identity consolidates."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "moderate",
+     "key_institutions": [
+      "DuSable Museum (1961)",
+      "South Side Community Art Center"
+     ],
+     "evidence_note": "Margaret Burroughs founds the DuSable in 1961 \u2014 the nation's first independent Black history museum."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Fraternal infrastructure diminished from its 1920s peak."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "strong",
+     "key_institutions": [
+      "Wabash Avenue YMCA",
+      "Ada S. McKinley Community Services"
+     ],
+     "evidence_note": "Settlement infrastructure holds; the YMCA closes in 1981."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "strong",
+     "key_institutions": [
+      "The Woodlawn Organization (1961)",
+      "CCCO (1962-1967)",
+      "Operation Breadbasket (1966)",
+      "Contract Buyers League (1968)",
+      "Black Panther Party IL (1968)"
+     ],
+     "evidence_note": "The densest organizing decade: TWO, the CCCO/SCLC Chicago Freedom Movement, Breadbasket, the Contract Buyers League, and the Illinois BPP."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "moderate",
+     "key_institutions": [
+      "47th Street commercial corridor"
+     ],
+     "evidence_note": "Corridor persists amid early disinvestment."
+    },
+    {
+     "type": "sports",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago; the Globetrotters' Chicago presence has ended."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "1970s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Mosque Maryam (1972)",
+      "Trinity UCC (Wright era)"
+     ],
+     "evidence_note": "The NOI designates Mosque Maryam as national headquarters; Trinity grows under Jeremiah Wright."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender",
+      "Chicago Crusader",
+      "Chicago Citizen",
+      "The Final Call (1979)"
+     ],
+     "evidence_note": "The Final Call launches 1979 as the NOI's official paper; four Black papers active."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "strong",
+     "key_institutions": [
+      "Ebony",
+      "Jet",
+      "Black World (to 1976)"
+     ],
+     "evidence_note": "Johnson magazines strong; Black World closes 1976."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON",
+      "WGCI-FM (1974)"
+     ],
+     "evidence_note": "WVON's movement era; WGCI takes a Black format in 1974 (non-Black-owned)."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Illinois Service Federal",
+      "Seaway National Bank",
+      "Independence Bank (1968)",
+      "ShoreBank (1973)"
+     ],
+     "evidence_note": "Four Black-oriented banks; ShoreBank pioneers community-development banking in 1973."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance"
+     ],
+     "evidence_note": "Supreme Life continues."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "moderate",
+     "key_institutions": [
+      "Checkerboard Lounge (1972)"
+     ],
+     "evidence_note": "The Checkerboard opens 1972; the Regal is gone \u2014 venue infrastructure thinner."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital"
+     ],
+     "evidence_note": "Provident continues toward its 1987 closure."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School",
+      "Walter H. Dyett High School (1972)"
+     ],
+     "evidence_note": "Dyett opens 1972; the comprehensive-high-school system intact."
+    },
+    {
+     "type": "colleges",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago State University",
+      "Kennedy-King College",
+      "Olive-Harvey College (1970)",
+      "Malcolm X College (renamed 1969)"
+     ],
+     "evidence_note": "Four Black-serving public colleges now anchor the South and West Sides."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "moderate",
+     "key_institutions": [
+      "DuSable Museum",
+      "South Side Community Art Center"
+     ],
+     "evidence_note": "DuSable grows in Washington Park."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Diminished from the temple era."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Wabash Avenue YMCA (to 1981)",
+      "Ada S. McKinley Community Services"
+     ],
+     "evidence_note": "The YMCA declines toward its 1981 closure."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "strong",
+     "key_institutions": [
+      "Operation PUSH (1971)",
+      "Black Panther Party IL (to ~1974)",
+      "Brotherhood of Sleeping Car Porters (to 1978)"
+     ],
+     "evidence_note": "Jackson founds PUSH in 1971; the BPP chapter ends; the BSCP merges in 1978."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "South Side commercial disinvestment deepens."
+    },
+    {
+     "type": "sports",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "1980s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Trinity UCC",
+      "Fellowship Missionary Baptist",
+      "Mosque Maryam"
+     ],
+     "evidence_note": "Megachurch era; churches remain the strongest institutional type."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender",
+      "Chicago Crusader",
+      "Chicago Citizen",
+      "The Final Call",
+      "Chicago Standard News (1984)"
+     ],
+     "evidence_note": "Five Black papers active; the Standard News launches 1984."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "strong",
+     "key_institutions": [
+      "Ebony",
+      "Jet"
+     ],
+     "evidence_note": "Johnson Publishing magazines at circulation peak."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON",
+      "WGCI-FM",
+      "WVAZ / V103"
+     ],
+     "evidence_note": "Black-format radio strong; WVON remains the Black-owned anchor."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Illinois Service Federal",
+      "Seaway National Bank",
+      "Independence Bank (to 1995)",
+      "ShoreBank"
+     ],
+     "evidence_note": "Four Black-oriented banks; Independence fails mid-1990s."
+    },
+    {
+     "type": "insurance",
+     "presence": "moderate",
+     "key_institutions": [
+      "Supreme Life Insurance (to 1999)"
+     ],
+     "evidence_note": "Supreme Life continues toward state takeover."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "moderate",
+     "key_institutions": [
+      "New Regal Theater (1987)",
+      "Checkerboard Lounge"
+     ],
+     "evidence_note": "The Gardners renovate the Avalon as the New Regal in 1987 \u2014 a name/concept succession, not the original complex."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital (to 1987)"
+     ],
+     "evidence_note": "The private Black-owned Provident closes 1987 \u2014 the end of Black hospital ownership in Chicago."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School"
+     ],
+     "evidence_note": "Comprehensive high schools intact."
+    },
+    {
+     "type": "colleges",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago State University",
+      "Kennedy-King College",
+      "Olive-Harvey College",
+      "Malcolm X College"
+     ],
+     "evidence_note": "Four Black-serving public colleges operating."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "moderate",
+     "key_institutions": [
+      "DuSable Museum",
+      "South Side Community Art Center"
+     ],
+     "evidence_note": "Museum infrastructure stable."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "The Pythian Temple is demolished in 1980 \u2014 the physical end of the fraternal temple era."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ada S. McKinley Community Services",
+      "Wabash Avenue YMCA (closed 1981)"
+     ],
+     "evidence_note": "The YMCA closes 1981; McKinley's agency carries the settlement function."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Operation PUSH",
+      "Chicago Urban League",
+      "NAACP Chicago"
+     ],
+     "evidence_note": "PUSH anchors economic-justice organizing; Harold Washington era (1983-87) opens City Hall access."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Commercial corridors thin."
+    },
+    {
+     "type": "sports",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago; evidence supports absence of the type."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "1990s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Trinity UCC",
+      "Fellowship Missionary Baptist",
+      "Mosque Maryam"
+     ],
+     "evidence_note": "Churches remain the strongest type; megachurch growth."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender",
+      "Chicago Crusader",
+      "Chicago Citizen",
+      "The Final Call",
+      "Chicago Standard News"
+     ],
+     "evidence_note": "Five Black papers active."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "strong",
+     "key_institutions": [
+      "Ebony",
+      "Jet",
+      "Third World Press"
+     ],
+     "evidence_note": "Johnson magazines strong; Third World Press anchors independent Black publishing."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON",
+      "WGCI-FM",
+      "WVAZ / V103"
+     ],
+     "evidence_note": "Black-format radio strong."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Illinois Service Federal",
+      "Seaway National Bank",
+      "ShoreBank",
+      "Independence Bank (to 1995)"
+     ],
+     "evidence_note": "Chicago Fed counts five African American-owned banks in Chicago in 2001; Independence fails mid-decade."
+    },
+    {
+     "type": "insurance",
+     "presence": "weak",
+     "key_institutions": [
+      "Supreme Life Insurance (to 1999)"
+     ],
+     "evidence_note": "Supreme Life taken over by the Illinois Department of Insurance in 1999 and placed in rehabilitation \u2014 the end of Black-owned insurance in Chicago."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "moderate",
+     "key_institutions": [
+      "New Regal Theater",
+      "Checkerboard Lounge"
+     ],
+     "evidence_note": "New Regal and Checkerboard anchor Black entertainment."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital of Cook County (1993)"
+     ],
+     "evidence_note": "Cook County reopens Provident as a public hospital in 1993 \u2014 service restored, Black ownership not."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "Wendell Phillips Academy",
+      "DuSable High School",
+      "Dyett High School"
+     ],
+     "evidence_note": "Comprehensive high schools intact; Renaissance 2010 planning begins."
+    },
+    {
+     "type": "colleges",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago State University",
+      "Kennedy-King College",
+      "Olive-Harvey College",
+      "Malcolm X College"
+     ],
+     "evidence_note": "Four Black-serving public colleges operating."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "strong",
+     "key_institutions": [
+      "DuSable Museum",
+      "South Side Community Art Center",
+      "A. Philip Randolph Pullman Porter Museum (1995)",
+      "Bronzeville Children's Museum (1999)"
+     ],
+     "evidence_note": "Two new museums launch; the museum type strengthens."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Diminished."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ada S. McKinley Community Services",
+      "The Renaissance Collaborative (1992)"
+     ],
+     "evidence_note": "The Renaissance Collaborative (1992) takes on the Wabash YMCA rehabilitation."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "strong",
+     "key_institutions": [
+      "Rainbow PUSH Coalition (1996)",
+      "Chicago Urban League",
+      "NAACP Chicago"
+     ],
+     "evidence_note": "PUSH and the National Rainbow Coalition merge in 1996."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Commercial corridors thin."
+    },
+    {
+     "type": "sports",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago; evidence supports absence of the type."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "2000s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Trinity UCC",
+      "Fellowship Missionary Baptist",
+      "Mosque Maryam",
+      "Pilgrim Baptist (fire 2006)"
+     ],
+     "evidence_note": "The 2006 Pilgrim fire destroys the birthplace-of-gospel sanctuary; the congregation survives."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "strong",
+     "key_institutions": [
+      "Chicago Defender (sold 2003)",
+      "Chicago Crusader",
+      "Chicago Citizen",
+      "The Final Call"
+     ],
+     "evidence_note": "The Defender leaves Sengstacke family ownership in 2003; print continues."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "strong",
+     "key_institutions": [
+      "Ebony",
+      "Jet",
+      "Third World Press"
+     ],
+     "evidence_note": "Johnson Publishing intact until the 2010s."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON",
+      "WGCI-FM",
+      "WVAZ / V103"
+     ],
+     "evidence_note": "Black-format radio strong."
+    },
+    {
+     "type": "banks",
+     "presence": "moderate",
+     "key_institutions": [
+      "Illinois Service Federal",
+      "Seaway National Bank",
+      "ShoreBank (to 2010)",
+      "Urban Partnership Bank (2010)"
+     ],
+     "evidence_note": "ShoreBank fails August 2010; Urban Partnership Bank succeeds it the same day."
+    },
+    {
+     "type": "insurance",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Supreme Life ended 1999; no Chicago Black-owned insurer documented after \u2014 weak, not absent, pending confirmation."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "moderate",
+     "key_institutions": [
+      "New Regal Theater",
+      "Checkerboard Lounge (relocated 2003)"
+     ],
+     "evidence_note": "The Checkerboard relocates to Hyde Park in 2003 after its building is demolished."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital of Cook County"
+     ],
+     "evidence_note": "Public Provident operating."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "DuSable High School (split 2005)",
+      "Wendell Phillips Academy",
+      "Dyett High School",
+      "Chicago Military Academy-Bronzeville (1999)"
+     ],
+     "evidence_note": "DuSable is split into small schools in 2005; Chicago Military Academy opens in the restored Armory in 1999."
+    },
+    {
+     "type": "colleges",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago State University",
+      "Kennedy-King College",
+      "Olive-Harvey College",
+      "Malcolm X College"
+     ],
+     "evidence_note": "Four Black-serving public colleges operating."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "strong",
+     "key_institutions": [
+      "DuSable Museum",
+      "South Side Community Art Center",
+      "Pullman Porter Museum",
+      "Bronzeville Children's Museum"
+     ],
+     "evidence_note": "Museum infrastructure stable and growing."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Diminished."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ada S. McKinley Community Services",
+      "The Renaissance Collaborative"
+     ],
+     "evidence_note": "McKinley's agency grows; the Collaborative rehabilitates the YMCA."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Rainbow PUSH Coalition",
+      "Chicago Urban League"
+     ],
+     "evidence_note": "Institutional organizing continues at lower density than the 1960s."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Commercial corridors thin."
+    },
+    {
+     "type": "sports",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago; evidence supports absence of the type."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "2010s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Trinity UCC",
+      "Fellowship Missionary Baptist",
+      "Mosque Maryam",
+      "Pilgrim Baptist (congregation)"
+     ],
+     "evidence_note": "Churches remain the strongest type; the Pilgrim congregation worships on while the Gospel museum is planned."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago Defender (print ends 2019)",
+      "Chicago Crusader",
+      "Chicago Citizen",
+      "The Final Call"
+     ],
+     "evidence_note": "The Defender ends print in 2019 for digital; the Crusader, Citizen, and Final Call continue in print."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ebony (sold 2016)",
+      "Jet (print ends 2014)",
+      "Johnson Publishing (bankrupt 2019)",
+      "Third World Press"
+     ],
+     "evidence_note": "Jet leaves print 2014; Ebony/Jet sold to private equity 2016; JPC files Chapter 7 in 2019 \u2014 the Chicago magazine empire ends."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON"
+     ],
+     "evidence_note": "WVON under Black-owned Midway Broadcasting remains the anchor; Black-format (non-Black-owned) stations continue."
+    },
+    {
+     "type": "banks",
+     "presence": "weak",
+     "key_institutions": [
+      "Seaway National Bank (closed 2017)",
+      "Urban Partnership Bank (merged 2019)",
+      "GN Bank (2018)"
+     ],
+     "evidence_note": "Seaway closed 2017; Urban Partnership merged into Providence 2019; ISF becomes Ghanaian-owned GN Bank in 2018. Chicago Fed: five Black-owned banks in 2001, two by 2017."
+    },
+    {
+     "type": "insurance",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Chicago Black-owned insurer documented; weak pending confirmation."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "weak",
+     "key_institutions": [
+      "New Regal Theater (closed ~2011)"
+     ],
+     "evidence_note": "The New Regal closes circa 2011; no major Black-owned venue documented after."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital of Cook County"
+     ],
+     "evidence_note": "Public Provident operating."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "strong",
+     "key_institutions": [
+      "Dyett High School (closed 2015; reopened 2016)",
+      "Bronzeville Scholastic Institute",
+      "Daniel Hale Williams Prep",
+      "Chicago Military Academy-Bronzeville"
+     ],
+     "evidence_note": "Dyett closes 2015 and reopens 2016 after a 34-day hunger strike \u2014 the decade's defining school-governance fight."
+    },
+    {
+     "type": "colleges",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago State University",
+      "Kennedy-King College",
+      "Olive-Harvey College",
+      "Malcolm X College"
+     ],
+     "evidence_note": "Four Black-serving public colleges operating."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL."
+    },
+    {
+     "type": "museums",
+     "presence": "strong",
+     "key_institutions": [
+      "DuSable Museum",
+      "South Side Community Art Center"
+     ],
+     "evidence_note": "Museum infrastructure stable."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Diminished."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ada S. McKinley Community Services (70+ sites)",
+      "Hull House Association (closed 2012)"
+     ],
+     "evidence_note": "Hull House closes and files for bankruptcy in 2012; McKinley's agency thrives \u2014 the great settlement inversion."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Rainbow PUSH Coalition",
+      "The Woodlawn Organization"
+     ],
+     "evidence_note": "Institutional organizing continues."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "Commercial corridors thin."
+    },
+    {
+     "type": "sports",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago; evidence supports absence of the type."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  },
+  {
+   "decade": "2020s",
+   "cells": [
+    {
+     "type": "churches",
+     "presence": "strong",
+     "key_institutions": [
+      "Trinity UCC",
+      "Fellowship Missionary Baptist",
+      "Mosque Maryam",
+      "First Church of Deliverance"
+     ],
+     "evidence_note": "Churches remain the strongest and most continuous institutional type across all 13 decades."
+    },
+    {
+     "type": "newspapers_press",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago Defender (digital-only)",
+      "Chicago Crusader",
+      "Chicago Citizen",
+      "The Final Call"
+     ],
+     "evidence_note": "The Defender is digital-only; three Black weeklies continue in print."
+    },
+    {
+     "type": "magazines_publishing",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ebony (brand continues)",
+      "Third World Press"
+     ],
+     "evidence_note": "The Ebony brand survives under new ownership; Jet is gone; Third World Press continues independent Black publishing."
+    },
+    {
+     "type": "radio_broadcast",
+     "presence": "strong",
+     "key_institutions": [
+      "WVON 1690"
+     ],
+     "evidence_note": "WVON remains the Black-owned broadcast anchor."
+    },
+    {
+     "type": "banks",
+     "presence": "weak",
+     "key_institutions": [
+      "GN Bank (Ghanaian-owned, operating)"
+     ],
+     "evidence_note": "No Black-American-owned bank charter remains headquartered in Chicago (inference from Chicago Fed 2017 count plus documented closures/acquisitions through 2019 \u2014 recheck FDIC MDI list before public use). GN Bank operates under Ghanaian ownership."
+    },
+    {
+     "type": "insurance",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Chicago Black-owned insurer documented; weak pending confirmation."
+    },
+    {
+     "type": "theaters_venues",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No major Black-owned theater/venue documented; the Regal, New Regal, Sunset, and Checkerboard (original) are all gone."
+    },
+    {
+     "type": "hospitals",
+     "presence": "weak",
+     "key_institutions": [
+      "Provident Hospital of Cook County"
+     ],
+     "evidence_note": "Public Provident operating; no Black-owned hospital."
+    },
+    {
+     "type": "k12_schools",
+     "presence": "moderate",
+     "key_institutions": [
+      "Dyett High School for the Arts",
+      "Bronzeville Scholastic Institute",
+      "Daniel Hale Williams Prep",
+      "Chicago Military Academy-Bronzeville"
+     ],
+     "evidence_note": "Small-school successors operate in historic buildings; no comprehensive Black neighborhood high school of the DuSable/Phillips scale remains in the same form."
+    },
+    {
+     "type": "colleges",
+     "presence": "moderate",
+     "key_institutions": [
+      "Chicago State University",
+      "Kennedy-King College",
+      "Olive-Harvey College",
+      "Malcolm X College"
+     ],
+     "evidence_note": "Four Black-serving public colleges operating."
+    },
+    {
+     "type": "libraries_archives",
+     "presence": "weak",
+     "key_institutions": [
+      "Vivian G. Harsh Research Collection"
+     ],
+     "evidence_note": "Harsh collection at CPL; archival gaps for the Bee and Pilgrim fire losses persist."
+    },
+    {
+     "type": "museums",
+     "presence": "strong",
+     "key_institutions": [
+      "DuSable Black History Museum and Education Center (renamed 2022)",
+      "Bronzeville-Black Metropolis National Heritage Area (2023)",
+      "National Museum of Gospel Music (planned)"
+     ],
+     "evidence_note": "The DuSable rebrands in 2022; Congress establishes the Bronzeville-Black Metropolis NHA (signed Jan 5, 2023) with up to $10M over 15 years \u2014 the strongest federal preservation commitment in the ecosystem's history."
+    },
+    {
+     "type": "fraternal_mutual_aid",
+     "presence": "weak",
+     "key_institutions": [
+      "Prince Hall Masons"
+     ],
+     "evidence_note": "Diminished; Chicago Black Elks lodges unconfirmed in this track."
+    },
+    {
+     "type": "settlement_centers",
+     "presence": "moderate",
+     "key_institutions": [
+      "Ada S. McKinley Community Services (70+ sites)",
+      "The Renaissance Collaborative"
+     ],
+     "evidence_note": "McKinley's agency is among the largest human-services nonprofits in Chicago; the Wabash YMCA building is supportive housing."
+    },
+    {
+     "type": "civil_rights_orgs",
+     "presence": "moderate",
+     "key_institutions": [
+      "Rainbow PUSH Coalition"
+     ],
+     "evidence_note": "Institutional organizing continues at lower density than the 1960s peak."
+    },
+    {
+     "type": "business_commerce",
+     "presence": "weak",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned commercial corridor of the Black Metropolis scale documented."
+    },
+    {
+     "type": "sports",
+     "presence": "absent",
+     "key_institutions": [],
+     "evidence_note": "No Black-owned team based in Chicago; evidence supports absence of the type."
+    },
+    {
+     "type": "social_clubs",
+     "presence": "unknown",
+     "key_institutions": [],
+     "evidence_note": "Not researched in this track; marked unknown."
+    },
+    {
+     "type": "professional_associations",
+     "presence": "weak",
+     "key_institutions": [
+      "Cook County Bar Association"
+     ],
+     "evidence_note": "Black lawyers' association active."
+    },
+    {
+     "type": "funeral_homes",
+     "presence": "weak",
+     "key_institutions": [
+      "A.R. Leak Funeral Home"
+     ],
+     "evidence_note": "Under-researched type."
+    }
+   ]
+  }
+ ]
+}

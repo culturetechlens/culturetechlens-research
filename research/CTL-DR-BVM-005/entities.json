@@ -1,0 +1,2927 @@
+{
+  "entities": [
+    {
+      "address": "4719-4727 S. Parkway (now Martin Luther King Drive), Chicago",
+      "claims": [
+        {
+          "claim": "Built by the National Theater Corporation for $1.5 million; opened February 4, 1928, as one of the first U.S. theaters built expressly to cater to the Black community.",
+          "contradicts": null,
+          "evidence": "City of Chicago landmark report on the New Regal Theater states the Regal was 'built at 4719-27 South Parkway by the National Theater Corporation,' 'one of the first theaters in the country built expressly to cater to the black community,' 'constructed and furnished for $1.5 million,' and 'opened its doors on February 4, 1928.'",
+          "grade": "Verified",
+          "source": "City of Chicago, Commission on Chicago Historical and Architectural Landmarks, New Regal Theater designation report (February 1989)",
+          "source_date": "1989-02",
+          "source_type": "secondary",
+          "uncertainty": "One popular blog gives February 24, 1928; the City's February 4 date is preferred. Seating capacity ~3,000 from secondary sources, not in the City report excerpt read."
+        },
+        {
+          "claim": "The National Theater Corporation sold the Regal to the Balaban & Katz chain in 1931.",
+          "contradicts": null,
+          "evidence": "City landmark report, ownership sequence.",
+          "grade": "Verified",
+          "source": "City of Chicago, New Regal Theater designation report (February 1989)",
+          "source_date": "1989-02",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "The Regal first came under Black ownership in 1961, when S. B. Fuller purchased it from the Englestein Company; Fuller lost it in 1968.",
+          "contradicts": null,
+          "evidence": "City landmark report: 'the Regal came under black ownership for the first time in 1961 when S.B. Fuller purchased it from the Englestein Company,' losing it in 1968 to financial problems.",
+          "grade": "Verified",
+          "source": "City of Chicago, New Regal Theater designation report (February 1989)",
+          "source_date": "1989-02",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "The original Regal was demolished in 1973.",
+          "contradicts": null,
+          "evidence": "City landmark report; corroborated by Encyclopedia of Chicago and preservation-history accounts.",
+          "grade": "Verified",
+          "source": "City of Chicago, New Regal Theater designation report (February 1989); Encyclopedia of Chicago",
+          "source_date": "1989-02",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "The Regal's architect is disputed: attributions to Levy and Klein, Edward Eichenbaum, and John Eberson all circulate. Eberson definitively designed the Avalon (New Regal) at 79th Street — likely the source of confusion.",
+          "contradicts": null,
+          "evidence": "Track A survey: Wikipedia current text credits Levy and Klein; an earlier Wikipedia version credited Edward Eichenbaum; a Black-history site credits John Eberson; Track B survey repeats the Eichenbaum attribution.",
+          "grade": "Disputed",
+          "source": "Track A compilation of secondary sources (2026-09-28)",
+          "source_date": "2026-09-28",
+          "source_type": "secondary",
+          "uncertainty": "Do not publish an architect attribution without permit or trade-press verification."
+        },
+        {
+          "claim": "The claim that the Regal 'predated the Apollo Theater' is imprecise as commonly written.",
+          "contradicts": null,
+          "evidence": "The Apollo building opened 1913-14; it became a Black venue in 1934, after the Regal (1928). True only with the qualifier 'as a Black entertainment venue.'",
+          "grade": "Disputed",
+          "source": "Track F red-team note, citing City of Chicago landmark report",
+          "source_date": "2026-09-28",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1928-1968; demolished 1973",
+      "id": "venue-regal-theater-original",
+      "name": "Regal Theater (original)",
+      "summary": "Premier Black-audience theater of the South Side, built expressly for Black audiences by the white-owned National Theater Corporation. Not Black-owned until S. B. Fuller purchased it in 1961.",
+      "type": "place"
+    },
+    {
+      "address": "4733 S. Parkway (now Martin Luther King Drive), Chicago",
+      "claims": [
+        {
+          "claim": "Opened November 1927 at 4733 S. Parkway; accommodated more than 4,000; demolished in the early 1970s.",
+          "contradicts": null,
+          "evidence": "Jazz Age Chicago research blog and Bo Lindstrom's venue compilation converge on 4733 S. Parkway, November 1927 opening, 4,000+ capacity, and early-1970s demolition.",
+          "grade": "Verified",
+          "source": "Jazz Age Chicago (blog); Bo Lindstrom, 'Chicago South Side Clubs and Venues c. 1915-1930' (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Capacity and demolition details rest on enthusiast/compilation sources; corridor-level demolition of the 47th/S. Parkway complex in 1972-73 corroborates timing."
+        },
+        {
+          "claim": "Closing year is disputed: 1948 (UChicago Library jazz exhibit) vs. 1954 (Jazz Age Chicago; Lindstrom compilation).",
+          "contradicts": null,
+          "evidence": "UChicago Library exhibit: 'a major jazz center from 1928 until 1948.' Jazz Age Chicago and Lindstrom: closed 1954.",
+          "grade": "Disputed",
+          "source": "UChicago Library exhibition text (1996-97); Jazz Age Chicago; Lindstrom (2012)",
+          "source_date": "1996-2012",
+          "source_type": "secondary",
+          "uncertainty": "Defender entertainment pages or city directories should settle this.",
+          "contradiction_noted": {
+            "subject": "Savoy Ballroom closing year — 1948 vs 1954",
+            "other_claims": [
+              "CTL-DR-BMI-002/additional-rooms-identified-flagged-for-future-research-not-fully-researched"
+            ],
+            "guidance": "Headline-date drift; show disputed range.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          },
+          "red_team_notes": [
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Savoy Ballroom closing year — 1948 vs 1954. See also: CTL-DR-BMI-002/additional-rooms-identified-flagged-for-future-research-not-fully-researched. Headline-date drift; show disputed range."
+          ]
+        },
+        {
+          "claim": "Part of a single commercial complex with the Regal Theater and South Center Department Store, developed by the Englestein syndicate.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago states the Regal was 'part of a larger construction project that included the Savoy Ballroom and the South Center department store.'",
+          "grade": "Verified",
+          "source": "Encyclopedia of Chicago",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "The Englestein brothers' exact corporate vehicle and I. Jay Faggen's operating role rest on single secondary sources (Provisional)."
+        }
+      ],
+      "dates_active": "1927-1948 or 1954; demolished early 1970s",
+      "id": "venue-savoy-ballroom",
+      "name": "Savoy Ballroom (Chicago)",
+      "summary": "Large South Side ballroom anchoring the 47th/South Parkway 'bright-light district'; part of the Englestein-developed Regal/Savoy/South Center complex.",
+      "type": "place"
+    },
+    {
+      "address": "47th Street and S. Parkway, Chicago",
+      "claims": [
+        {
+          "claim": "The South Center Department Store was part of the Regal/Savoy commercial complex developed by the Englestein syndicate.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago: the Regal was 'part of a larger construction project that included the Savoy Ballroom and the South Center department store.'",
+          "grade": "Verified",
+          "source": "Encyclopedia of Chicago",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Open/close dates, ownership, and demolition fate all unresolved."
+        }
+      ],
+      "dates_active": "1927-unknown",
+      "id": "venue-south-center",
+      "name": "South Center Department Store",
+      "summary": "Department store in the Englestein-developed 47th/S. Parkway complex. Open/close dates, ownership, and fate unresolved.",
+      "type": "place"
+    },
+    {
+      "address": "4644 S. Parkway, Chicago",
+      "claims": [
+        {
+          "claim": "Opened circa 1917; operated into about 1930; demolished 1972, leaving an empty parking lot.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation (ca. 1917-30); MAS Context preservation journalism (opened 1917, demolished 1972).",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012); MAS Context",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Exact open/close years approximate; ownership not verified."
+        }
+      ],
+      "dates_active": "ca. 1917-1930; demolished 1972",
+      "id": "venue-metropolitan-theater",
+      "name": "Metropolitan Theater (Ascher's Metropolitan)",
+      "summary": "Early Black-audience theater on the South Parkway corridor, demolished a year before the Regal.",
+      "type": "place"
+    },
+    {
+      "address": "315-317 E. 35th Street, Chicago",
+      "claims": [
+        {
+          "claim": "Building constructed 1909 as an auto garage; converted to a dance hall and opened August 3, 1921, as the Sunset Cafe; owned by Ed Fox and Sam Rifas, managed by Joe Glaser, with Carroll Dickerson's band.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation: 'Built in 1909 as a garage and converted to a dancehall 1921. Open Aug 3, 1921... Owners: Ed Fox and Sam Rifas; Joe Glaser, manager... Carroll Dickerson.'",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single compilation source; operator/manager details need Defender/directory corroboration."
+        },
+        {
+          "claim": "An integrated 'Black and Tan' club that hosted Louis Armstrong (1926), Earl Hines (from 1928), and Cab Calloway.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation; UChicago Library jazz-exhibit text places the Sunset within the South Side jazz-club ecology.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012); UChicago Library exhibition text (1996-97)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Exact performer tenure years (e.g., Hines 1928-35) overlap with his known Grand Terrace residency; treat years as shaky."
+        },
+        {
+          "claim": "Renamed the New Sunset Cafe in October 1932; later housed Meyers Ace Hardware (from the 1960s), whose proprietors preserved the original jazz murals; the hardware store closed in February 2017; the building stands as a Chicago Landmark (designated 1998).",
+          "contradicts": null,
+          "evidence": "Lindstrom (renaming); Medill Reports Chicago on the February 2017 hardware-store closure; City of Chicago landmark address list.",
+          "grade": "Verified",
+          "source": "Bo Lindstrom (2012); Medill Reports Chicago (~2017); City of Chicago landmark list",
+          "source_date": "2017",
+          "source_type": "secondary",
+          "uncertainty": "Current occupant and mural-preservation status after 2017 unresolved."
+        },
+        {
+          "claim": "Closure date disputed: 1937 (Lindstrom) vs. operation through the 1940s with closure in 1950 (current business site, weak).",
+          "contradicts": null,
+          "evidence": "Lindstrom: 'Open Aug 3, 1921-1937.' The current business site claims operation through the 1940s and closure in 1950.",
+          "grade": "Disputed",
+          "source": "Bo Lindstrom (2012); sunsetwaterfrontbarandgrill.com",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Defender entertainment listings should resolve."
+        },
+        {
+          "claim": "The Sunset Cafe is a separate venue from the Grand Terrace Cafe at 3955 S. Parkway; claims that 'the Sunset Cafe, also known as The Grand Terrace Cafe' are a conflation error.",
+          "contradicts": null,
+          "evidence": "Distinct addresses (315-317 E. 35th vs. 3955 S. Parkway); Lindstrom documents the Grand Terrace as a separate venue.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": null,
+          "weak_source_only": true,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Bo Lindstrom (2012)); queued for re-sourcing before any public use."
+          ]
+        }
+      ],
+      "dates_active": "1921-ca. 1937/1950; Chicago Landmark 1998",
+      "id": "venue-sunset-cafe",
+      "name": "Sunset Cafe (later New Sunset Cafe)",
+      "summary": "Landmarked integrated ('Black and Tan') jazz club in a converted 1909 auto garage; hosted Louis Armstrong, Earl Hines, and Cab Calloway. Distinct venue from the Grand Terrace Cafe despite frequent online conflation.",
+      "type": "place"
+    },
+    {
+      "address": "3955 S. Parkway, Chicago",
+      "claims": [
+        {
+          "claim": "The Grand Terrace Cafe operated until 1928 in the same building as the Grand Terrace Ballroom (aka Peerless Theater); the ballroom opened 1917 as the Grand Oak Theatre, became the Peerless Theater later that year, closed until 1937 when it opened as the Park Theatre, closed 1958, and reopened as the Ritz Theatre 1964-65.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation entries for the Grand Terrace Cafe and Grand Terrace Ballroom.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single source; current/final fate unresolved."
+        }
+      ],
+      "dates_active": "1917-1965 (successive identities)",
+      "id": "venue-grand-terrace",
+      "name": "Grand Terrace Cafe / Grand Terrace Ballroom",
+      "summary": "Venue at 3955 S. Parkway; the Grand Terrace Cafe operated until 1928; the building cycled through Grand Oak Theatre, Peerless Theater, Park Theatre, and Ritz Theatre identities.",
+      "type": "place"
+    },
+    {
+      "address": "3520 S. State Street per UChicago (1914); 3618 S. State Street per NPS nomination",
+      "claims": [
+        {
+          "claim": "The Dreamland Cafe was a pioneering South Side jazz venue that opened in 1914, associated with King Oliver, Baby Dodds, Honore Dutrey, Alberta Hunter, and Lil Hardin Armstrong's Dreamland Syncopators featuring Louis Armstrong on cornet.",
+          "contradicts": null,
+          "evidence": "UChicago Library exhibition text drawing on the Chicago Jazz Archive describes the 'grand Dreamland Cafe, opened at 3520 South State Street in 1914' and its performers.",
+          "grade": "Verified",
+          "source": "UChicago Library, 'From Dreamland to Showcase: Jazz in Chicago, 1912 to 1996' (exhibition text, 1996-97)",
+          "source_date": "1996-97",
+          "source_type": "secondary",
+          "uncertainty": "Performers standard accounts; specific dates provisional."
+        },
+        {
+          "claim": "Address is disputed: the UChicago exhibit gives 3520 S. State; the NPS Black Metropolis nomination lists the Dreamland Cafe at 3618 S. State. No source states a relocation.",
+          "contradicts": null,
+          "evidence": "Direct conflict between the two sources.",
+          "grade": "Disputed",
+          "source": "UChicago Library exhibition text (1996-97); NPS Black Metropolis Thematic Nomination (1985)",
+          "source_date": "1985-1997",
+          "source_type": "secondary",
+          "uncertainty": "City directories 1914-1925 should resolve; ownership also unresolved."
+        },
+        {
+          "claim": "Paddy Harmon's Dreamland Ballroom (Paulina and Van Buren, near West Side) is a distinct venue and a documented source of confusion.",
+          "contradicts": null,
+          "evidence": "Track A survey.",
+          "grade": "Verified",
+          "source": "CTL Track A working dossier (2026-09-28)",
+          "source_date": "2026-09-28",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1914-c. 1917+",
+      "id": "venue-dreamland-cafe",
+      "name": "Dreamland Cafe",
+      "summary": "Pioneering South Side jazz venue; address disputed between 3520 and 3618 S. State; associated with King Oliver, Lil Hardin Armstrong's Dreamland Syncopators, and Louis Armstrong.",
+      "type": "place"
+    },
+    {
+      "address": "2700 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "Robert T. Motts's Pekin Theatre at 2700 S. State was the first Black-owned musical/vaudeville stock theater in the United States; both Black and white audiences were admitted; it reopened as a dance hall in 1918.",
+          "contradicts": null,
+          "evidence": "Wikipedia; Illinois Humanities; NPS nomination places Motts's theater at 2700 S. State as an early catalyst for later music venues; Lindstrom describes the dance-hall conversion.",
+          "grade": "Verified",
+          "source": "Illinois Humanities; NPS Black Metropolis Thematic Nomination (1985); Bo Lindstrom (2012)",
+          "source_date": "1985-2012",
+          "source_type": "secondary",
+          "uncertainty": "Motts's death in 1911 needs verification."
+        },
+        {
+          "claim": "Opening year is reported as 1904 (theater opening) vs. June 18, 1905 (first all-Black show); demolition in 1946 rests on weak sourcing only.",
+          "contradicts": null,
+          "evidence": "Track A survey of secondary sources.",
+          "grade": "Disputed",
+          "source": "CTL Track A working dossier (2026-09-28)",
+          "source_date": "2026-09-28",
+          "source_type": "secondary",
+          "uncertainty": "Likely 1904 opening vs. June 18, 1905 first all-Black production; needs trade-press verification."
+        }
+      ],
+      "dates_active": "1904/1905-1918+; demolition reported 1946 (unresolved)",
+      "id": "venue-pekin-theatre",
+      "name": "Pekin Theatre",
+      "summary": "Robert T. Motts's theater, widely cited as the first Black-owned stock theater in the United States, admitting both Black and white audiences; reopened as a dance hall in 1918.",
+      "type": "place"
+    },
+    {
+      "address": "459 E. 31st Street, Chicago",
+      "claims": [
+        {
+          "claim": "Ownership in 1918 is listed as Louis B. Anderson, William Bottoms, and Virgil Williams; in 1921 it became Lincoln Gardens under owner Florence Majors; King Oliver's Creole Jazz Band played there 1923-24; it caught fire Christmas Eve 1924 and closed 1925-26, becoming the New Charleston Cafe in 1927 and later the Cafe de Paris.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation entry; the NPS nomination also lists Royal/Lincoln Gardens at 459 E. 31st without ownership detail.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012); NPS Black Metropolis Thematic Nomination (1985)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Ownership, fire, and Cafe de Paris sequence all rest on one compilation; Alderman Louis B. Anderson's co-ownership is significant if corroborated. Needs directory/Defender verification."
+        }
+      ],
+      "dates_active": "1918-1927+",
+      "id": "venue-royal-gardens",
+      "name": "Royal Gardens / Lincoln Gardens",
+      "summary": "31st Street jazz venue with documented Black ownership interests (1918-1921): Louis B. Anderson, William Bottoms, Virgil Williams (1918); Florence Majors (1921). King Oliver's Creole Jazz Band played there 1923-24.",
+      "type": "place"
+    },
+    {
+      "address": "3143-3149 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "Opened 1919 with 1,300 seats at 3143-3149 S. State; demolished 1949; Louis Armstrong performed there with Erskine Tate's Vendome Theater Symphony Orchestra in 1925; Fats Waller was house organist in 1927.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation; UChicago exhibition text documents Armstrong/Tate (1926) and Waller (1927).",
+          "grade": "Verified",
+          "source": "Bo Lindstrom (2012); UChicago Library exhibition text (1996-97)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Demolition year 1949 rests on one compilation; ownership not verified."
+        }
+      ],
+      "dates_active": "1919-1949 (demolished)",
+      "id": "venue-vendome-theater",
+      "name": "Vendome Theater",
+      "summary": "1,300-seat State Street theater; Louis Armstrong performed there with Erskine Tate's orchestra in 1925; Fats Waller was house organist in 1927.",
+      "type": "place"
+    },
+    {
+      "address": "3104-3112 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "Operated circa 1908-1930 at 3104-3112 S. State; hosted the Original Creole Jazz Band (1913), Ma Rainey, and Bessie Smith.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single source; ownership and exact dates unverified."
+        }
+      ],
+      "dates_active": "ca. 1908-1930",
+      "id": "venue-grand-theater",
+      "name": "Grand Theater",
+      "summary": "State Street Black-audience theater; hosted the Original Creole Jazz Band (1913), Ma Rainey, and Bessie Smith.",
+      "type": "place"
+    },
+    {
+      "address": "3436-3440 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "Opened 1916 at 3436-3440 S. State with 383 seats; Lovie Austin was musical director 1923-28.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single source; ownership and operating dates unverified."
+        }
+      ],
+      "dates_active": "1916-unknown",
+      "id": "venue-monogram-theatre",
+      "name": "Monogram Theatre",
+      "summary": "383-seat State Street theater with Lovie Austin as musical director 1923-28.",
+      "type": "place"
+    },
+    {
+      "address": "3132 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "The Lincoln Theatre stood at 3132 S. State; it was demolished and its site is now part of IIT.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Dates and ownership unresolved."
+        }
+      ],
+      "dates_active": "unknown; demolished; site now part of IIT",
+      "id": "venue-lincoln-theatre",
+      "name": "Lincoln Theatre",
+      "summary": "State Street theater, demolished; the site is now part of the Illinois Institute of Technology campus.",
+      "type": "place"
+    },
+    {
+      "address": "3505-3509 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "700-seat theater at 3505-3509 S. State, part of the Panama/De Luxe/States corner grouping.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Ownership and exact operating dates unverified."
+        }
+      ],
+      "dates_active": "unknown",
+      "id": "venue-states-theater",
+      "name": "States Theater",
+      "summary": "700-seat Black theater at the Panama (3501) / De Luxe Cafe (3503) / States corner cluster; described as one of the most prominent Black theaters in Chicago's Black Belt.",
+      "type": "place"
+    },
+    {
+      "address": "3501 S. State Street, Chicago (southeast corner, State and 35th)",
+      "claims": [
+        {
+          "claim": "The Panama Cafe at the southeast corner of State and 35th was white-owned; Florence Mills got her start there and Tony Jackson's 'Pretty Baby' dates to 1916 there.",
+          "contradicts": null,
+          "evidence": "The NPS nomination explicitly verifies the Panama's white ownership and State/35th location; Lindstrom lists 3501 S. State, ca. 1910s-1920.",
+          "grade": "Verified",
+          "source": "NPS Black Metropolis Thematic Nomination (1985); Bo Lindstrom (2012)",
+          "source_date": "1985-2012",
+          "source_type": "secondary",
+          "uncertainty": "White ownership verified by NPS; the named white owner was not identified (gap). Performer details provisional."
+        }
+      ],
+      "dates_active": "ca. 1910s-1920",
+      "id": "venue-panama-cafe",
+      "name": "Panama Cafe (Panama Club)",
+      "summary": "White-owned early jazz incubator; Florence Mills got her start there; Tony Jackson's 'Pretty Baby' dates to 1916 there.",
+      "type": "place"
+    },
+    {
+      "address": "338 E. 35th Street, Chicago",
+      "claims": [
+        {
+          "claim": "Black-and-tan jazz club at 338 E. 35th, open 1924 into the 1930s; Joe 'King' Oliver with the Dixie Syncopators played February 1925-spring 1927; it was bombed and destroyed by fire in spring 1927, later moving to 5060 S. Michigan (1934).",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single source; the bombing claim in particular needs Defender/police-record corroboration. Do not state the bombing as established fact."
+        }
+      ],
+      "dates_active": "1924-1930s; destroyed by fire spring 1927; later moved to 5060 S. Michigan (1934)",
+      "id": "venue-plantation-cafe",
+      "name": "Plantation Cafe",
+      "summary": "'Black and Tan' jazz club; Joe 'King' Oliver played there February 1925-spring 1927.",
+      "type": "place"
+    },
+    {
+      "address": "446 E. 47th Street, Chicago",
+      "claims": [
+        {
+          "claim": "Gerri's Palm Tavern at 446 E. 47th Street opened in 1933 and was locked/closed in 2001 after city acquisition.",
+          "contradicts": null,
+          "evidence": "MAS Context preservation journalism documents the address, 1933 opening, and 2001 closure.",
+          "grade": "Provisional",
+          "source": "MAS Context, 'What Happened to Gerri's Palm Tavern'",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Single source; demolition date and present site use unresolved. Important qualifier to the district-level white-ownership pattern of 47th Street."
+        }
+      ],
+      "dates_active": "1933-2001",
+      "id": "venue-palm-tavern",
+      "name": "Palm Tavern (Gerri's Palm Tavern)",
+      "summary": "Documented Black-owned business on the 47th Street corridor; operated nearly 70 years; closed/locked 2001 after the city acquired the property.",
+      "type": "place"
+    },
+    {
+      "address": "330 E. 35th Street (also reported on Prairie Avenue)",
+      "claims": [
+        {
+          "claim": "A venue at 330 E. 35th operated as the Club Alvadere (1920-22), the Nest Club (ca. 1922-26), and the Apex Club (1926-28).",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single source."
+        },
+        {
+          "claim": "Address is disputed (330 E. 35th vs. Prairie Avenue — the UChicago exhibit documents 'Earl Hines with Jimmie Noone at an Apex Club on Prairie Avenue in 1928') and closure is disputed (1928 end of listing vs. 1930 federal Prohibition raid reported by a weak marketplace listing).",
+          "contradicts": null,
+          "evidence": "Lindstrom vs. UChicago exhibition text; picclick listing.",
+          "grade": "Disputed",
+          "source": "Bo Lindstrom (2012); UChicago Library exhibition text (1996-97)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Do not state an address or closure date as fact without directory verification."
+        }
+      ],
+      "dates_active": "1920s",
+      "id": "venue-apex-club",
+      "name": "Apex Club (formerly Nest Club; formerly Club Alvadere)",
+      "summary": "Successive 35th Street clubs; Earl Hines and Jimmie Noone associated with an Apex Club in 1928. Address and closure disputed.",
+      "type": "place"
+    },
+    {
+      "address": "5521 S. State Street (single weak source)",
+      "claims": [
+        {
+          "claim": "Nightclub at 5521 S. State Street; operated 1934-1958; 1,000 seats.",
+          "contradicts": null,
+          "evidence": "Alchetron mirror of Wikipedia infobox (tertiary/weak).",
+          "grade": "Provisional",
+          "source": "Alchetron (mirror of Wikipedia infobox)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Existence and importance are well attested (Queer Bronzeville series lists it among integrated venues), but address and dates rest on a single weak source. Do not publish the address without verification.",
+          "contradiction_noted": {
+            "subject": "Club DeLisa opening year — 1933 vs 1934",
+            "other_claims": [
+              "CTL-DR-BMI-002/club-delisa",
+              "CTL-DR-BCI-001/b-delisa"
+            ],
+            "guidance": "A venue page must show the year as disputed, not pick one.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          },
+          "red_team_notes": [
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Club DeLisa opening year — 1933 vs 1934. See also: CTL-DR-BMI-002/club-delisa, CTL-DR-BCI-001/b-delisa. A venue page must show the year as disputed, not pick one."
+          ]
+        }
+      ],
+      "dates_active": "1934-1958 (single weak source)",
+      "id": "venue-club-delisa",
+      "name": "Club DeLisa",
+      "summary": "Major Bronzeville nightclub; address and dates rest on a single weak source and should not be published without verification.",
+      "type": "place"
+    },
+    {
+      "address": "State Street, South Side Chicago (reported boundaries vary: 26th-29th; 31st-35th; broadly 26th-39th)",
+      "claims": [
+        {
+          "claim": "'The Stroll' designated the Black entertainment strip on State Street, but reported boundaries vary: an IIT finding aid gives 31st to 35th; a tour source gives 26th-29th; a music-history article describes successive 'strolls' at 31st and State (1920s), 47th and Garfield/55th (1930s-40s), and 63rd in Woodlawn (later).",
+          "contradicts": null,
+          "evidence": "IIT finding aid; chicagodetours; Beachwood Reporter music-history article; Schlabach, 'Along the Streets of Bronzeville' references the State Street 'Stroll' district.",
+          "grade": "Disputed",
+          "source": "IIT Bronzeville History Booklet; Beachwood Reporter",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Treat 'The Stroll' as a loosely defined, era-shifting term rather than a fixed boundary until Drake & Cayton (1945) and Defender usage are consulted directly."
+        }
+      ],
+      "dates_active": "c. 1910s-1940s",
+      "id": "district-the-stroll",
+      "name": "The Stroll",
+      "summary": "The Black entertainment strip on State Street; boundaries contested and the term shifted over time to successive nightlife centers.",
+      "type": "place"
+    },
+    {
+      "address": "3763 S. Wabash Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Built 1913 with community fundraising plus Julius Rosenwald (Sears, Roebuck) philanthropy; served Great Migration newcomers with job training, temporary housing, and recreation.",
+          "contradicts": null,
+          "evidence": "Chicago History Museum (2023): building completed 1913, Rosenwald + community funds.",
+          "grade": "Verified",
+          "source": "Chicago History Museum (Feb 14, 2023)",
+          "source_date": "2023-02-14",
+          "source_type": "secondary",
+          "uncertainty": "One source (Track D) says 'opened 1914'; treat 1913/1914 as a minor discrepancy."
+        },
+        {
+          "claim": "In September 1915 Carter G. Woodson convened the founding meeting of the Association for the Study of Negro Life and History (ASNLH, now ASALH) at the YMCA; Negro History Week (February 7, 1926) was organized there — the direct origin of Black History Month.",
+          "contradicts": null,
+          "evidence": "Chicago History Museum (2023): Woodson ASNLH founding meeting Sept. 1915 at the Y. Chicago Southsider (2026): Negro History Week organized there Feb. 7, 1926.",
+          "grade": "Verified",
+          "source": "Chicago History Museum (2023); Chicago Southsider (2026)",
+          "source_date": "2023-2026",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "In 1992 the Renaissance Collaborative (founded by Quinn Chapel AME and three other churches) was created to save the building; a ~$9M renovation in the late 1990s returned it to use; the building was closed in 1981 and had faced a demolition order in the mid-1990s.",
+          "contradicts": null,
+          "evidence": "Track D: Roanoke Times 1996 (demolition-order fight); Wikipedia (renovation by TRC); EIN Presswire 2026 (TRC 'formed in 1992 to restore and preserve the Historic Former Wabash YMCA').",
+          "grade": "Verified",
+          "source": "Roanoke Times (1996); EIN Presswire (2026)",
+          "source_date": "1996-2026",
+          "source_type": "secondary",
+          "uncertainty": "TRC founding-year sources: primary-but-interested (org PR)."
+        },
+        {
+          "claim": "Listed in the NPS Black Metropolis Thematic Nomination (1985); individually listed on the NRHP April 30, 1986; designated a Chicago Landmark September 9, 1998 as part of the Black Metropolis-Bronzeville District.",
+          "contradicts": null,
+          "evidence": "NPS nomination; City of Chicago landmark address list.",
+          "grade": "Verified",
+          "source": "NPS Black Metropolis Thematic Nomination (1985); City of Chicago landmark list",
+          "source_date": "1985",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1913-present; Chicago Landmark 1998",
+      "id": "civic-wabash-ymca",
+      "name": "Wabash Avenue YMCA",
+      "summary": "Black Metropolis-era social institution and Great Migration hub; birthplace of the ASNLH (1915) and Negro History Week (1926); saved from demolition by the Renaissance Collaborative.",
+      "type": "place"
+    },
+    {
+      "address": "3533 S. Giles Avenue (reported 3517-33 S. Giles in Track E), Chicago",
+      "claims": [
+        {
+          "claim": "Armory of the Black 8th Infantry Regiment ('Fighting 8th'); the first U.S. armory built for an African-American regiment.",
+          "contradicts": null,
+          "evidence": "VT/Roanoke Times (1996); Wikipedia; listed in the NPS Black Metropolis Thematic Nomination.",
+          "grade": "Provisional",
+          "source": "Roanoke Times (1996); NPS Black Metropolis Thematic Nomination (1985)",
+          "source_date": "1985-1996",
+          "source_type": "secondary",
+          "uncertainty": "Regimental history not independently verified here; needs National Register records."
+        },
+        {
+          "claim": "Listed on the NRHP April 30, 1986; designated a Chicago Landmark September 9, 1998; threatened with demolition (1996 reporting) and reopened in 1999 as the Chicago Military Academy at Bronzeville public high school.",
+          "contradicts": null,
+          "evidence": "NPS nomination; City landmark list; Wikipedia (citing Public Building Commission of Chicago); Roanoke Times 1996 (threat); DVIDS/Illinois National Guard 2019 (current use).",
+          "grade": "Verified",
+          "source": "NPS (1985); City of Chicago landmark list; DVIDS (2019)",
+          "source_date": "1985-2019",
+          "source_type": "primary",
+          "uncertainty": "The actor behind the 1996 demolition threat is cut off in the archived Roanoke Times text (gap)."
+        }
+      ],
+      "dates_active": "1914-present; Chicago Landmark 1998",
+      "id": "civic-eighth-regiment-armory",
+      "name": "Eighth Regiment Armory",
+      "summary": "First U.S. armory built for an African-American regiment (the WWI 'Fighting 8th'); adaptively reused as the Chicago Military Academy at Bronzeville.",
+      "type": "place"
+    },
+    {
+      "address": "3140 S. Indiana Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Built 1887 by L.B. Dixon for the Jewish Lakeside Club; Oscar Stanton De Priest established the People's Movement Club there in 1917; later William Dawson's political HQ; church use from the 1950s.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation; Track D: Wikipedia/preservation sources.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012); Wikipedia",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Single-source chain; De Priest's precise offices need proper sourcing."
+        },
+        {
+          "claim": "Listed on the NRHP April 30, 1986; designated a Chicago Landmark September 9, 1998; vacant and endangered (WBEZ/Lee Bey, 2012). Current 2026 condition unverified.",
+          "contradicts": null,
+          "evidence": "NPS nomination; City landmark list; WBEZ (April 2012).",
+          "grade": "Verified",
+          "source": "NPS (1985); City of Chicago landmark list; WBEZ (2012)",
+          "source_date": "1985-2012",
+          "source_type": "primary",
+          "uncertainty": "Student-housing conversion plans unverified; needs a fresh condition check."
+        }
+      ],
+      "dates_active": "1887-present; Chicago Landmark 1998",
+      "id": "civic-unity-hall",
+      "name": "Unity Hall",
+      "summary": "1887 clubhouse; De Priest's 1917 political base; now vacant and endangered despite landmark protections.",
+      "type": "place"
+    },
+    {
+      "address": "3619-3627 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "Commissioned 1922 by Anthony Overton; architect Z. Erol Smith; completed 1923; housed Overton's conglomerate (Overton Hygienic Manufacturing Co., Victory Life, Douglass National Bank).",
+          "contradicts": null,
+          "evidence": "NPS nomination identifies the surviving building; Next City (2019) and academic article document the enterprises; commissioning 1922 vs. completion 1923 treated as consistent.",
+          "grade": "Verified",
+          "source": "NPS Black Metropolis Thematic Nomination (1985); Next City (2019)",
+          "source_date": "1985-2019",
+          "source_type": "secondary",
+          "uncertainty": "Build-year specifics (1922 vs. completed 1923) minor."
+        },
+        {
+          "claim": "Listed on the NRHP April 30, 1986; designated a Chicago Landmark September 9, 1998; renovated 2007 by the Davis Group ($8M financing stack), sparing it from potential demolition; being fitted as incubator space (~2019).",
+          "contradicts": null,
+          "evidence": "NPS nomination; City landmark list; NextCity (~2019).",
+          "grade": "Verified",
+          "source": "NPS (1985); City of Chicago landmark list; NextCity (2019)",
+          "source_date": "1985-2019",
+          "source_type": "secondary",
+          "uncertainty": "Dollar figure as reported in a single detailed source; current occupancy unresolved."
+        }
+      ],
+      "dates_active": "1922/23-present; Chicago Landmark 1998",
+      "id": "bldg-overton-hygienic",
+      "name": "Overton Hygienic Building",
+      "summary": "Anthony Overton's corporate headquarters building, housing his cosmetics company, insurance company, and Douglass National Bank; landmarked and renovated in 2007.",
+      "type": "place"
+    },
+    {
+      "address": "3647-3655 S. State Street, Chicago",
+      "claims": [
+        {
+          "claim": "Commissioned 1929 by Anthony Overton; completed 1931; housed the Chicago Bee newspaper; Art Deco building; now houses a Chicago Public Library branch (since 1996; reopened December 2018 after a $2.32M renovation funded by the Chicago Housing Authority).",
+          "contradicts": null,
+          "evidence": "NPS nomination; Chicago Literary Hall of Fame; Preservation Chicago (2018); Citizen Newspaper Group (Dec 2018); do312 walking-tour listing.",
+          "grade": "Verified",
+          "source": "NPS (1985); Chicago Literary Hall of Fame; Preservation Chicago (2018)",
+          "source_date": "1985-2018",
+          "source_type": "secondary",
+          "uncertainty": "Built 1929 (Preservation Chicago) vs. completed 1931 (Roanoke Times 1996); architect name spelling varies (Z. Erol Smith / Smith Z. Erol). Immaterial to the narrative."
+        },
+        {
+          "claim": "Listed on the NRHP April 30, 1986; designated a Chicago Landmark September 9, 1998.",
+          "contradicts": null,
+          "evidence": "NPS nomination; City landmark list.",
+          "grade": "Provisional",
+          "source": "NPS (1985); City of Chicago landmark list",
+          "source_date": "1985",
+          "source_type": "primary",
+          "uncertainty": null,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Self-citation: source is \"CTL Track D working dossier (2026-09-28)\" - circular evidence. Source cited: NPS (1985); City of Chicago landmark list"
+          ]
+        }
+      ],
+      "dates_active": "1929/31-present; Chicago Landmark 1998",
+      "id": "bldg-chicago-bee",
+      "name": "Chicago Bee Building",
+      "summary": "Anthony Overton's 1929 Art Deco building housing the Chicago Bee newspaper; now the Chicago Bee Branch of the Chicago Public Library.",
+      "type": "place"
+    },
+    {
+      "address": "Address not verified from sources found (district member)",
+      "claims": [
+        {
+          "claim": "Identified by the NPS Black Metropolis Thematic Nomination as one of the surviving buildings of the Black Metropolis commercial district.",
+          "contradicts": null,
+          "evidence": "NPS nomination lists the Chicago Defender Building among surviving district buildings.",
+          "grade": "Verified",
+          "source": "NPS Black Metropolis Thematic Nomination (1985)",
+          "source_date": "1985",
+          "source_type": "secondary",
+          "uncertainty": "Address, construction date, and current use/condition all unresolved — a key gap."
+        },
+        {
+          "claim": "Designated a Chicago Landmark September 9, 1998 as part of the Black Metropolis-Bronzeville District; never NRHP-listed.",
+          "contradicts": null,
+          "evidence": "Track D synthesis of the district designation.",
+          "grade": "Verified",
+          "source": "CTL Track D working dossier (2026-09-28)",
+          "source_date": "2026-09-28",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "unknown; Chicago Landmark 1998",
+      "id": "bldg-chicago-defender",
+      "name": "Chicago Defender Building",
+      "summary": "NPS-identified surviving Black Metropolis commercial building; designated a Chicago Landmark in 1998 but never NRHP-listed. Address and current condition unverified.",
+      "type": "place"
+    },
+    {
+      "address": "3501 S. King Drive (originally South Parkway), Chicago",
+      "claims": [
+        {
+          "claim": "Built 1921 (architect Albert Anis); company bought it outright in 1924; served as Supreme Life headquarters 1919-1962.",
+          "contradicts": null,
+          "evidence": "Wikipedia citing Chicago Landmarks; City designation materials.",
+          "grade": "Verified",
+          "source": "Wikipedia; Chicago Landmarks designation",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "The 'first in the northern U.S.' insurance claim needs insurance-history verification; build-vs-purchase chronology should be permit-verified."
+        },
+        {
+          "claim": "Nearly demolished in the 1990s; purchased by the Black Metropolis Convention and Tourism Council; rehabilitated in 2005; now the Bronzeville Visitor Information Center.",
+          "contradicts": null,
+          "evidence": "Wikipedia citing Chicago Sun-Times (Lee Bey, Aug/Sept 1996).",
+          "grade": "Provisional",
+          "source": "Chicago Sun-Times (1996) via Wikipedia",
+          "source_date": "1996",
+          "source_type": "secondary",
+          "uncertainty": null,
+          "weak_source_only": true,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Chicago Sun-Times (1996) via Wikipedia); queued for re-sourcing before any public use."
+          ]
+        },
+        {
+          "claim": "Designated a Chicago Landmark September 9, 1998; never NRHP-listed.",
+          "contradicts": null,
+          "evidence": "City of Chicago landmark address list.",
+          "grade": "Verified",
+          "source": "City of Chicago landmark list",
+          "source_date": "1998",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1921-present; Chicago Landmark 1998",
+      "id": "bldg-supreme-life",
+      "name": "Supreme Life / Liberty Life Insurance Company Building",
+      "summary": "Headquarters of the first Black-owned insurance company in the northern United States (founded 1919 by Frank L. Gillespie); saved from near-demolition in the 1990s; now the Bronzeville Visitor Information Center.",
+      "type": "place"
+    },
+    {
+      "address": "35th Street and King Drive, Chicago",
+      "claims": [
+        {
+          "claim": "Erected 1927 by the State of Illinois honoring the 8th Infantry/370th ('Fighting 8th'); sculptor Leonard Crunelle, concept John A. Nyden; doughboy figure added 1936; first state-sponsored memorial to African American WWI veterans.",
+          "contradicts": null,
+          "evidence": "VT/Roanoke Times (1996); Girl Scouts Bronzeville walk PDF (monument details).",
+          "grade": "Provisional",
+          "source": "Roanoke Times (1996); Girl Scouts GCNWI walk sheet",
+          "source_date": "1996",
+          "source_type": "secondary",
+          "uncertainty": "Monument details from a Girl Scout walk sheet (weak); corroborate with Chicago Landmarks/NPS."
+        },
+        {
+          "claim": "Listed on the NRHP April 30, 1986; designated a Chicago Landmark September 9, 1998; renovated ($62,000) and rededicated July 5, 2019.",
+          "contradicts": null,
+          "evidence": "NPS nomination; City landmark list; DVIDS (Illinois National Guard, 2019).",
+          "grade": "Verified",
+          "source": "NPS (1985); City of Chicago landmark list; DVIDS (2019)",
+          "source_date": "1985-2019",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1927-present; Chicago Landmark 1998",
+      "id": "memorial-victory-monument",
+      "name": "Victory Monument",
+      "summary": "State of Illinois memorial to the Black 8th Infantry Regiment's WWI service; first state-sponsored memorial to African American WWI veterans.",
+      "type": "place"
+    },
+    {
+      "address": "26th Place and King Drive, Chicago",
+      "claims": [
+        {
+          "claim": "Bronze sculpture by Alison Saar depicting a figure in a suit of shoe soles; commemorates post-Civil War Black migration to Chicago; marker inscription: 'Erected 1996 by City of Chicago.'",
+          "contradicts": null,
+          "evidence": "hmdb.org marker transcription.",
+          "grade": "Provisional",
+          "source": "hmdb.org marker transcription",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": "Some secondary sources imply 1994; unresolved 1994-vs-1996 installation conflict."
+        }
+      ],
+      "dates_active": "1994 or 1996-present",
+      "id": "memorial-great-migration",
+      "name": "Monument to the Great Northern Migration",
+      "summary": "Alison Saar bronze commemorating Black migration to Chicago; installation date disputed (1994 vs. 1996; marker says 1996).",
+      "type": "place"
+    },
+    {
+      "address": "King Drive, ~25th/26th to 35th Streets",
+      "claims": [
+        {
+          "claim": "Approximately 91 bronze plaques embedded in sidewalks/medians/crosswalks honoring Black Chicago icons (Ida B. Wells, Gwendolyn Brooks, Harold Washington, Robert H. Lawrence Jr., etc.), bounded by the Great Northern Migration monument and the Victory Monument.",
+          "contradicts": null,
+          "evidence": "Girl Scouts GCNWI guide (91 plaques); IIT Bronzeville booklet (92 plaques); travelerlifes.com; boredinchicago.com.",
+          "grade": "Provisional",
+          "source": "Girl Scouts GCNWI guide; IIT Bronzeville History Booklet (2024)",
+          "source_date": "2024",
+          "source_type": "secondary",
+          "uncertainty": "Plaque count 91 vs. 92; establishment date and designer unverified (gap)."
+        }
+      ],
+      "dates_active": "date unverified",
+      "id": "memorial-walk-of-fame",
+      "name": "Bronzeville Walk of Fame",
+      "summary": "Sidewalk plaque corridor along King Drive honoring Black Chicago figures; establishment date and designer unverified.",
+      "type": "place"
+    },
+    {
+      "address": "37th Street and Langley Avenue (3724 S. Vincennes), Chicago",
+      "claims": [
+        {
+          "claim": "35-ft granite-and-bronze abstract sculpture by Richard Hunt; unveiled June 30, 2021 on the former Ida B. Wells Homes site (homes demolished 2011); ~$300K raised over 13 years by the Ida B. Wells Commemorative Art Committee led by Wells's great-granddaughter Michelle Duster; Chicago's first monument honoring a Black woman.",
+          "contradicts": null,
+          "evidence": "AP via artscanvas.org (2021); Black Enterprise (July 4, 2021); Wikipedia.",
+          "grade": "Verified",
+          "source": "Associated Press (2021); Black Enterprise (2021)",
+          "source_date": "2021",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "Focal point of the annual Ida B. Wells Festival (last Saturday of June), founded by Michelle Duster and Bernard C. Turner of the Bronzeville Black Metropolis National Heritage Area.",
+          "contradicts": null,
+          "evidence": "Rebellious Magazine (2026).",
+          "grade": "Provisional",
+          "source": "Rebellious Magazine (2026)",
+          "source_date": "2026",
+          "source_type": "secondary",
+          "uncertainty": null,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single 2026 magazine article (Rebellious Magazine) for festival-founding details. Source cited: Rebellious Magazine (2026)"
+          ]
+        }
+      ],
+      "dates_active": "2021-present",
+      "id": "memorial-wells-monument",
+      "name": "'The Light of Truth' Ida B. Wells National Monument",
+      "summary": "Richard Hunt sculpture on the former Ida B. Wells Homes site; Chicago's first monument honoring a Black woman.",
+      "type": "place"
+    },
+    {
+      "address": "National Pythian Temple site; facade fragment held by the Art Institute of Chicago (gift of Matthew and Molly Godfrey)",
+      "claims": [
+        {
+          "claim": "The National Pythian Temple was the headquarters of the Knights of Pythias of North America, South America, Europe, Asia, Africa and Australia — the Black fraternal order parallel to the white Knights of Pythias. Designed by Black architect Walter T. Bailey with a glazed yellow-terracotta Egyptian Revival facade. Demolished 1980.",
+          "contradicts": null,
+          "evidence": "Art Institute of Chicago article on the temple fragment; NPS Black Metropolis Thematic Nomination (1985) listing it among demolished significant sites; FSA photograph LC-USF34-038808-D.",
+          "grade": "Verified",
+          "source": "Art Institute of Chicago; NPS Black Metropolis Thematic Nomination (1985)",
+          "source_date": "1985",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "unknown-1980 (demolished)",
+      "id": "bldg-pythian-temple",
+      "name": "National Pythian Temple",
+      "summary": "Black Knights of Pythias headquarters by Black architect Walter T. Bailey; Egyptian Revival facade fragment held by the Art Institute of Chicago.",
+      "type": "place"
+    },
+    {
+      "address": "2401 S. Wabash Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Houses Chicago's oldest African-American congregation: formed 1844 as a nondenominational prayer group of seven; organized as an AME congregation 1847; named for Bishop William Paul Quinn; active in the abolitionist movement before the Civil War; original church destroyed in the 1871 Great Chicago Fire; present building designed by Henry F. Starbuck, built 1892.",
+          "contradicts": null,
+          "evidence": "Landmark/NRHP records (dates, architect); congregation history as summarized in secondary sources.",
+          "grade": "Provisional",
+          "source": "Chicago Landmark / NRHP records (primary municipal/federal)",
+          "source_date": "1977-1979",
+          "source_type": "primary",
+          "uncertainty": "Pre-1871 details (1844 prayer group) rest on congregational tradition; no independent primary source consulted.",
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Uncertainty admits: \"Pre-1871 details (1844 prayer group) rest on congregational tradition; no independent primary source consulted\" - yet those details are in the Verified claim. Source cited: Chicago Landmark / NRHP records (primary municipal/federal)",
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Quinn Chapel 1844 prayer-group origin — Verified vs Provisional. See also: CTL-DR-BCI-001/b-quinn, CTL-DR-SCI-004/quinn-chapel-ame. 1844 origin rests on congregational tradition; 1847 AME recognition is the Verified anchor."
+          ],
+          "contradiction_noted": {
+            "subject": "Quinn Chapel 1844 prayer-group origin — Verified vs Provisional",
+            "other_claims": [
+              "CTL-DR-BCI-001/b-quinn",
+              "CTL-DR-SCI-004/quinn-chapel-ame"
+            ],
+            "guidance": "1844 origin rests on congregational tradition; 1847 AME recognition is the Verified anchor.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          }
+        },
+        {
+          "claim": "Chicago Landmark August 3, 1977; NRHP September 4, 1979; in 1992 joined three other churches to found the Renaissance Collaborative, the nonprofit that saved the Wabash YMCA.",
+          "contradicts": null,
+          "evidence": "Landmark records; secondary summaries.",
+          "grade": "Verified",
+          "source": "Chicago Landmark / NRHP records",
+          "source_date": "1977-1992",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1844-present",
+      "id": "church-quinn-chapel",
+      "name": "Quinn Chapel AME Church",
+      "summary": "Chicago's oldest African-American congregation; co-founded the Renaissance Collaborative that saved the Wabash YMCA.",
+      "type": "place"
+    },
+    {
+      "address": "Current address not verified",
+      "claims": [
+        {
+          "claim": "Formed December 22, 1861, by merger of Zoar Baptist and Zion Baptist churches (both Black congregations); oldest operating African-American Baptist church in Chicago; under Rev. Lacy Kirk Williams (pastor from 1916) became a major Great Migration service institution (housing assistance, childcare, Chicago's first kindergarten program).",
+          "contradicts": null,
+          "evidence": "Wikipedia citing church histories; Princeton professor Wallace Best quoted calling it 'a national model.'",
+          "grade": "Provisional",
+          "source": "Wikipedia (Olivet Baptist Church)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Current address not verified; membership figures (11,000 in the 1920s; 20,000 by the 1940s; 'largest Protestant congregation in the world') are boosterish and not independently verifiable; state as attributed claims only. A 19th-century congregational history ('The history of the Olivet Baptist Church of Chicago,' digitized at archive.org) is a primary source worth consulting.",
+          "contradiction_noted": {
+            "subject": "Olivet Baptist Church 1861 formation — grade spread",
+            "other_claims": [
+              "CTL-DR-SCI-004/olivet-baptist",
+              "CTL-DR-BCI-001/b-olivet"
+            ],
+            "guidance": "Substantively compatible (1850 predecessor vs 1861 merger); do not silently harmonize grades. Present the grade spread.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          },
+          "red_team_notes": [
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Olivet Baptist Church 1861 formation — grade spread. See also: CTL-DR-SCI-004/olivet-baptist, CTL-DR-BCI-001/b-olivet. Substantively compatible (1850 predecessor vs 1861 merger); do not silently harmonize grades. Present the grade spread."
+          ]
+        }
+      ],
+      "dates_active": "1861-present",
+      "id": "church-olivet",
+      "name": "Olivet Baptist Church",
+      "summary": "Formed 1861; a major Great Migration service institution under Rev. Lacy Kirk Williams; membership and size claims should be attributed, not stated as fact.",
+      "type": "place"
+    },
+    {
+      "address": "3301 S. Indiana Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Founded September 1916 out of the Union Grove Prayer Meeting Club (met in Deacon John A. Finnie's home at 242 E. 42nd St.; name suggested by Mrs. Finnie; first pastor Rev. Jessie D. Luck, Jan 1917); in 1922 purchased the former Kehilath Anshe Ma'ariv synagogue (built 1890-91; designed by Louis Sullivan and Dankmar Adler; initial drawings by draftsman Frank Lloyd Wright). (congregation's claim; NMAAHC catalogs 1922)",
+          "contradicts": null,
+          "evidence": "Congressional Record, Sept 10, 2013 (Rep. Danny K. Davis tribute); Preservation Research Office (2006).",
+          "grade": "Verified",
+          "source": "Congressional Record (2013-09-10)",
+          "source_date": "2013-09-10",
+          "source_type": "primary",
+          "uncertainty": "Corpus position 2026-09-28: September 1916 is the congregation's claim (Congressional Record 2013); NMAAHC catalogs the church as 'founded 1922' (likely conflating the 1922 synagogue purchase). Never print 1916 bare; Illinois incorporation records needed before 1916 can be stated as settled.",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H3: 1916 claim qualified corpus-wide; 1922 alternative surfaced."
+          ]
+        },
+        {
+          "claim": "Birthplace of modern gospel music: Thomas A. Dorsey joined as music director in 1932 at Pastor Junius C. Austin's invitation and organized the gospel chorus (members included Mahalia Jackson, Sallie Martin, Roberta Martin, Clara Ward); housed 1936-37 murals by William E. Scott.",
+          "contradicts": null,
+          "evidence": "Congressional Record; landmark records.",
+          "grade": "Verified",
+          "source": "Congressional Record (2013-09-10)",
+          "source_date": "2013-09-10",
+          "source_type": "primary",
+          "uncertainty": "'Birthplace of gospel music' is a contested honorific with Ebenezer Missionary Baptist; use attributed language. Dorsey start year harmonized to 1932 corpus-wide (2026-09-28 cross-project audit); congregational memory gives 1931; SCI-004 and BMI-002 attest 1932 with stronger sourcing.",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H1 (Dorsey Pilgrim start year): BVM-005 1931 -> 1932 to match SCI-004 (GRAMMY.com, National Trust, LA Sentinel) and BMI-002 (two independent sources). 1931 retained as footnoted congregational memory, not the corpus position."
+          ]
+        },
+        {
+          "claim": "NRHP 1973; Chicago Landmark 1981; Bessie Coleman was a member; hosted boxer Jack Johnson's funeral (1946); Martin Luther King Jr. preached there.",
+          "contradicts": null,
+          "evidence": "Landmark records; secondary sources.",
+          "grade": "Verified",
+          "source": "Chicago Landmark / NRHP records",
+          "source_date": "1973-1981",
+          "source_type": "primary",
+          "uncertainty": null
+        },
+        {
+          "claim": "Devastating fire January 6, 2006 (roofers using a propane torch); only exterior walls survived; August 2020 storm collapsed the south wall; rebuilding stalled; sold 2017 to the National Museum of Gospel Music; ~$2.1M in state funds secured (~2022) toward the museum.",
+          "contradicts": null,
+          "evidence": "Preservation Chicago; Chicago YIMBY (Jan 2021); ChicagoTalks; Track E.",
+          "grade": "Verified",
+          "source": "Preservation Chicago; Chicago YIMBY (2021)",
+          "source_date": "2021",
+          "source_type": "secondary",
+          "uncertainty": "Status of the $2.1M state grant and any construction as of 2026 unverified (gap)."
+        }
+      ],
+      "dates_active": "1916-present; fire 2006",
+      "id": "church-pilgrim-baptist",
+      "name": "Pilgrim Baptist Church",
+      "summary": "Founded 1916; birthplace of modern gospel music (Dorsey, 1931); gutted by fire in 2006; rebuilding and National Museum of Gospel Music plans incomplete.",
+      "type": "place"
+    },
+    {
+      "address": "4501 S. Vincennes Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Formed 1902; in 1921 purchased the former Isaiah Temple (built 1898/1899 — described as Dankmar Adler's last design; a Classical Revival synagogue, the first Chicago synagogue with an attached school building).",
+          "contradicts": null,
+          "evidence": "City of Chicago Landmark Designation Report (June 2, 2011); NPS NRHP nomination form (2016, prepared by church trustee Patricia Butts).",
+          "grade": "Verified",
+          "source": "City of Chicago Landmark Designation Report (2011-06-02); NPS nomination (2016)",
+          "source_date": "2011-2016",
+          "source_type": "primary",
+          "uncertainty": "Building date 1898 vs. 1899 varies by source; immaterial."
+        },
+        {
+          "claim": "Thomas A. Dorsey organized his first modern gospel choir here in 1931, working with Theodore R. Frye and Roberta Martin; launched the careers of Sallie Martin ('Mother of Gospel'), Mahalia Jackson, and Dinah Washington. Also called 'the birthplace of gospel music' (contested with Pilgrim).",
+          "contradicts": null,
+          "evidence": "City landmark report; NPS nomination.",
+          "grade": "Provisional",
+          "source": "City of Chicago Landmark Designation Report (2011-06-02)",
+          "source_date": "2011",
+          "source_type": "primary",
+          "uncertainty": "'Birthplace of gospel music' contested with Pilgrim; the Dorsey timeline (Ebenezer 1931 first, then Pilgrim 1931) lets both claims coexist if phrased carefully."
+        }
+      ],
+      "dates_active": "1902-present; Chicago Landmark 2011",
+      "id": "church-ebenezer",
+      "name": "Ebenezer Missionary Baptist Church",
+      "summary": "Formed 1902; Dorsey organized his first gospel choir here in 1931; co-claimant of the 'birthplace of gospel music' honorific.",
+      "type": "place"
+    },
+    {
+      "address": "4849 S. King Drive, Chicago",
+      "claims": [
+        {
+          "claim": "Founded 1919 (1918/1919 — church's centennial math supports 1918-1919); originated 1917 as the Olive Leaf Club, a religious social club formed by two South Side women, Mrs. Bertie Boone and Mrs. Maggie Walker, at 3732 S. Federal St.; first pastor Rev. D.W. Bowen; began as a storefront church.",
+          "contradicts": null,
+          "evidence": "Church's own history page; Lynn Becker, 'Dr. King and the Story of Liberty Baptist Church'; Middlebury College archive (Rev. A.P. Jackson interview, Jan 3, 1992).",
+          "grade": "Verified",
+          "source": "libertybaptistchurchchicago.org; Lynn Becker; Middlebury archive",
+          "source_date": "1992",
+          "source_type": "primary",
+          "uncertainty": "Lynn Becker says 'founded the following year' (1918) after the 1917 club; church says 1919. Note the discrepancy."
+        },
+        {
+          "claim": "In 1924 purchased the Olivet Building (designed by Black architect J.M. Higginbotham); broke ground October 1952 for a new $500,000 building at 49th and South Park Way built specifically by and for the congregation; Rev. A.P. Jackson was pastor during the Chicago Freedom Movement and Martin Luther King Jr. used Liberty Baptist as his Chicago headquarters in the 1960s.",
+          "contradicts": null,
+          "evidence": "Church history page; Becker; Middlebury archive.",
+          "grade": "Verified",
+          "source": "libertybaptistchurchchicago.org; Lynn Becker",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": "Membership figures (2,000-3,000) and the Higginbotham detail rest on single secondary sources (Provisional)."
+        }
+      ],
+      "dates_active": "1918/1919-present",
+      "id": "church-liberty-baptist",
+      "name": "Liberty Baptist Church",
+      "summary": "Founded from a 1917 women's social club; built its own modern church (1952); MLK Jr.'s Chicago headquarters during the Chicago Freedom Movement.",
+      "type": "place"
+    },
+    {
+      "address": "50th Street and Wabash Avenue (1907-1959); moved to the far South Side 1959",
+      "claims": [
+        {
+          "claim": "Established 1893; began in a storefront on State Street; moved 1907 to 50th and Wabash; worshipped there until 1959; described as the largest African-American United Methodist congregation in the region.",
+          "contradicts": null,
+          "evidence": "Daniel T. Parker, 'St. Mark United Methodist Church' (Arcadia, 2019) — via publisher synopsis only.",
+          "grade": "Provisional",
+          "source": "Daniel T. Parker (Arcadia, 2019) via publisher synopsis",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": "Institutional history not directly examined; storefront origin fits the documented pattern but rests on one source."
+        }
+      ],
+      "dates_active": "1893-present",
+      "id": "church-st-mark",
+      "name": "St. Mark Methodist Episcopal Church (now St. Mark United Methodist)",
+      "summary": "Established 1893 in a State Street storefront; a documented example of the storefront-church phenomenon.",
+      "type": "place"
+    },
+    {
+      "address": "Across from Liberty Baptist at 49th & King Drive",
+      "claims": [
+        {
+          "claim": "Coffered-ceiling church built by affluent Catholics in 1916; became Chicago's third Black Catholic parish in 1933.",
+          "contradicts": null,
+          "evidence": "Lynn Becker article (single secondary source).",
+          "grade": "Provisional",
+          "source": "Lynn Becker",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Not independently verified; include only as a lead."
+        }
+      ],
+      "dates_active": "1916-present; Black parish from 1933",
+      "id": "church-corpus-christi",
+      "name": "Corpus Christi Catholic Church",
+      "summary": "Chicago's third Black Catholic parish (1933); provisional single-source finding.",
+      "type": "place"
+    },
+    {
+      "address": "4934 S. Wabash Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Constructed 1931-34; opened February 1935; named for Jean Baptiste Point Du Sable; designated a Chicago Landmark in 2013.",
+          "contradicts": null,
+          "evidence": "Wikipedia citing landmark records; City of Chicago Landmark preliminary summary report (chicago.gov PDF).",
+          "grade": "Verified",
+          "source": "City of Chicago landmark records (primary municipal)",
+          "source_date": "2013",
+          "source_type": "primary",
+          "uncertainty": "Exact landmark designation day (May 1, 2013 appears in one secondary source) is Provisional."
+        },
+        {
+          "claim": "DuSable and Wendell Phillips were Chicago's first two all-Black high schools; historian Timuel D. Black (DuSable class of June 1937) collected 36 oral histories with alumni/staff of both schools in 1996.",
+          "contradicts": null,
+          "evidence": "Asif J. Wilson, 'Returning to the Source' (Urban Review, 2024); UChicago News profile of Timuel Black.",
+          "grade": "Verified",
+          "source": "Urban Review (2024); UChicago News",
+          "source_date": "2024",
+          "source_type": "secondary",
+          "uncertainty": "Repository location of the 36 interview tapes/transcripts is Unresolved."
+        }
+      ],
+      "dates_active": "1935-present",
+      "id": "school-dusable",
+      "name": "Jean Baptiste Point DuSable High School",
+      "summary": "Opened February 1935; one of Chicago's first two all-Black high schools; Chicago Landmark 2013.",
+      "type": "place"
+    },
+    {
+      "address": "244 E. Pershing Road, Chicago",
+      "claims": [
+        {
+          "claim": "Opened September 1904 at 244 E. Pershing Road; named for abolitionist Wendell Phillips; by 1920 had become Chicago's first predominantly African-American high school; designated Chicago Landmark May 7, 2003; traces lineage to South Division High School (1875), the South Side's first public high school.",
+          "contradicts": null,
+          "evidence": "Commission on Chicago Landmarks preliminary summary (Sept 2002, primary municipal); Wikipedia.",
+          "grade": "Verified",
+          "source": "Commission on Chicago Landmarks preliminary summary (2002-09)",
+          "source_date": "2002",
+          "source_type": "primary",
+          "uncertainty": "Exact opening day disputed: Sept 4 vs. Sept 5 (minor); year solid."
+        },
+        {
+          "claim": "Maudelle Brown Bousfield was principal 1939-1950, the first African-American principal of a Chicago public school.",
+          "contradicts": null,
+          "evidence": "Commission on Chicago Landmarks preliminary summary (Sept 2002).",
+          "grade": "Verified",
+          "source": "Commission on Chicago Landmarks preliminary summary (2002-09)",
+          "source_date": "2002",
+          "source_type": "primary",
+          "uncertainty": null
+        },
+        {
+          "claim": "In the 1920s-30s Phillips' winning basketball teams were recruited by Abe Saperstein and formed the nucleus of the 'Savoy Big Five,' which became the Harlem Globetrotters (name taken from Bronzeville's Savoy Ballroom).",
+          "contradicts": null,
+          "evidence": "Landmark designation preliminary summary; Phillips Centennial Committee materials.",
+          "grade": "Provisional",
+          "source": "Commission on Chicago Landmarks preliminary summary (2002-09)",
+          "source_date": "2002",
+          "source_type": "primary",
+          "uncertainty": "Roster details rest on the Centennial Committee's own materials; Saperstein role not independently verified here."
+        }
+      ],
+      "dates_active": "1904-present; Chicago Landmark 2003",
+      "id": "school-phillips",
+      "name": "Wendell Phillips Academy High School",
+      "summary": "Chicago's first predominantly African-American high school (by 1920); its 1920s-30s basketball teams formed the nucleus of the Harlem Globetrotters.",
+      "type": "place"
+    },
+    {
+      "address": "Bounded by 35th St/Pershing Rd/King Dr/Cottage Grove Ave, Chicago (Douglas)",
+      "claims": [
+        {
+          "claim": "CHA project constructed 1939-41 as a Public Works Administration project for Black families (1,662 units; 'fourth public housing project constructed in Chicago before WWII'); dedicated Oct 27, 1940 (~15,000 attendees); first families moved in Jan 18, 1941; built under federal rules requiring segregated projects; Darrow Homes added 1961; Madden Park Homes 1970.",
+          "contradicts": null,
+          "evidence": "Wikipedia; African American Registry; connectingthewindycity.com (citing Chicago Daily Tribune, Oct 28, 1940).",
+          "grade": "Verified",
+          "source": "Wikipedia; African American Registry; Chicago Daily Tribune (1940-10-28)",
+          "source_date": "1940",
+          "source_type": "secondary",
+          "uncertainty": "Standard 1939 vs. 1941 construction/opening both circulate; verify if needed."
+        },
+        {
+          "claim": "Closed and demolished 2002-11 under CHA's Plan for Transformation / HUD HOPE VI; site redeveloped as mixed-income Oakwood Shores.",
+          "contradicts": null,
+          "evidence": "Wikipedia; blackfacts.com.",
+          "grade": "Provisional",
+          "source": "Wikipedia; blackfacts.com",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null,
+          "weak_source_only": true,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia; blackfacts.com); queued for re-sourcing before any public use."
+          ]
+        }
+      ],
+      "dates_active": "1941-2011 (demolished 2002-11)",
+      "id": "housing-ida-wells",
+      "name": "Ida B. Wells Homes",
+      "summary": "PWA-era Black public housing (1,662 units); demolished 2002-11 under the Plan for Transformation; site now Oakwood Shores and the Wells monument.",
+      "type": "place"
+    },
+    {
+      "address": "39th-54th Streets along State Street, Chicago (Grand Boulevard / Washington Park)",
+      "claims": [
+        {
+          "claim": "Constructed 1961-62; opened March 5, 1962 (Mayor Richard J. Daley presented keys to first tenant); 28 sixteen-story buildings along two miles of State Street; at completion the largest public housing project in the U.S.; designed for 11,000 residents, peaked at ~27,000; named for Robert Rochon Taylor, first Black CHA chairman.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago; Wikipedia; connectingthewindycity.com (March 5, 1962).",
+          "grade": "Verified",
+          "source": "Encyclopedia of Chicago; Wikipedia",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Unit count disputed: 4,321 (Wikipedia infobox) vs. 4,415 (Connecting the Windy City) — minor."
+        },
+        {
+          "claim": "Demolished 1998-2007: decision made 1993 to replace with mixed-income low-rises; half the buildings down by 2000; last tower demolished 2007.",
+          "contradicts": null,
+          "evidence": "Wikipedia; Encyclopedia of Chicago; connectingthewindycity.com.",
+          "grade": "Verified",
+          "source": "Encyclopedia of Chicago; Wikipedia",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "The Taylor site lies in the Grand Boulevard and Washington Park community areas — the southern edge / south of Bronzeville's historic core, not its center.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago; Wikipedia's 'Legends South' entry.",
+          "grade": "Verified",
+          "source": "Encyclopedia of Chicago",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1962-2007 (demolished 1998-2007)",
+      "id": "housing-robert-taylor",
+      "name": "Robert Taylor Homes",
+      "summary": "Largest U.S. public housing project at completion (28 towers, 39th-54th on State); opened 1962, demolished 1998-2007; sits south of the historic core in Grand Boulevard/Washington Park.",
+      "type": "place"
+    },
+    {
+      "address": "East of the Douglas community area; 100+ acres cleared",
+      "claims": [
+        {
+          "claim": "In 1948 New York Life Insurance invested $18 million to redevelop 100+ acres of existing ('slum') housing into Lake Meadows, designed by Skidmore, Owings & Merrill as a 'suburb in the city'; one of Chicago's first large-scale interracial housing projects; displaced thousands of Black residents.",
+          "contradicts": null,
+          "evidence": "Ellington Elite Realty history (2025, commercial realty blog — weak).",
+          "grade": "Provisional",
+          "source": "ellingtoneliterealty.com (2025)",
+          "source_date": "2025",
+          "source_type": "secondary",
+          "uncertainty": "Investment figure, acreage, and SOM design need stronger sourcing; displacement count unquantified. Exact Lake Meadows displaced-household count is Unresolved."
+        },
+        {
+          "claim": "Final 1,040 units announced July 7, 1954 (VP Otto Nelson), completing the 1,640-unit project.",
+          "contradicts": null,
+          "evidence": "Connecting the Windy City (2019 post citing yochicago.com; event dated July 7, 1954).",
+          "grade": "Provisional",
+          "source": "connectingthewindycity.com (2019)",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "Black property owners near the project (e.g., Supreme Liberty Life's Claude Barnett, 1944-1955) opposed city-led wholesale clearance and proposed Black-led conservation/redevelopment; none succeeded for lack of capital.",
+          "contradicts": null,
+          "evidence": "nonsite.org article 'How New is New Urban Renewal?' (scholarly essay).",
+          "grade": "Provisional",
+          "source": "nonsite.org",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1948-1954",
+      "id": "housing-lake-meadows",
+      "name": "Lake Meadows",
+      "summary": "New York Life's 1,640-unit urban-renewal redevelopment; displaced thousands of Black residents from 100+ cleared acres.",
+      "type": "place"
+    },
+    {
+      "address": "Former Michael Reese Hospital site, 48 acres",
+      "claims": [
+        {
+          "claim": "City bought the 48-acre hospital site for $91M in 2009 (failed 2016 Olympic bid); hospital demolished 2009 (Singer Pavilion the sole remnant, to be adaptively reused); GRIT Chicago (Farpoint, Loop Capital, Draper & Kramer, CNI, McLaurin, Bronzeville Community Development Partnership) acquired it June 2017.",
+          "contradicts": null,
+          "evidence": "Chicago YIMBY (2021-2023); REJournals.",
+          "grade": "Verified",
+          "source": "Chicago YIMBY (2021-2023)",
+          "source_date": "2021-2023",
+          "source_type": "secondary",
+          "uncertainty": null
+        },
+        {
+          "claim": "Plan Commission approved Feb 2021; CDC approved $96.9M sale May 2021; City Council approved July 2021; master plan: ~8-9.3M sq ft, up to 8,653 units incl. existing Prairie Shores, 20% on-site affordable, data center, hotel, parks, health-innovation hub; ≥30% minority-owned / 10% women-owned construction participation; $60M city infrastructure; no TIF.",
+          "contradicts": null,
+          "evidence": "Chicago YIMBY; REJournals.",
+          "grade": "Verified",
+          "source": "Chicago YIMBY (2021-2023)",
+          "source_date": "2021-2023",
+          "source_type": "secondary",
+          "uncertainty": "Job/economic-impact figures (20,000-31,000+ jobs claimed) are GRIT claims — Provisional. $31M city radiological remediation on the northern parcel — Verified (Chicago YIMBY). Site prep began May 2023; Phase 1 (~1.1M sq ft, $600M) targeted completion by 2026; actual Phase 1 completion status as of late 2026 unverified."
+        }
+      ],
+      "dates_active": "2017-present",
+      "id": "dev-bronzeville-lakefront",
+      "name": "Bronzeville Lakefront (GRIT Chicago)",
+      "summary": "$3.8B megadevelopment on the former Michael Reese Hospital site; approved 2021; site prep from May 2023.",
+      "type": "place"
+    },
+    {
+      "address": "318-328 E. 43rd Street, Chicago",
+      "claims": [
+        {
+          "claim": "Built 1897 (majority of sources; moderncities.com says completed 1892 — disputed, resolved in favor of 1897); purchased 2011 by Bernard Loyd / Urban Juncture, saving it from demolition; entered the NRHP April 16, 2019 after an owner-led campaign (the city declined to submit a letter of support); ~$20M total restoration project; planned assembly hall/event space + ground-floor retail/restaurant.",
+          "contradicts": null,
+          "evidence": "City Bureau (July 2022, Loyd interview); Wikipedia (citing NPS); Landmarks Illinois endangered-place PDF (2018).",
+          "grade": "Verified",
+          "source": "City Bureau (2022); Wikipedia (citing NPS)",
+          "source_date": "2022",
+          "source_type": "secondary",
+          "uncertainty": "Original construction date and historic uses unresolved."
+        }
+      ],
+      "dates_active": "1897-present; NRHP 2019",
+      "id": "bldg-forum",
+      "name": "The Forum",
+      "summary": "43rd Street assembly hall saved from demolition by Urban Juncture in 2011; NRHP-listed 2019; restoration in progress.",
+      "type": "place"
+    },
+    {
+      "address": "3831 S. Michigan Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "Founded 1940 (WPA Federal Art Project; dedicated by Eleanor Roosevelt 1941); the country's oldest independently-run, continuously-operating Black arts institution; the only WPA art center still in its original building under original charter/mission (NPS).",
+          "contradicts": null,
+          "evidence": "NPS nomination summary.",
+          "grade": "Verified",
+          "source": "NPS NRHP nomination summary",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": null
+        },
+        {
+          "claim": "Designated a Chicago Landmark in 1994 (exact date 'June 16, 1994' appears only in a WanderBoat social post — Provisional); listed on the NRHP September 13, 2018 (#100002914; NPS table — prevailing over a Preservation Chicago article's '2017'); named a National Trust 'National Treasure' in 2017.",
+          "contradicts": null,
+          "evidence": "NPS NRHP table (9/13/2018); chicago.gov NOF release (landmark 1994); Architecture Paper.",
+          "grade": "Verified",
+          "source": "NPS NRHP table; chicago.gov; archpaper.com",
+          "source_date": "2018",
+          "source_type": "primary",
+          "uncertainty": "Exact landmark day and NRHP year 2017 vs. 2018 noted; NPS prevails on the NRHP date."
+        },
+        {
+          "claim": "$15M addition/renovation: permits issued April 2025, completion expected summer 2026; Mayor Johnson proposed a $5M Neighborhood Opportunity Fund grant (April 2026) toward the $12.8M project incl. 10,000-sq-ft addition.",
+          "contradicts": null,
+          "evidence": "Preservation Chicago (2025); chicago.gov (April 2026); archpaper.com.",
+          "grade": "Verified",
+          "source": "chicago.gov (April 2026); Preservation Chicago (2025)",
+          "source_date": "2025-2026",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1940-present; Chicago Landmark 1994",
+      "id": "arts-sscac",
+      "name": "South Side Community Art Center",
+      "summary": "Founded 1940; the country's oldest independently-run, continuously-operating Black arts institution; Chicago Landmark 1994; NRHP 2018; $15M expansion underway.",
+      "type": "place"
+    },
+    {
+      "address": "221 E. 49th Street, Chicago",
+      "claims": [
+        {
+          "claim": "Perkins & Will, 1963; closed 2013 in CPS's 50-school closure wave; purchased by Washington Park Development Group (Ghian Foreman) on Nov 6, 2015 for $325,000; NRHP September 6, 2016 (#16000578) as prototype postwar school for underserved Black neighborhoods and Mid-Century Modern design; programmed since 2015 by Borderless Studio (Creative Grounds) and the Chicago Architecture Biennial as the 'Overton Incubator'; slated to become a community arts center via the Emerald South Economic Development Collaborative.",
+          "contradicts": null,
+          "evidence": "NPS nomination (closure 2013); creativegrounds.org (sale); chicagoarchitecturebiennial.org; Wikipedia (Emerald South).",
+          "grade": "Verified",
+          "source": "NPS nomination summary; creativegrounds.org",
+          "source_date": "2016",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1963-present; NRHP 2016",
+      "id": "school-overton-elementary",
+      "name": "Anthony Overton Elementary School",
+      "summary": "1963 Perkins & Will school; NRHP-listed 2016; purchased 2015 and being converted to a creative-entrepreneurship incubator and community arts center.",
+      "type": "place"
+    },
+    {
+      "address": "47th & Michigan Avenue, Chicago",
+      "claims": [
+        {
+          "claim": "1929 Julius Rosenwald-funded apartment complex; CHA-owned; fell into despair, closed 2000; residents advocated ~two decades; Landmarks Illinois Most Endangered 2002; National Trust 11 Most Endangered 2003; saved and renovated into a $132M mixed-use affordable housing development (2016); ground-floor tenants include Sip & Savor and Shawn Michelle's Homemade Ice Cream; Ald. Dowell championed it as a mixed-income model; rents $950-1,115 for non-senior 1-2BR.",
+          "contradicts": null,
+          "evidence": "moderncities.com (2022); City Bureau (Apr 2024).",
+          "grade": "Verified",
+          "source": "moderncities.com (2022); City Bureau (2024)",
+          "source_date": "2022-2024",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates_active": "1929-present; rebuilt 2016",
+      "id": "housing-rosenwald-courts",
+      "name": "Rosenwald Courts (Michigan Boulevard Garden Apartments)",
+      "summary": "1929 Rosenwald-funded apartments; closed 2000; saved through a ~two-decade resident campaign and rebuilt as $132M mixed-use affordable housing in 2016.",
+      "type": "place"
+    },
+    {
+      "address": "3633 S. State Street (1908); later Binga Block between 47th and 48th on State (1924/1929 buildings)",
+      "claims": [
+        {
+          "claim": "Jesse Binga opened a private bank in 1908 at 3633 S. State; it received a state charter in 1921 as Binga State Bank and closed in June 1930.",
+          "contradicts": null,
+          "evidence": "NPS Black Metropolis Thematic Nomination (Binga Bank at 3633 S. State in 1908; Binga State Bank/Binga Arcade buildings of 1924/1929); Black Enterprise and BlackPast (charter 1921, closure 1930).",
+          "grade": "Verified",
+          "source": "NPS Black Metropolis Thematic Nomination (1985); Black Enterprise (~2020); BlackPast",
+          "source_date": "1985-2020",
+          "source_type": "secondary",
+          "uncertainty": "Early vs. later bank addresses may differ (3633 S. State vs. State & 36th Place) — needs Sanborn/directory reconciliation."
+        },
+        {
+          "claim": "When it opened as a private bank in 1908 it was the first Black-owned bank in the Northern United States — not, as some sources claim, the nation's first Black-owned bank (Black banking dates to the True Reformers Bank charter, 1888).",
+          "contradicts": null,
+          "evidence": "Kansas City Fed, 'Let Us Put Our Money Together' (2019, Federal Reserve publication).",
+          "grade": "Verified",
+          "source": "Federal Reserve Bank of Kansas City (2019)",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": "Brookings (2021) stated 'the nation's first Black-owned bank' — an upgrade of the regional claim; do not repeat the Brookings formulation."
+        },
+        {
+          "claim": "Binga built the Arcade Building (1929), a five-story office building at 35th and South State.",
+          "contradicts": null,
+          "evidence": "BlackPast.",
+          "grade": "Provisional",
+          "source": "BlackPast",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Needs landmark-record verification; Binga Arcade demolition date unresolved."
+        },
+        {
+          "claim": "Binga was convicted of embezzling $22,000 from bank funds in 1933, sentenced to 10 years, released after 3 on petitions including from Clarence Darrow; died in Chicago June 13, 1950.",
+          "contradicts": null,
+          "evidence": "BlackPast (Trevor Goodloe).",
+          "grade": "Provisional",
+          "source": "BlackPast",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Single secondary source; the embezzlement narrative is contested in some Black-history sources; needs 1933 court/press records. Binga's home bombings (5 vs. 6; 2 on businesses) are Disputed/Provisional in count."
+        }
+      ],
+      "dates_active": "1908-1930",
+      "id": "biz-binga-bank",
+      "name": "Binga Bank / Binga State Bank",
+      "summary": "Jesse Binga's bank: private 1908, state charter 1921, collapsed June 1930; the first Black-owned bank in the Northern U.S.",
+      "type": "business"
+    },
+    {
+      "address": "Housed in the Overton Hygienic Building (3619-3627 S. State)",
+      "claims": [
+        {
+          "claim": "Douglass National Bank, founded by Anthony Overton and named for Frederick Douglass, was the second nationally chartered Black-owned bank in the United States (first: First National Bank of Boley, Oklahoma, 1921).",
+          "contradicts": null,
+          "evidence": "Library of Congress research guide citing Robert E. Weems Jr., 'The Merchant Prince of Black Chicago' (U. Illinois Press, 2020); Kansas City Fed confirms Boley (1921) was the first Black-owned bank with a national charter.",
+          "grade": "Verified",
+          "source": "Library of Congress research guide; Federal Reserve Bank of Kansas City (2019)",
+          "source_date": "2019-2020",
+          "source_type": "secondary",
+          "uncertainty": "A 1996 preservation article (VT/Roanoke Times reprint) calls it 'the first black bank to be granted a national charter' — Disputed phrasing; the 'second' claim is better sourced."
+        },
+        {
+          "claim": "Founding year disputed: 1921 (Wikipedia/Anthony Overton) vs. 1922 (Kansas City Fed) vs. 1923 (Wikipedia/Douglass National). Precise charter year from OCC records not consulted.",
+          "contradicts": null,
+          "evidence": "Direct conflict between the Kansas City Fed and Wikipedia.",
+          "grade": "Disputed",
+          "source": "Federal Reserve Bank of Kansas City (2019); English Wikipedia",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": "Confirm charter date from Comptroller of the Currency records or contemporary Defender coverage."
+        },
+        {
+          "claim": "Officers included President Anthony Overton, Cashier Arthur J. Wilson, and earlier Cashier Edward S. Miller (banknote officer signatures in Heritage Auctions lots); the bank failed in 1932 — the last Black bank in Chicago of the era.",
+          "contradicts": null,
+          "evidence": "Heritage Auctions lot descriptions (artifact evidence); academic article on the National Negro Bankers Association (Nordin).",
+          "grade": "Verified",
+          "source": "Heritage Auctions; academic article (nosue.org)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Failure at Verified-with-single-source; flag for corroboration."
+        }
+      ],
+      "dates_active": "1921/22/23 (disputed)-1932",
+      "id": "biz-douglass-national-bank",
+      "name": "Douglass National Bank",
+      "summary": "Anthony Overton's nationally chartered Black-owned bank (the second nationally chartered Black-owned bank in the U.S.); failed 1932.",
+      "type": "business"
+    },
+    {
+      "address": "3501 S. King Drive (originally South Parkway); original 1919 offices were a storefront at 35th & South Parkway (Provisional)",
+      "claims": [
+        {
+          "claim": "Founded 1919 by Arkansas native Frank L. Gillespie (an agent for Royal Insurance Company) as the Liberty Life Insurance Company; the first Black-owned and operated insurance company in the northern United States; renamed Supreme Life.",
+          "contradicts": null,
+          "evidence": "Chicago Landmarks designation materials; Robert C. Puth, 'Supreme Life: The History of a Negro Life Insurance Company, 1919-1962,' Business History Review (Cambridge, peer-reviewed).",
+          "grade": "Verified",
+          "source": "Chicago Landmarks designation; Robert C. Puth, Business History Review (Cambridge)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Company fate after 1962 unresolved (Puth's study ends 1962; Lloyd Wheeler's HistoryMakers bio implies survival into the 1990s — Provisional)."
+        },
+        {
+          "claim": "In 1929 the company merged with two other Black firms in a combination reported at $27 million; Ebony publisher John Johnson owned the building and company at a later point.",
+          "contradicts": null,
+          "evidence": "Columbia University CCNMTL document (academic-adjacent; single source).",
+          "grade": "Provisional",
+          "source": "Columbia University CCNMTL document",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Single source."
+        }
+      ],
+      "dates_active": "1919-1962+",
+      "id": "biz-supreme-life",
+      "name": "Supreme Life Insurance Company (originally Liberty Life Insurance Company)",
+      "summary": "First Black-owned and operated insurance company in the northern U.S. (1919); headquarters 3501 S. King Drive.",
+      "type": "business"
+    },
+    {
+      "address": "3619-3627 S. State Street",
+      "claims": [
+        {
+          "claim": "Anthony Overton founded the Hygienic Manufacturing Company in Kansas City in 1898, moved to Chicago in 1911 (High-Brown cosmetics); Overton Hygienic manufactured 52 cosmetics products and employed hundreds of Bronzeville residents.",
+          "contradicts": null,
+          "evidence": "IIT Bronzeville History Booklet (2024); Clio.",
+          "grade": "Provisional",
+          "source": "IIT Bronzeville History Booklet (2024); Clio",
+          "source_date": "2024",
+          "source_type": "secondary",
+          "uncertainty": "Figures unattributed within the booklet."
+        },
+        {
+          "claim": "Overton's conglomerate included Overton Hygienic Manufacturing Co., Victory Life Insurance Co., Douglass National Bank, Great Northern/Northern Realty Co., Half-Century Magazine (1916), and the Chicago Bee (1925).",
+          "contradicts": null,
+          "evidence": "Next City (2019); Face2Face Africa; academic article on Black manufacturers.",
+          "grade": "Verified",
+          "source": "Next City (2019)",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": "Overton won the NAACP Spingarn Medal (1927) and Harmon Award in business — per Wikipedia, Provisional (needs NAACP records)."
+        }
+      ],
+      "dates_active": "1898-1946",
+      "id": "biz-overton-hygienic-co",
+      "name": "Overton Hygienic Manufacturing Company",
+      "summary": "Anthony Overton's cosmetics company and the core of his Bronzeville business conglomerate (bank, insurance, real estate, publishing).",
+      "type": "business"
+    },
+    {
+      "address": "3435 S. Indiana Avenue (earliest home, Provisional); Bronzeville publishing",
+      "claims": [
+        {
+          "claim": "Robert Sengstacke Abbott founded the Chicago Defender on May 5, 1905 (first issue; 25 cents/300 copies, printed in his landlady's kitchen); by 1916 circulation 50,000; 1918: 125,000; early 1920s: 200,000+; the most widely circulated Black newspaper in the U.S. and a driver of the Great Migration.",
+          "contradicts": null,
+          "evidence": "Illinois House Resolution HR0406 (2003) confirms May 5, 1905 founding; academic article for circulation figures and Pullman-porter distribution network; Chicago landmark report calls it 'the nation's most influential black weekly newspaper.'",
+          "grade": "Verified",
+          "source": "ILGA House Resolution HR0406 (2003); chicago.gov landmark report",
+          "source_date": "2003",
+          "source_type": "primary",
+          "uncertainty": "Early office address (3435 S. Indiana) Provisional — not cross-checked against landmark records. The claim that porters carried the Defender south, spreading the Great Migration call, is ubiquitous but Provisional (no primary source located). First-issue date: May 5, 1905 per ILGA House Resolution HR0406; BlackPast gives May 6. Corpus position 2026-09-28: print \"May 5, 1905 (BlackPast gives May 6)\" with the dispute footnoted.",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H2: May-6 dissent (BlackPast) added; date no longer printed bare."
+          ]
+        }
+      ],
+      "dates_active": "1905-present",
+      "id": "biz-chicago-defender",
+      "name": "Chicago Defender",
+      "summary": "Founded 1905 by Robert S. Abbott; the nation's most widely circulated and influential Black weekly; a driver of the Great Migration.",
+      "type": "business"
+    },
+    {
+      "address": "3647-3655 S. State Street (Chicago Bee Building, completed 1931)",
+      "claims": [
+        {
+          "claim": "The Chicago Bee newspaper was founded by Anthony Overton in 1925 (Wikipedia/Next City) or 1926 (Clio/Chicago Literary Hall of Fame — Disputed: 1925 vs. 1926); staffed largely by women during its 20 years of operation; folded 1947, a year after Overton's death (July 3, 1946).",
+          "contradicts": null,
+          "evidence": "Wikipedia (Anthony Overton); Next City (2019); Clio; Chicago Literary Hall of Fame.",
+          "grade": "Disputed",
+          "source": "Next City (2019); Clio; Chicago Literary Hall of Fame",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": "Founding year 1925 vs. 1926 disputed; the women-staffed claim is Provisional."
+        },
+        {
+          "claim": "A Bee editor (theater editor James J. Gentry) coined the term 'Bronzeville'; the Bee sponsored the first 'Mayor of Bronzeville' contest — a circulation promotion, not an organic community coinage.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago (Gentry coined the word; the Bee's failed 1930 contest; Gentry carried the idea to the Defender's Robert Abbott in 1932; Charles Browning developed it into the Defender's 'second most profitable promotion').",
+          "grade": "Disputed",
+          "source": "Encyclopedia of Chicago",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Some sources hedge to 'the 1930s' or attribute the name to the Defender alone (weak). An alternate account credits Alderman Louis B. Anderson's 1922 house (3800 S. Calumet) which he named 'Bronzeville.' Corpus position 2026-09-28: 1922 (Anderson house) vs 1930 (Gentry/Bee) origin theories both circulate; no primary source settles coinage. Do not publish Gentry-coinage as settled fact.",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H5: Verified -> Disputed. BVM-005's own red-team warned against simplistic coinage narratives; BCI-001 grades the origin Disputed."
+          ]
+        }
+      ],
+      "dates_active": "1925/1926-1947",
+      "id": "biz-chicago-bee",
+      "name": "Chicago Bee",
+      "summary": "Anthony Overton's newspaper; a Bee editor coined the term 'Bronzeville' via a 1930 circulation-promotion contest.",
+      "type": "business"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Born 1865, Detroit; arrived in Chicago 1892/93; built a real-estate business serving Black migrants; founded Binga Bank (1908) and Binga State Bank (chartered 1921); opened the Arcade Building (1929); bank collapsed June 1930; convicted of embezzlement 1933 (Provisional); died June 13, 1950.",
+          "contradicts": null,
+          "evidence": "NPS nomination (bank); BlackPast (biography, conviction, death).",
+          "grade": "Verified",
+          "source": "NPS Black Metropolis Thematic Nomination (1985); BlackPast",
+          "source_date": "1985",
+          "source_type": "secondary",
+          "uncertainty": "Biographical color (pushcart arrival, bombing counts) Provisional; BlackPast's phrase 'wealthiest African American entrepreneur and banker in Chicago in the late 19th century' is anachronistic — line-edit before reuse."
+        }
+      ],
+      "dates": "1865-1950",
+      "id": "person-jesse-binga",
+      "name": "Jesse Binga",
+      "summary": "Banker and real-estate developer; founder of the first Black-owned bank in the Northern U.S.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Born March 21, 1865, Monroe, Louisiana; law degree, University of Kansas; founded the Hygienic Manufacturing Company in Kansas City (1898); moved to Chicago 1911; built a conglomerate (cosmetics, bank, insurance, real estate, publishing); died July 3, 1946.",
+          "contradicts": null,
+          "evidence": "Clio; Chicago Literary Hall of Fame; Next City (2019).",
+          "grade": "Provisional",
+          "source": "Next City (2019); Clio",
+          "source_date": "2019",
+          "source_type": "secondary",
+          "uncertainty": "Biographical details Provisional.",
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Uncertainty flatly says \"Biographical details Provisional\" while grade is Verified. Source cited: Next City (2019); Clio"
+          ]
+        }
+      ],
+      "dates": "1865-1946",
+      "id": "person-anthony-overton",
+      "name": "Anthony Overton",
+      "summary": "Cosmetics magnate, banker, and publisher; builder of the largest Black-owned business conglomerate in Bronzeville.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded the Liberty Life Insurance Company in 1919 (later Supreme Life); first Black-owned and operated insurance company in the northern U.S.",
+          "contradicts": null,
+          "evidence": "Chicago Landmarks designation; Business History Review.",
+          "grade": "Verified",
+          "source": "Chicago Landmarks designation; Business History Review",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 1919+",
+      "id": "person-frank-gillespie",
+      "name": "Frank L. Gillespie",
+      "summary": "Founder of Liberty Life Insurance Company (1919), later Supreme Life.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded the Chicago Defender May 5, 1905; the paper became the nation's most widely circulated and influential Black weekly.",
+          "contradicts": null,
+          "evidence": "ILGA House Resolution HR0406 (2003); Chicago landmark report.",
+          "grade": "Verified",
+          "source": "ILGA House Resolution HR0406 (2003)",
+          "source_date": "2003",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "1868-1940",
+      "id": "person-robert-abbott",
+      "name": "Robert Sengstacke Abbott",
+      "summary": "Founder of the Chicago Defender; his 1932 adoption of the 'Bronzeville' promotion (via the Defender's Charles Browning) popularized the name.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Born 1871 Alabama to formerly enslaved parents; moved to Chicago late 1880s; Cook County commissioner (1904-1908); Chicago's first Black alderman (1915-1917, 2nd Ward; acquitted of 1917 bribery indictment); 3rd Ward committeeman 1924; elected to Congress 1928 (seated April 15, 1929), first African American elected to Congress in the 20th century and first from a northern state; served three terms (1929-1935); lost seat to Arthur Mitchell (1934); alderman again 1943-1947; established the People's Movement Club at Unity Hall in 1917; lived at 4536-4538 S. King Drive (purchased 1929) until death May 1951 at Provident Hospital.",
+          "contradicts": null,
+          "evidence": "NPS National Register nomination (De Priest apartment building); Illinois State University news (2021); Historical Marker Database; Lindstrom (Unity Hall).",
+          "grade": "Verified",
+          "source": "NPS National Register nomination (GPO 921-724)",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": "Minor date variance: 'elected 1928 / seated 1929' vs. 'served 1928-1935' — consistent."
+        }
+      ],
+      "dates": "1871-1951",
+      "id": "person-oscar-de-priest",
+      "name": "Oscar Stanton De Priest",
+      "summary": "Chicago's first Black alderman and the first African American elected to Congress in the 20th century (1929-1935).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "First African American elected to Congress as a Democrat (1935-1943), defeating De Priest in 1934; born Lafayette, Alabama 1883; won Mitchell v. United States (1941) against Jim Crow rail accommodations.",
+          "contradicts": null,
+          "evidence": "Wikipedia; govinfo.gov (H.Doc. 108-224, Black Americans in Congress 1870-2007).",
+          "grade": "Verified",
+          "source": "govinfo.gov (H.Doc. 108-224)",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "1883-1968",
+      "id": "person-arthur-mitchell",
+      "name": "Arthur Wergs Mitchell",
+      "summary": "First African American Democrat in Congress (1935-1943); defeated De Priest in 1934.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Succeeded Mitchell 1943 (served to 1970); first African American to chair a standing House committee — House Committee on Expenditures in the Executive Departments, January 18, 1949.",
+          "contradicts": null,
+          "evidence": "Congressional Research Service RL30378 (congress.gov); H.Doc. 108-224.",
+          "grade": "Verified",
+          "source": "Congressional Research Service (congress.gov)",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": "One Congressional Record tribute text mislabels Dawson '(R-IL)'; the CRS table correctly shows (D-IL)."
+        }
+      ],
+      "dates": "1886-1970",
+      "id": "person-william-dawson",
+      "name": "William Levi Dawson",
+      "summary": "Succeeded Mitchell in Congress (1943-1970); first African American to chair a standing House committee (1949).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded Provident Hospital and Training School in 1891 — the first African-American owned and operated (and first interracial) hospital in the U.S.; first nursing school for Black women in Chicago; performed an early successful pericardial/heart surgery there July 1893; hospital closed 1987, purchased by Cook County 1991, reopened 1993 as Provident Hospital of Cook County.",
+          "contradicts": null,
+          "evidence": "Cook County Health FAQs (cookcountyhealth.org); Wikipedia.",
+          "grade": "Verified",
+          "source": "Cook County Health FAQs",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": "Priority dispute on the 1893 heart surgery (H.C. Dalton of St. Louis, 1891, cited by some sources) — noted, does not affect the institutional claim. Original first-12-bed-facility address not captured.",
+          "contradiction_noted": {
+            "subject": "Provident 'first Black-owned hospital in the U.S.' — Verified vs Provisional",
+            "other_claims": [
+              "CTL-DR-BCI-001/provident-hospital"
+            ],
+            "guidance": "\"First\" superlative is unproven; do not publish as settled.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          },
+          "red_team_notes": [
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Provident 'first Black-owned hospital in the U.S.' — Verified vs Provisional. See also: CTL-DR-BCI-001/provident-hospital. \"First\" superlative is unproven; do not publish as settled."
+          ]
+        }
+      ],
+      "dates": "1858-1931",
+      "id": "person-daniel-hale-williams",
+      "name": "Dr. Daniel Hale Williams",
+      "summary": "Founder of Provident Hospital (1891), the first Black-owned and operated hospital in the U.S.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "In September 1915 convened the founding meeting of the Association for the Study of Negro Life and History (ASNLH, now ASALH) at the Wabash Avenue YMCA; Negro History Week (February 7, 1926) organized there — the direct origin of Black History Month.",
+          "contradicts": null,
+          "evidence": "Chicago History Museum (2023); Chicago Southsider (2026).",
+          "grade": "Verified",
+          "source": "Chicago History Museum (2023)",
+          "source_date": "2023",
+          "source_type": "secondary",
+          "uncertainty": "Woodson earned his Harvard Ph.D. in 1912 and attended the 1915 Lincoln Jubilee exposition in Chicago."
+        }
+      ],
+      "dates": "1875-1950",
+      "id": "person-carter-woodson",
+      "name": "Carter G. Woodson",
+      "summary": "Founder of the ASNLH (1915) at the Wabash YMCA; originator of Negro History Week (1926), the direct origin of Black History Month.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Lived at 3624 S. King Drive; co-founder of the NAACP (1909); anti-lynching journalist; house designated Chicago Landmark 1995; reported editor of the Chicago Bee during WWII (Provisional).",
+          "contradicts": null,
+          "evidence": "chicago.gov Black Renaissance landmark report; Chicago Literary Hall of Fame (Bee editorship).",
+          "grade": "Verified",
+          "source": "chicago.gov Black Renaissance landmark report",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Bee editorship Provisional."
+        }
+      ],
+      "dates": "1862-1931",
+      "id": "person-ida-b-wells",
+      "name": "Ida B. Wells-Barnett",
+      "summary": "Anti-lynching journalist and NAACP co-founder; Bronzeville resident at 3624 S. King Drive.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Lived at 7428 S. Evans Avenue 1953-1994; published 'A Street in Bronzeville' (1945); first African American Pulitzer winner — Poetry, 1950 ('Annie Allen'); Illinois Poet Laureate 1968 (succeeded Carl Sandburg); house designated Chicago Landmark February 10, 2010.",
+          "contradicts": null,
+          "evidence": "chicagoliteraryhof.org; pw.org; chicagoliteraryarchive.org; windycitytimes.com (2010).",
+          "grade": "Verified",
+          "source": "Chicago Literary Hall of Fame",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "1917-2000",
+      "id": "person-gwendolyn-brooks",
+      "name": "Gwendolyn Brooks",
+      "summary": "Poet; author of 'A Street in Bronzeville' (1945); first African American Pulitzer winner (1950).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "'A Raisin in the Sun' (1959), based on her family's Bronzeville experience; house at 6140 S. Rhodes designated Chicago Landmark February 10, 2010; her father Carl Augustus Hansberry was the plaintiff in Hansberry v. Lee (1940).",
+          "contradicts": null,
+          "evidence": "windycitytimes.com (2010); Belt Magazine.",
+          "grade": "Verified",
+          "source": "windycitytimes.com (2010)",
+          "source_date": "2010",
+          "source_type": "secondary",
+          "uncertainty": "The autobiographical link to the play is widely asserted but Provisional."
+        }
+      ],
+      "dates": "1930-1965",
+      "id": "person-lorraine-hansberry",
+      "name": "Lorraine Hansberry",
+      "summary": "Playwright of 'A Raisin in the Sun' (1959); daughter of Hansberry v. Lee plaintiff Carl Augustus Hansberry.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Lived at 4831 S. Vincennes (Richard Wright House, landmark); wrote the original Introduction to 'Black Metropolis' (1945); Federal Writers' Project participant.",
+          "contradicts": null,
+          "evidence": "windycitytimes.com (2010); publisher copy via Google Books.",
+          "grade": "Verified",
+          "source": "windycitytimes.com (2010)",
+          "source_date": "2010",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "1908-1960",
+      "id": "person-richard-wright",
+      "name": "Richard Wright",
+      "summary": "Author; wrote the original Introduction to Drake & Cayton's 'Black Metropolis' (1945).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Performed at the Sunset Cafe (1926), the Dreamland Cafe, and the Vendome Theatre in Bronzeville; his Chicago residency was 1922-24 as a young musician (Dreamland/Sunset on the Stroll), not a Bronzeville lifetime.",
+          "contradicts": null,
+          "evidence": "Lindstrom compilation; UChicago exhibition text; Track F red-team caution on residency vs. performance.",
+          "grade": "Provisional",
+          "source": "Bo Lindstrom (2012); UChicago Library exhibition text (1996-97)",
+          "source_date": "2012",
+          "source_type": "secondary",
+          "uncertainty": "Residence at 421 E. 44th St. (mid-1920s, purchased by Lil Hardin Armstrong) rests on a TikTok creator citing Google AI — weak, needs corroboration. Do not assert residency without a source."
+        }
+      ],
+      "dates": "1901-1971",
+      "id": "person-louis-armstrong",
+      "name": "Louis Armstrong",
+      "summary": "Performed at the Sunset Cafe (1926), Dreamland Cafe, and Vendome Theatre; verify any residency claim against per-name sourcing.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Attended Wendell Phillips Academy High School in Bronzeville (dropped out at 15); DuSable classmate of Timuel Black and John H. Johnson.",
+          "contradicts": null,
+          "evidence": "MasterClass secondary; UChicago News (Timuel Black profile).",
+          "grade": "Provisional",
+          "source": "masterclass.com; UChicago News",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "MasterClass is popular/tertiary; no primary record consulted."
+        }
+      ],
+      "dates": "1919-1965",
+      "id": "person-nat-king-cole",
+      "name": "Nat King Cole",
+      "summary": "Attended Wendell Phillips Academy in Bronzeville (Provisional).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "First Black American woman pilot; lived in Bronzeville in her early twenties; was a member of Pilgrim Baptist Church.",
+          "contradicts": null,
+          "evidence": "MasterClass secondary; Congressional Record tribute context (Pilgrim).",
+          "grade": "Provisional",
+          "source": "masterclass.com",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Needs per-name sourcing."
+        }
+      ],
+      "dates": "1892-1926",
+      "id": "person-bessie-coleman",
+      "name": "Bessie Coleman",
+      "summary": "First Black American woman pilot; Bronzeville resident in her early twenties (Provisional).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "DuSable class of June 1937; classmate of Nat King Cole and John H. Johnson; historian; collected 36 oral histories with DuSable/Phillips alumni/staff in 1996; author of 'Bridges of Memory' (Vols. 1-3; Northwestern UP/DuSable Museum, 2005/2008).",
+          "contradicts": null,
+          "evidence": "UChicago News; Wilson (Urban Review, 2024).",
+          "grade": "Verified",
+          "source": "UChicago News; Urban Review (2024)",
+          "source_date": "2024",
+          "source_type": "secondary",
+          "uncertainty": "Repository of the 36 interview tapes/transcripts unresolved."
+        }
+      ],
+      "dates": "1918-2021",
+      "id": "person-timuel-black",
+      "name": "Timuel D. Black Jr.",
+      "summary": "Historian and DuSable graduate (1937); chronicler of Great Migration Chicago via 'Bridges of Memory.'",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "First African American branch head in the Chicago Public Library system; director of the George Cleveland Hall Branch (opened January 18, 1932, at 48th & Michigan) from 1932 to 1958; founder of the 'Special Negro Collection' (now the Vivian G. Harsh Research Collection, 80,000+ volumes, the Midwest's largest Black-history repository); her Book Review and Lecture Forum made the Hall Branch an intellectual center of the Chicago Black Renaissance.",
+          "contradicts": null,
+          "evidence": "Chicago Public Library official site and archives; BlackPast.org; City of Chicago Black Renaissance Literary Movement landmark report.",
+          "grade": "Verified",
+          "source": "Chicago Public Library (chipublib.org)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "1890-1960",
+      "id": "person-vivian-harsh",
+      "name": "Vivian G. Harsh",
+      "summary": "Librarian and institution-builder; founder of the CPL's Special Negro Collection (now the Harsh Research Collection).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founder of the Chicago chapter of the Phyllis Wheatley Women's Club (1900 per NPS; 1896 per Alexander Street documents — minor date discrepancy), founder of the Phyllis Wheatley Home for Girls (1908; building still stands on S. Michigan Ave. near 51st), official historian of the Illinois Federation of Colored Women's Clubs (from 1918), author of 'The Story of the Illinois Federation of Colored Women's Clubs, 1900-1922' (1922) and 'Lifting as They Climb' (1933), the first full history of the National Association of Colored Women.",
+          "contradicts": null,
+          "evidence": "U.S. National Park Service (nps.gov); democracylimited.com (CHM-affiliated project).",
+          "grade": "Verified",
+          "source": "U.S. National Park Service",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Club chapter founding year 1896 vs. 1900 disputed (minor)."
+        }
+      ],
+      "dates": "1855-1944",
+      "id": "person-elizabeth-lindsay-davis",
+      "name": "Elizabeth Lindsay Davis",
+      "summary": "Clubwoman, historian, and settlement founder; historian of the Illinois Federation of Colored Women's Clubs.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Chicago Urban League employment counselor (1918); appointed to President Hoover's National Committee on Negro Housing (1931), whose work led to the Ida B. Wells Homes in Bronzeville; president of the Chicago Council of Negro Organizations (1939-1953); first Black woman to run for the Illinois legislature (1940); president of the National Association of Colored Women (1950s); lobbied for Executive Order 8802 (1941); blocked Margaret Burroughs's 1955 bid to charter a Chicago ASNLH chapter over Burroughs's left-wing associations.",
+          "contradicts": null,
+          "evidence": "Chicago History Museum curatorial profile; peer-reviewed journal article 'Margaret T.G. Burroughs and black public history in Cold War Chicago.'",
+          "grade": "Verified",
+          "source": "Chicago History Museum; peer-reviewed journal article",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Birth year 1892 (Wikipedia/CHM) vs. 1896 (SNAC/University of Illinois papers catalog) — Disputed (minor)."
+        }
+      ],
+      "dates": "1892/1896-1964",
+      "id": "person-irene-mccoy-gaines",
+      "name": "Irene McCoy Gaines",
+      "summary": "Social worker, clubwoman, and political organizer; her housing-committee work led to the Ida B. Wells Homes.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "First African American graduate of Chicago's A.B. Molar Beauty School (1916); national supervisor of ~200 Madame C.J. Walker beauty schools; inventor of the permanent-wave machine, U.S. Patent No. 1,693,515 (1928); co-founded the National Council of Negro Women with Eleanor Roosevelt (1935); headed the Chicago Defender Charity network; helped organize the Bud Billiken Parade; Smithsonian exhibited her machine (1987). Her papers are held in the Vivian G. Harsh Research Collection.",
+          "contradicts": null,
+          "evidence": "Congressional Record tribute by Rep. Bobby L. Rush (Jan. 4, 1995, congress.gov).",
+          "grade": "Verified",
+          "source": "Congressional Record (1995-01-04)",
+          "source_date": "1995-01-04",
+          "source_type": "primary",
+          "uncertainty": "Smithsonian exhibit detail Provisional pending direct confirmation. TikTok/SEO content farms inflate her story ('stolen wave') — cite only the Congressional Record facts."
+        }
+      ],
+      "dates": "1896-1994",
+      "id": "person-marjorie-joyner",
+      "name": "Marjorie Stewart Joyner",
+      "summary": "Inventor (permanent-wave machine, patent 1,693,515), beauty-industry executive, and civic leader.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Co-founded the Ebony Museum of Negro History and Art (1961), now the DuSable Museum of African American History; her 1955 ASNLH chapter fight with Irene McCoy Gaines shows Cold War ideological splits among Black women cultural workers.",
+          "contradicts": null,
+          "evidence": "Peer-reviewed article cited above.",
+          "grade": "Provisional",
+          "source": "Peer-reviewed journal article (via thefreelibrary.com)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Museum founding year widely repeated; verified via the scholarly article only for the 1955 episode."
+        }
+      ],
+      "dates": "1917-2010",
+      "id": "person-margaret-burroughs",
+      "name": "Margaret T.G. Burroughs",
+      "summary": "Artist and museum founder; co-founded the institution now known as the DuSable Museum (1961).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Black businesswoman who held the civic-promotional title Mayor of Bronzeville in the 1960s.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago.",
+          "grade": "Provisional",
+          "source": "Encyclopedia of Chicago",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Single source encountered; the 'Mayor of Bronzeville' title itself was a newspaper promotion."
+        }
+      ],
+      "dates": "active 1960s",
+      "id": "person-cora-carroll",
+      "name": "Cora Carroll",
+      "summary": "Black businesswoman; held the promotional title Mayor of Bronzeville in the 1960s.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "First director of the Chicago Urban League (1916), serving until recalled to the national office in 1925.",
+          "contradicts": null,
+          "evidence": "thefreelibrary.com (Eugene Kinckle Jones article: Hill hired 1914, assigned to Chicago Dec. 1916, headed branch until 1925).",
+          "grade": "Verified",
+          "source": "thefreelibrary.com (academic article)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 1914-1925+",
+      "id": "person-t-arnold-hill",
+      "name": "T. Arnold Hill",
+      "summary": "First director of the Chicago Urban League.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Principal of Wendell Phillips Academy 1939-1950; the first African-American principal of a Chicago public school.",
+          "contradicts": null,
+          "evidence": "Commission on Chicago Landmarks preliminary summary (Sept 2002).",
+          "grade": "Verified",
+          "source": "Commission on Chicago Landmarks preliminary summary (2002-09)",
+          "source_date": "2002",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 1939-1950",
+      "id": "person-maudelle-bousfield",
+      "name": "Maudelle Brown Bousfield",
+      "summary": "First African-American principal of a Chicago public school (Phillips, 1939-1950).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Under Rev. Lacy Kirk Williams (pastor from 1916), Olivet Baptist became a major Great Migration service institution — housing assistance, childcare, Chicago's first kindergarten program.",
+          "contradicts": null,
+          "evidence": "Wikipedia (Olivet Baptist Church) citing church histories.",
+          "grade": "Provisional",
+          "source": "Wikipedia (Olivet Baptist Church)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "pastor from 1916",
+      "id": "person-lacy-williams",
+      "name": "Rev. Lacy Kirk Williams",
+      "summary": "Pastor of Olivet Baptist from 1916; built it into a Great Migration service institution.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Rev. Junius C. Austin was Pilgrim Baptist's pastor; in 1931 he invited Thomas A. Dorsey to become music director. Rev. D.Z. Jackson led Liberty Baptist (1925), growing it to 2,000-3,000 members (Provisional). Rev. A.P. Jackson was Liberty's pastor during the Chicago Freedom Movement; Martin Luther King Jr. used Liberty Baptist as his Chicago headquarters in the 1960s.",
+          "contradicts": null,
+          "evidence": "Congressional Record (Austin); church history page and Becker (Jacksons); Middlebury archive (A.P. Jackson interview, 1992).",
+          "grade": "Verified",
+          "source": "Congressional Record (2013-09-10); libertybaptistchurchchicago.org",
+          "source_date": "2013",
+          "source_type": "primary",
+          "uncertainty": "D.Z. Jackson membership figures Provisional."
+        }
+      ],
+      "dates": "active 1920s-1960s",
+      "id": "person-jackson-pastors",
+      "name": "Rev. Junius C. Austin / Rev. D.Z. Jackson / Rev. A.P. Jackson",
+      "summary": "Bronzeville pastors: Austin (Pilgrim, invited Dorsey 1931); D.Z. Jackson and A.P. Jackson (Liberty; the latter's pastorate covered the Chicago Freedom Movement).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Deacon John A. Finnie's home at 242 E. 42nd St. hosted the Union Grove Prayer Meeting Club; Mrs. Finnie suggested the name Pilgrim Baptist; first pastor Rev. Jessie D. Luck (Jan 1917). Mrs. Bertie Boone and Mrs. Maggie Walker formed the Olive Leaf Club (1917) at 3732 S. Federal St., which became Liberty Baptist Church.",
+          "contradicts": null,
+          "evidence": "Congressional Record (Pilgrim, 2013); church history page and Lynn Becker (Liberty).",
+          "grade": "Verified",
+          "source": "Congressional Record (2013-09-10); libertybaptistchurchchicago.org",
+          "source_date": "2013",
+          "source_type": "primary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 1916-1919",
+      "id": "person-church-founders",
+      "name": "Deacon John A. Finnie, Juanita Finnie, Bertie Boone, Maggie Walker",
+      "summary": "Founders of the prayer-meeting clubs that became Pilgrim Baptist (1916) and Liberty Baptist (1917) churches.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Black architect of the National Pythian Temple (Egyptian Revival facade).",
+          "contradicts": null,
+          "evidence": "Art Institute of Chicago article on the temple fragment.",
+          "grade": "Verified",
+          "source": "Art Institute of Chicago",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "n.d.",
+      "id": "person-walter-bailey",
+      "name": "Walter T. Bailey",
+      "summary": "Black architect; designed the National Pythian Temple.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Black architect of the Olivet Building (purchased 1924 by Liberty Baptist).",
+          "contradicts": null,
+          "evidence": "Lynn Becker, 'Dr. King and the Story of Liberty Baptist Church' (single secondary source).",
+          "grade": "Provisional",
+          "source": "Lynn Becker",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "n.d.",
+      "id": "person-jm-higginbotham",
+      "name": "J.M. Higginbotham",
+      "summary": "Black architect; designed the Olivet Building.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Cosmetics magnate; first Black owner of the Regal Theater, purchasing it from the Englestein Company in 1961 and losing it in 1968.",
+          "contradicts": null,
+          "evidence": "City of Chicago New Regal Theater designation report (1989).",
+          "grade": "Verified",
+          "source": "City of Chicago, New Regal Theater designation report (1989-02)",
+          "source_date": "1989-02",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 1961-1968",
+      "id": "person-sb-fuller",
+      "name": "S. B. Fuller",
+      "summary": "Cosmetics magnate; first Black owner of the Regal Theater (1961-1968).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Started as a Regal usher in 1929; became manager in 1939 — the first Black manager of a Balaban & Katz house — and held the position until 1959.",
+          "contradicts": null,
+          "evidence": "City of Chicago New Regal Theater designation report (1989).",
+          "grade": "Verified",
+          "source": "City of Chicago, New Regal Theater designation report (1989-02)",
+          "source_date": "1989-02",
+          "source_type": "secondary",
+          "uncertainty": null,
+          "contradiction_noted": {
+            "subject": "Ken Blewett 'first Black B&K manager' — Verified vs Provisional",
+            "other_claims": [
+              "CTL-DR-BMI-002/regal-theater",
+              "CTL-DR-BCI-001/b-regal"
+            ],
+            "guidance": "Superlative needs Defender corroboration before any public \"first\" claim.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          },
+          "red_team_notes": [
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Ken Blewett 'first Black B&K manager' — Verified vs Provisional. See also: CTL-DR-BMI-002/regal-theater, CTL-DR-BCI-001/b-regal. Superlative needs Defender corroboration before any public \"first\" claim."
+          ]
+        }
+      ],
+      "dates": "1929-1959",
+      "id": "person-ken-blewett",
+      "name": "Ken Blewett",
+      "summary": "Regal usher (1929) to manager (1939-1959); first Black Balaban & Katz manager.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded the Brotherhood of Sleeping Car Porters on August 25, 1925; it was the first labor organization led by African Americans to receive an AFL charter (1935). (The shorthand 'the first Black labor union' is an oversimplification — earlier Black labor organizations existed, e.g., the Colored National Labor Union, 1869.)",
+          "contradicts": null,
+          "evidence": "Zinn Education Project; Congressional Record (founding date).",
+          "grade": "Verified",
+          "source": "Zinn Education Project; Congressional Record",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "The claim that porters carried the Chicago Defender south is widely repeated but Provisional (no primary source located); the claim that Metropolitan Apostolic Community Church (4100 S. MLK Dr.) was where Randolph and the BSCP regularly met is a single weak source (Modern Cities blog, 2022) — Provisional/weak. No citable source ties porter residency to specific Bronzeville blocks."
+        }
+      ],
+      "dates": "1925",
+      "id": "person-randolph-bscp",
+      "name": "A. Philip Randolph / Milton P. Webster / Brotherhood of Sleeping Car Porters",
+      "summary": "Founded August 25, 1925; first labor organization led by African Americans to receive an AFL charter (1935). The 'porter neighborhood' residency claim for Bronzeville is unverified.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "St. Clair Drake and Horace R. Cayton published 'Black Metropolis: A Study of Negro Life in a Northern City' in 1945 (Harcourt, Brace), with an Introduction by Richard Wright; it won the 1946 Anisfield-Wolf Book Award (nonfiction); it codified the 'city within a city' thesis.",
+          "contradicts": null,
+          "evidence": "Publisher copy (Google Books); Wikipedia.",
+          "grade": "Verified",
+          "source": "Publisher copy (Google Books)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Production details (WPA fieldwork, ~200 investigators) from tertiary summaries — Provisional; consult the book's methodological note (by W. Lloyd Warner). The 'Black Metropolis' phrase predates 1945 as celebratory Black-press terminology; treat the book as scholarship, not unquestioned truth (critiques: Gregory 2005 'ghetto story'; Reed 2011 reappraisal; Cox 2015 gender critique)."
+        }
+      ],
+      "dates": "book 1945",
+      "id": "person-drake-cayton",
+      "name": "St. Clair Drake / Horace R. Cayton",
+      "summary": "Authors of 'Black Metropolis' (1945); codified the 'city within a city' thesis. Treat as scholarship, not scripture.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Organized his first modern gospel choir at Ebenezer in 1931, then joined Pilgrim Baptist as music director in 1932 at Rev. Junius C. Austin's invitation and organized the gospel chorus; played rent parties as the 'whispering piano player.'",
+          "contradicts": null,
+          "evidence": "Congressional Record (2013); City landmark report (Ebenezer); WTTW/Preservation Chicago (rent parties).",
+          "grade": "Verified",
+          "source": "Congressional Record (2013-09-10); City of Chicago Landmark Designation Report (2011-06-02)",
+          "source_date": "2011-2013",
+          "source_type": "primary",
+          "uncertainty": "The 25-cents-a-head rent-party figure seen in one video source is Unresolved.",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H1: compressed double-1931 narrative corrected; Pilgrim start -> 1932 (Ebenezer 1931 choir organization retained)."
+          ]
+        }
+      ],
+      "dates": "active 1931",
+      "id": "person-thomas-dorsey",
+      "name": "Thomas A. Dorsey",
+      "summary": "'Father of Gospel Music'; organized his first gospel choir at Ebenezer (1931), then became Pilgrim's music director (1931).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "President of the Bronzeville Community Development Partnership for ~29 years (as of ~2018); co-founded the Urban Innovation Center (2006); member of the GRIT Chicago development team for Bronzeville Lakefront.",
+          "contradicts": null,
+          "evidence": "Medill Reports Chicago (~2018); Chicago YIMBY (GRIT roster).",
+          "grade": "Verified",
+          "source": "Medill Reports Chicago (~2018)",
+          "source_date": "2018",
+          "source_type": "secondary",
+          "uncertainty": "BCDP founding year unresolved (president ~29 years as of ~2018 suggests late-1980s — unconfirmed)."
+        }
+      ],
+      "dates": "active 1990s-present",
+      "id": "person-paula-robinson",
+      "name": "Paula Robinson",
+      "summary": "President of the Bronzeville Community Development Partnership; GRIT Chicago team member.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Social enterprise founder (2003); mission: 'revitalizes disinvested Black urban communities by rebuilding neighborhood commerce around culture and innovation'; flagship Build Bronzeville — The Forum (bought 2011), Bronzeville Cookin', Boxville (2017), Bike Box (2014); moved to Bronzeville ~30 years ago.",
+          "contradicts": null,
+          "evidence": "MIT Technology Review (2020); City Bureau (2024); Brookings (2022).",
+          "grade": "Verified",
+          "source": "MIT Technology Review (2020); City Bureau (2024)",
+          "source_date": "2020-2024",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 2003-present",
+      "id": "person-bernard-loyd",
+      "name": "Bernard Loyd",
+      "summary": "Founder of Urban Juncture (2003) and Build Bronzeville; saved The Forum from demolition.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Ald. Pat Dowell (3rd Ward, in office since 2007) championed mixed-income projects: 43 Green, Rosenwald Courts, a 4th Ward Mariano's, XS Tennis, Home Run Inn Pizza.",
+          "contradicts": null,
+          "evidence": "City Bureau (April 2024).",
+          "grade": "Provisional",
+          "source": "City Bureau (2024-04)",
+          "source_date": "2024-04",
+          "source_type": "secondary",
+          "uncertainty": null,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single City Bureau (2024) article for multi-part claim about an alderman's project record. Source cited: City Bureau (2024-04)"
+          ]
+        }
+      ],
+      "dates": "in office 2007-present",
+      "id": "person-pat-dowell",
+      "name": "Ald. Pat Dowell",
+      "summary": "3rd Ward alderman since 2007; champion of Bronzeville mixed-income development.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Co-founder of the Chicago State / Chicago Urban League policy voice; City Bureau (2024) dates visible demographic change in Bronzeville to ~2008 and quotes him on price/tax pressures and the CPD headquarters move.",
+          "contradicts": null,
+          "evidence": "City Bureau, April 24, 2024 (named source).",
+          "grade": "Verified",
+          "source": "City Bureau (2024-04-24)",
+          "source_date": "2024-04-24",
+          "source_type": "secondary",
+          "uncertainty": "Reported speech; price/tax figures as-cited from the Tribune."
+        }
+      ],
+      "dates": "active 2024",
+      "id": "person-lionel-kimble",
+      "name": "Lionel Kimble Jr.",
+      "summary": "Historian (Chicago State; Chicago Urban League research/policy) on Bronzeville's visible demographic change (~2008).",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Northwestern sociologist; author of 'Black on the Block' (U. Chicago Press, 2007); wrote the foreword to the 2015 U. Chicago Press reissue of 'Black Metropolis' (verify with publisher — Provisional); quoted in City Bureau (2024) critiquing the 'golden age' as a real-estate marketing device.",
+          "contradicts": null,
+          "evidence": "City Bureau (2024-04-24).",
+          "grade": "Verified",
+          "source": "City Bureau (2024-04-24)",
+          "source_date": "2024-04-24",
+          "source_type": "secondary",
+          "uncertainty": "Foreword detail Provisional."
+        }
+      ],
+      "dates": "active 1999-present",
+      "id": "person-mary-pattillo",
+      "name": "Mary Pattillo",
+      "summary": "Sociologist (Northwestern); scholar of Bronzeville's Black middle class and critic of 'golden age' real-estate marketing.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Urban sociologist; author of 'Jim Crow Nostalgia: Reconstructing Race in Bronzeville' (UNC Press, 2008), arguing redevelopment leaders cultivated a single nostalgic version of Bronzeville's past to legitimize development plans and rationalize displacement.",
+          "contradicts": null,
+          "evidence": "Boyd (2008); review by Davarian L. Baldwin.",
+          "grade": "Verified",
+          "source": "Michelle Boyd, 'Jim Crow Nostalgia' (UNC Press, 2008)",
+          "source_date": "2008",
+          "source_type": "secondary",
+          "uncertainty": "Specific case studies (historic-district fights, public-housing demolition) not re-verified in this pass."
+        }
+      ],
+      "dates": "2008",
+      "id": "person-michelle-boyd",
+      "name": "Michelle Boyd",
+      "summary": "Sociologist; author of 'Jim Crow Nostalgia' (2008) on how redevelopment deploys curated Bronzeville memory.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded the Bronzeville Historical Society (1999); 11 years of videotaped oral histories of Bronzeville residents (Great Migration journeys), digitized with UChicago assistance; shown at 'Great Migration: What They Brought With Them,' Florence Hotel, Pullman (opened May 16, 2009); also holds the William Earl Washington Collection (processed 2013 by BMRC 'Color Curtain' project).",
+          "contradicts": null,
+          "evidence": "bronzevillearchives.com; BMRC exhibit text; UChicago Chronicle (2009).",
+          "grade": "Verified",
+          "source": "bronzevillearchives.com; BMRC",
+          "source_date": "2009-2013",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "active 1999-present",
+      "id": "person-sherry-williams",
+      "name": "Sherry Williams",
+      "summary": "Founder of the Bronzeville Historical Society (1999); community videotaped oral histories of Great Migration journeys.",
+      "type": "person"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded 1999 by Sherry Williams; holds the Sherry Williams VHS oral-history collection and the William Earl Washington Collection (processed 2013).",
+          "contradicts": null,
+          "evidence": "bronzevillearchives.com; BMRC exhibit text.",
+          "grade": "Verified",
+          "source": "bronzevillearchives.com; BMRC",
+          "source_date": "2013",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "1999-present",
+      "id": "org-bronzeville-historical-society",
+      "name": "Bronzeville Historical Society",
+      "summary": "Community archive founded 1999 by Sherry Williams; holds videotaped oral histories and family photograph collections.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded May 2003; community-based nonprofit serving North Kenwood, Oakland, Douglas, and Grand Boulevard; formed with LISC assistance and then-Ald. Toni Preckwinkle to plan for the 'window of opportunity opened by the demolition of the high-rise public housing along State Street' (QCDC ED Bernita Gabriel, NextCity 2015); led small-business support including recruiting Black entrepreneurs for 4400 Grove retail.",
+          "contradicts": null,
+          "evidence": "qcdc.org (primary-but-interested); NextCity (2015); housingfinance.com.",
+          "grade": "Verified",
+          "source": "qcdc.org; NextCity (2015)",
+          "source_date": "2015",
+          "source_type": "secondary",
+          "uncertainty": "Address: 4210 S. Berkeley Ave."
+        }
+      ],
+      "dates": "2003-present",
+      "id": "org-qcdc",
+      "name": "Quad Communities Development Corporation",
+      "summary": "CDC formed 2003 after public-housing demolition; convenes development planning for Douglas, Grand Boulevard, North Kenwood, Oakland.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Social enterprise founded 2003 by Bernard Loyd; mission: 'revitalizes disinvested Black urban communities by rebuilding neighborhood commerce around culture and innovation' (Toward Common Cause); flagship Build Bronzeville: The Forum (bought 2011), Bronzeville Cookin', Boxville (2017), Bike Box (2014), Creative Incubator; ~$9M raised for 51st St.",
+          "contradicts": null,
+          "evidence": "MIT Technology Review (2020); towardcommoncause.org; City Bureau (2024); Brookings (2022).",
+          "grade": "Verified",
+          "source": "MIT Technology Review (2020); City Bureau (2024)",
+          "source_date": "2020-2024",
+          "source_type": "secondary",
+          "uncertainty": null
+        }
+      ],
+      "dates": "2003-present",
+      "id": "org-urban-juncture",
+      "name": "Urban Juncture (Build Bronzeville)",
+      "summary": "Social enterprise founded 2003; rebuilds neighborhood commerce around culture and innovation.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Social-services nonprofit 'formed in 1992 to restore and preserve the Historic Former Wabash YMCA'; led the ~$9M late-1990s renovation; still operates from the building with community programming and the 2026 Black History Month exhibition partnership with the National Heritage Area.",
+          "contradicts": null,
+          "evidence": "EIN Presswire (Feb 2026, org-adjacent PR); Wikipedia.",
+          "grade": "Verified",
+          "source": "EIN Presswire (2026-02)",
+          "source_date": "2026-02",
+          "source_type": "secondary",
+          "uncertainty": "Primary-but-interested PR; corroborated by renovation record."
+        }
+      ],
+      "dates": "1992-present",
+      "id": "org-renaissance-collaborative",
+      "name": "The Renaissance Collaborative",
+      "summary": "Nonprofit formed 1992 by Quinn Chapel AME and three other churches to restore the Wabash YMCA; still operates from the building.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Community organization that purchased the near-demolished Supreme Life Building in the 1990s and rehabilitated it (2005) as the Bronzeville Visitor Information Center; credited (NPR/WUOT) with saving and renovating 'several landmark buildings' alongside churches.",
+          "contradicts": null,
+          "evidence": "Wikipedia (citing Sun-Times 1996); WUOT/NPR (2022).",
+          "grade": "Verified",
+          "source": "Wikipedia; WUOT/NPR (2022)",
+          "source_date": "2022",
+          "source_type": "secondary",
+          "uncertainty": "Founding year and current operating status unknown (gap)."
+        }
+      ],
+      "dates": "active 1990s-2000s; current status unresolved",
+      "id": "org-bmctc",
+      "name": "Black Metropolis Convention and Tourism Council",
+      "summary": "Heritage-tourism organization; saved and rehabilitated the Supreme Life Building (2005). Founding year and current status unresolved.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Self-described focus: 'Community Economic Development with focus on information technology, heritage tourism, hospitality workforce development & training, preservation & sustainability' (Idealist); President Paula Robinson (~29 years as of ~2018); member of the GRIT Chicago development team for Bronzeville Lakefront.",
+          "contradicts": null,
+          "evidence": "idealist.org (org self-description); Medill Reports Chicago (~2018); Chicago YIMBY (GRIT roster).",
+          "grade": "Verified",
+          "source": "idealist.org; Medill Reports Chicago (~2018)",
+          "source_date": "2018",
+          "source_type": "secondary",
+          "uncertainty": "Founding year unresolved (late-1980s per Robinson tenure — unconfirmed)."
+        }
+      ],
+      "dates": "active by ~1990s-present",
+      "id": "org-bcdp",
+      "name": "Bronzeville Community Development Partnership",
+      "summary": "CDC focused on economic development, heritage tourism, and preservation; GRIT Chicago partner.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Formed in the early 1990s by community leaders including Harold Lucas Jr. (chairman Angelo Rose); Afrocentric planning vision; won city commitments of millions for infrastructure, landmark preservation, beautification; the $65M CPD headquarters; federal Empowerment Zone tax incentives.",
+          "contradicts": null,
+          "evidence": "WUOT/NPR (Oct 2022, citing 1994 Tribune).",
+          "grade": "Verified",
+          "source": "WUOT/NPR (2022-10)",
+          "source_date": "2022-10",
+          "source_type": "secondary",
+          "uncertainty": "Exact founding year and current status unresolved."
+        }
+      ],
+      "dates": "early 1990s",
+      "id": "org-mid-south",
+      "name": "Mid-South Planning and Development Commission",
+      "summary": "Early-1990s community planning commission with an Afrocentric vision; won major city commitments.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Founded 1916 (Middlebury says 1917 — minor variant) as a National Urban League affiliate by an interracial group of community leaders to aid Great Migration resettlement — employment, housing, adjustment to northern urban life; first director T. Arnold Hill (served until recalled to the national office in 1925); Arvarh Strickland's 'History of the Chicago Urban League' (U. Missouri Press) covers 1916-1960s.",
+          "contradicts": null,
+          "evidence": "Wikipedia; thefreelibrary.com (Eugene Kinckle Jones article); Strickland (U. Missouri Press, via bookseller copy).",
+          "grade": "Verified",
+          "source": "thefreelibrary.com (academic article)",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "1916 preponderant (Strickland's scholarly history dates it 1916); original headquarters address in Bronzeville unverified."
+        }
+      ],
+      "dates": "1916-present",
+      "id": "org-chicago-urban-league",
+      "name": "Chicago Urban League",
+      "summary": "Founded 1916 to aid Great Migration resettlement; first director T. Arnold Hill.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "The NAACP added its Chicago branch in 1912, among its first branches (with Boston). Christopher Robert Reed, 'The Chicago NAACP and the Rise of Black Professional Leadership, 1910-1966' (Indiana University Press, 1997), is the definitive scholarly history.",
+          "contradicts": null,
+          "evidence": "Wikipedia (NAACP); publisher copy (Reed, 1997).",
+          "grade": "Provisional",
+          "source": "Wikipedia; abebooks.com (publisher copy, 1997)",
+          "source_date": "1997",
+          "source_type": "secondary",
+          "uncertainty": "Widely repeated but Reed's book and NAACP records not directly consulted; branch headquarters location(s) in Bronzeville unverified."
+        }
+      ],
+      "dates": "1912-present",
+      "id": "org-naacp-chicago",
+      "name": "NAACP — Chicago Branch",
+      "summary": "Added 1912, among the NAACP's first branches. Branch headquarters location in Bronzeville unverified.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Congress passed the National Heritage Area Act in December 2022 (Senate unanimous; House 326-95); President Biden signed it January 5, 2023 (Public Law 117-339), establishing the Bronzeville-Black Metropolis National Heritage Area; up to $10M in federal funding over 15 years; covers 200+ locations between 18th and 71st Streets.",
+          "contradicts": null,
+          "evidence": "Chicago Reporter (Dec 26, 2022); Sen. Duckworth press release; Wikipedia.",
+          "grade": "Verified",
+          "source": "Chicago Reporter (2022-12-26); duckworth.senate.gov",
+          "source_date": "2022-2023",
+          "source_type": "primary",
+          "uncertainty": "Executive director as of 2026: Bernard Turner (EIN Presswire, primary-but-interested). Legislative prehistory: Rep. Bobby Rush's 2008 study act (never enacted); Sen. Durbin first introduced the Heritage Area Act in 2016."
+        }
+      ],
+      "dates": "2023-present",
+      "id": "org-national-heritage-area",
+      "name": "Bronzeville-Black Metropolis National Heritage Area",
+      "summary": "Federal heritage area established by Public Law 117-339 (January 5, 2023); up to $10M federal funding over 15 years; 200+ locations, 18th-71st Streets.",
+      "type": "organization"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Designated a Chicago Landmark district September 9, 1998: Overton Hygienic Building, Chicago Bee Building, Wabash Avenue YMCA, Chicago Defender Building, Unity Hall, Eighth Regiment Armory, Sunset Cafe (listed by the city as 'Grand Terrace Cafe'), Victory Monument, Supreme Life Building. Six of the nine were individually listed on the NRHP April 30, 1986, as the 'Black Metropolis Thematic Resource' multiple-property submission (Overton Hygienic, Chicago Bee, Wabash YMCA, Unity Hall, Eighth Regiment Armory, Victory Monument). The district as a whole is NOT an NRHP-listed historic district.",
+          "contradicts": null,
+          "evidence": "City of Chicago landmark address list (primary); NPS NRHP nomination (Form 10-900, primary); NextCity.",
+          "grade": "Verified",
+          "source": "City of Chicago landmark address list; NPS nomination (1985)",
+          "source_date": "1985-1998",
+          "source_type": "primary",
+          "uncertainty": "A 1984 Commission on Chicago Landmarks consideration was rejected; a 1996 advocacy campaign preceded the 1998 designation (Roanoke Times, 1996)."
+        }
+      ],
+      "dates": "designated 1998-09-09",
+      "id": "policy-landmark-district",
+      "name": "Black Metropolis-Bronzeville District (Chicago Landmark)",
+      "summary": "Nine-structure Chicago Landmark district designated September 9, 1998; six members individually NRHP-listed April 30, 1986.",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "1927 agreement among white property owners in the Washington Park Subdivision (Woodlawn, immediately south of Bronzeville's historic core) barred sale/lease to African Americans; required owners of 95% of subdivision frontage to sign before taking effect; only 54% actually signed (filing certified 95%). Carl Augustus Hansberry purchased 6140 S. Rhodes Ave. in 1937, defying the covenant; Anna M. Lee (white homeowner, covenant signatory) sued.",
+          "contradicts": null,
+          "evidence": "WikiLawSchool brief (95%/54% figures); Wikipedia; aggregatelitigation.com (Thomson Reuters case text, 2025); Mapping Inequality essay.",
+          "grade": "Verified",
+          "source": "aggregatelitigation.com (opinion text); Wikipedia",
+          "source_date": "2025",
+          "source_type": "primary",
+          "uncertainty": null
+        },
+        {
+          "claim": "Prior action: Burke v. Kleiman (1934) — a class action in which Illinois courts held the covenant enforceable. In Hansberry v. Lee, 311 U.S. 32 (1940), the U.S. Supreme Court reversed: res judicata could not bind defendants whose interests were not adequately represented (the 54% who supported the covenant could not represent the 46% opposed). Opinion by Justice Harlan F. Stone; argued by Earl B. Dickerson. The Court did NOT void restrictive covenants; that came with Shelley v. Kraemer (1948).",
+          "contradicts": null,
+          "evidence": "Wikipedia; aggregatelitigation.com; Mapping Inequality essay.",
+          "grade": "Verified",
+          "source": "aggregatelitigation.com (opinion text)",
+          "source_date": "2025",
+          "source_type": "primary",
+          "uncertainty": "Decision date disputed: Nov 12, Nov 13, or Dec 12, 1940 (reporter citation 311 U.S. 32 and holding consistent). The geographic note: 6140 S. Rhodes is in Woodlawn, not Bronzeville proper — the case is central to Bronzeville's policy story (it cracked the covenant system confining Black Chicagoans to the Black Belt)."
+        }
+      ],
+      "dates": "1927-1940",
+      "id": "policy-hansberry-v-lee",
+      "name": "Hansberry v. Lee, 311 U.S. 32 (1940)",
+      "summary": "Supreme Court reversal on res judicata grounds of a Woodlawn restrictive-covenant case; cracked but did not void the covenant system.",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Chicago's HOLC residential-security map is dated 1940 (survey work late 1930s). Area D74 ran 'from 35th Street to 67th Street between State Street and Cottage Grove' and 'constituted the heart of the Black Belt, which included the Bronzeville and Washington Park neighborhoods' — graded D ('hazardous') with explicitly racialized descriptions ('the already negro-blighted district'; Washington Park 'almost completely monopolized by the colored race').",
+          "contradicts": null,
+          "evidence": "Mapping Inequality Chicago context essay (quotes primary HOLC area descriptions); insurancenewsnet.com (2022, citing Treasurer Pappas study).",
+          "grade": "Verified",
+          "source": "Mapping Inequality (dsl.richmond.edu)",
+          "source_date": "n.d.",
+          "source_type": "primary",
+          "uncertainty": "Context page failed to reload on browser_open; evidence rests on crawled snippet. Map date 1940; survey work spanned late 1930s."
+        },
+        {
+          "claim": "D-graded areas experienced worse long-run housing outcomes (Chicago Fed Aaronson-Hartley-Mazumder WP 2017-12); whether HOLC maps caused disinvestment vs. formalized pre-existing lender practice remains debated among scholars (Hillier 2003 vs. Aaronson et al.).",
+          "contradicts": null,
+          "evidence": "Federal Reserve Bank of Chicago working paper WP 2017-12; peer-reviewed literature.",
+          "grade": "Verified",
+          "source": "chicagofed.org (2017)",
+          "source_date": "2017",
+          "source_type": "secondary",
+          "uncertainty": "Causal weight: Verified as a research finding; direct causation vs. formalization debated."
+        }
+      ],
+      "dates": "1940 (survey late 1930s)",
+      "id": "policy-holc-redlining",
+      "name": "HOLC Residential Security Map — Chicago Area D74",
+      "summary": "1940 HOLC map graded the Black Belt D ('hazardous') with explicitly racialized reasoning; long-run housing outcomes worse in D areas (Fed research), though causal weight is debated.",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Named for the late Cook County Board president Dan Ryan Jr.; first segment (95th St to 71st St) opened December 12, 1961; full route (71st St to Eisenhower/I-290, plus Calumet Skyway connection) opened December 15, 1962, completing a $300M, 11.47-mile project; right-of-way clearance 1957-58; construction 1958 (first contract bids) / 1960-61.",
+          "contradicts": null,
+          "evidence": "Wikipedia; chicagoroads.com; gribblenation.org; UIC oral history (Marshall Suloway transcript: clearance 1957-58).",
+          "grade": "Verified",
+          "source": "chicagoroads.com; gribblenation.org",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Clearance memory is participant recollection (one source) — Provisional on its own."
+        },
+        {
+          "claim": "The route 'exactly parallels a historic black-white divide along Wentworth Avenue,' following the 11th/3rd ward border — heavily Irish Bridgeport to the west, predominantly Black Bronzeville/Grand Boulevard/Washington Park to the east (UChicago thesis, student scholarship — Provisional on the alignment claim); the 14-lane Dan Ryan bisected South Side communities (MPC 'Reconnecting Communities' report, Jan 2023; before/after maps). Displacement figures such as '12 square blocks and 10,000 residents' (TikTok) or '12,000 people' (video description) are Unresolved — no citable source.",
+          "contradicts": null,
+          "evidence": "Theodosakis, UChicago thesis (knowledge.uchicago.edu); MPC report (metroplanning.org, Jan 2023).",
+          "grade": "Provisional",
+          "source": "knowledge.uchicago.edu; metroplanning.org (2023-01)",
+          "source_date": "2023",
+          "source_type": "secondary",
+          "uncertainty": "Bisection documented; decline-causation is interpretive. Arnold Hirsch, 'Making the Second Ghetto' (1983): the expressway corridor followed and hardened an existing racial boundary — an instrument of a larger racial-political project, not an exogenous shock."
+        }
+      ],
+      "dates": "1957-1962",
+      "id": "policy-dan-ryan",
+      "name": "Dan Ryan Expressway",
+      "summary": "14-lane expressway routed along the Black-white divide through/alongside Bronzeville's western edge; bisected South Side communities.",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Federal and CHA policy placed the Wells Homes (1941) and the State Street Corridor towers incl. Robert Taylor Homes (1962) in/adjacent to Bronzeville; peak RTH occupancy ~27,000 vs. 11,000 designed. Plan for Transformation demolitions (1998-2011) coincide with the steepest 2000-2010 population drop.",
+          "contradicts": null,
+          "evidence": "Encyclopedia of Chicago; Wikipedia.",
+          "grade": "Verified",
+          "source": "Encyclopedia of Chicago; Wikipedia",
+          "source_date": "n.d.",
+          "source_type": "secondary",
+          "uncertainty": "Correlation to depopulation is Provisional (other drivers: outmigration after Shelley, deindustrialization, disinvestment). Hirsch (1983): CHA deliberately sited projects in the existing ghetto as a segregation device — the projects were a symptom of the racial order, not its cause."
+        }
+      ],
+      "dates": "1939-2011",
+      "id": "policy-public-housing",
+      "name": "Public Housing Siting and Demolition (CHA Plan for Transformation)",
+      "summary": "Federal/CHA policy concentrated public housing in/adjacent to Bronzeville, then demolished it under HOPE VI/Plan for Transformation (1998-2011).",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "The Black-owned commercial core concentrated along east State Street between 35th and 39th (1908-1931, per NPS); the 47th Street district was principally developed and financed by white developers and store owners, with Black-owned/developed businesses largely excluded (NPS; Semmes 2006; City Black Renaissance report). During the Depression, white chain-store credit access helped 47th Street survive better than the Black-owned 35th/State district (NPS — Provisional on the causal credit-access mechanism).",
+          "contradicts": null,
+          "evidence": "NPS Black Metropolis Thematic Nomination (1985); Semmes, 'The Regal Theater and Black Culture' (Palgrave, 2006); City of Chicago Black Renaissance Literary Movement Report.",
+          "grade": "Verified",
+          "source": "NPS (1985); Semmes (2006)",
+          "source_date": "1985-2006",
+          "source_type": "secondary",
+          "uncertainty": "District-level pattern, not a claim that every 47th Street business was white-owned (e.g., Palm Tavern was Black-owned)."
+        }
+      ],
+      "dates": "1908-1950",
+      "id": "policy-commercial-geography",
+      "name": "Black Metropolis Commercial Geography (35th/State vs. 47th Street)",
+      "summary": "Black-owned commercial core on east State between 35th and 39th (1908-1931); the 47th Street district was principally white-developed and financed.",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "The Great Migration brought Black Southern migrants to Chicago; Bronzeville's population surged under segregation-era confinement (covenants, HOLC D-grading) into overcrowded kitchenette conversions; the combined Douglas + Grand Boulevard population peaked at 193,302 in 1950.",
+          "contradicts": null,
+          "evidence": "Chicago Commission on Race Relations, 'The Negro in Chicago' (1922, primary); census series (Rob Paral compilation via Wikipedia — Provisional, needs NHGIS verification).",
+          "grade": "Provisional",
+          "source": "Chicago Commission on Race Relations (1922); Rob Paral via Wikipedia",
+          "source_date": "1922",
+          "source_type": "primary",
+          "uncertainty": "Exact rent-premium figures (~20%/up to ~200%) encountered only via an unsourced video description — do not publish without verifying against the 1922 report. Census figures need direct Census/NHGIS verification."
+        }
+      ],
+      "dates": "1915-1970",
+      "id": "policy-great-migration",
+      "name": "The Great Migration to Bronzeville",
+      "summary": "Southern Black migration to Chicago; Bronzeville's population peaked under segregation-era confinement in 1950.",
+      "type": "policy"
+    },
+    {
+      "claims": [
+        {
+          "claim": "Decline was multi-causal: deindustrialization + deliberate segregation policy (covenants to public-housing siting to expressway routing to urban renewal clearance) + demographic pressure + disinvestment, operating across the 1930s-1980s. No single villain; and 'decline' itself is partly a narrative artifact (Boyd 2008) — institutions persisted and people stayed.",
+          "contradicts": null,
+          "evidence": "Hirsch (1983); Venkatesh (2000); Pattillo (2007); Manley et al. ('The Revanchist City'); Boyd (2008).",
+          "grade": "Verified",
+          "source": "CTL Track F red-team synthesis (2026-09-28)",
+          "source_date": "2026-09-28",
+          "source_type": "secondary",
+          "uncertainty": "The three single-cause stories (Dan Ryan killed Bronzeville; public housing destroyed the neighborhood; integration drained the middle class) are each misleading as single-cause accounts."
+        }
+      ],
+      "dates": "1930s-1980s",
+      "id": "policy-multi-causal-decline",
+      "name": "Multi-Causal Decline Thesis (house position)",
+      "summary": "Bronzeville's post-1950 decline = deindustrialization + deliberate segregation policy + demographic pressure + disinvestment across 1930s-1980s; no single cause.",
+      "type": "policy"
+    }
+  ],
+  "generated": "2026-09-28",
+  "grade_vocabulary": [
+    "Verified",
+    "Provisional",
+    "Disputed",
+    "Unresolved"
+  ],
+  "note": "Grade normalization: Track A used a five-grade scale in which CORROBORATED meant two or more independent secondary sources in agreement. That maps to Verified under the master CTL four-grade vocabulary. Tracks B-F used the four-grade vocabulary directly. relationships.json contains only Verified-grade links.",
+  "project": "CTL-DR-BVM-005",
+  "title": "Bronzeville: Black Metropolis — The Rise, Fall, and Remaking of a Neighborhood",
+  "__CHUNK2__": null
+}

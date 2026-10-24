@@ -1,0 +1,581 @@
+{
+  "project": "CTL-DR-BMI-002",
+  "note": "VERIFIED-ONLY relationships. No plausible-but-unverified links included.",
+  "relationship_count": 82,
+  "relationships": [
+    {
+      "from": "Regal Theater",
+      "relation": "anchored 47th Street corridor with",
+      "to": "Savoy Ballroom",
+      "evidence": "Regal and Savoy were attached in the same entertainment complex (Encyclopedia of Chicago; City landmark report)",
+      "track": "A"
+    },
+    {
+      "from": "Regal Theater",
+      "relation": "succeeded by homage",
+      "to": "New Regal Theater (Avalon Theater, 1641 E. 79th St.)",
+      "evidence": "renamed in honor of the original Regal in the late 1980s (Chicago Architecture Center)",
+      "track": "A"
+    },
+    {
+      "from": "The Warehouse",
+      "relation": "founded/managed by",
+      "to": "Robert Williams",
+      "evidence": "",
+      "track": "A"
+    },
+    {
+      "from": "The Warehouse",
+      "relation": "resident DJ",
+      "to": "Frankie Knuckles",
+      "evidence": "City of Chicago Landmark Designation Report, 2023",
+      "track": "A"
+    },
+    {
+      "from": "The Warehouse",
+      "relation": "gave name and origin to",
+      "to": "house music",
+      "evidence": "Williams billed \"house\" parties/music; landmark report (2023)",
+      "track": "A"
+    },
+    {
+      "from": "Frankie Knuckles",
+      "relation": "founded after leaving Warehouse",
+      "to": "The Power Plant (1015 N. Halsted, 1983)",
+      "evidence": "landmark report, 2023",
+      "track": "A"
+    },
+    {
+      "from": "The Warehouse",
+      "relation": "rebranded/relaunched as",
+      "to": "The Muzic Box",
+      "evidence": "resident DJ Ron Hardy (landmark report, 2023; Wikipedia)",
+      "track": "A"
+    },
+    {
+      "from": "Robert Williams",
+      "relation": "rebranded Warehouse operation as",
+      "to": "Music Box / Muzic Box",
+      "evidence": "landmark report, 2023",
+      "track": "A"
+    },
+    {
+      "from": "Theresa's Lounge",
+      "relation": "first steady Chicago gig for",
+      "to": "Buddy Guy",
+      "evidence": "Blues Roadhouse, 2026",
+      "track": "A"
+    },
+    {
+      "from": "Checkerboard Lounge",
+      "relation": "co-founded by",
+      "to": "Buddy Guy and L.C. Thurman",
+      "evidence": "Wikipedia; Pollstar",
+      "track": "A"
+    },
+    {
+      "from": "Herman Roberts",
+      "relation": "owned",
+      "to": "Roberts Show Club/Lucky Spot and Roberts Motel chain",
+      "evidence": "The HistoryMakers; Congressional Record, 2021",
+      "track": "A"
+    },
+    {
+      "from": "Sutherland Hotel",
+      "relation": "housed",
+      "to": "Sutherland Lounge",
+      "evidence": "NPS nomination, 2011",
+      "track": "A"
+    },
+    {
+      "from": "Gerri's Palm Tavern",
+      "relation": "owned by",
+      "to": "Gerri Oliver",
+      "evidence": "Daily Northwestern, 2001",
+      "track": "A"
+    },
+    {
+      "from": "Lee's Unleaded Blues",
+      "relation": "predecessor",
+      "to": "Queen Bee's Lounge (1970s, same address)",
+      "evidence": "SomerCor",
+      "track": "A"
+    },
+    {
+      "from": "Ray & Leola Grey",
+      "relation": "opened",
+      "to": "Lee's Unleaded Blues (1983)",
+      "evidence": "surname disputed (see Gaps)",
+      "track": "A"
+    },
+    {
+      "from": "Kingston Mines",
+      "relation": "named for",
+      "to": "Kingston Mines Theatre Company (1969)",
+      "evidence": "Wikipedia",
+      "track": "A"
+    },
+    {
+      "from": "Kingston Mines",
+      "relation": "moved across the street from / synergy with",
+      "to": "B.L.U.E.S. (1982)",
+      "evidence": "Chicago Bar Project",
+      "track": "A"
+    },
+    {
+      "from": "Green Mill",
+      "relation": "birthplace of",
+      "to": "the Uptown Poetry Slam (first slam July 25, 1986)",
+      "evidence": "Academy of American Poets",
+      "track": "A"
+    },
+    {
+      "from": "John Coltrane",
+      "relation": "recorded live at",
+      "to": "Sutherland Hotel Lounge (1961, dates disputed)",
+      "evidence": "Discogs; organissimo",
+      "track": "A"
+    },
+    {
+      "from": "Muddy Waters + Rolling Stones (Jagger, Richards, Wood)",
+      "relation": "recorded live at",
+      "to": "Checkerboard Lounge (Nov 22, 1981)",
+      "evidence": "On Air; Eric Alper",
+      "track": "A"
+    },
+    {
+      "from": "[Chance Records]",
+      "relation": "early recordings made at its Chicago studio; founder became financial backer",
+      "to": "[Vee-Jay Records]",
+      "evidence": "Wikipedia (Chance Records); blog.history.in.gov",
+      "track": "B"
+    },
+    {
+      "from": "[Ewart Abner]",
+      "relation": "manager → VP → president",
+      "to": "[Vee-Jay Records]",
+      "evidence": "Wikipedia (Vee-Jay Records); smithsonianmag.com",
+      "track": "B"
+    },
+    {
+      "from": "[Ewart Abner]",
+      "relation": "worked at before Vee-Jay",
+      "to": "[Chance Records]",
+      "evidence": "smithsonianmag.com",
+      "track": "B"
+    },
+    {
+      "from": "[Chess Records]",
+      "relation": "parent of",
+      "to": "[Checker Records]",
+      "evidence": "Wikipedia (Checker Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Chess Records]",
+      "relation": "parent of",
+      "to": "[Argo Records → Cadet Records]",
+      "evidence": "Wikipedia (Argo Records); Wikipedia (Cadet Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Chess Records]",
+      "relation": "acquired recordings from",
+      "to": "[Parrot Records]",
+      "evidence": "Wikipedia (Parrot Records — \"Several Parrot recordings were later released by Chess Records\")",
+      "track": "B"
+    },
+    {
+      "from": "[Vee-Jay Records]",
+      "relation": "former premises at 1449 S. Michigan taken over by",
+      "to": "[Dakar Records]",
+      "evidence": "pressbooks.library.yorku.ca (1968 eyewitness account)",
+      "track": "B"
+    },
+    {
+      "from": "[Carl Davis]",
+      "relation": "VP of A&R / producer",
+      "to": "[Brunswick Records (Chicago soul operation)]",
+      "evidence": "Wikipedia (Nat Tarnopol)",
+      "track": "B"
+    },
+    {
+      "from": "[Carl Davis]",
+      "relation": "founder",
+      "to": "[Dakar Records]",
+      "evidence": "Wikipedia (Brunswick Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Dakar Records]",
+      "relation": "distributed by (from Jan 1972)",
+      "to": "[Brunswick Records]",
+      "evidence": "Wikipedia (Brunswick Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Carl Davis]",
+      "relation": "founder",
+      "to": "[Chi-Sound Records]",
+      "evidence": "discogs.com",
+      "track": "B"
+    },
+    {
+      "from": "[Curtis Mayfield]",
+      "relation": "founder, with Eddie Thomas",
+      "to": "[Curtom Records]",
+      "evidence": "Wikipedia (Curtom Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Jerry Butler]",
+      "relation": "silent partner in Curtom Publishing, predecessor of",
+      "to": "[Curtom Records]",
+      "evidence": "thestrangebrew.co.uk",
+      "track": "B"
+    },
+    {
+      "from": "[Vee-Jay Records]",
+      "relation": "recorded early work for",
+      "to": "[Curtis Mayfield (with Jerry Butler/the Impressions)]",
+      "evidence": "premierguitar.com; WCMU/NPR",
+      "track": "B"
+    },
+    {
+      "from": "[Universal Music Group]",
+      "relation": "current catalog owner",
+      "to": "[Chess Records / Checker / Cadet / Argo]",
+      "evidence": "Wikipedia (Chess Records); Wikipedia (Checker Records); Wikipedia (Cadet Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Concord Music Group]",
+      "relation": "current catalog owner",
+      "to": "[Vee-Jay Records]",
+      "evidence": "Wikipedia (Vee-Jay Records); groovespin.com",
+      "track": "B"
+    },
+    {
+      "from": "[Warner Music Group]",
+      "relation": "listed parent/catalog holder",
+      "to": "[Curtom Records]",
+      "evidence": "Wikipedia (Curtom Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Willie Dixon's Blues Heaven Foundation]",
+      "relation": "current occupant of",
+      "to": "[2120 S. Michigan Avenue (former Chess)]",
+      "evidence": "Wikipedia (Chess Records)",
+      "track": "B"
+    },
+    {
+      "from": "[Chess brothers]",
+      "relation": "part owners of (radio track)",
+      "to": "[WVON-AM]",
+      "evidence": "timenote.info; Wikipedia (Chess Records)",
+      "track": "B"
+    },
+    {
+      "from": "Leonard Chess + Phil Chess",
+      "relation": "purchased WHFC-1450 and launched",
+      "to": "WVON (1963)",
+      "evidence": "Congressional Record; IL HR0201",
+      "track": "C"
+    },
+    {
+      "from": "Robert Williams",
+      "relation": "founded/owned",
+      "to": "The Warehouse (1977)",
+      "evidence": "City landmark report; city dedication release",
+      "track": "C"
+    },
+    {
+      "from": "Frankie Knuckles",
+      "relation": "resident DJ, 1977–1982",
+      "to": "The Warehouse",
+      "evidence": "City landmark report; SPIN",
+      "track": "C"
+    },
+    {
+      "from": "Frankie Knuckles",
+      "relation": "founded",
+      "to": "The Power Plant (1983)",
+      "evidence": "City landmark report; SPIN",
+      "track": "C"
+    },
+    {
+      "from": "Robert Williams",
+      "relation": "rebranded/reopened as",
+      "to": "The Music Box (1983)",
+      "evidence": "City landmark report; Warehouse history",
+      "track": "C"
+    },
+    {
+      "from": "Ron Hardy",
+      "relation": "resident DJ",
+      "to": "The Music Box",
+      "evidence": "Ron Hardy history; NME",
+      "track": "C"
+    },
+    {
+      "from": "Lee Michaels",
+      "relation": "assembled",
+      "to": "Hot Mix 5 (1981)",
+      "evidence": "Hot Mix 5 history",
+      "track": "C"
+    },
+    {
+      "from": "Hot Mix 5",
+      "relation": "resident mix-DJ team",
+      "to": "WBMX (\"Saturday Night Live, Ain't No Jive\")",
+      "evidence": "City landmark report; Hot Mix 5 history",
+      "track": "C"
+    },
+    {
+      "from": "Larry Sherman + Jesse Saunders (+ Vince Lawrence, design/signings)",
+      "relation": "founded",
+      "to": "Trax Records (1984)",
+      "evidence": "DJ Mag; GO BANG! (Cain interview)",
+      "track": "C"
+    },
+    {
+      "from": "Rocky Jones + Benji Espinoza",
+      "relation": "founded",
+      "to": "DJ International Records (1985)",
+      "evidence": "DJ Mag; DJI history",
+      "track": "C"
+    },
+    {
+      "from": "Pervis Spann + Wesley South",
+      "relation": "formed Midway Broadcasting; launched",
+      "to": "WXOL 1450 (1979)",
+      "evidence": "Congressional Record",
+      "track": "C"
+    },
+    {
+      "from": "Wesley South",
+      "relation": "co-owner; ordered 1986 talk-format flip",
+      "to": "WVON",
+      "evidence": "IL HR0201; Congressional Record",
+      "track": "C"
+    },
+    {
+      "from": "Frankie Knuckles + Larry Levan",
+      "relation": "DJ'd together at the Continental Baths, NYC",
+      "to": "SPIN",
+      "evidence": "2014",
+      "track": "C"
+    },
+    {
+      "from": "Jamie Principle",
+      "relation": "wrote/recorded \"Your Love\"; Knuckles reworked and released it",
+      "to": "both credited on Trax release",
+      "evidence": "LoC Registry notes; Insomniac",
+      "track": "C"
+    },
+    {
+      "from": "WVON",
+      "relation": "civil-rights communications platform for",
+      "to": "MLK, Elijah Muhammad, Jesse Jackson",
+      "evidence": "Congressional Record",
+      "track": "C"
+    },
+    {
+      "from": "WBMX (102.7 FM, 1974–1988)",
+      "relation": "became",
+      "to": "WVAZ \"V103\" (Oct 18, 1988)",
+      "evidence": "WVAZ history",
+      "track": "C"
+    },
+    {
+      "from": "Lu Palmer",
+      "relation": "journalist whose \"Lou's notebook\" spearheaded",
+      "to": "Harold Washington's 1983 mayoral campaign via WVON",
+      "evidence": "Congressional Record [Verified — include]",
+      "track": "C"
+    },
+    {
+      "from": "Don Cornelius",
+      "relation": "mentored by",
+      "to": "Herb Kent",
+      "evidence": "blackamericaweb/Ebony [secondary; corroborated by two obituaries — include as Verified]",
+      "track": "C"
+    },
+    {
+      "from": "Thomas A. Dorsey",
+      "relation": "choral director 1932–late 1970s",
+      "to": "Pilgrim Baptist Church",
+      "evidence": "Grammy.com; National Trust",
+      "track": "D"
+    },
+    {
+      "from": "Roberta Martin",
+      "relation": "pianist alongside Dorsey and Theodore Frye",
+      "to": "Ebenezer Baptist Church",
+      "evidence": "Smithsonian SOVA",
+      "track": "D"
+    },
+    {
+      "from": "Martin-Frye Quartet (1933)",
+      "relation": "same ensemble, renamed",
+      "to": "Roberta Martin Singers (1936)",
+      "evidence": "Smithsonian SOVA",
+      "track": "D"
+    },
+    {
+      "from": "Bessie Folk, Delois Barrett Campbell",
+      "relation": "joined mid-1940s",
+      "to": "Roberta Martin Singers",
+      "evidence": "Smithsonian SOVA",
+      "track": "D"
+    },
+    {
+      "from": "Sallie Martin",
+      "relation": "singer in his trio, then business partner marketing his songs and organizing his finances",
+      "to": "Thomas A. Dorsey",
+      "evidence": "Johns Hopkins Sheridan Libraries; Wikipedia",
+      "track": "D"
+    },
+    {
+      "from": "Sallie Martin",
+      "relation": "helped launch it",
+      "to": "Dorsey House of Music",
+      "evidence": "Johns Hopkins Sheridan Libraries",
+      "track": "D"
+    },
+    {
+      "from": "Sallie Martin",
+      "relation": "helped launch it",
+      "to": "NCGCC",
+      "evidence": "Johns Hopkins Sheridan Libraries; founding year disputed",
+      "track": "D"
+    },
+    {
+      "from": "Sallie Martin + Kenneth Morris",
+      "relation": "co-owners, founded 1940",
+      "to": "Martin and Morris Music Company",
+      "evidence": "Smithsonian SOVA",
+      "track": "D"
+    },
+    {
+      "from": "Kenneth Morris",
+      "relation": "six-year employee before 1940",
+      "to": "Lillian Bowles Music House",
+      "evidence": "Smithsonian SOVA",
+      "track": "D"
+    },
+    {
+      "from": "Necie Seaberry Morris",
+      "relation": "handled paperwork; ran the business after Morris's death until 1993",
+      "to": "Martin and Morris",
+      "evidence": "Smithsonian SOVA; Wikipedia",
+      "track": "D"
+    },
+    {
+      "from": "First Church of Deliverance",
+      "relation": "broadcast stations over the years",
+      "to": "WIND, WCFL, WLUP",
+      "evidence": "City of Chicago Landmark Report",
+      "track": "D"
+    },
+    {
+      "from": "First Church of Deliverance",
+      "relation": "Hammond organ introduced after the 1939 building move",
+      "to": "Kenneth Morris",
+      "evidence": "Hamilton eMuseum",
+      "track": "D"
+    },
+    {
+      "from": "Maxwell Street merchants",
+      "relation": "supplied electricity and extension cords enabling amplification",
+      "to": "musicians",
+      "evidence": "City of Chicago",
+      "track": "D"
+    },
+    {
+      "from": "Curtis Mayfield + Eddie Thomas",
+      "relation": "co-founders, 1968",
+      "to": "Curtom Records",
+      "evidence": "Under the Radar; Premier Guitar",
+      "track": "D"
+    },
+    {
+      "from": "Vivian Carter + James Bracken",
+      "relation": "founders, 1953",
+      "to": "Vee-Jay Records",
+      "evidence": "Illinois Public Media",
+      "track": "D"
+    },
+    {
+      "from": "Vivian Carter's record store",
+      "relation": "talent-contest-to-recording pipeline",
+      "to": "The Spaniels",
+      "evidence": "Indiana History Blog",
+      "track": "D"
+    },
+    {
+      "from": "No I.D. (Immenslope) + Twilite Tone",
+      "relation": "producers",
+      "to": "Common's *Can I Borrow a Dollar?*",
+      "evidence": "XXL; mediasurfer/AllMusic",
+      "track": "D"
+    },
+    {
+      "from": "The Legendary Traxster",
+      "relation": "producer",
+      "to": "Do or Die's \"Po Pimp\"",
+      "evidence": "Wikipedia; RapReviews",
+      "track": "D"
+    },
+    {
+      "from": "Twista + Johnny P",
+      "relation": "featured verse and vocals",
+      "to": "Do or Die's \"Po Pimp\"",
+      "evidence": "Wikipedia; RapReviews",
+      "track": "D"
+    },
+    {
+      "from": "Do or Die + Creator's Way Records",
+      "relation": "local independent release → national signing",
+      "to": "Rap-A-Lot Records",
+      "evidence": "Wikipedia",
+      "track": "D"
+    },
+    {
+      "from": "Paul Weisberg",
+      "relation": "owner; started the 1979 record pool",
+      "to": "Importes, Etc.",
+      "evidence": "RBMA Daily",
+      "track": "D"
+    },
+    {
+      "from": "Joe Dale + Carl Borowski",
+      "relation": "owners from 1978",
+      "to": "Gramaphone Records",
+      "evidence": "Gray Area; Resident Advisor",
+      "track": "D"
+    },
+    {
+      "from": "Sam Greenberg",
+      "relation": "founder, 1980",
+      "to": "Dr. Wax",
+      "evidence": "Chicago Record Store Project",
+      "track": "D"
+    },
+    {
+      "from": "Bob Koester",
+      "relation": "founder/owner; label operated beneath the store",
+      "to": "Jazz Record Mart + Delmark Records",
+      "evidence": "Delmark institutional history; JazzTimes",
+      "track": "D"
+    },
+    {
+      "from": "Aaron Rosenbloom",
+      "relation": "founder; James Rosenbloom → Rose Records: President/Co-Owner",
+      "to": "Rose Records",
+      "evidence": "Chicago Tribune obituary",
+      "track": "D"
+    }
+  ]
+}

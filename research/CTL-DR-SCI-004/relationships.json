@@ -1,0 +1,322 @@
+{
+ "project": "CTL-DR-SCI-004",
+ "relationship_count": 28,
+ "note": "Verified relationships only. Single-track secondary-only relationships excluded; see gaps.md.",
+ "relationships": [
+  {
+   "from": "Rev. William Decatur Cook",
+   "to": "Metropolitan Apostolic Community Church",
+   "relationship": "founded",
+   "evidence": "Cook, former pastor of Bethel AME, founded the Peoples Community Church of Christ/Metropolitan Community Center in 1920.",
+   "source": "Chicago Landmark Designation Report",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified",
+   "detail": "predecessor Metropolitan Community Church, 1920"
+  },
+  {
+   "from": "Rev. William Decatur Cook",
+   "to": "Bethel AME Church",
+   "relationship": "pastored",
+   "evidence": "Landmark report identifies Cook as 'the former pastor of Chicago's Bethel AME Church.'",
+   "source": "Chicago Landmark Designation Report",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified",
+   "detail": "prior to founding Metropolitan predecessor"
+  },
+  {
+   "from": "Rev. Junius C. Austin",
+   "to": "Pilgrim Baptist Church",
+   "relationship": "pastored",
+   "evidence": "Austin called to Pilgrim's pulpit after Rev. Watson; he hired Dorsey and liquidated the church's debt.",
+   "source": "Congressional Record vol. 159 (2013); NMAAHC",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Thomas A. Dorsey",
+   "to": "Pilgrim Baptist Church",
+   "relationship": "music-directed",
+   "evidence": "Organized the Pilgrim Gospel Chorus in 1931 (per Pilgrim history) / the 1930s (per NMAAHC) at Austin's request.",
+   "source": "Congressional Record vol. 159 (2013); NMAAHC",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Thomas A. Dorsey",
+   "to": "Ebenezer Missionary Baptist Church",
+   "relationship": "music-directed",
+   "evidence": "Co-led Ebenezer's first gospel choir (1931) with Theodore Frye and Roberta Martin.",
+   "source": "Chicago Landmark Designation Report (2011); Wikipedia",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Clay Evans",
+   "to": "Fellowship Missionary Baptist Church",
+   "relationship": "founded",
+   "evidence": "Founded 1950 (disputed vs. 1958) with five founding members.",
+   "source": "Congressional Record vol. 165 (2019); Wikipedia 'Clay Evans (pastor)'",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Clay Evans",
+   "to": "Rev. Jesse L. Jackson Sr.",
+   "relationship": "ordained",
+   "evidence": "Evans ordained Jackson in 1968 at Fellowship.",
+   "source": "Congressional Record vol. 165 (2019); Final Call (2019)",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Clay Evans",
+   "to": "Operation PUSH",
+   "relationship": "co-founded",
+   "evidence": "Evans and Jackson founded Operation PUSH in 1971; Evans was founding national board chairman.",
+   "source": "Congressional Record vol. 165 (2019)",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Quinn Chapel AME Church",
+   "to": "Provident Hospital of Chicago",
+   "relationship": "birthplace-of",
+   "evidence": "Congressional tribute states Provident was organized by Dr. Daniel Hale Williams in 1891 at Quinn Chapel; needs hospital-record corroboration.",
+   "source": "Congressional Record vol. 143 (c.1997)",
+   "corroborated_in_tracks": [
+    "a"
+   ],
+   "verification": "Verified",
+   "detail": "claimed"
+  },
+  {
+   "from": "Fellowship Missionary Baptist Church",
+   "to": "Martin Luther King Jr. / SCLC",
+   "relationship": "hosted",
+   "evidence": "King's only major address of fall 1965 delivered at Fellowship; Rev. Clay Evans welcomed King against City Hall pressure.",
+   "source": "Chicago Freedom Movement sites (Middlebury); Congressional Record Vol. 165 (2019)",
+   "corroborated_in_tracks": [
+    "b"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Quinn Chapel A.M.E. Church",
+   "to": "Provident Hospital",
+   "relationship": "birthplace of",
+   "evidence": "Hospital organized 1891 by Dr. Daniel Hale Williams with organizing centered at Quinn Chapel.",
+   "source": "Congressional Record Vol. 143 (1997)",
+   "corroborated_in_tracks": [
+    "b"
+   ],
+   "verification": "Verified",
+   "detail": "organizing site"
+  },
+  {
+   "from": "Rev. Clay Evans",
+   "to": "Fellowship Missionary Baptist Church",
+   "relationship": "founded / pastored",
+   "evidence": "founding National Board Chairman... Founding Pastor of the Fellowship Missionary Baptist Church",
+   "source": "Fellowship Chicago official site (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified",
+   "detail": "~50 years"
+  },
+  {
+   "from": "Rev. Clay Evans",
+   "to": "Operation PUSH / Rainbow PUSH Coalition",
+   "relationship": "founding national board chairman (1971-1976); chairman emeritus",
+   "evidence": "Founding National Board Chairman of the Rainbow (PUSH) Coalition... holding this position for five years (1971-1976)",
+   "source": "Fellowship Chicago official site (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Addie L. Wyatt",
+   "to": "Vernon Park Church of God",
+   "relationship": "copastor; co-founded with husband Claude Wyatt",
+   "evidence": "served as copastor of Vernon Park Church of God in Chicago, Illinois",
+   "source": "The HistoryMakers A2002_096 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Addie L. Wyatt",
+   "to": "Amalgamated Meat Cutters and Butcher Workmen of North America",
+   "relationship": "international vice president",
+   "evidence": "became the organization's first female international vice president",
+   "source": "The HistoryMakers A2002_096 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified",
+   "detail": "first African-American woman elected to the post"
+  },
+  {
+   "from": "Rev. Addie L. Wyatt",
+   "to": "President's Commission on the Status of Women",
+   "relationship": "appointed-to Labor Legislation Committee by Eleanor Roosevelt",
+   "evidence": "Eleanor Roosevelt appointed her to serve on the Labor Legislation Committee of the Commission on the Status of Women",
+   "source": "The HistoryMakers A2002_096 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Addie L. Wyatt",
+   "to": "Coalition of Labor Union Women",
+   "relationship": "co-founded (1974); delivered founding keynote",
+   "evidence": "In 1974, she helped found the Coalition of Labor Union Women and delivered the keynote address at the founding meeting",
+   "source": "The HistoryMakers A2002_096 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Dr. Willie T. Barrow",
+   "to": "Operation Breadbasket",
+   "relationship": "founding member (1960s) with Rev. Jesse Jackson",
+   "evidence": "among the founding members of Operation Breadbasket in Chicago",
+   "source": "The HistoryMakers A1999_001 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Rev. Dr. Willie T. Barrow",
+   "to": "Operation PUSH / Rainbow PUSH Coalition",
+   "relationship": "executive director (1984); later chairman of the board and CEO",
+   "evidence": "Barrow replaced Jackson as executive director of Operation PUSH in 1984 (Citizen Newspaper Group); As the chairman of the board and CEO (Congressional Record, 2015)",
+   "source": "Citizen Newspaper Group; Congressional Record, Senate Vol. 161 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Bishop Arthur M. Brazier",
+   "to": "Apostolic Church of God",
+   "relationship": "pastored (1960-2008); diocesan bishop, 6th Episcopal District, PAW",
+   "evidence": "served as diocesan bishop of the 6th Episcopal District of the Pentecostal Assemblies of the World, in addition to his work as pastor of the Chicago's Apostolic Church of God",
+   "source": "The HistoryMakers A2005_003 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Bishop Arthur M. Brazier",
+   "to": "The Woodlawn Organization",
+   "relationship": "founder and spokesman; later president",
+   "evidence": "became the spokesman for the Temporary Woodlawn Organization (TWO)... Brazier successfully led TWO against the expansion of the University of Chicago in 1963",
+   "source": "The HistoryMakers A2005_003 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Bishop Arthur M. Brazier",
+   "to": "Coordinating Council of Community Organizations",
+   "relationship": "co-founded with Bill Berry (Chicago Urban League); resigned 1965",
+   "evidence": "With Bill Berry of the Chicago Urban League, Brazier also formed the Coordinating Council of Community Organizations",
+   "source": "The HistoryMakers A2005_003 (primary)",
+   "corroborated_in_tracks": [
+    "c"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Thomas A. Dorsey",
+   "to": "Ebenezer Missionary Baptist Church",
+   "relationship": "directed-junior-choir-at",
+   "evidence": "Smithsonian NMAH Archives AC-0408.",
+   "source": "Smithsonian NMAH AC-0408",
+   "corroborated_in_tracks": [
+    "d"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Theodore Frye",
+   "to": "Ebenezer Missionary Baptist Church",
+   "relationship": "choir-of",
+   "evidence": "Smithsonian NMAH Archives AC-0408; southeastsun.com.",
+   "source": "Smithsonian NMAH AC-0408",
+   "corroborated_in_tracks": [
+    "d"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Roberta Martin",
+   "to": "Ebenezer Missionary Baptist Church",
+   "relationship": "pianist-for",
+   "evidence": "Smithsonian NMAH Archives AC-0408: 'Martin's first church position was as a pianist for the Young Peoples' Choir of Ebenezer Baptist Church.'",
+   "source": "Smithsonian NMAH AC-0408",
+   "corroborated_in_tracks": [
+    "d"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Roberta Martin",
+   "to": "Roberta Martin Singers",
+   "relationship": "founded",
+   "evidence": "Smithsonian NMAH Archives AC-0408: 'In 1933, with the help of Dorsey and Frye, Roberta Martin organized the Martin Frye Quartet.'",
+   "source": "Smithsonian NMAH AC-0408",
+   "corroborated_in_tracks": [
+    "d"
+   ],
+   "verification": "Verified",
+   "detail": "1933 Martin-Frye Quartet; renamed 1936"
+  },
+  {
+   "from": "Morning Star Baptist Church",
+   "to": "Roberta Martin Singers (via DeLois Barrett Campbell recruitment)",
+   "relationship": "choir-trained",
+   "evidence": "City of Chicago Landmark Report (Morning Star Baptist), citing Ebony 1988.",
+   "source": "City of Chicago Landmark Report",
+   "corroborated_in_tracks": [
+    "d"
+   ],
+   "verification": "Verified"
+  },
+  {
+   "from": "Church Mothers",
+   "to": "",
+   "relationship": "practiced-at",
+   "evidence": "Gilkes (1997) describes the Church Mother as consulted by the pastor on discipline and doctrine and as the congregation's moral exemplar, operating within small congregations' dual-sex political structure.",
+   "source": "Cheryl Townsend Gilkes, 'The Politics of Silence' (1997), via Vanderbilt dissertation excerpt",
+   "corroborated_in_tracks": [
+    "e"
+   ],
+   "verification": "Verified"
+  }
+ ]
+}

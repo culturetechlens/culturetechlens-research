@@ -1,0 +1,1093 @@
+{
+  "dossier_id": "CTL-RD-BIZ-000001",
+  "evidence_file": "CTL-EF-BIZ-000001",
+  "edge_count": 60,
+  "edges_by_grade": {
+    "VERIFIED": 46,
+    "PROVISIONAL": 2,
+    "SUPPORTED": 12
+  },
+  "verified_only_cleared": 46,
+  "edges": [
+    {
+      "edge_id": "RD-BIZ-000001-E001",
+      "subject": "canon-john-h-johnson",
+      "relationship": "founded",
+      "object": "canon-johnson-publishing-company",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Congressional Record vol.149; Johnson autobiography; CTL-DR-BPM-003",
+        "source_type": "secondary",
+        "source_date": "2003-10-02",
+        "evidence": "Founding November 1942 by John H. Johnson; BPM-003 claim co-jpc/founded_jhj Verified"
+      },
+      "date_range": {
+        "start": "1942-11",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E002",
+      "subject": "RD-BIZ-000001-002",
+      "relationship": "executive-of",
+      "object": "canon-johnson-publishing-company",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Delta Sigma Theta press release; Black Enterprise obituary",
+        "source_type": "institutional",
+        "source_date": "2010-01-08",
+        "evidence": "Eunice W. Johnson: JPC secretary-treasurer"
+      },
+      "date_range": {
+        "start": "1942",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E003",
+      "subject": "RD-BIZ-000001-002",
+      "relationship": "co-founded",
+      "object": "canon-johnson-publishing-company",
+      "grade": "PROVISIONAL",
+      "provenance": {
+        "source": "Black Enterprise obituary 2010-01-04",
+        "source_type": "secondary",
+        "source_date": "2010-01-04",
+        "evidence": "Obituary calls Eunice Johnson co-founder of JPC; no incorporation records located"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "Ledger C-005; evidence file record maps co-founder status as PROVISIONAL"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E004",
+      "subject": "RD-BIZ-000001-003",
+      "relationship": "ceo-of",
+      "object": "canon-johnson-publishing-company",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "CTL-DR-BPM-003 per-ljr; NPR 2016-06-19",
+        "source_type": "secondary",
+        "source_date": "2016-06-19",
+        "evidence": "Linda Johnson Rice: JPC CEO from 2002; last chairman/CEO"
+      },
+      "date_range": {
+        "start": "2002",
+        "end": "2019-04-09"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E005",
+      "subject": "RD-BIZ-000001-004",
+      "relationship": "ceo-of",
+      "object": "canon-johnson-publishing-company",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "chicagotalks.colum.edu 2012; spectacularmag.com 2019",
+        "source_type": "secondary",
+        "source_date": "2012",
+        "evidence": "Desiree Rogers named JPC CEO 2010-08-10; led with Linda Johnson Rice 2010-2017"
+      },
+      "date_range": {
+        "start": "2010",
+        "end": "2017"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E006",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "published",
+      "object": "RD-BIZ-000001-080",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Grolier Club exhibition (Vol.1 Nos.1-12, Nov 1942-Oct 1943, Negro Digest Publishing Co.)",
+        "source_type": "primary",
+        "source_date": "2016",
+        "evidence": "First JPC publication, masthead imprint"
+      },
+      "date_range": {
+        "start": "1942-11",
+        "end": "1976-04"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E007",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "published",
+      "object": "RD-BIZ-000001-081",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "ebony.com 75th anniversary; Congressional Record vol.149",
+        "source_type": "secondary",
+        "source_date": "2020",
+        "evidence": "Flagship monthly, first issue 1945-11-01"
+      },
+      "date_range": {
+        "start": "1945-11-01",
+        "end": "2016-06"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E008",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "published",
+      "object": "RD-BIZ-000001-082",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "ebony.com 75th anniversary; AP 2014-06",
+        "source_type": "secondary",
+        "source_date": "2014-06",
+        "evidence": "Weekly digest, first issue 1951-11-01"
+      },
+      "date_range": {
+        "start": "1951-11-01",
+        "end": "2016-06"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E009",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "published",
+      "object": "RD-BIZ-000001-083",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Wikipedia JPC publication list; Ohio University thesis 2021",
+        "source_type": "secondary",
+        "source_date": "2021",
+        "evidence": "Tan Confessions (Nov 1950) -> Tan (1952) -> Black Stars (to Jul 1981)"
+      },
+      "date_range": {
+        "start": "1950-11",
+        "end": "1981-07"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E010",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "published",
+      "object": "RD-BIZ-000001-084",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Wikipedia JPC publication list",
+        "source_type": "secondary",
+        "source_date": "2026",
+        "evidence": "Ebony Jr! (1973-1985), Ebony Man (1985-1998), Ebony South Africa (1995-2000), Hue, Copper Romance"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "Single tertiary source; SUPPORTED only"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E011",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "owned",
+      "object": "RD-BIZ-000001-090",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "essence.com; Delta Sigma Theta release 2010",
+        "source_type": "secondary",
+        "source_date": "2010",
+        "evidence": "Fashion Fair Cosmetics founded 1973 by Eunice W. Johnson; d.b.a. on 2019 bankruptcy petition"
+      },
+      "date_range": {
+        "start": "1973",
+        "end": "2019-11"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E012",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "operated",
+      "object": "RD-BIZ-000001-091",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "blackenterprise.com 2010-01-04; essence.com 2010",
+        "source_type": "secondary",
+        "source_date": "2010",
+        "evidence": "Ebony Fashion Fair 1958-2009; 200+ cities; $55M+ raised"
+      },
+      "date_range": {
+        "start": "1958",
+        "end": "2009"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E013",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "owned",
+      "object": "canon-wjpc",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "FundingUniverse; CTL-DR-BPM-003 red-team",
+        "source_type": "secondary",
+        "source_date": "2004",
+        "evidence": "Bought WGRT (WJPC) May 1973 for $1.8M; sold Dec 1994"
+      },
+      "date_range": {
+        "start": "1973-05",
+        "end": "1994-12"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E014",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "operated",
+      "object": "RD-BIZ-000001-092",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Congressional Record vol.149",
+        "source_type": "primary",
+        "source_date": "2003-10-02",
+        "evidence": "JPC book division published Before the Mayflower, Succeeding Against the Odds"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E015",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "operated",
+      "object": "RD-BIZ-000001-093",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "FundingUniverse; CTL-DR-ECON-001",
+        "source_type": "secondary",
+        "source_date": "2004",
+        "evidence": "Supreme Beauty Products, Mahogany Travel, EBCO International (51%, South Africa)"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E016",
+      "subject": "RD-BIZ-000001-010",
+      "relationship": "employed-by",
+      "object": "canon-johnson-publishing-company",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "swanngalleries.com 2014; CTL-DR-BPM-003",
+        "source_type": "secondary",
+        "source_date": "2014",
+        "evidence": "Moneta Sleet Jr.: staff photographer, Ebony 1955-1996"
+      },
+      "date_range": {
+        "start": "1955",
+        "end": "1996"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E017",
+      "subject": "RD-BIZ-000001-011",
+      "relationship": "employed-by",
+      "object": "canon-johnson-publishing-company",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "CTL-DR-BPM-003 per-djackson; LOC Civil Rights History Project",
+        "source_type": "secondary",
+        "source_date": "2007",
+        "evidence": "David Jackson: Jet staff photographer; Till photographs Sept 1955"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E018",
+      "subject": "RD-BIZ-000001-012",
+      "relationship": "employed-by",
+      "object": "canon-johnson-publishing-company",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Wikipedia (Moneta Sleet Jr.); Theaster Gates Black Image Corporation 2018",
+        "source_type": "secondary",
+        "source_date": "2018",
+        "evidence": "Isaac Sutton: 41-year staff photographer career at Ebony"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E019",
+      "subject": "RD-BIZ-000001-005",
+      "relationship": "founding-editor-of",
+      "object": "RD-BIZ-000001-081",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "CTL-DR-BPM-003; Manchester thesis 2021",
+        "source_type": "secondary",
+        "source_date": "2021",
+        "evidence": "Ben Burns: founding editor of Ebony (1945)"
+      },
+      "date_range": {
+        "start": "1945",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E020",
+      "subject": "RD-BIZ-000001-007",
+      "relationship": "executive-editor-of",
+      "object": "RD-BIZ-000001-081",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "ebony.com obit 2018; Manchester thesis 2021",
+        "source_type": "secondary",
+        "source_date": "2018",
+        "evidence": "Lerone Bennett Jr.: associate editor 1953, executive editor from 1958"
+      },
+      "date_range": {
+        "start": "1958",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E021",
+      "subject": "RD-BIZ-000001-008",
+      "relationship": "bureau-chief-of",
+      "object": "RD-BIZ-000001-082",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "LOC Civil Rights History Project (Booker oral history)",
+        "source_type": "primary",
+        "source_date": "2007",
+        "evidence": "Simeon Booker: Jet Washington bureau chief c.1954-2007"
+      },
+      "date_range": {
+        "start": "1954",
+        "end": "2007"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E022",
+      "subject": "RD-BIZ-000001-006",
+      "relationship": "editor-of",
+      "object": "RD-BIZ-000001-081",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "blackculturalevents.com; artrabbit.com",
+        "source_type": "secondary",
+        "source_date": "2020",
+        "evidence": "Era Bell Thompson: pioneering Black woman editor at Ebony (associate editor, then editor)"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E023",
+      "subject": "RD-BIZ-000001-009",
+      "relationship": "executive-editor-of",
+      "object": "RD-BIZ-000001-082",
+      "grade": "PROVISIONAL",
+      "provenance": {
+        "source": "Wikipedia (citing Jet obituary)",
+        "source_type": "secondary",
+        "source_date": "2018",
+        "evidence": "Robert E. Johnson: associate publisher/executive editor of Jet, joined Feb 1953; weak-source only"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "BPM-003 red-team downgrade; do not publish until re-sourced"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E024",
+      "subject": "RD-BIZ-000001-002",
+      "relationship": "spouse-of",
+      "object": "canon-john-h-johnson",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Encyclopedia.com; AP obituary",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Married June 21, 1941, Selma, Alabama"
+      },
+      "date_range": {
+        "start": "1941-06-21",
+        "end": "2010-01-03"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E025",
+      "subject": "RD-BIZ-000001-002",
+      "relationship": "named",
+      "object": "RD-BIZ-000001-081",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Black Enterprise obit 2010; Delta Sigma Theta 2010",
+        "source_type": "secondary",
+        "source_date": "2010",
+        "evidence": "Eunice Johnson named Ebony 'thinking of the dark wood'"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E026",
+      "subject": "RD-BIZ-000001-002",
+      "relationship": "founded",
+      "object": "RD-BIZ-000001-090",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "essence.com; blackenterprise.com 2010",
+        "source_type": "secondary",
+        "source_date": "2010",
+        "evidence": "Founded Fashion Fair Cosmetics 1973 - first national prestige makeup line for Black women"
+      },
+      "date_range": {
+        "start": "1973",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E027",
+      "subject": "RD-BIZ-000001-002",
+      "relationship": "created",
+      "object": "RD-BIZ-000001-091",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Delta Sigma Theta release 2010; blackenterprise.com",
+        "source_type": "secondary",
+        "source_date": "2010",
+        "evidence": "Created the Ebony Fashion Fair (1958); produced/directed from 1961"
+      },
+      "date_range": {
+        "start": "1958",
+        "end": "2009"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E028",
+      "subject": "RD-BIZ-000001-003",
+      "relationship": "daughter-of",
+      "object": "canon-john-h-johnson",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Encyclopedia.com; AP obituary",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Daughter of John H. and Eunice Johnson"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E029",
+      "subject": "RD-BIZ-000001-003",
+      "relationship": "daughter-of",
+      "object": "RD-BIZ-000001-002",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Encyclopedia.com; AP obituary",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Daughter of John H. and Eunice Johnson"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E030",
+      "subject": "RD-BIZ-000001-050",
+      "relationship": "advertised-in",
+      "object": "RD-BIZ-000001-081",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Manchester thesis 2021; Congressional Record vol.149",
+        "source_type": "secondary",
+        "source_date": "2003-10-02",
+        "evidence": "Zenith signed first major advertising contract in 1947"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "first major advertising contract (1947)"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E031",
+      "subject": "RD-BIZ-000001-051",
+      "relationship": "advertised-in",
+      "object": "RD-BIZ-000001-081",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Congressional Record vol.149",
+        "source_type": "secondary",
+        "source_date": "2003-10-02",
+        "evidence": "Chrysler signed as advertiser in 1954"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "advertiser from 1954"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E032",
+      "subject": "RD-BIZ-000001-052",
+      "relationship": "advertised-in",
+      "object": "RD-BIZ-000001-081",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Stephen Hicks/Forbes reprint (via landscape)",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Chesterfield ran first full-color ads in a Black magazine"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "first full-color ads in a Black magazine"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E033",
+      "subject": "RD-BIZ-000001-053",
+      "relationship": "advertised-in",
+      "object": "RD-BIZ-000001-081",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Stephen Hicks/Forbes reprint",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Among major brands advertising in Ebony by 1948"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "advertiser by 1948"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E034",
+      "subject": "RD-BIZ-000001-054",
+      "relationship": "advertised-in",
+      "object": "RD-BIZ-000001-081",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Stephen Hicks/Forbes reprint",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Among major brands advertising in Ebony by 1948"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "advertiser by 1948"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E035",
+      "subject": "RD-BIZ-000001-055",
+      "relationship": "advertised-in",
+      "object": "RD-BIZ-000001-081",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "Stephen Hicks/Forbes reprint",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Among major brands advertising in Ebony by 1948"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "advertiser by 1948"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E036",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "targeted",
+      "object": "RD-BIZ-000001-100",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Congressional Record vol.149; CTL-DR-ECON-001",
+        "source_type": "secondary",
+        "source_date": "2003-10-02",
+        "evidence": "JPC demonstrated the Black consumer market to white corporate advertisers ('$15 billion... ripe and ready' - Ad Age 1952)"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E037",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "employed-models",
+      "object": "RD-BIZ-000001-102",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "CTL-DR-BPM-003; CTL-DR-ECON-001",
+        "source_type": "secondary",
+        "source_date": "2026-09-28",
+        "evidence": "JPC insisted advertisements feature Black models; Ebony Fashion Fair casts"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "Object: Black models in JPC ads/Fashion Fair (group; no individual IDs asserted)"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E038",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "headquartered-at",
+      "object": "RD-BIZ-000001-060",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Chicago Landmark Designation Report",
+        "source_type": "primary",
+        "source_date": "2017",
+        "evidence": "First HQ inside Supreme Life Building, 3501 S. Parkway, 1942-43"
+      },
+      "date_range": {
+        "start": "1942",
+        "end": "1943"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E039",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "headquartered-at",
+      "object": "RD-BIZ-000001-061",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Chicago Landmark Designation Report",
+        "source_type": "primary",
+        "source_date": "2017",
+        "evidence": "Purchased 5619 S. State St. 1943; HQ to 1949"
+      },
+      "date_range": {
+        "start": "1943",
+        "end": "1949"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E040",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "headquartered-at",
+      "object": "RD-BIZ-000001-062",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Chicago Landmark Designation Report",
+        "source_type": "primary",
+        "source_date": "2017",
+        "evidence": "1820 S. Michigan (former Hursen Funeral Home), HQ 1949-1971"
+      },
+      "date_range": {
+        "start": "1949",
+        "end": "1971"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E041",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "headquartered-at",
+      "object": "RD-BIZ-000001-063",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Preservation Chicago; Chicago Landmark Designation Report",
+        "source_type": "primary",
+        "source_date": "2017",
+        "evidence": "Purpose-built 11-story HQ, Dec 1971-2011; Moutoussamy"
+      },
+      "date_range": {
+        "start": "1971-12",
+        "end": "2011-01"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E042",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "headquartered-at",
+      "object": "RD-BIZ-000001-064",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "Bankruptcy petition Case 19-10236",
+        "source_type": "primary",
+        "source_date": "2019-04-09",
+        "evidence": "Final principal place of business: 200 S. Michigan Ave., Suite 900"
+      },
+      "date_range": {
+        "start": "2011",
+        "end": "2019-04-09"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E043",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "based-in",
+      "object": "RD-BIZ-000001-065",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "All sources",
+        "source_type": "secondary",
+        "source_date": "2026-09-28",
+        "evidence": "Chicago-based throughout, 1942-2019"
+      },
+      "date_range": {
+        "start": "1942",
+        "end": "2019"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E044",
+      "subject": "RD-BIZ-000001-082",
+      "relationship": "documented",
+      "object": "RD-BIZ-000001-101",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "LOC Civil Rights History Project; CTL-DR-BPM-003",
+        "source_type": "primary",
+        "source_date": "2007",
+        "evidence": "Jet's Sept 1955 Till photographs catalyzed national attention"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E045",
+      "subject": "RD-BIZ-000001-081",
+      "relationship": "documented",
+      "object": "RD-BIZ-000001-101",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "CTL-DR-BPM-003; Swann Galleries 2014",
+        "source_type": "secondary",
+        "source_date": "2014",
+        "evidence": "MLK 'Advice for Living' column 1957-58; Sleet's 13-year King coverage"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E046",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "influenced",
+      "object": "RD-BIZ-000001-100",
+      "grade": "SUPPORTED",
+      "provenance": {
+        "source": "CTL-DR-ECON-001; Congressional Record vol.149",
+        "source_type": "secondary",
+        "source_date": "2003-10-02",
+        "evidence": "JPC set the industry precedent for national brand advertising in Black publications"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E047",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "sold-publications-to",
+      "object": "RD-BIZ-000001-020",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "NPR 2016-06-19",
+        "source_type": "secondary",
+        "source_date": "2016-06-19",
+        "evidence": "Ebony and Jet sold to Clear View Group; JPC retained Fashion Fair and archive; price undisclosed"
+      },
+      "date_range": {
+        "start": "2016-06",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E048",
+      "subject": "RD-BIZ-000001-020",
+      "relationship": "created",
+      "object": "RD-BIZ-000001-021",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "NPR 2016-06-19; CJR 2019",
+        "source_type": "secondary",
+        "source_date": "2016-06-19",
+        "evidence": "Clear View Group created Ebony Media Corp as new publisher"
+      },
+      "date_range": {
+        "start": "2016-06",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E049",
+      "subject": "RD-BIZ-000001-081",
+      "relationship": "acquired-by",
+      "object": "RD-BIZ-000001-022",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "CTL-DR-BPM-003; NPR",
+        "source_type": "secondary",
+        "source_date": "2020-12",
+        "evidence": "Ebony assets bought by Bridgeman Sports and Media for $14M; relaunched Mar 2021"
+      },
+      "date_range": {
+        "start": "2020-12",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E050",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "sold-assets-to",
+      "object": "RD-BIZ-000001-036",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "NPR 2010; CTL-DR-BPM-003 red-team",
+        "source_type": "secondary",
+        "source_date": "2010",
+        "evidence": "820 S. Michigan sold to Columbia College Chicago (sale 2010, closed Jan 2011)"
+      },
+      "date_range": {
+        "start": "2010",
+        "end": "2011-01"
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E051",
+      "subject": "canon-johnson-publishing-company",
+      "relationship": "archived-at",
+      "object": "RD-BIZ-000001-070",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "pulitzer.org 2019-07-25; theartnewspaper.com 2022-08-01",
+        "source_type": "secondary",
+        "source_date": "2019-07-25",
+        "evidence": "JPC's photographic/audiovisual archive; separate entity from the company (audit near-miss rule)"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": "The organization is NOT the archive; this edge links them"
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E052",
+      "subject": "RD-BIZ-000001-030",
+      "relationship": "acquired",
+      "object": "RD-BIZ-000001-070",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "pulitzer.org 2019-07-25",
+        "source_type": "secondary",
+        "source_date": "2019-07-25",
+        "evidence": "Ford Foundation: consortium member in the July 2019 $30M bankruptcy-auction purchase of the JPC Archive"
+      },
+      "date_range": {
+        "start": "2019-07",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E053",
+      "subject": "RD-BIZ-000001-031",
+      "relationship": "acquired",
+      "object": "RD-BIZ-000001-070",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "pulitzer.org 2019-07-25",
+        "source_type": "secondary",
+        "source_date": "2019-07-25",
+        "evidence": "J. Paul Getty Trust: consortium member in the July 2019 $30M bankruptcy-auction purchase of the JPC Archive"
+      },
+      "date_range": {
+        "start": "2019-07",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E054",
+      "subject": "RD-BIZ-000001-032",
+      "relationship": "acquired",
+      "object": "RD-BIZ-000001-070",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "pulitzer.org 2019-07-25",
+        "source_type": "secondary",
+        "source_date": "2019-07-25",
+        "evidence": "MacArthur Foundation: consortium member in the July 2019 $30M bankruptcy-auction purchase of the JPC Archive"
+      },
+      "date_range": {
+        "start": "2019-07",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E055",
+      "subject": "RD-BIZ-000001-033",
+      "relationship": "acquired",
+      "object": "RD-BIZ-000001-070",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "pulitzer.org 2019-07-25",
+        "source_type": "secondary",
+        "source_date": "2019-07-25",
+        "evidence": "Mellon Foundation: consortium member in the July 2019 $30M bankruptcy-auction purchase of the JPC Archive"
+      },
+      "date_range": {
+        "start": "2019-07",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E056",
+      "subject": "RD-BIZ-000001-070",
+      "relationship": "owned-by",
+      "object": "RD-BIZ-000001-034",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "theartnewspaper.com 2022-08-01",
+        "source_type": "secondary",
+        "source_date": "2022-08-01",
+        "evidence": "Joint ownership with Getty Research Institute from July 28, 2022"
+      },
+      "date_range": {
+        "start": "2022-07-28",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E057",
+      "subject": "RD-BIZ-000001-070",
+      "relationship": "owned-by",
+      "object": "RD-BIZ-000001-035",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "theartnewspaper.com 2022-08-01",
+        "source_type": "secondary",
+        "source_date": "2022-08-01",
+        "evidence": "Joint ownership with NMAAHC from July 28, 2022"
+      },
+      "date_range": {
+        "start": "2022-07-28",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E058",
+      "subject": "RD-BIZ-000001-070",
+      "relationship": "housed-at",
+      "object": "RD-BIZ-000001-034",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "theartnewspaper.com 2022-08-01",
+        "source_type": "secondary",
+        "source_date": "2022-08-01",
+        "evidence": "Archive physically housed at the NMAAHC, Washington, DC"
+      },
+      "date_range": {
+        "start": null,
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E059",
+      "subject": "RD-BIZ-000001-090",
+      "relationship": "acquired-by",
+      "object": "RD-BIZ-000001-041",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "essence.com; newblackvoices.nyc (Hollywood Reporter)",
+        "source_type": "secondary",
+        "source_date": "2019-11",
+        "evidence": "Fashion Fair Cosmetics sold out of bankruptcy to Cheryl Mayberry McKissack + Desiree Rogers for $1.85M"
+      },
+      "date_range": {
+        "start": "2019-11",
+        "end": null
+      },
+      "notes": ""
+    },
+    {
+      "edge_id": "RD-BIZ-000001-E060",
+      "subject": "canon-john-h-johnson",
+      "relationship": "employed-by",
+      "object": "canon-supreme-life-insurance",
+      "grade": "VERIFIED",
+      "provenance": {
+        "source": "notablebiographies.com; AP obituary 2005",
+        "source_type": "secondary",
+        "source_date": "2005",
+        "evidence": "Office assistant and in-house magazine editor at Supreme Liberty Life, 1936-1943"
+      },
+      "date_range": {
+        "start": "1936",
+        "end": "1943"
+      },
+      "notes": ""
+    }
+  ]
+}

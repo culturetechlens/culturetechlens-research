@@ -1,0 +1,2506 @@
+{
+  "compiled": "2026-09-28",
+  "entities": [
+    {
+      "dates": {
+        "end": null,
+        "note": "Founding day disputed: May 5 vs May 6, 1905; May 5 favored",
+        "start": "1905-05-05"
+      },
+      "id": "pub-defender",
+      "key_claims": [
+        {
+          "claim": "First issue published May 5, 1905, from Robert S. Abbott's landlord's kitchen (Bedford Davie's residence), 300 copies hand-distributed by Abbott",
+          "evidence": "Defender's own history; BlackPast; multiple secondary sources; title records",
+          "source": "chicagodefender.com; BlackPast.org",
+          "source_type": "institutional",
+          "status": "Verified",
+          "uncertainty": "Day disputed (May 5 vs May 6); May 5 favored by institutional sources",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H2: corpus position is \"May 5, 1905 (BlackPast gives May 6)\" — dispute must be footnoted everywhere the date appears."
+          ]
+        },
+        {
+          "claim": "Deliberate Great Migration campaign: 'Great Northern Drive' declared May 15, 1917; job listings, train schedules, editorials urging Southern departure",
+          "evidence": "Defender's own centennial history; Smithsonian exhibits; PBS; Congressional Record",
+          "source": "chicagodefender.com; Smithsonian NMAAHC; PBS",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Pullman porters distributed the Defender across the South despite local bans",
+          "evidence": "NMAAHC museum records; Rep. Rush floor speech; Defender history",
+          "source": "Smithsonian NMAAHC; Congressional Record",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Peak circulation ~250,000 copies (1929); two-thirds of readers outside Chicago by WWI; each copy read by an estimated 4-5 people",
+          "evidence": "Historian consensus; Ottley biography; multiple histories",
+          "source": "Multiple secondary histories",
+          "source_type": "secondary",
+          "status": "Verified",
+          "uncertainty": "'500,000 circulation' claim conflates copies with readership; rejected"
+        },
+        {
+          "claim": "Became daily newspaper February 6, 1956 under John H. Sengstacke",
+          "evidence": "Chicago Tribune contemporaneous coverage; BlackPast; Sengstacke biography",
+          "source": "Chicago Tribune (1956); BlackPast.org",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Reverted from daily to weekly in February 2008 (moved to Wednesday weekly publication Feb. 13, 2008, after cutting from five-day to four-day ~2006)",
+          "evidence": "E&P contemporary report (Mark Fitzgerald, Feb 2008); Smithsonian (2019); ndinsider (2019)",
+          "source": "Contemporary press coverage",
+          "source_type": "journalism",
+          "status": "Verified",
+          "uncertainty": "Wikipedia's '2003' is wrong"
+        },
+        {
+          "claim": "Final print edition July 10, 2019; digital-only thereafter",
+          "evidence": "Defender announcement; press coverage",
+          "source": "chicagodefender.com",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Circulation collapsed from ~257,000 (1945) to 33,000 (1970)",
+          "evidence": "CJR 2025 analysis",
+          "source": "Columbia Journalism Review",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "First Black paper to reach 100,000 circulation",
+          "evidence": "Track E chain (UW-Madison/ProQuest holdings, Congressional Record context)",
+          "source": "Track E research",
+          "source_type": "secondary",
+          "status": "Verified",
+          "uncertainty": "Archival-survival caveat: competitors' records are largely lost; 'first verifiable' is the precise reading"
+        }
+      ],
+      "name": "Chicago Defender",
+      "role": "Chicago's flagship Black newspaper; national weekly 1905-1956, daily 1956-2008, weekly 2008-2019, digital-only from July 2019",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1946 or 1947",
+        "note": "Founding and closure years disputed",
+        "start": "1925 or 1926"
+      },
+      "id": "pub-bee",
+      "key_claims": [
+        {
+          "claim": "Founded by Anthony Overton; first issue 1925 or 1926; named after his earlier Half-Century Magazine's 'Bee' section",
+          "evidence": "Multiple secondary sources; LOC records",
+          "source": "LOC; multiple secondary",
+          "source_type": "secondary",
+          "status": "Disputed",
+          "uncertainty": "1925 vs 1926 founding; evidence leans 1926 but unresolved"
+        },
+        {
+          "claim": "Targeted the Black middle class; characterized as conservative/accommodationist by some sources, but one source chain calls its line 'support of liberal causes' - political orientation needs primary-issue evidence",
+          "evidence": "Encyclopedia of Chicago; multiple histories",
+          "source": "Encyclopedia of Chicago",
+          "source_type": "secondary",
+          "status": "Disputed",
+          "uncertainty": "Sources contradict on political orientation; surviving 1938-46 issues could fix the later period"
+        },
+        {
+          "claim": "Olive M. Diggs managing editor 1932-1946; staff was largely women",
+          "evidence": "Multiple biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Closed 1946 or 1947",
+          "evidence": "Conflicting secondary sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Disputed",
+          "uncertainty": "1946 vs 1947; unresolved"
+        },
+        {
+          "claim": "Run largely lost: only 12 issues digitized (UIUC, 1938-1946); 1925-1935 nearly absent",
+          "evidence": "UIUC digital collections; Track B survey",
+          "source": "UIUC",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago Bee",
+      "role": "Middle-class, conservative Black weekly rival to the Defender; largely female editorial staff",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1939",
+        "note": "Last surviving issue 1927; closure year from title records",
+        "start": "1919-06-28"
+      },
+      "id": "pub-whip",
+      "key_claims": [
+        {
+          "claim": "Founded June 28, 1919 by William C. Linton; first issue that date",
+          "evidence": "LOC title record; Chronicling America run",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ran the 'Don't Spend Your Money Where You Can't Work' campaign targeting white-owned businesses in Black neighborhoods",
+          "evidence": "Multiple histories; Defender rivalry coverage",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Joseph D. Bibb succeeded Linton as editor after Linton's death (1922)",
+          "evidence": "Multiple biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ida B. Wells-Barnett contributed to the Whip in her later years",
+          "evidence": "Multiple biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ceased publication 1939; last known surviving issue 1927",
+          "evidence": "Title records; Chronicling America holdings",
+          "source": "LOC; Chronicling America",
+          "source_type": "primary",
+          "status": "Verified",
+          "uncertainty": "1932-1939 tail has no digitized holdings; do not assert 1939 without holdings evidence (red-team)"
+        },
+        {
+          "claim": "Full run digitized through Chronicling America / UIUC",
+          "evidence": "Chronicling America holdings",
+          "source": "Library of Congress",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Claim that the Whip was 'founded in 1933 by John H. Johnson' is false",
+          "evidence": "1919 LOC title record contradicts it",
+          "source": "LOC vs one web source",
+          "source_type": "primary",
+          "status": "Verified",
+          "uncertainty": "Disproved fabrication; included as corrupted-web-memory specimen"
+        }
+      ],
+      "name": "The Chicago Whip",
+      "role": "Militant weekly; 'Don't Spend Your Money Where You Can't Work' jobs campaign; Defender rival",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1931",
+        "note": "Moved to Chicago 1899; closure 1931 from title records",
+        "start": "1895"
+      },
+      "id": "pub-broadax",
+      "key_claims": [
+        {
+          "claim": "Founded by Julius F. Taylor in Salt Lake City (1895); moved to Chicago 1899",
+          "evidence": "LOC title record; Encyclopedia of Chicago",
+          "source": "LOC",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Militant editorial stance; opposed Booker T. Washington's accommodationism",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ceased publication 1931",
+          "evidence": "Title records",
+          "source": "LOC",
+          "source_type": "primary",
+          "status": "Verified",
+          "uncertainty": "Last surviving issue Sept 10, 1927; 1931 date leans on Taylor's Defender obituary - thin"
+        },
+        {
+          "claim": "Digitized in Chronicling America",
+          "evidence": "LOC holdings",
+          "source": "Library of Congress",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "The Broad Ax",
+      "role": "Militant weekly; anti-Booker T. Washington line; pre-Defender Black press anchor",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1914",
+        "start": "1878"
+      },
+      "id": "pub-conservator",
+      "key_claims": [
+        {
+          "claim": "Founded 1878 by Ferdinand Lee Barnett; Chicago's first Black newspaper",
+          "evidence": "Encyclopedia of Chicago; multiple histories",
+          "source": "Encyclopedia of Chicago",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ida B. Wells part-owner and editor 1895-1897",
+          "evidence": "Wells biographies; multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ceased publication 1914",
+          "evidence": "Title records",
+          "source": "LOC",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago Conservator",
+      "role": "Chicago's first Black newspaper; founded by Ferdinand Lee Barnett",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1953",
+        "note": "As Chicago Enterprise 1918-1928; Chicago World 1928-1953",
+        "start": "1918"
+      },
+      "id": "pub-world",
+      "key_claims": [
+        {
+          "claim": "Founded 1918 by Jacob R. Tipper as the Chicago Enterprise; renamed Chicago World in 1928",
+          "evidence": "LOC title records; histories",
+          "source": "LOC",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Fay M. Jackson served as editor; paper emphasized civic and political coverage",
+          "evidence": "Biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ceased publication 1953",
+          "evidence": "Title records",
+          "source": "LOC",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago World (Chicago Enterprise)",
+      "role": "Black weekly founded by Jacob R. Tipper; later edited by Fay M. Jackson",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "1940"
+      },
+      "id": "pub-crusader",
+      "key_claims": [
+        {
+          "claim": "Founded 1940 by Balm L. Leavell and Joseph H. Jefferson",
+          "evidence": "Illinois Secretary of State; USPS records; NNPA",
+          "source": "IL SoS; USPS",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Dorothy R. Leavell succeeded as publisher; served as NNPA president",
+          "evidence": "NNPA; multiple sources",
+          "source": "NNPA",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Still publishing as of research date",
+          "evidence": "Active publication records",
+          "source": "Crusader site/records",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago Crusader",
+      "role": "Longest-running Chicago Black weekly still in print; founded by Balm L. Leavell and Joseph H. Jefferson",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "1965"
+      },
+      "id": "pub-citizen",
+      "key_claims": [
+        {
+          "claim": "Founded 1965 by Gus Savage as the South End Citizen",
+          "evidence": "Multiple secondary sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Grew into a chain of South Side community papers",
+          "evidence": "Publication records",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago Citizen chain",
+      "role": "South Side community newspaper chain founded by Gus Savage",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "1989"
+      },
+      "id": "pub-ndigo",
+      "key_claims": [
+        {
+          "claim": "Founded 1989 by Hermene Hartman",
+          "evidence": "Publication records; Hartman biography",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "N'DIGO",
+      "role": "Black lifestyle/culture magazine founded by Hermene Hartman",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "2013",
+        "start": "1993"
+      },
+      "id": "pub-ssj",
+      "key_claims": [
+        {
+          "claim": "Founded 1993 by Ron Carter; ceased 2013",
+          "evidence": "Publication records",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "South Street Journal",
+      "role": "South Side community paper founded by Ron Carter",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1976",
+        "note": "1942-1951; revived 1961; renamed Black World May 1970; terminated 1976",
+        "start": "1942-11-01"
+      },
+      "id": "pub-negro-digest",
+      "key_claims": [
+        {
+          "claim": "First published November 1, 1942; financed by ~3,000 $2 charter subscriptions mailed to ~20,000 Supreme Life policyholders",
+          "evidence": "aaregistry.org; JPC histories",
+          "source": "African American Registry",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Reached 50,000/month circulation by mid-1943",
+          "evidence": "aaregistry.org; Black Enterprise",
+          "source": "African American Registry",
+          "source_type": "secondary",
+          "status": "Verified",
+          "uncertainty": "Exact timing (mid-1943 vs within 8 months) varies"
+        },
+        {
+          "claim": "Ben Burns founding (and only white) editor 1942-1954; fired by Johnson 1954",
+          "evidence": "Medill Hall of Achievement; Burns memoir",
+          "source": "Northwestern Medill",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Revived 1961 under Hoyt W. Fuller; renamed Black World May 1970; terminated by Johnson 1976",
+          "evidence": "Fenderson (U. of Illinois Press, 2019); multiple sources",
+          "source": "Jonathan Fenderson",
+          "source_type": "scholarly",
+          "status": "Verified"
+        }
+      ],
+      "name": "Negro Digest / Black World",
+      "role": "JPC's first magazine (1942); later the Black Arts Movement's leading journal under Hoyt Fuller",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "JPC era 1945-2016; sold to Clear View 2016; print ended 2019; relaunched under Bridgeman 2021",
+        "start": "1945-11-01"
+      },
+      "id": "pub-ebony",
+      "key_claims": [
+        {
+          "claim": "First issue November 1, 1945; initial press run 25,000 copies sold out; second 25,000 printed",
+          "evidence": "ebony.com 75th anniversary (quoting Johnson autobiography); history.com; Congressional Record",
+          "source": "ebony.com; history.com",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Patterned on Life/Look; focused on positive portrayals of Black achievement",
+          "evidence": "Johnson autobiography; multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Name chosen by Johnson's wife Eunice Walker Johnson, 'thinking of the dark wood'",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Peak circulation ~2.3M (1985); 1.6M per 2005 AP obituary; '9 million subscribers' claim rejected as inflated",
+          "evidence": "AP 2005 obituary; multiple sources",
+          "source": "Associated Press",
+          "source_type": "journalism",
+          "status": "Verified",
+          "uncertainty": "9M figure conflates circulation with pass-along readership"
+        },
+        {
+          "claim": "Published MLK's 'Advice for Living' column 1957-1958",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Sold to Clear View Group June 2016; print ended 2019; assets bought by Bridgeman Sports and Media Dec 2020 ($14M); relaunched March 2021",
+          "evidence": "NPR 2021; Moguldom",
+          "source": "NPR",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Ebony",
+      "role": "Flagship Black general-interest picture magazine; national cultural institution",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Print ended June 2014; digital thereafter; sold 2016/2020 with Ebony",
+        "start": "1951-11-01"
+      },
+      "id": "pub-jet",
+      "key_claims": [
+        {
+          "claim": "Launched November 1, 1951 as pocket-size weekly news digest",
+          "evidence": "ebony.com 75th; AP 2014",
+          "source": "ebony.com; AP",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "David Jackson's Emmett Till open-casket photographs published in Jet, September 1955 (Sept 15 favored over Sept 22); issue reprinted - first Jet reprint ever",
+          "evidence": "LOC Civil Rights History Project (Booker oral history); multiple sources",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified",
+          "uncertainty": "Issue date Sept 15 vs Sept 22; Sept 15 favored by better-attested sources"
+        },
+        {
+          "claim": "Reporter Simeon Booker covered the Till story; Washington bureau chief ~1954-2007",
+          "evidence": "LOC oral history; NYT obituary via journal-isms",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Print edition ended June 2014 (announced May 7, 2014), moved to digital; rate base ~700,000",
+          "evidence": "AP; JPC press release",
+          "source": "Associated Press",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Jet",
+      "role": "Pocket-size weekly Black news digest; 'the Negro Bible'",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1925",
+        "note": "End date disputed",
+        "start": "1916"
+      },
+      "id": "pub-halfcentury",
+      "key_claims": [
+        {
+          "claim": "Founded 1916 by Anthony Overton; Black lifestyle magazine",
+          "evidence": "Multiple histories; LOC records",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ceased ~1925; its 'Bee' section name carried into the Chicago Bee",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Provisional",
+          "uncertainty": "End date disputed"
+        }
+      ],
+      "name": "Half-Century Magazine",
+      "role": "Anthony Overton's Black lifestyle magazine; predecessor to the Chicago Bee",
+      "status": "Verified",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "c.1933",
+        "note": "Dates approximate",
+        "start": "c.1929"
+      },
+      "id": "pub-abbotts-monthly",
+      "key_claims": [
+        {
+          "claim": "Abbott launched a magazine, Abbott's Monthly, around 1929-1933",
+          "evidence": "Single/weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional",
+          "uncertainty": "Dates and details lightly sourced"
+        }
+      ],
+      "name": "Abbott's Monthly",
+      "role": "Robert S. Abbott's short-lived magazine venture",
+      "status": "Provisional",
+      "type": "publication"
+    },
+    {
+      "dates": {
+        "end": "1964 or 1967",
+        "note": "Launch: March 2 vs March 21, 1919; closure: 1964 vs 1967 - both disputed",
+        "start": "1919"
+      },
+      "id": "svc-anp",
+      "key_claims": [
+        {
+          "claim": "Founded 1919 by Claude A. Barnett in Chicago",
+          "evidence": "Barnett Papers (CHM); multiple histories",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified",
+          "uncertainty": "Exact launch day disputed (March 2 vs March 21, 1919)"
+        },
+        {
+          "claim": "Charter member papers included the Baltimore Afro-American, New York Amsterdam News, and Norfolk Journal and Guide",
+          "evidence": "Lawrence Hogan (historian of Black press)",
+          "source": "Lawrence Hogan (scholarly)",
+          "source_type": "scholarly",
+          "status": "Verified"
+        },
+        {
+          "claim": "Maintained correspondents across Africa, London, and the Caribbean",
+          "evidence": "Barnett Papers; multiple histories",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Alice Dunnigan Washington bureau chief 1947-1961; first Black woman White House correspondent",
+          "evidence": "Dunnigan biography; multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Ceased operations 1964 or 1967",
+          "evidence": "Conflicting secondary sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Disputed",
+          "uncertainty": "1964 vs 1967; unresolved - see red-team.md"
+        }
+      ],
+      "name": "Associated Negro Press (ANP)",
+      "role": "First Black national/international wire service; founded by Claude A. Barnett",
+      "status": "Verified",
+      "type": "network"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "End date not verified",
+        "start": "1960"
+      },
+      "id": "svc-wns",
+      "key_claims": [
+        {
+          "claim": "Founded 1960 in Chicago by Hiram E. Jackson",
+          "evidence": "Multiple secondary sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "World News Service",
+      "role": "Chicago-based Black wire service founded by Hiram E. Jackson",
+      "status": "Verified",
+      "type": "network"
+    },
+    {
+      "dates": {
+        "end": "2019-04-09",
+        "note": "Founded November 1942; Chapter 7 liquidation April 9, 2019",
+        "start": "1942-11"
+      },
+      "id": "co-jpc",
+      "key_claims": [
+        {
+          "claim": "Founded November 1942 by John H. Johnson (Eunice Walker Johnson co-founder status provisional)",
+          "evidence": "aaregistry.org; Congressional Record; Wikipedia infobox lists both",
+          "source": "African American Registry",
+          "source_type": "secondary",
+          "status": "Verified",
+          "uncertainty": "Eunice as formal co-founder provisional"
+        },
+        {
+          "claim": "$500 loan origin story is Johnson's own account (autobiography); mother's furniture as collateral; banks wouldn't lend to Black borrowers",
+          "evidence": "Johnson autobiography; Congressional Record tributes",
+          "source": "Succeeding Against the Odds; Congress",
+          "source_type": "primary",
+          "status": "Verified",
+          "uncertainty": "Specific lender name (Citizens Loan Corp.) provisional; verified as company origin narrative"
+        },
+        {
+          "claim": "Business model: proved Black consumer market to white corporations; insisted ads feature Black models",
+          "evidence": "Johnson autobiography; Congressional Record; NPR 2005",
+          "source": "NPR; Congressional Record",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Early advertisers: Zenith (first major), Chrysler, Chesterfields (first full-color ads in a Black magazine)",
+          "evidence": "Congressional Record; Glasgow thesis",
+          "source": "Congressional Record",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Filed Chapter 7 bankruptcy April 9, 2019 (U.S. Bankruptcy Court, Chicago)",
+          "evidence": "Court records via press",
+          "source": "Multiple journalism",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Photo archive (~4M images) sold July 2019 for $30M to Ford/Getty/MacArthur/Mellon/Smithsonian consortium; now NMAAHC + Getty (from 2022); public access target 2029",
+          "evidence": "Press; Getty event copy",
+          "source": "Getty-affiliated event copy",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "R.R. Donnelley printed Ebony/Jet and took a ~$12M mortgage against JPC HQ in 2009 over unpaid printing bills",
+          "evidence": "Red-team verification search (2026-09-28)",
+          "source": "Red-team verification search",
+          "source_type": "secondary",
+          "status": "Provisional",
+          "uncertainty": "Needs primary confirmation (Donnelley filings / JPC bankruptcy schedules)"
+        }
+      ],
+      "name": "Johnson Publishing Company (JPC)",
+      "role": "Publisher of Negro Digest, Ebony, Jet; owner of Fashion Fair; largest Black-owned publishing company of its era",
+      "status": "Verified",
+      "type": "company"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "1940"
+      },
+      "id": "co-sengstacke-ent",
+      "key_claims": [
+        {
+          "claim": "Sengstacke built a four-paper chain: Chicago Defender, Michigan Chronicle, Tri-State Defender (Memphis), New Pittsburgh Courier",
+          "evidence": "Multiple histories; NNPA",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Sengstacke Enterprises",
+      "role": "John H. Sengstacke's holding company for the Defender and chain papers",
+      "status": "Verified",
+      "type": "company"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Sale approved Nov 4, 2002 (probate court); control transferred January 2003",
+        "start": "2002 or 2003"
+      },
+      "id": "co-realtimes",
+      "key_claims": [
+        {
+          "claim": "Acquired the Chicago Defender: probate court approved the sale Nov 4, 2002; control transferred January 2003",
+          "evidence": "E&P contemporary reporting; IL SoS corporate records",
+          "source": "Editor & Publisher",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Real Times Inc. / Real Times Media",
+      "role": "Purchaser of the Chicago Defender from the Sengstacke estate",
+      "status": "Verified",
+      "type": "company"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "2016"
+      },
+      "id": "co-clearview",
+      "key_claims": [
+        {
+          "claim": "Bought Ebony and Jet from JPC June 2016; created Ebony Media Corp.; photo archives retained by JPC",
+          "evidence": "NPR 2021; press",
+          "source": "NPR",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Clear View Group",
+      "role": "Austin private equity firm; bought Ebony and Jet from JPC",
+      "status": "Verified",
+      "type": "company"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "2020-12"
+      },
+      "id": "co-bridgeman",
+      "key_claims": [
+        {
+          "claim": "Bought Ebony and Jet assets out of JPC bankruptcy for $14M (Dec 2020); relaunched March 2021",
+          "evidence": "NPR 2021; Moguldom",
+          "source": "NPR",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Bridgeman Sports and Media",
+      "role": "Ulysses 'Junior' Bridgeman's company; bought Ebony/Jet assets out of bankruptcy",
+      "status": "Verified",
+      "type": "company"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Sold out of JPC bankruptcy Nov 2019",
+        "start": "1973"
+      },
+      "id": "co-fashionfair",
+      "key_claims": [
+        {
+          "claim": "Founded 1973 by Eunice Johnson (spun out of Ebony Fashion Fair models' makeup needs; Johnson first approached Revlon, which passed)",
+          "evidence": "Essence; Beauty Independent",
+          "source": "Essence",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Peak sales ~$56M (2003, Fortune) vs $60M (Vogue) - exact figure provisional",
+          "evidence": "Fortune via secondary; Vogue via secondary",
+          "source": "Fortune; Vogue",
+          "source_type": "journalism",
+          "status": "Provisional",
+          "uncertainty": "$56M vs $60M; both plausible"
+        },
+        {
+          "claim": "Sold Nov 2019 for $1.85M to Cheryl Mayberry McKissack and Desiree Rogers (FFair Acquisition LLC)",
+          "evidence": "Essence; BlackNews.com",
+          "source": "Essence",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Fashion Fair Cosmetics",
+      "role": "First national makeup line formulated for Black women; founded by Eunice Johnson",
+      "status": "Verified",
+      "type": "company"
+    },
+    {
+      "dates": {
+        "end": "c.1950s",
+        "note": "Active through the Great Migration era",
+        "start": "c.1905"
+      },
+      "id": "net-pullman",
+      "key_claims": [
+        {
+          "claim": "Pullman porters carried bundles of the Defender on Southern rail routes, circumventing local bans and newsstand exclusion",
+          "evidence": "NMAAHC records; Rep. Rush floor speech; Defender history",
+          "source": "Smithsonian NMAAHC",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Each copy read by an estimated 4-5 people; two-thirds of readers outside Chicago by WWI",
+          "evidence": "Historian consensus; Ottley",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Pullman porter distribution network",
+      "role": "Informal distribution infrastructure carrying the Defender (and other papers) across the Jim Crow South",
+      "status": "Verified",
+      "type": "network"
+    },
+    {
+      "dates": {
+        "end": "1940-02-26",
+        "note": "Birth year disputed: November 24, 1868 vs December 24, 1870",
+        "start": "1868 or 1870"
+      },
+      "id": "per-abbott",
+      "key_claims": [
+        {
+          "claim": "Born in St. Simons Island, Georgia; birth year disputed (Nov 24, 1868 vs Dec 24, 1870)",
+          "evidence": "Conflicting biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Disputed",
+          "uncertainty": "1868 vs 1870; unresolved",
+          "contradiction_noted": {
+            "subject": "Robert S. Abbott birth year — 1868 vs disputed 1868/1870",
+            "other_claims": [
+              "CTL-DR-BCI-001/robert-s-abbott"
+            ],
+            "guidance": "Present both dates in public outputs (\"1868 or 1870\") per BPM-003 gaps.md.",
+            "severity": "Medium",
+            "noted": "2026-09-28",
+            "source": "cross-project audit 2026-09-28"
+          },
+          "red_team_notes": [
+            "Cross-project audit 2026-09-28: contradiction-noted (Medium). Robert S. Abbott birth year — 1868 vs disputed 1868/1870. See also: CTL-DR-BCI-001/robert-s-abbott. Present both dates in public outputs (\"1868 or 1870\") per BPM-003 gaps.md."
+          ]
+        },
+        {
+          "claim": "Founded the Chicago Defender (May 5, 1905); declared the Great Northern Drive (May 15, 1917)",
+          "evidence": "Defender history; institutional sources",
+          "source": "chicagodefender.com",
+          "source_type": "institutional",
+          "status": "Verified",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H2: corpus position is \"May 5, 1905 (BlackPast gives May 6)\" — dispute must be footnoted everywhere the date appears."
+          ]
+        },
+        {
+          "claim": "Editorial charter: nine goals including 'American Race Prejudice Must Be Destroyed' (the paper's motto)",
+          "evidence": "Defender mastheads; histories",
+          "source": "ProQuest Defender runs",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Co-created the Bud Billiken Club (1923) with Lucius Harper; sponsored Bud Billiken Parade through Defender Charities",
+          "evidence": "VA records; Defender Charities records",
+          "source": "U.S. Dept. of Veterans Affairs",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Robert Sengstacke Abbott",
+      "role": "Founder and editor of the Chicago Defender (1905-1940)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1997-05-28",
+        "start": "1912-11-25"
+      },
+      "id": "per-sengstacke",
+      "key_claims": [
+        {
+          "claim": "Nephew of Robert S. Abbott; inherited the Defender in 1940",
+          "evidence": "Chicago Tribune 1940; BlackPast",
+          "source": "Chicago Tribune",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Took the Defender daily on February 6, 1956",
+          "evidence": "Chicago Tribune 1956",
+          "source": "Chicago Tribune",
+          "source_type": "journalism",
+          "status": "Verified"
+        },
+        {
+          "claim": "Founded the National Newspaper Publishers Association (NNPA); built four-paper chain (Defender, Michigan Chronicle, Tri-State Defender, New Pittsburgh Courier)",
+          "evidence": "NNPA; multiple histories",
+          "source": "NNPA",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "John Herman Henry Sengstacke",
+      "role": "Publisher of the Chicago Defender (1940-1997); founder of NNPA",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1973-03-07",
+        "start": "1888-04-16"
+      },
+      "id": "per-cbarnett",
+      "key_claims": [
+        {
+          "claim": "Founded the Associated Negro Press in Chicago, 1919",
+          "evidence": "Barnett Papers (CHM); BlackPast",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified",
+          "uncertainty": "Exact launch day disputed (March 2 vs March 21)"
+        },
+        {
+          "claim": "Maintained correspondents across Africa, London, and the Caribbean",
+          "evidence": "Barnett Papers; histories",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Papers (4 linear ft) held at Chicago History Museum",
+          "evidence": "CHM finding aid",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Claude Albert Barnett",
+      "role": "Founder of the Associated Negro Press (1919)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1955",
+        "start": "1878"
+      },
+      "id": "per-overton",
+      "key_claims": [
+        {
+          "claim": "Banker and businessman; founded Half-Century Magazine (1916) and the Chicago Bee (1925/26)",
+          "evidence": "Multiple histories; LOC",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified",
+          "uncertainty": "Bee founding year 1925 vs 1926"
+        },
+        {
+          "claim": "Alleged to have financed the militant Chicago Whip while owning the conservative Bee (single-source claim)",
+          "evidence": "One source chain only",
+          "source": "Single secondary source",
+          "source_type": "secondary",
+          "status": "Provisional",
+          "uncertainty": "If corroborated, rewrites understanding of Black capital and press competition"
+        }
+      ],
+      "name": "Anthony Overton",
+      "role": "Founder of the Chicago Bee and Half-Century Magazine",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1991-07-28",
+        "start": "1911-08-29"
+      },
+      "id": "per-payne",
+      "key_claims": [
+        {
+          "claim": "One of the first Black women accredited to cover the White House; Defender Washington correspondent",
+          "evidence": "Multiple biographies",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Origin/bestower of her 'First Lady of the Black Press' title remains unresolved",
+          "evidence": "No source identifies who gave the title",
+          "source": "Track D research",
+          "source_type": "secondary",
+          "status": "Unresolved"
+        }
+      ],
+      "name": "Ethel L. Payne",
+      "role": "Chicago Defender Washington correspondent; pioneering Black woman political journalist",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1983-05-06",
+        "start": "1906-07-08",
+        "note": "Death day disputed: May 3 vs May 6, 1983 (year 1983 certain)"
+      },
+      "id": "per-dunnigan",
+      "key_claims": [
+        {
+          "claim": "ANP Washington bureau chief 1947-1961; first Black woman accredited White House correspondent",
+          "evidence": "Dunnigan biography; histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Alice Allison Dunnigan",
+      "role": "ANP Washington bureau chief; first Black woman White House correspondent",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1931-03-25",
+        "start": "1862-07-16"
+      },
+      "id": "per-wells",
+      "key_claims": [
+        {
+          "claim": "Anti-lynching journalist; part-owner/editor of the Chicago Conservator (1895-1897)",
+          "evidence": "Wells biographies; histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Married Ferdinand Lee Barnett (1895); contributed to the Defender, Broad Ax, and Whip",
+          "evidence": "Biographies",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Ida Bell Wells-Barnett",
+      "role": "Anti-lynching journalist; editor of the Chicago Conservator",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2005-08-08",
+        "start": "1918-01-19"
+      },
+      "id": "per-jhjohnson",
+      "key_claims": [
+        {
+          "claim": "Founded Johnson Publishing Company (November 1942); launched Negro Digest, Ebony (1945), Jet (1951)",
+          "evidence": "aaregistry.org; Congressional Record; AP obituary",
+          "source": "African American Registry",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "$500-loan origin story (mother's furniture as collateral) is his own account (autobiography), repeated in Congressional tributes",
+          "evidence": "Succeeding Against the Odds; Congressional Record",
+          "source": "Succeeding Against the Odds",
+          "source_type": "primary",
+          "status": "Verified",
+          "uncertainty": "Specific lender name provisional"
+        },
+        {
+          "claim": "Presidential Medal of Freedom (1996); NAACP Spingarn Medal (1966)",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "John Harold Johnson",
+      "role": "Founder of Johnson Publishing Company; publisher of Ebony and Jet",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2010-01-03",
+        "note": "Married John H. Johnson 1941 | End date corrected 2026-09-28: Jan 3, 2010 per Black Enterprise, Essence, Delta Sigma Theta (was mistranscribed as 2019).",
+        "start": "1916"
+      },
+      "id": "per-eunice",
+      "key_claims": [
+        {
+          "claim": "Named Ebony ('thinking of the dark wood'); served as JPC secretary-treasurer",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Created the Ebony Fashion Fair traveling show (1958-2009; raised $50M+ for UNCF/scholarships)",
+          "evidence": "thefreelibrary.com tribute",
+          "source": "thefreelibrary.com",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Founded Fashion Fair Cosmetics (1973), first national makeup line for Black women",
+          "evidence": "Essence; Beauty Independent",
+          "source": "Essence",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Eunice Walker Johnson",
+      "role": "JPC secretary-treasurer; founder of Fashion Fair; creator of Ebony Fashion Fair",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "1946"
+      },
+      "id": "per-ljr",
+      "key_claims": [
+        {
+          "claim": "Daughter of John H. and Eunice Johnson; became president/COO, then CEO of JPC in 2002; last chairman/CEO",
+          "evidence": "Wikipedia JPC; Moguldom",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Linda Johnson Rice",
+      "role": "CEO of Johnson Publishing Company (2002-2019)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1986",
+        "note": "Birth year disputed: 1905 vs 1906",
+        "start": "1905 or 1906"
+      },
+      "id": "per-thompson",
+      "key_claims": [
+        {
+          "claim": "Joined Negro Digest as editor 1947; Ebony associate editor, co-managing editor 1951-1964, then international editor; ~40 years with JPC",
+          "evidence": "ND governor's office; mic.com",
+          "source": "governor.nd.gov",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Birth year disputed: 1905 (ND governor's office) vs 1906 (mic.com); stronger evidence favors 1905",
+          "evidence": "Conflicting institutional vs web sources",
+          "source": "governor.nd.gov vs mic.com",
+          "source_type": "institutional",
+          "status": "Disputed",
+          "uncertainty": "Unresolved"
+        }
+      ],
+      "name": "Era Bell Thompson",
+      "role": "Editor at Johnson Publishing Company (Negro Digest, Ebony)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2018-02-14",
+        "start": "1928-10-17"
+      },
+      "id": "per-bennett",
+      "key_claims": [
+        {
+          "claim": "Joined JPC 1953 as Jet associate editor; moved to Ebony 1954; executive editor from 1958; associated 50+ years",
+          "evidence": "AHA obituary; CPL",
+          "source": "American Historical Association",
+          "source_type": "scholarly",
+          "status": "Verified"
+        },
+        {
+          "claim": "Author of Before the Mayflower (1962), based on his 1961 Ebony history series",
+          "evidence": "AHA; CPL",
+          "source": "American Historical Association",
+          "source_type": "scholarly",
+          "status": "Verified"
+        }
+      ],
+      "name": "Lerone Bennett Jr.",
+      "role": "Executive editor of Ebony; historian (Before the Mayflower)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1981",
+        "start": "1926"
+      },
+      "id": "per-fuller",
+      "key_claims": [
+        {
+          "claim": "Editor of Negro Digest from its 1961 revival; renamed it Black World (May 1970); publication terminated by Johnson 1976",
+          "evidence": "Fenderson (U. of Illinois Press, 2019)",
+          "source": "Jonathan Fenderson",
+          "source_type": "scholarly",
+          "status": "Verified"
+        }
+      ],
+      "name": "Hoyt W. Fuller",
+      "role": "Editor of Negro Digest/Black World (1961-1976)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2000",
+        "start": "1906"
+      },
+      "id": "per-burns",
+      "key_claims": [
+        {
+          "claim": "Founding (and only white) editor of Negro Digest (1942-54), Ebony (1945-54), and Jet (1950/51-54); fired by Johnson 1954",
+          "evidence": "Medill Hall of Achievement; memoir",
+          "source": "Northwestern Medill",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Ben Burns",
+      "role": "Founding editor of Negro Digest, Ebony, and Jet; author of Nitty Gritty (1996)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2017-12-16",
+        "start": "1918-07-29"
+      },
+      "id": "per-booker",
+      "key_claims": [
+        {
+          "claim": "Jet/Ebony Washington bureau chief ~1954-2007; column 'Ticker Tape U.S.A.'; covered 10 presidents",
+          "evidence": "LOC oral history; NYT obituary via journal-isms",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Covered the Emmett Till murder for Jet; first full-time Black reporter at The Washington Post (1952)",
+          "evidence": "LOC; NYT obituary",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Simeon Booker",
+      "role": "Jet/Ebony Washington bureau chief; covered the Emmett Till murder",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1996-09-14",
+        "start": "1926-02-14"
+      },
+      "id": "per-sleet",
+      "key_claims": [
+        {
+          "claim": "Ebony staff photographer from 1955; won 1969 Pulitzer Prize for Feature Photography (Coretta Scott King at MLK's funeral)",
+          "evidence": "Wikipedia; Swann Galleries (citing Newseum)",
+          "source": "Swann Galleries",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Moneta Sleet Jr.",
+      "role": "Ebony staff photographer; 1969 Pulitzer winner",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "before 2005",
+        "note": "Full biography/tenure dates not found",
+        "start": null
+      },
+      "id": "per-djackson",
+      "key_claims": [
+        {
+          "claim": "Jet staff photographer; took the Emmett Till open-casket photographs (A.A. Rayner Funeral Home, E. 71st St., Chicago)",
+          "evidence": "LOC Civil Rights History Project",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "David Jackson",
+      "role": "Jet staff photographer; took the Emmett Till open-casket photographs",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1996",
+        "start": "1922",
+        "note": "Death date disputed: Dec 27, 1995 (Congress.gov via Track D) vs 1996 (Track C entity table)"
+      },
+      "id": "per-rejohnson",
+      "key_claims": [
+        {
+          "claim": "Associate publisher and executive editor of Jet; joined February 1953",
+          "evidence": "Wikipedia (citing Jet obituary)",
+          "source": "Wikipedia",
+          "source_type": "secondary",
+          "status": "Provisional",
+          "weak_source_only": true,
+          "red_team_notes": [
+            "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia); queued for re-sourcing before any public use."
+          ]
+        }
+      ],
+      "name": "Robert E. Johnson",
+      "role": "Associate publisher and executive editor of Jet",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2006-03-07",
+        "start": "1912-11-30"
+      },
+      "id": "per-parks",
+      "key_claims": [
+        {
+          "claim": "Freelanced for Ebony (and Glamour) in the 1940s; was NEVER JPC staff - staff career was at Life magazine (1948/49-1972)",
+          "evidence": "Jack Shainman Gallery (Gordon Parks Foundation material)",
+          "source": "Jack Shainman Gallery",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Gordon Parks",
+      "role": "Freelance contributor to Ebony (1940s); Life magazine staff photographer",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2004-11-23",
+        "start": "1922-07-06"
+      },
+      "id": "per-jarrett",
+      "key_claims": [
+        {
+          "claim": "Worked at the Defender and ANP; later at the Chicago Tribune and Chicago Sun-Times; hosted Negroes and the News (WLS radio)",
+          "evidence": "Multiple biographies",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Vernon D. Jarrett",
+      "role": "Defender/ANP journalist; later Tribune and Sun-Times columnist",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2009-07-27",
+        "start": "1928"
+      },
+      "id": "per-palmer",
+      "key_claims": [
+        {
+          "claim": "Worked at the Defender and Tri-State Defender; founded the Black X-Press Info Paper",
+          "evidence": "Multiple biographies",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        },
+        {
+          "claim": "Doctorate claim disputed: Congressional Record (1987 tribute) says ABD (all but dissertation); do NOT assert he held a PhD",
+          "evidence": "Congressional Record",
+          "source": "Congressional Record",
+          "source_type": "primary",
+          "status": "Disputed"
+        }
+      ],
+      "name": "Lu Palmer",
+      "role": "Defender journalist; founder of Black X-Press",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1985-01-06",
+        "start": "1912-11-01"
+      },
+      "id": "per-martin",
+      "key_claims": [
+        {
+          "claim": "Worked at the Chicago Defender; ran the Michigan Chronicle; served in the Kennedy and Johnson administrations",
+          "evidence": "Multiple biographies",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Louis E. Martin",
+      "role": "Defender journalist; ran the Michigan Chronicle; presidential adviser",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1960-10-02",
+        "start": "1908-08-05"
+      },
+      "id": "per-ottley",
+      "key_claims": [
+        {
+          "claim": "Wrote The Lonely Warrior (biography of Robert S. Abbott); worked in Black press",
+          "evidence": "Bibliographic records",
+          "source": "Bibliographic records",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Roi Ottley",
+      "role": "Journalist; biographer of Robert S. Abbott (The Lonely Warrior)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1978",
+        "start": "1893"
+      },
+      "id": "per-diggs",
+      "key_claims": [
+        {
+          "claim": "Managing editor of the Chicago Bee 1932-1946",
+          "evidence": "Multiple biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Olive M. Diggs",
+      "role": "Managing editor of the Chicago Bee",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2023-09-17",
+        "start": "1922-05-11"
+      },
+      "id": "per-dleavell",
+      "key_claims": [
+        {
+          "claim": "Succeeded as publisher of the Chicago Crusader; served as NNPA president",
+          "evidence": "NNPA; multiple sources",
+          "source": "NNPA",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Dorothy R. Leavell",
+      "role": "Publisher of the Chicago Crusader; NNPA president",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1980",
+        "start": "1899"
+      },
+      "id": "per-bleavell",
+      "key_claims": [
+        {
+          "claim": "Co-founded the Chicago Crusader (1940) with Joseph H. Jefferson",
+          "evidence": "IL SoS; USPS; NNPA",
+          "source": "IL Secretary of State",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Balm L. Leavell",
+      "role": "Co-founder of the Chicago Crusader",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Dates not verified",
+        "start": null
+      },
+      "id": "per-jhjefferson",
+      "key_claims": [
+        {
+          "claim": "Co-founded the Chicago Crusader (1940) with Joseph H. Jefferson",
+          "evidence": "IL SoS; USPS; NNPA",
+          "source": "IL Secretary of State",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Joseph H. Jefferson",
+      "role": "Co-founder of the Chicago Crusader",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1990",
+        "start": "1907"
+      },
+      "id": "per-garland",
+      "key_claims": [
+        {
+          "claim": "Editor-in-chief of the New Pittsburgh Courier",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Hazel B. Garland",
+      "role": "Editor-in-chief of the New Pittsburgh Courier",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2004-07-15",
+        "start": "1905-04-12"
+      },
+      "id": "per-emoten",
+      "key_claims": [
+        {
+          "claim": "Married Claude A. Barnett; donated his papers to the Chicago History Museum",
+          "evidence": "CHM finding aid; biographies",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Etta Moten Barnett",
+      "role": "Singer/actress; wife of Claude Barnett; donor of the Barnett Papers",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1998-12-05",
+        "start": "1911-04-01"
+      },
+      "id": "per-ormes",
+      "key_claims": [
+        {
+          "claim": "Created the Torchy Brown comic strip (Pittsburgh Courier); first nationally syndicated Black woman cartoonist",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Jackie Ormes",
+      "role": "Cartoonist; creator of Torchy Brown",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1995-01-17",
+        "start": "1904-09-18"
+      },
+      "id": "per-harrington",
+      "key_claims": [
+        {
+          "claim": "Contributed to the Defender; created Dark Laughter (Amsterdam News) and Jive Gray (Pittsburgh Courier)",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Oliver W. Harrington",
+      "role": "Cartoonist; contributor to the Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1922",
+        "start": "1877"
+      },
+      "id": "per-linton",
+      "key_claims": [
+        {
+          "claim": "Founded the Chicago Whip (1919); died 1922",
+          "evidence": "LOC title record; biographies",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "William C. Linton",
+      "role": "Founder of the Chicago Whip",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1945",
+        "start": "1882"
+      },
+      "id": "per-bibb",
+      "key_claims": [
+        {
+          "claim": "Succeeded William C. Linton as editor of the Chicago Whip",
+          "evidence": "Multiple biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Joseph Dandridge Bibb",
+      "role": "Editor of the Chicago Whip",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1921-01-10",
+        "start": "1847"
+      },
+      "id": "per-taylor",
+      "key_claims": [
+        {
+          "claim": "Founded the Broad Ax in Salt Lake City (1895); moved it to Chicago (1899)",
+          "evidence": "LOC title record",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Julius F. Taylor",
+      "role": "Founder of The Broad Ax",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1922",
+        "start": "1852"
+      },
+      "id": "per-fbarnett",
+      "key_claims": [
+        {
+          "claim": "Founded the Chicago Conservator (1878), Chicago's first Black newspaper",
+          "evidence": "Encyclopedia of Chicago",
+          "source": "Encyclopedia of Chicago",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Ferdinand Lee Barnett",
+      "role": "Founder of the Chicago Conservator",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1946",
+        "start": "1876"
+      },
+      "id": "per-tipper",
+      "key_claims": [
+        {
+          "claim": "Founded the Chicago Enterprise (1918), renamed Chicago World (1928)",
+          "evidence": "LOC title records",
+          "source": "Library of Congress",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Jacob R. Tipper",
+      "role": "Founder of the Chicago Enterprise/World",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Editor of Chicago World; dates lightly sourced",
+        "start": null
+      },
+      "id": "per-fayjackson",
+      "key_claims": [
+        {
+          "claim": "Served as editor of the Chicago World",
+          "evidence": "Biographical sources (lightly sourced)",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        },
+        {
+          "claim": "ANP Hollywood correspondent; covered George VI's coronation (1937)",
+          "evidence": "Red-team verification search",
+          "source": "Red-team verification search",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "Fay M. Jackson",
+      "role": "Editor of the Chicago World; ANP Hollywood correspondent",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1963",
+        "start": "1888"
+      },
+      "id": "per-williams",
+      "key_claims": [
+        {
+          "claim": "Women's page editor of the Chicago Defender",
+          "evidence": "Multiple biographical sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Katherine E. Williams-Irvin",
+      "role": "Women's page editor of the Chicago Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1974",
+        "start": "1889"
+      },
+      "id": "per-owen",
+      "key_claims": [
+        {
+          "claim": "Journalist associated with Chicago Black press",
+          "evidence": "Single/weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "Chandler Owen",
+      "role": "Journalist associated with Chicago Black press",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Dates not verified",
+        "start": null
+      },
+      "id": "per-gentry",
+      "key_claims": [
+        {
+          "claim": "Associated with Chicago Black press; details lightly sourced",
+          "evidence": "Single/weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "James Gentry",
+      "role": "Chicago Black press journalist",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1992",
+        "start": "1908"
+      },
+      "id": "per-jayjackson",
+      "key_claims": [
+        {
+          "claim": "Illustrator for the Chicago Defender",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Jay Jackson",
+      "role": "Illustrator for the Chicago Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1983",
+        "start": "1908"
+      },
+      "id": "per-rogers",
+      "key_claims": [
+        {
+          "claim": "Created the Bungleton Green comic strip for the Defender",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Leslie Rogers",
+      "role": "Cartoonist; creator of Bungleton Green (Defender)",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1962",
+        "start": "1908"
+      },
+      "id": "per-burley",
+      "key_claims": [
+        {
+          "claim": "Sports editor of the Chicago Defender",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Dan Burley",
+      "role": "Sports editor of the Chicago Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1981",
+        "start": "1915"
+      },
+      "id": "per-commodore",
+      "key_claims": [
+        {
+          "claim": "Staff cartoonist at the Chicago Defender",
+          "evidence": "Single/weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "Chester Commodore",
+      "role": "Staff cartoonist at the Chicago Defender",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1979",
+        "start": "1886"
+      },
+      "id": "per-harper",
+      "key_claims": [
+        {
+          "claim": "Co-created the Bud Billiken Club with Abbott (1923); 'Reminiscing' columnist at the Defender",
+          "evidence": "VA records; Defender history",
+          "source": "U.S. Dept. of Veterans Affairs",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Lucius C. Harper",
+      "role": "Defender columnist; co-creator of the Bud Billiken Club",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1977",
+        "start": "1891"
+      },
+      "id": "per-lochard",
+      "key_claims": [
+        {
+          "claim": "Managing editor of the Chicago Defender",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Metz T.P. Lochard",
+      "role": "Managing editor of the Chicago Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Identity and role unresolved in research",
+        "start": null
+      },
+      "id": "per-campfield",
+      "key_claims": [
+        {
+          "claim": "Possible Chicago Black press figure; identity unresolved",
+          "evidence": "No corroborating source found",
+          "source": "Track D research",
+          "source_type": "secondary",
+          "status": "Unresolved"
+        }
+      ],
+      "name": "Marian Campfield",
+      "role": "Possible Chicago Black press figure (unresolved)",
+      "status": "Unresolved",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "2000-12-03",
+        "start": "1917-06-07"
+      },
+      "id": "per-brooks",
+      "key_claims": [
+        {
+          "claim": "Contributor to the Chicago Defender; first African American to win the Pulitzer Prize (1950, poetry)",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Gwendolyn Brooks",
+      "role": "Poet; contributor to the Chicago Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Involvement details unresolved",
+        "start": null
+      },
+      "id": "per-burroughs",
+      "key_claims": [
+        {
+          "claim": "Possible contributor to Chicago Black press; details unresolved",
+          "evidence": "No corroborating source found",
+          "source": "Track D research",
+          "source_type": "secondary",
+          "status": "Unresolved"
+        }
+      ],
+      "name": "Margaret Burroughs",
+      "role": "Possible Chicago Black press contributor (unresolved)",
+      "status": "Unresolved",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "per-hartman",
+      "key_claims": [
+        {
+          "claim": "Founded N'DIGO magazine (1989)",
+          "evidence": "Publication records",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Hermene Hartman",
+      "role": "Founder of N'DIGO",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "per-roncarter",
+      "key_claims": [
+        {
+          "claim": "Founded the South Street Journal (1993)",
+          "evidence": "Publication records",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Ron Carter",
+      "role": "Founder of the South Street Journal",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1997-05-08",
+        "start": "1922-01-18"
+      },
+      "id": "per-savage",
+      "key_claims": [
+        {
+          "claim": "Founded the Chicago Citizen chain (1965, as South End Citizen); later U.S. Congressman",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Gus Savage",
+      "role": "Founder of the Chicago Citizen; U.S. Congressman",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Details lightly sourced",
+        "start": null
+      },
+      "id": "per-picou",
+      "key_claims": [
+        {
+          "claim": "Associated with Chicago Black press; details lightly sourced",
+          "evidence": "Weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "Thom Picou",
+      "role": "Chicago Black press figure",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Dates not verified",
+        "start": null
+      },
+      "id": "per-hjackson",
+      "key_claims": [
+        {
+          "claim": "Founded the World News Service (1960)",
+          "evidence": "Multiple secondary sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Hiram E. Jackson",
+      "role": "Founder of the World News Service",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": "1990",
+        "start": "1930"
+      },
+      "id": "per-bsengstacke",
+      "key_claims": [
+        {
+          "claim": "Photojournalist at the Chicago Defender",
+          "evidence": "Multiple sources",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Verified"
+        }
+      ],
+      "name": "Bobby Sengstacke",
+      "role": "Photojournalist at the Chicago Defender",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Details lightly sourced",
+        "start": null
+      },
+      "id": "per-lemore",
+      "key_claims": [
+        {
+          "claim": "Associated with Chicago Black press; details lightly sourced",
+          "evidence": "Weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "Le Mont Mac Lemore",
+      "role": "Chicago Black press figure",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "note": "Details lightly sourced",
+        "start": null
+      },
+      "id": "per-abernathy",
+      "key_claims": [
+        {
+          "claim": "Associated with Chicago Black press; details lightly sourced",
+          "evidence": "Weak sourcing",
+          "source": "General reference",
+          "source_type": "secondary",
+          "status": "Provisional"
+        }
+      ],
+      "name": "Billy Abernathy",
+      "role": "Chicago Black press figure",
+      "status": "Provisional",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "per-drogers",
+      "key_claims": [
+        {
+          "claim": "Served as JPC CEO 2010-2017; co-purchased Fashion Fair Cosmetics out of bankruptcy (2019)",
+          "evidence": "Moguldom; Essence",
+          "source": "Essence",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ],
+      "name": "Desiree Rogers",
+      "role": "JPC CEO (2010-2017); co-owner of Fashion Fair Cosmetics",
+      "status": "Verified",
+      "type": "person"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "arc-harsh",
+      "key_claims": [
+        {
+          "claim": "Holds the Abbott-Sengstacke Family Papers: 83 boxes, ~4,000 photographs, ~100 home movies; includes Defender business records",
+          "evidence": "CPL catalog record",
+          "source": "Chicago Public Library",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Vivian G. Harsh Research Collection (CPL)",
+      "role": "Archive holding the Abbott-Sengstacke Family Papers",
+      "status": "Verified",
+      "type": "archive"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "arc-chm",
+      "key_claims": [
+        {
+          "claim": "Holds the Claude A. Barnett Papers (4 linear ft) and digital newspaper databases",
+          "evidence": "CHM finding aid",
+          "source": "Chicago History Museum",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago History Museum",
+      "role": "Archive holding the Claude A. Barnett Papers",
+      "status": "Verified",
+      "type": "archive"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "arc-jpc",
+      "key_claims": [
+        {
+          "claim": "~4M images; sold July 2019 ($30M); jointly owned by NMAAHC and the J. Paul Getty Trust from 2022; public access target 2029",
+          "evidence": "Getty-affiliated event copy; press",
+          "source": "Getty event copy",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "JPC Photo Archive (NMAAHC + Getty)",
+      "role": "Ebony/Jet photographic archive; joint NMAAHC/Getty stewardship",
+      "status": "Verified",
+      "type": "archive"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "arc-proquest",
+      "key_claims": [
+        {
+          "claim": "Defender digitized run covers 1909-2010, full-text and images; subscription/paywalled access",
+          "evidence": "ProQuest listings",
+          "source": "ProQuest",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "ProQuest Historical Newspapers: Chicago Defender",
+      "role": "Digitized Defender archive (1909-2010)",
+      "status": "Verified",
+      "type": "archive"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "arc-chronam",
+      "key_claims": [
+        {
+          "claim": "Open digitized runs of the Broad Ax, Chicago Whip, and Chicago World/Enterprise",
+          "evidence": "LOC holdings",
+          "source": "Library of Congress",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chronicling America (LOC)",
+      "role": "Open digitized runs of Broad Ax, Whip, World",
+      "status": "Verified",
+      "type": "archive"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": null
+      },
+      "id": "bld-3435indiana",
+      "key_claims": [
+        {
+          "claim": "Defender headquarters 1920-1956 or 1960; presses later at 2400 S. Michigan",
+          "evidence": "Multiple histories",
+          "source": "Multiple secondary",
+          "source_type": "secondary",
+          "status": "Disputed",
+          "uncertainty": "Tenure end 1956 vs 1960; unresolved",
+          "red_team_notes": [
+            "Cross-project audit harmonization 2026-09-28. H4: corpus composite is \"1920-1956 (building retained to 1960)\"; this Disputed range is now reconciled — retain Disputed grade with the composite noted."
+          ]
+        }
+      ],
+      "name": "Chicago Defender Building, 3435 S. Indiana Ave.",
+      "role": "Defender headquarters (1920s-1950s/60s)",
+      "status": "Verified",
+      "type": "building"
+    },
+    {
+      "dates": {
+        "end": "2003",
+        "start": "1960"
+      },
+      "id": "bld-2400mich",
+      "key_claims": [
+        {
+          "claim": "Defender headquarters 1960-2003; presses in former pool area; housed Defender Charities and Bud Billiken operations",
+          "evidence": "Property records; histories",
+          "source": "Property records",
+          "source_type": "primary",
+          "status": "Verified"
+        }
+      ],
+      "name": "2400 S. Michigan Ave. (Defender plant)",
+      "role": "Defender headquarters and printing plant (1960-2003)",
+      "status": "Verified",
+      "type": "building"
+    },
+    {
+      "dates": {
+        "end": null,
+        "start": "1929"
+      },
+      "id": "bld-bee",
+      "key_claims": [
+        {
+          "claim": "Chicago Landmark (1998); housed the Bee's offices and printing plant",
+          "evidence": "Chicago Landmarks program",
+          "source": "Chicago Landmarks",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ],
+      "name": "Chicago Bee Building",
+      "role": "Offices and plant of the Chicago Bee; Chicago Landmark",
+      "status": "Verified",
+      "type": "building"
+    },
+    {
+      "dates": {
+        "end": "2010",
+        "start": "1971-12"
+      },
+      "id": "bld-820mich",
+      "key_claims": [
+        {
+          "claim": "11-story HQ completed 1971; JPC moved in December 1971; designed by Black architect John Warren Moutoussamy",
+          "evidence": "Preservation Chicago; Wikipedia JPC",
+          "source": "Preservation Chicago",
+          "source_type": "institutional",
+          "status": "Verified"
+        },
+        {
+          "claim": "Designated a Chicago Landmark (fall 2017); sold to Columbia College Chicago late 2010 (transaction closed January 2011), then to 3L Real Estate (Nov 2017, $10M); converted to 150 rental apartments",
+          "evidence": "Preservation Chicago; press",
+          "source": "Preservation Chicago",
+          "source_type": "institutional",
+          "status": "Verified",
+          "uncertainty": "2010 vs Jan 2011 resolved: sold late 2010, closed Jan 2011"
+        }
+      ],
+      "name": "Johnson Publishing Company Building, 820 S. Michigan Ave.",
+      "role": "JPC headquarters (1971-2010); Chicago Landmark",
+      "status": "Verified",
+      "type": "building"
+    },
+    {
+      "id": "org-nnpa",
+      "name": "National Newspaper Publishers Association (NNPA)",
+      "type": "organization",
+      "dates": {
+        "start": "1940",
+        "end": null
+      },
+      "role": "Trade association of Black newspapers; founded by John H. Sengstacke",
+      "status": "Verified",
+      "key_claims": [
+        {
+          "claim": "Founded by John H. Sengstacke (1940); Dorothy R. Leavell later served as president",
+          "evidence": "NNPA records; Leavell biography",
+          "source": "NNPA",
+          "source_type": "institutional",
+          "status": "Verified"
+        }
+      ]
+    },
+    {
+      "id": "co-wjpc",
+      "name": "WJPC (radio)",
+      "type": "company",
+      "dates": {
+        "start": "1973-05",
+        "end": "1994-12",
+        "note": "JPC bought WGRT May 1973 ($1.8M), renamed WJPC; sold Dec 1994"
+      },
+      "role": "Chicago's first Black-owned radio station; JPC broadcast arm",
+      "status": "Verified",
+      "key_claims": [
+        {
+          "claim": "JPC bought WGRT in May 1973 for $1.8M and renamed it WJPC - the first Black-owned radio station in Chicago; operated until December 1994",
+          "evidence": "Red-team verification search (FCC records, Chicago broadcast histories)",
+          "source": "Red-team verification search",
+          "source_type": "secondary",
+          "status": "Verified",
+          "uncertainty": "Needs FCC record citation in next pass"
+        }
+      ]
+    },
+    {
+      "id": "per-lyons",
+      "name": "Charlotte L. Lyons",
+      "type": "person",
+      "dates": {
+        "start": null,
+        "end": null
+      },
+      "role": "Ebony food editor ('A Date with a Dish'); operator of the Ebony Test Kitchen",
+      "status": "Verified",
+      "key_claims": [
+        {
+          "claim": "Ebony food editor ('A Date with a Dish'); operator of the Ebony Test Kitchen",
+          "evidence": "WBEZ (2018), via red-team verification search",
+          "source": "WBEZ (2018)",
+          "source_type": "journalism",
+          "status": "Verified"
+        }
+      ]
+    },
+    {
+      "id": "per-saunders",
+      "name": "Doris E. Saunders",
+      "type": "person",
+      "dates": {
+        "start": null,
+        "end": null
+      },
+      "role": "JPC books division editor",
+      "status": "Provisional",
+      "key_claims": [
+        {
+          "claim": "Editor in JPC's books division",
+          "evidence": "Surfaced in red-team review; not researched in tracks A-E",
+          "source": "Red-team review",
+          "source_type": "secondary",
+          "status": "Provisional",
+          "uncertainty": "Needs primary confirmation of role and dates"
+        }
+      ]
+    }
+  ],
+  "research_id": "CTL-DR-BPM-003"
+}

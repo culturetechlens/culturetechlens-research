@@ -1,0 +1,862 @@
+{
+ "project": "CTL-DR-LIFE-001",
+ "count": 91,
+ "events": [
+  {
+   "date": "1886",
+   "date_precision": "year",
+   "event": "Hot combs are offered in U.S. commercial catalogs, the earliest documented commercial appearance noted by NMAAHC (the essay states the exact origin is difficult to determine).",
+   "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+   "uncertainty": "Earliest catalog appearance documented by NMAAHC, not an invention date.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1905",
+   "event": "Robert S. Abbott founds the Chicago Defender; it becomes the paper of record for Black Chicago's births, deaths, weddings, and graduations.",
+   "evidence": "Smithsonian Magazine (2019); History News Network",
+   "place": "Chicago",
+   "source": "Secondary journalism",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1912",
+   "event": "Idlewild Resort Company founded (Branch brothers, Lemon, Wright — Chicago-linked developers); marketed $35 lots to Black professionals — \"an era of upward mobility\" creating the Black vacation circuit",
+   "evidence": "Branch brothers bought 2,700 acres in Lake County; marketed \"an era of upward mobility, a growing Black middle class with education and some disposable income\"",
+   "place": "Idlewild, Lake County, Michigan",
+   "source": "mynorth.com; fromcommonground.com",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1915",
+   "event": "Dr. Daniel Hale Williams buys property in Idlewild and co-founds the Idlewild Improvement Association, which acquires property from the white developers and later sells to W.E.B. Du Bois and the Madam C.J. Walker family",
+   "evidence": "Stephens research via fromcommonground.com",
+   "place": "Idlewild, Michigan",
+   "source": "fromcommonground.com, \"Michigan's 'Black Eden'\"",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: Rests on Provisional E-041[2] (Williams/Idlewild, with land contradiction); violates 'Verified dated events only' — annotate grade or remove."
+  },
+  {
+   "date": "1920",
+   "date_precision": "year",
+   "event": "Walter Sammons patents a hot-comb-related design (per NMAAHC's 'Sizzle' essay).",
+   "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+   "uncertainty": "As reported by NMAAHC; the patent document itself was not retrieved.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1922-03-04",
+   "event": "Chicago Defender publishes 'Betrothed,' a front-page engagement announcement with a portrait of the bride-to-be.",
+   "evidence": "Zachary Zimmermann, UW-Eau Claire thesis, 'Representations of Black Women in the Chicago Defender,' citing the primary issue",
+   "place": "Chicago",
+   "source": "Thesis (secondary) citing primary newspaper",
+   "verification": "Provisional",
+   "workstream": "w1-home-family",
+   "red_team_note": "Red team: Rests on Provisional E-013[0] (1922 Defender page, thesis-level); annotate or remove."
+  },
+  {
+   "date": "1922-07-29",
+   "event": "Chicago Defender publishes 'NOT A FLAPPER MOTHER,' celebrating Evelena Burton, mother of seventeen, two of them in college.",
+   "evidence": "Zimmermann thesis citing Chicago Defender, July 29, 1922",
+   "place": "Chicago",
+   "source": "Thesis (secondary) citing primary newspaper",
+   "verification": "Provisional",
+   "workstream": "w1-home-family",
+   "red_team_note": "Red team: Rests on Provisional E-013[1] (thesis-level); annotate or remove."
+  },
+  {
+   "date": "1923",
+   "event": "Robert S. Abbott creates the Bud Billiken character for a Chicago Defender youth section; Willard Motley writes the early columns.",
+   "evidence": "Wikipedia; aaregistry.org",
+   "place": "Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1925",
+   "date_precision": "year",
+   "event": "Clara Grant patents a hot-comb-related design (per NMAAHC's 'Sizzle' essay).",
+   "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+   "uncertainty": "As reported by NMAAHC; the patent document itself was not retrieved.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1925-08-25",
+   "event": "Brotherhood of Sleeping Car Porters founded under A. Philip Randolph and Milton P. Webster — the first Black union to bargain effectively with a major U.S. corporation (recognition, 1937).",
+   "evidence": "Zinn Education Project, 'This Day in History'; UMass Boston archives blog.",
+   "place": "Chicago (Pullman Company HQ)",
+   "source": "Zinn Education Project (n.d.)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1926",
+   "event": "Lake Ivanhoe established on Ryan Lake, Wisconsin — Wisconsin's first Black-founded resort community — by three Black Chicago businessmen: Jeremiah Brumfield, Frank Anglin, and Bradford Watson",
+   "evidence": "Madison Times: \"established in 1926 as Wisconsin's first Black-founded resort community, developed by three prominent Black Chicago businessmen\"",
+   "place": "Ryan Lake, Wisconsin",
+   "source": "The Madison Times, \"Reclaiming the Road\" (2025)",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: Lake Ivanhoe 1926 rests on single secondary source E-042[0] Provisional; annotate or remove."
+  },
+  {
+   "date": "1926",
+   "date_precision": "year",
+   "event": "Copyright notice 'COPYRIGHT 1926 BY MURRAY'S SUPERIOR PRODUCTS CO.' appears on the lid of the Murray's pomade tin design (primary object evidence, NMAAHC 2014.261ab).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+   "uncertainty": "Bounds the tin design's era; not a manufacture date for this tin.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1928-02",
+   "event": "The Regal Theater opens at 47th Street and South Parkway, attached to the Savoy Ballroom.",
+   "evidence": "C. Semmes, The Regal Theater and Black Culture",
+   "place": "Bronzeville, Chicago",
+   "source": "Scholarly book (secondary)",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1929-08-11",
+   "event": "First Bud Billiken Parade, initiated by Defender staffer David Kellum as an outing for the paper's young newsboys. A second account credits Robert Sengstacke Abbott as creator, named for the Billiken figurine on Abbott’s desk with “Bud” added by editor Lucius Harper; the Kellum-vs-Abbott initiator account is disputed.",
+   "evidence": "Wikipedia; aaregistry.org; Word In Black",
+   "place": "Grand Boulevard to Washington Park, Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family",
+   "red_team_note": "Merged with duplicate event 14 (Abbott account); initiator disputed."
+  },
+  {
+   "date": "1929-11-03",
+   "event": "Jack L. Cooper's The All-Negro Hour debuts on WSBC — the first U.S. radio program featuring Black performers exclusively.",
+   "evidence": "Radio Hall of Fame; Wikipedia; TeachRock",
+   "place": "Chicago (WSBC)",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1930-02",
+   "event": "In the February 1930 Chicago Defender, 44 of 103 ads are for beauty aids promising to change Black women's features (Nadinola, Fred Palmer's bleaching creams; hair chemicals) — documenting both the beauty-products market and who ads excluded",
+   "evidence": "Scholarly ad-count analysis, 44/103",
+   "place": "Chicago Defender (newspaper)",
+   "source": "The Free Library, \"Visual representations of feminine beauty in the Black press: 1915-1950\"",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1932",
+   "event": "Children's librarian Charlemae Hill-Rollins begins children's programming at the Hall Branch Library in Bronzeville.",
+   "evidence": "Chicago Magazine (2014), quoting archivist Beverly Cook",
+   "place": "Bronzeville, Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1935-02-04",
+   "event": "DuSable High School opens as 'New Wendell Phillips High School' to relieve overcrowding at Wendell Phillips Academy.",
+   "evidence": "Wikipedia; AbeBooks 1937 'Red and Black' yearbook listing",
+   "place": "4934 S. Wabash Ave., Bronzeville",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1936",
+   "event": "First edition of The Negro Motorist Green Book published by Victor Hugo Green (New Yorker, postal worker) for the rising Black middle class; Chicago listings will concentrate ~80% in Bronzeville",
+   "evidence": "SITES exhibition materials: \"The Green Book,\" first published in 1936",
+   "place": "New York (publisher); Chicago listings",
+   "source": "GlobeNewswire/SITES (2023-01-12)",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1936-04-25",
+   "event": "New Wendell Phillips is renamed for Jean Baptiste Point DuSable, Chicago's first permanent non-Native settler.",
+   "evidence": "Wikipedia",
+   "place": "Bronzeville, Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1938",
+   "event": "Jack L. Cooper launches 'Search for Missing Persons' on WSBC, reuniting Black listeners with family members separated by migration.",
+   "evidence": "Radio Hall of Fame; TeachRock",
+   "place": "Chicago (WSBC broadcast)",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1941",
+   "event": "FSA photographers (Russell Lee, Edwin Rosskam, Jack Delano, John Vachon) document Bronzeville, including kitchenette interiors — the photographic record later curated in Maren Stange's Bronzeville (2003).",
+   "evidence": "Library of Congress FSA-OWI collection (Russell Lee kitchenette photo, 1941); thefreelibrary review of Stange (2003).",
+   "place": "Bronzeville, South Side",
+   "source": "Library of Congress; thefreelibrary.com review (n.d.)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1942",
+   "event": "John H. Johnson founds the Negro Digest with a $500 loan; it becomes Ebony in November 1945 — the start of Johnson Publishing's household magazine empire.",
+   "evidence": "Congressional Record, vol. 151, H8133 (2005).",
+   "place": "Chicago (Johnson Publishing)",
+   "source": "Congressional Record (2005)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1943-06-19",
+   "event": "Chicago Defender publishes 'Ferne Wood Becomes Bride of John A. Kennedy' — an example of the Black press wedding-announcement genre.",
+   "evidence": "Cited in 'Read All About It' (Taylor & Francis, 2026)",
+   "place": "Chicago",
+   "source": "Peer-reviewed article (citation)",
+   "verification": "Provisional",
+   "workstream": "w1-home-family",
+   "red_team_note": "Red team: Rests on Provisional E-013[2] (1943 announcement, citation-only); annotate or remove."
+  },
+  {
+   "date": "1944",
+   "event": "Lucius Harper writes in the Chicago Defender that \"amid the clatter of scissors, the hum of electric clippers... more questions of local, national, and international moment are brought to light, debated and settled forthwith than are discussed on the floors of Congress\" — the barbershop as \"the most cosmopolitan institutions in our community life\"",
+   "evidence": "Harper's \"Dustin' off the News\" column, quoted in n+1 review of Quincy Mills",
+   "place": "Chicago Defender; Black barbershops",
+   "source": "Chicago Defender, 1944 (via n+1)",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: Rests on Provisional E-031[1] (1944 Harper quote, secondhand); annotate or remove."
+  },
+  {
+   "date": "1945",
+   "event": "St. Clair Drake and Horace R. Cayton publish Black Metropolis: A Study of Negro Life in a Northern City (University of Chicago Press), built on WPA field research.",
+   "evidence": "Publication record; Bronzeville documentary sources list",
+   "place": "Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1945",
+   "event": "St. Clair Drake and Horace Cayton publish Black Metropolis, documenting that Black residents paid significantly more for groceries of markedly lower quality than white residents in nearby neighborhoods",
+   "evidence": "Study findings on grocery pricing/quality in the Black Belt",
+   "place": "Bronzeville / Black Belt, Chicago",
+   "source": "Drake & Cayton, Black Metropolis (1945), via summary",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: 1945 grocery pricing rests on Provisional E-046[0] via summary; annotate or remove."
+  },
+  {
+   "date": "1945",
+   "event": "Drake & Cayton publish Black Metropolis: A Study of Negro Life in a Northern City (University of Chicago Press), based on WPA field research — the foundational study of South Side Black everyday life, including kitchenette-era social institutions.",
+   "evidence": "Publisher/scholarly descriptions; cited across multiple sources in this workstream.",
+   "place": "Chicago South Side (subject)",
+   "source": "Drake & Cayton (UChicago Press, 1945)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1946",
+   "event": "Chicago Defender Charities takes over organizing the Bud Billiken Parade.",
+   "evidence": "encyclopedia2.thefreedictionary.com",
+   "place": "Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1946",
+   "event": "Wayne Miller begins his 1946–1948 South Side photographic series of ordinary Black Chicagoans — clubs, churches, sporting events, parades, kitchenette interiors.",
+   "evidence": "WAMC obituary (May 25, 2013); all-about-photo.com.",
+   "place": "South Side",
+   "source": "WAMC (2013)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1947",
+   "event": "A.A. Rayner & Sons Funeral Home is established on Chicago's South Side.",
+   "evidence": "Yellow Pages; merchantsnearby; ReleaseWire 2016",
+   "place": "South Side, Chicago (now 318 E. 71st St.)",
+   "source": "Business listings; company press release",
+   "verification": "Provisional",
+   "workstream": "w1-home-family",
+   "red_team_note": "Red team: Rayner 1947 rests on E-017[0] now downgraded to Provisional (company-supplied); annotate or remove."
+  },
+  {
+   "date": "1947",
+   "event": "Oscar Brown Jr. starts 'Negro Newsfront' on WJJD — described as the first known Black news program in Chicago and one of the first Black radio newscasts in the country.",
+   "evidence": "Ryan Ellett, Encyclopedia of Black Radio (McFarland, 2011), via otrr.org.",
+   "place": "Chicago (WJJD)",
+   "source": "Ellett (2011)",
+   "verification": "Provisional",
+   "workstream": "w3-media-ritual",
+   "red_team_note": "Red team: Negro Newsfront 'first' rests on Provisional E-071[1] ('claimed'); annotate or remove."
+  },
+  {
+   "date": "1947-03",
+   "event": "The Chicago Defender and WBBM co-sponsor 'Star Quest,' a Black amateur talent contest (Tuesdays/Thursdays, March–May 1947); 450+ audition; grand prize a 13-week, $100/week WBBM contract.",
+   "evidence": "Ryan Ellett (2011), via otrr.org.",
+   "place": "Chicago (WBBM)",
+   "source": "Ellett (2011)",
+   "verification": "Provisional",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1949",
+   "date_precision": "year",
+   "event": "Ebony publishes 'Why Negroes Buy Cadillacs,' documenting the car's meaning as an aspiration to be treated as a 'first class American' (quoted in the Columbia Journalism Review).",
+   "source": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php",
+   "uncertainty": "Quoted via CJR, not read from the original 1949 issue.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1952",
+   "event": "Studs Terkel begins his daily WFMT radio show (runs to 1997); the tapes become the Studs Terkel Radio Archive.",
+   "evidence": "Wikipedia / studsterkel.wfmt.com; infoDOCKET (2018).",
+   "place": "Chicago (WFMT)",
+   "source": "en.wikipedia.org/wiki/Studs_Terkel_Radio_Archive",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1954",
+   "event": "George E. Johnson Sr., Joan Johnson, and a barber found Johnson Products Company on Chicago's South Side with a $250 loan; Ultra Wave relaxer sold to barbers in Chicago and Harlem",
+   "evidence": "AP obituary; Wikipedia",
+   "place": "South Side Chicago",
+   "source": "AP (2026-07-07); Wikipedia",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1954",
+   "event": "DuSable High School's \"Wonder Five\" becomes the first all-Black team led by a Black coach to reach an integrated state tournament final (Illinois) — a South Side neighborhood touchstone",
+   "evidence": "IMDb/Berkow; SLAM",
+   "place": "DuSable High School, Bronzeville",
+   "source": "IMDb; SLAM Online",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: Wonder Five 'first' rests on E-049[0] now downgraded to Provisional; annotate or remove."
+  },
+  {
+   "date": "1954-10-18",
+   "date_precision": "day",
+   "event": "The Regency TR-1, the first commercially manufactured transistor radio, hits stores at $50 (Smithsonian Magazine).",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+   "uncertainty": "None for the launch date as reported.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1955",
+   "event": "Jet magazine publishes the open-casket photographs of murdered Chicago teenager Emmett Till — an act widely credited with helping ignite the modern civil rights movement.",
+   "evidence": "NPR Code Switch (June 16, 2016); Congressional Record (2005).",
+   "place": "Chicago (Jet, Johnson Publishing)",
+   "source": "NPR (2016)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1955",
+   "date_precision": "year",
+   "event": "Allen University publishes the 1955 'Yellow Jacket' yearbook (Taylor Publishing Company; NMAAHC 2017.99.2, public domain).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+   "uncertainty": "None.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1956",
+   "event": "The Nat King Cole Show debuts on NBC — the first nationally broadcast TV variety show hosted by an African-American (runs 1956–57).",
+   "evidence": "NPR (July 10, 2013).",
+   "place": "National NBC broadcast; watched in Chicago homes",
+   "source": "NPR (2013)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1957",
+   "event": "Joan Johnson repositions Ultra Wave as Ultra Sheen, marketed to women — eliminating \"the need to use a hot comb, grease, and frequent trips to the beauty shop\"",
+   "evidence": "Company history via Wikipedia",
+   "place": "South Side Chicago",
+   "source": "Wikipedia, \"Johnson Products Company\"",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1958",
+   "event": "Eunice Walker Johnson creates the Ebony Fashion Fair at Chicago's Johnson Publishing Company — the traveling show that will become the world's largest, giving Black audiences their first exposure to haute couture",
+   "evidence": "Hindman; GWU exhibition brief",
+   "place": "Chicago (Johnson Publishing Company)",
+   "source": "Spotlight on Lake (Hindman); GWU Media Relations",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1959",
+   "date_precision": "year",
+   "event": "Braun TP 1 portable transistor radio/phonograph produced (MoMA object 2500).",
+   "source": "https://www.moma.org/collection/works/2500",
+   "uncertainty": "None for the cataloged date.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1963",
+   "event": "Charlemae Rollins publishes 'Christmas Gif': An Anthology of Christmas Poems, Songs, and Stories, Written By and About Black People'; she reads from it with Studs Terkel on WFMT.",
+   "evidence": "Chicago Magazine (2014) with archive.org audio",
+   "place": "Chicago",
+   "source": "Magazine + archived broadcast",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1963",
+   "event": "Jubilee Showcase premieres on WLS-TV (ABC Chicago) — a weekly Black gospel music program produced by Sid Ordower; runs 21 years to 1984, winning an Emmy for a 'Pioneering Project in Television.'",
+   "evidence": "LA Sentinel (2013).",
+   "place": "Chicago (WLS-TV)",
+   "source": "LA Sentinel (2013)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1963-04-01",
+   "event": "WVON-AM launches on 1450 AM as the 'Voice of the Negro' — all-Black staff ('The Good Guys'), Chess Records ownership, 1,000 watts day/250 night — and rapidly becomes one of Chicago's most-listened stations.",
+   "evidence": "Congressional Record H2072–H2073 (April 2013); T Dog Media (2013); Gapers Block (2013).",
+   "place": "Chicago (1450 AM, licensed Cicero)",
+   "source": "Congressional Record (2013)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1964-06",
+   "event": "James B. Stronks enumerates ~35 storefront churches operating in Black neighborhoods on Chicago's south and west sides, principally along West Roosevelt Road — a precisely dated census of the storefront-church landscape.",
+   "evidence": "Stronks, Names journal (1964), via ans-names.pitt.edu.",
+   "place": "West Roosevelt Road, South/West Sides",
+   "source": "Stronks (1964)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1966-12-26",
+   "event": "First Kwanzaa observance (December 26, 1966 - January 1, 1967), created by Maulana Karenga.",
+   "evidence": "Smithsonian Magazine (2016)",
+   "place": "Los Angeles (origin); observed in Chicago",
+   "source": "Secondary",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1968",
+   "event": "The Regal Theater closes after forty years (1928-1968) of movies and live shows.",
+   "evidence": "C. Semmes, The Regal Theater and Black Culture",
+   "place": "Bronzeville, Chicago",
+   "source": "Scholarly book (secondary)",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1968",
+   "date_precision": "year",
+   "event": "Ferguson Funeral Home creates the 'Freedom Fighters' funeral fan depicting Martin Luther King Jr., John F. Kennedy, and Robert F. Kennedy (Sixth Floor Museum 2018.018.0001).",
+   "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+   "uncertainty": "None for the cataloged date.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1968-04",
+   "event": "After Dr. King's assassination, WVON suspends music for wall-to-wall news coverage; its personalities call for calm during the riots — remembered as 'a calming presence in a sea of tension.'",
+   "evidence": "Congressional Record H2072–H2073; T Dog Media (2013).",
+   "place": "Chicago",
+   "source": "Congressional Record (2013)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1970",
+   "date_precision": "year",
+   "event": "East High School publishes the 'Grey Eagle' yearbook with handwritten student inscriptions (Taylor Publishing Company; NMAAHC 2018.15.3).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2018.15.3",
+   "uncertainty": "None.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1970-08-17",
+   "event": "Soul Train premieres in Chicago; young Black Chicagoans line up around the block at the Chicago Board of Trade Building for the first taping. (No tape of the inaugural year survives — likely taped over.)",
+   "evidence": "WBEZ/NPR, Arionne Nettles (Sept 10, 2023).",
+   "place": "Chicago (Board of Trade Building studios)",
+   "source": "WBEZ/NPR (2023)",
+   "verification": "Provisional",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1971",
+   "event": "The Karamu Ya Imani (Feast of Faith, December 31) is reportedly developed in Chicago during a citywide movement of Pan-African organizations.",
+   "evidence": "New York Family article (single secondary source)",
+   "place": "Chicago",
+   "source": "Single secondary source",
+   "verification": "Provisional",
+   "workstream": "w1-home-family",
+   "red_team_note": "Red team: Karamu 1971 rests on single parenting-magazine source E-020[1] Provisional; annotate or remove."
+  },
+  {
+   "date": "1971",
+   "event": "Johnson Products becomes the first African-American-owned company to trade on the American Stock Exchange; the same year it begins sponsoring Soul Train, becoming the first Black-owned company to sponsor a national TV program — carrying the local Chicago dance show to national syndication",
+   "evidence": "AP; Wikipedia",
+   "place": "Chicago / Wall Street / national",
+   "source": "AP (2026-07-07); Wikipedia",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1972",
+   "event": "Rev. Larry Hopkins founds St. Rest Country Kitchen at 87th & Cottage Grove — future \"oldest-running Black-owned soul food restaurant\" in Chicago",
+   "evidence": "Black Enterprise (Oct. 2023)",
+   "place": "87th & Cottage Grove, South Side",
+   "source": "Black Enterprise (2023-10-15)",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1972",
+   "event": "Fashion Fair Cosmetics launched by Eunice Johnson — high-end beauty products for women of color, after she found no lipstick or foundation matching Black women's hues",
+   "evidence": "Searchable Museum (NMAAHC); NPR Illinois/Andre Leon Talley",
+   "place": "Chicago (Johnson Publishing)",
+   "source": "Searchable Museum; NPR Illinois (2010-01-07)",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "1972/1976",
+   "date_precision": "bounded",
+   "event": "MoMA dates the Antonio's Manufacturing 'Black Power Afro pick hair comb' (object 215.2019) to 1972-1976.",
+   "source": "https://www.moma.org/collection/works/401235",
+   "uncertainty": "Institutional date bound; not a manufacture-day precision.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1973",
+   "date_precision": "year",
+   "event": "Cadillac Eldorado manufactured; the 1973 example owned and driven by Chuck Berry is accessioned at NMAAHC (2011.137.1).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+   "uncertainty": "None for the model year.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1974",
+   "event": "Reportedly, dJ Sam Chatman coins \"steppin'\" for the Chicago partner dance (previously the \"Bop\" since the 1940s) after calling out a dancer to \"step on\" — the dance's evolutionary transition year",
+   "evidence": "Wikipedia: \"in 1974 a DJ/Prompter by the name of Sam Chatman... announced... 'Stepping'\"; dates also given as 1973",
+   "place": "Chicago parties",
+   "source": "Wikipedia, \"Chicago stepping\"",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: Asserting 1974 as 'the evolutionary transition year' rests on Provisional E-037[0]; dates vary 1973/74 — reword to 'reportedly' or annotate."
+  },
+  {
+   "date": "1974",
+   "event": "Studs Terkel publishes Working, including the interview with Renault Robinson — one of the few Black officers in the Chicago Police Department — documenting traffic-stop policing of the Black community and his co-founding of the Afro-American Patrolmen's League.",
+   "evidence": "NPR 'Working Then and Now' (Sept 25, 2016); Nonprofit Quarterly (Sept 30, 2016).",
+   "place": "Chicago",
+   "source": "NPR (2016)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1975",
+   "event": "College station WKKC FM 89.3 begins programming Steppers music — first radio foothold for Chicago steppin'",
+   "evidence": "Wikipedia",
+   "place": "Chicago",
+   "source": "Wikipedia, \"Chicago stepping\"",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: WKKC 1975 rests on Wikipedia-sourced E-037[2] Provisional; annotate or remove."
+  },
+  {
+   "date": "1977",
+   "event": "Midway Broadcasting (Wesley South, Pervis Spann) buys WVON — Black ownership succeeds the Chess era; call letters reinterpreted as 'Voice of the Nation.'",
+   "evidence": "Congressional Record H2072–H2073; T Dog Media (2013).",
+   "place": "Chicago",
+   "source": "Congressional Record (2013)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1977",
+   "event": "Geneva Smitherman publishes Talkin and Testifyin: The Language of Black America, establishing African American vernacular as a rule-governed, richly expressive language variety.",
+   "evidence": "Univ. of Minnesota colloquium preface (1996).",
+   "place": "(national scholarship; applied to Chicago)",
+   "source": "Univ. of Minnesota (1996)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "1981",
+   "event": "WBMX assembles the Hot Mix Five street DJs; house-music mix shows on WBMX/WGCI become a citywide Saturday-night listening ritual (claimed 250k–1M listeners).",
+   "evidence": "'Sample and Hold – The House Sound of Chicago' (music.hyperreal.org, 1990s).",
+   "place": "Chicago (WBMX/WGCI)",
+   "source": "music.hyperreal.org (n.d.)",
+   "verification": "Provisional",
+   "workstream": "w3-media-ritual",
+   "red_team_note": "Red team: Hot Mix Five audience figure rests on Provisional E-055[0][1]; 'High' uncertainty — annotate as claimed estimate or remove."
+  },
+  {
+   "date": "1984",
+   "date_precision": "year",
+   "event": "Dr. Willis A. Adcock of Texas Instruments donates a Regency TR-1 to the Smithsonian's National Museum of American History (Smithsonian Magazine).",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+   "uncertainty": "As reported by Smithsonian Magazine.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1986",
+   "event": "First national Black Family Reunion on the National Mall, created by Dorothy I. Height (National Council of Negro Women); later held in 28 markets including Chicago.",
+   "evidence": "Cincinnati Enquirer (2026), quoting Height's 2008 interview",
+   "place": "Washington, D.C. (origin); Chicago (later)",
+   "source": "Newspaper (secondary)",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "1989",
+   "event": "WVAZ (102.7 FM) begins Saturday-night Steppers programming — commercial radio foothold for the steppin' scene",
+   "evidence": "Wikipedia",
+   "place": "Chicago",
+   "source": "Wikipedia, \"Chicago stepping\"",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: WVAZ 1989 rests on Wikipedia-sourced E-037[2] Provisional; annotate or remove."
+  },
+  {
+   "date": "1993",
+   "event": "Johnson Products sold to a pharmaceutical firm for more than $60 million",
+   "evidence": "V103/iHeart tribute (2026)",
+   "place": "Chicago",
+   "source": "V103 iHeart (2026-07-18)",
+   "verification": "Provisional",
+   "workstream": "w2-commerce-leisure",
+   "red_team_note": "Red team: 1993 Johnson Products sale price rests on single radio-tribute source, no entity claim; annotate or remove."
+  },
+  {
+   "date": "1993-01-25",
+   "date_precision": "day",
+   "event": "Sears ceases production of the 'Big Book' catalog (Smithsonian Magazine).",
+   "source": "https://www.smithsonianmag.com/innovation/before-folding-30-years-ago-the-sears-catalog-sold-some-surprising-products-180981504/",
+   "uncertainty": "None for the cessation date as reported.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "1994",
+   "event": "Geneva Smitherman publishes Black Talk: Words and Phrases from the Hood to the Amen Corner (revised 2000) — a cultural dictionary of Black language, explicitly cultural rather than etymological in method.",
+   "evidence": "Library Journal review (2000).",
+   "place": "(national scholarship)",
+   "source": "Library Journal (2000)",
+   "verification": "Provisional",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2000",
+   "event": "Deborah Willis publishes Reflections in Black: A History of Black Photographers, 1840 to the Present (W.W. Norton) — first comprehensive history; treats the family album as a sacred archive.",
+   "evidence": "Wikipedia bibliography; Medium profile (2026).",
+   "place": "(national; family-album thesis)",
+   "source": "W.W. Norton (2000)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2002/2014",
+   "date_precision": "bounded",
+   "event": "NMAAHC dates its Eden Enterprise fist afro pick (object 2014.125.2) to 2002-2014.",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+   "uncertainty": "Institutional date bound.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "2003",
+   "event": "Maren Stange publishes Bronzeville: Black Chicago in Pictures, 1941–1943 (The New Press), curating 150+ FSA images of South Side everyday life.",
+   "evidence": "thefreelibrary review (n.d.).",
+   "place": "Chicago South Side (subject)",
+   "source": "The New Press (2003)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2005",
+   "event": "Wallace Best publishes Passionately Human, No Less Divine: Religion and Culture in Black Chicago, 1915–1952 (Princeton UP) — the landmark study of migration-era Black Chicago religious culture.",
+   "evidence": "Cited in Cambridge article DOI 10.1017/S000964072300210X (2023).",
+   "place": "Chicago (subject)",
+   "source": "Princeton UP (2005)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2006-08-04",
+   "event": "The Anderson-Drew Families hold their reunion in Chicago, August 4-6, 2006; Rep. Danny K. Davis enters a tribute in the Congressional Record.",
+   "evidence": "Congressional Record, Vol. 152, No. 102, E1619-E1620 (primary)",
+   "place": "Chicago",
+   "source": "Congressional Record (primary)",
+   "verification": "Verified",
+   "workstream": "w1-home-family"
+  },
+  {
+   "date": "2009",
+   "event": "Ebony Fashion Fair closes after 51 years — presented in 187 venues, raised over $50 million for African American charities",
+   "evidence": "Hindman auction announcement",
+   "place": "national tour; founded Chicago",
+   "source": "Spotlight on Lake (Hindman)",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "2009",
+   "event": "Dave Jordano publishes Articles of Faith: African-American Community Churches in Chicago (Center for American Places) after five years photographing storefront churches on the south and west sides.",
+   "evidence": "PhilPapers abstract (n.d.).",
+   "place": "South/West Sides",
+   "source": "Center for American Places (2009)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2011",
+   "date_precision": "year",
+   "event": "NMAAHC accessions the Solar hot-comb set (2011.59.48ab) and the Chuck Berry 1973 Cadillac Eldorado (2011.137.1).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+   "uncertainty": "Accession year from object numbers.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "2013",
+   "event": "Chicago History Museum opens \"Inspiring Beauty: 50 Years of Ebony Fashion Fair,\" first-ever exhibition of the show — nearly 70 looks",
+   "evidence": "HuffPost/mam.org; Chicago History Museum",
+   "place": "Chicago History Museum",
+   "source": "mam.org (2013-03-15)",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "2013",
+   "date_precision": "year",
+   "event": "The Fitzwilliam Museum's 'Origins of the Afro Comb' exhibition places a 5,500-year-old Egyptian comb beside a modern fist comb (reported by a UCL conservator, 2013-10-28).",
+   "source": "https://blogs.ucl.ac.uk/museums/2013/10/28/african-hair-combs-a-conservators-comment/",
+   "uncertainty": "Exhibition year from the dated report.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "2014",
+   "event": "Record collector/oral historian Bob Abrahamian dies at 35; his 35,000-disc Chicago soul collection (with interviews at sittinginthepark.com) is donated by his family to the Stax Museum (announced 2021).",
+   "evidence": "Stax Museum press release (2021); NPR (May 19, 2021).",
+   "place": "Chicago (collection); Memphis (Stax)",
+   "source": "Stax Museum (2021)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2014",
+   "date_precision": "year",
+   "event": "NMAAHC accessions the Eden Enterprise fist afro pick (2014.125.2) and the Murray's pomade tin (2014.261ab).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+   "uncertainty": "Accession year from object numbers.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "2016",
+   "event": "Amanda I. Seligman publishes Chicago's Block Clubs: How Neighbors Shape the City (UChicago Press) — documenting block clubs from Urban League Great Migration origins through CAPS-era community policing.",
+   "evidence": "Chicago Magazine (Sept 2016); publisher synopsis.",
+   "place": "Chicago",
+   "source": "UChicago Press (2016)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2017",
+   "date_precision": "year",
+   "event": "NMAAHC accessions the 1955 Allen University 'Yellow Jacket' (2017.99.2).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+   "uncertainty": "Accession year from object number.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "2018",
+   "date_precision": "year",
+   "event": "NMAAHC accessions the 1970 East High 'Grey Eagle' (2018.15.3); the Sixth Floor Museum accessions the 1968 'Freedom Fighters' fan (2018.018.0001).",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2018.15.3",
+   "uncertainty": "Accession year from object numbers.",
+   "workstream": "w4-object-biographies",
+   "verification": "Provisional",
+   "red_team_note": "Not individually evidence-graded by workers; default Provisional pending grading."
+  },
+  {
+   "date": "2018-05",
+   "event": "First 1,200+ programs of the Studs Terkel Radio Archive go online free at studsterkel.wfmt.com (Chicago History Museum + Library of Congress digitization of ~5,600 tapes).",
+   "evidence": "infoDOCKET/Library Journal (May 16, 2018); Chicago Magazine (May 2018).",
+   "place": "Chicago (WFMT/Chicago History Museum)",
+   "source": "infoDOCKET (2018)",
+   "verification": "Verified",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "date": "2025-09",
+   "event": "Liz Abunaw opens Forty Acres Fresh Market — Black woman-owned supermarket in Austin, Chicago's first full-service grocery for a neighborhood that lacked one",
+   "evidence": "Black Enterprise (Feb. 2026)",
+   "place": "Chicago Ave. & Waller St., Austin, West Side",
+   "source": "Black Enterprise (2026-02-16)",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "2026-07-06",
+   "event": "George E. Johnson Sr., founder of Johnson Products, dies at 99 in downtown Chicago; funeral at Trinity United Church of Christ after visitation at Leak & Sons",
+   "evidence": "AP; V103",
+   "place": "Chicago",
+   "source": "AP (2026-07-07); V103 iHeart",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "date": "2026-08-08",
+   "event": "97th Bud Billiken Parade steps off from 39th & King Drive to 51st Street, ending with the Washington Park family festival — still the largest African-American parade in the US",
+   "evidence": "Particle News; V103; Wikipedia",
+   "place": "Bronzeville / Washington Park",
+   "source": "Particle News (2026-08); Wikipedia",
+   "verification": "Verified",
+   "workstream": "w2-commerce-leisure"
+  }
+ ]
+}

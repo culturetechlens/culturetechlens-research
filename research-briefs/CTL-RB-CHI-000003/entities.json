@@ -1,0 +1,207 @@
+{
+  "brief_id": "CTL-RB-CHI-000003",
+  "entities": [
+    {
+      "claims": [
+        "VERIFIED: 'Wall Street of the black community' per NPS 1985 (CL-005)"
+      ],
+      "grade": "VERIFIED",
+      "id": "E-CORR-35TH",
+      "name": "35th Street corridor (State & 35th, Black capital core)",
+      "sibling_ref": "CTL-DR-BCI-001 (bronzeville, binga-bank, overton, supreme-life)",
+      "type": "place"
+    },
+    {
+      "claims": [
+        "SUPPORTED: entertainment strip 1910s-40s (CL-002); DISPUTED: boundaries (CL-003)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-CORR-STROLL",
+      "name": "The Stroll (State Street entertainment corridor)",
+      "sibling_ref": "CTL-DR-BCI-001 (bronzeville); CTL-DR-BVM-005 (venue layer)",
+      "type": "place"
+    },
+    {
+      "claims": [
+        "VERIFIED: Regal opened Feb 4 1928, white-financed until Fuller's 1961 purchase, demolished 1973 (CL-006); DISPUTED: Savoy closing year (CL-007)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-CORR-47TH",
+      "name": "47th Street corridor (Regal-Savoy entertainment district)",
+      "sibling_ref": "CTL-DR-BCI-001 (b-regal, b-delisa); CTL-DR-BVM-005 (47th/South Parkway complex)",
+      "type": "place"
+    },
+    {
+      "claims": [
+        "SUPPORTED: 43rd-47th node and 63rd node commercial activity (CL-024, sibling jazz venues)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-CORR-COTTAGE-GROVE",
+      "name": "Cottage Grove Avenue corridor",
+      "sibling_ref": "CTL-DR-PLACE-001 (Tivoli, McKie's, Washington Park National Bank)",
+      "type": "place"
+    },
+    {
+      "claims": [
+        "VERIFIED: Englewood succession 69% to 99% Black 1960-80 (CL-014); Sears closure Jan 1976 (CL-012); transit withdrawal (CL-022); PROVISIONAL: 'second-busiest' (CL-011); UNRESOLVED: Black professional services (CL-015)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-CORR-63RD",
+      "name": "63rd Street corridor (Englewood & Woodlawn)",
+      "sibling_ref": "CTL-DR-PLACE-001 (full corridor biography); CTL-RB-CHI-000001 (sibling brief)",
+      "type": "place"
+    },
+    {
+      "claims": [
+        "SUPPORTED: 'Equator of Chicago' nickname (CL-016); commercial growth 1914-1929 (CL-017); 1968 destruction (CL-018); rebuild failure (CL-019)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-CORR-MADISON",
+      "name": "Madison Street corridor (West Side)",
+      "sibling_ref": "CTL-DR-BCI-001 (1968 uprising, north-lawndale)",
+      "type": "place"
+    },
+    {
+      "claims": [
+        "SUPPORTED: 'miles of businesses' (CL-020); Independence Bank anchor (CL-021)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-CORR-79TH",
+      "name": "79th Street corridor (Chatham / Greater Grand Crossing / Auburn-Gresham)",
+      "sibling_ref": null,
+      "type": "place"
+    },
+    {
+      "claims": [
+        "SUPPORTED: ISF branch at 87th & King Drive; Target at Chatham Village Square 2002 (CL-029); Jewel-Osco at 87th & Dan Ryan 1974"
+      ],
+      "grade": "PROVISIONAL",
+      "id": "E-CORR-87TH-95TH",
+      "name": "87th / 95th Street secondary corridors (Chatham, Roseland)",
+      "sibling_ref": null,
+      "type": "place"
+    },
+    {
+      "claims": [
+        "VERIFIED: established 1908, >$1M assets (PROVISIONAL), closed June 1930; seeded the 35th St corridor"
+      ],
+      "grade": "VERIFIED",
+      "id": "E-ORG-BINGA-BANK",
+      "name": "Binga Bank",
+      "sibling_ref": "CTL-DR-BCI-001 (binga-bank)",
+      "type": "org"
+    },
+    {
+      "claims": [
+        "VERIFIED: opened Feb 4 1928; white-financed until 1961; demolished 1973"
+      ],
+      "grade": "VERIFIED",
+      "id": "E-ORG-REGAL",
+      "name": "Regal Theater",
+      "sibling_ref": "CTL-DR-BCI-001 (b-regal); CTL-DR-BVM-005",
+      "type": "org"
+    },
+    {
+      "claims": [
+        "SUPPORTED: built 1922 ($350,000), closed June 6 1931; Chicago Landmark 2008"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-ORG-SSTS",
+      "name": "South Side Trust and Savings Bank",
+      "sibling_ref": null,
+      "type": "org"
+    },
+    {
+      "claims": [
+        "SUPPORTED: co-founded 1964 by George Johnson; sold to Shore Bank 1995"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-ORG-INDEP-BANK",
+      "name": "Independence Bank",
+      "sibling_ref": null,
+      "type": "org"
+    },
+    {
+      "claims": [
+        "VERIFIED: founder of Binga Bank; anchored the Black capital core"
+      ],
+      "grade": "VERIFIED",
+      "id": "E-PER-BINGA",
+      "name": "Jesse Binga",
+      "sibling_ref": "CTL-DR-BCI-001 (jesse-binga)",
+      "type": "person"
+    },
+    {
+      "claims": [
+        "VERIFIED: Overton Hygienic, Douglass National Bank, Chicago Bee founder"
+      ],
+      "grade": "VERIFIED",
+      "id": "E-PER-OVERTON",
+      "name": "Anthony Overton",
+      "sibling_ref": "CTL-DR-BCI-001 (anthony-overton)",
+      "type": "person"
+    },
+    {
+      "claims": [
+        "SUPPORTED: converted Pekin Theatre 1905"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-PER-MOTTS",
+      "name": "Robert T. Motts",
+      "sibling_ref": null,
+      "type": "person"
+    },
+    {
+      "claims": [
+        "SUPPORTED: opened furniture store on Cottage Grove 1934; four-generation business"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-PER-PARKER",
+      "name": "Adolph Parker",
+      "sibling_ref": null,
+      "type": "person"
+    },
+    {
+      "claims": [
+        "SUPPORTED: Johnson Products; Independence Bank co-founder 1964"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-PER-JOHNSON",
+      "name": "George Johnson",
+      "sibling_ref": null,
+      "type": "person"
+    },
+    {
+      "claims": [
+        "SUPPORTED: oral history on 35th-to-47th 'downtown' shift (2001)"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-PER-BLACK",
+      "name": "Timuel Black",
+      "sibling_ref": null,
+      "type": "person"
+    },
+    {
+      "claims": [
+        "SUPPORTED: 28-block stretch of West Madison destroyed; 36 major fires April 5 1968"
+      ],
+      "grade": "SUPPORTED",
+      "id": "E-EVT-1968",
+      "name": "April 1968 uprisings (Madison Street, Roosevelt Road, Woodlawn)",
+      "sibling_ref": "CTL-DR-BCI-001 (woodlawn, 1968 campaign)",
+      "type": "event"
+    },
+    {
+      "claims": [
+        "VERIFIED: Sears opened (date disputed 1929/1934); Sears closed Jan 1976; Regal demolished 1973; el branches truncated 1982, demolished 1997; Dan Ryan 1962"
+      ],
+      "grade": "VERIFIED",
+      "id": "E-EVT-DISINVEST",
+      "name": "Anchor-loss and transit-withdrawal sequence (1962-1997)",
+      "sibling_ref": "CTL-DR-PLACE-001",
+      "type": "event"
+    }
+  ],
+  "entity_count": 20,
+  "version": "0.1"
+}

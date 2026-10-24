@@ -1,0 +1,526 @@
+{
+ "project": "CTL-DR-GLOBAL-001",
+ "count": 65,
+ "negative_findings": [
+  {
+   "track": "a",
+   "finding": "Investigated whether specific Southern counties/towns can be tied to specific Chicago neighborhoods as chain-migration feeders. Found strong state-level and city-level patterns (Mississippi Delta towns - Clarksdale/Stovall, Winona, Vicksburg, Chickasaw County; Alabama - Montgomery, Tuscaloosa, Birmingham; Georgia; Louisiana - New Orleans - all feeding Chicago's South Side/Bronzeville), documented family by family. Did NOT locate an archivally or statistically demonstrated feeder-county-to-named-neighborhood chain (e.g., 'Holmes County, MS to West Woodlawn') in this pass.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "a",
+   "finding": "Broad reverse-migration statistics are documented (Frey/Brookings 2004: Chicago among metros with substantial Black outmigration in the late 1990s while Atlanta and other Southern metros gained; Stack's Call to Home documents returns to nine Carolina counties but uses pseudonyms and is not Chicago-specific). Only two named individuals with a Chicago-to-South return were documented in this pass: Margaret Walker (Chicago to Jackson State College, MS, 1949) and Sun Ra (Chicago to Birmingham, 1990-93, for family care after a stroke). No widely documented working-class Chicago returnee was found.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "a",
+   "finding": "Investigated direct institutional links between Chicago and Detroit Black cultural institutions (e.g., Motown-Chicago label partnerships). Found meaningful bilateral traces - the Nation of Islam's 1934 headquarters move (Detroit to Chicago), John Lee Hooker's Detroit-to-Chicago recording relationship with Vee-Jay, and Detroit's Funk Brothers playing on Hooker's 1961 Chicago 'Boom Boom' session - but no documented formal partnership or joint institution. Motown itself shows no Chicago institutional footprint in sources consulted.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "a",
+   "finding": "Documented: Langston Hughes's decades-long Chicago Defender column (Harlem writer to Chicago paper, from Feb 1943); the UNIA's Harlem headquarters to Chicago division pipeline (Garvey's Sept 1919 visit); the BSCP's New York leadership to Chicago division. NOT found: a formal Harlem-Chicago civic-institutional compact (e.g., linked churches, schools, or municipal programs). The Chitlin' Circuit venue network (including Chicago's Regal and Harlem's Apollo) is frequently asserted as a linkage but was not verified with a citable source in this pass.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "a",
+   "finding": "The evidence assembled supports discrete bilateral corridors and hub-and-spoke networks (Mississippi Delta-Chicago via Illinois Central; New Orleans-Chicago jazz; Memphis-Chicago blues recording pipeline; Atlanta-Chicago civil-rights axis; Harlem-Chicago press/movement links; Detroit-Chicago via NOI and studio sessions), NOT a single integrated 'world system.' The closest multi-node systems are the Black press wire network (Defender + ANP correspondents in every major Black population center) and the Pullman porter information network. The track should avoid imposing a world-system model where evidence shows bilateral links.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "a",
+   "finding": "The claim that Jelly Roll Morton moved from New Orleans to Chicago in 1923 is widely repeated but was not verified with an archival or scholarly source in this pass; omitted from entities pending verification.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "No reliable evidence of a Chicago stop found. ANP/L OC evidence shows ANP correspondent Timothy photographed with Nkrumah, but no Chicago meeting documented.",
+   "sources_checked": "Web searches for Nkrumah's 1958 U.S. tour itinerary (Washington, New York, Philadelphia stops documented).",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "No Chicago stop documented; U.S. visits appear DC-focused. Not included as an entity.",
+   "sources_checked": "Searches for Nyerere's U.S. visits (1957, 1960, 1963) and Chicago appearances.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "No Chicago visit documented. Jet's Chicago-published cover story is recorded as a media link only (GBL-B-032).",
+   "sources_checked": "Searches for Mboya's 1959 U.S. tour and student airlifts; Jet's April 30, 1959 cover documented.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "No named Chicago organizers, date, venue, or press/archive item located. Not included as an entity.",
+   "sources_checked": "Activist histories claim 1961 Chicago demonstrations; searched for named organizers, dates, venues, newspaper accounts, archive items.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Undocumented. The Ghana Students' Union (mid-late 1960s) is the closest verified student link.",
+   "sources_checked": "General airlift histories reviewed; no Chicago institution or person tie surfaced.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Recorded as Disputed on GBL-B-014; the Courier assignment is the verified link.",
+   "sources_checked": "Global Histories article claims Rogers was the Defender's Ethiopia correspondent; ResearchGate/Pambazuka identify him as the Pittsburgh Courier's correspondent.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Contradictory evidence; only the 1993 visit is asserted. Flagged under GBL-B-001/GBL-B-002.",
+   "sources_checked": "Rogers's interview phrasing suggests a July 1990 Chicago trip; declassified 1990 State/FBI itineraries list no Chicago stop.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Unresolved; recorded on GBL-B-005, not as a verified link.",
+   "sources_checked": "Single YouTube Shorts claim; no newspaper or church archive located.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Recorded as Provisional on GBL-B-002; not given its own entity pending corroboration.",
+   "sources_checked": "Single testimony from Rogers; no church record or press account located.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Undocumented; recorded as uncertainty on GBL-B-048/GBL-B-049. Only Casablanca has documented exchanges.",
+   "sources_checked": "CSCI announcements confirm pairings/years; no delegation or program records surfaced in this pass.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Undocumented at item level; ANP network recorded broadly on GBL-B-031.",
+   "sources_checked": "Horne's monograph confirms the network broadly; individual correspondence items not examined (would require archive visit).",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Undocumented; recorded as uncertainty on GBL-B-043.",
+   "sources_checked": "Britannica confirms African-collected objects; no named African museum partner found.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "b",
+   "finding": "",
+   "detail": "Undocumented; only Woodtor's founding history and the festival's operation are asserted (GBL-B-035).",
+   "sources_checked": "Festival programs describe broad African vendor/performer participation; no stable list of named African partner institutions found.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "c",
+   "finding": "No documented basis for a generic 'Caribbean influence on Chicago house music' origin claim.",
+   "detail": "Targeted searches found no credited samples, named collaborations, or documented tours supporting a Caribbean origin for Chicago house. What IS documented is Caribbean-descended participation in Chicago house (Puerto Rico-born, Chicago-raised Liz Torres recording with Master C&J, 1986–1988). Broad influence claims must not be made from this.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "No named Chicago drill ↔ Jamaican dancehall artist collaborations or Chicago-based tours documented.",
+   "detail": "DancehallMag documents Jamaican artists adopting Chicago drill/trap production frameworks (trap dancehall), i.e., influence flowing Chicago→Jamaica, but no bilateral named-artist collaborations, Chicago-recorded collabs, or tours were found. This is a negative finding, not evidence of an exchange.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Hill 60 'Chicago Steelband' (Trinidad) is a naming false positive.",
+   "detail": "Andrew 'Pan' de la Bastide played in Hill 60, also called the Chicago Steelband, in Trinidad. No relationship to Chicago, Illinois exists. Excluded as a Chicago–Caribbean relationship.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Exact founding year of the First Chicago Caribbean Carnival is unresolved.",
+   "detail": "Only oral-history language ('late 1970s') was found; no independent secondary source or archival record confirms a year. Also: do not confuse founder Melida Harris Barrow with Reverend Willie Barrow.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Clifton Dillon's Grammy attribution is misleading and unverified.",
+   "detail": "The jamadio.co profile implies executive-producing Shabba Ranks' X-Tra Naked 'resulted in two Grammy Awards.' No Grammy/album-credit source confirming Dillon personally won two Grammys was found. His Chicago relocation and production credits remain Provisional pending verification against album credits.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "No documented Trinidadian hometown association or scholarly settlement study for Chicago was found.",
+   "detail": "Evidence for a Trinidadian community is limited to a small population and one documented business (D's Roti and Trini Cuisine, Woodlawn). No hometown association, consular office, or dedicated historical study was located.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "No dedicated scholarly demographic study of early-20th-century West Indian migration to Chicago was found.",
+   "detail": "Garvey-era UNIA organizing in Chicago (1920) is documented, but no source found quantifies or maps the underlying West Indian migration stream itself. The Belizeans encyclopedia entry is the strongest migration documentation and covers a mid-century stream.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Wild Hare owner's Tuff Gong/Ziggy Marley claims are unverified from primary sources.",
+   "detail": "The Beachwood Reporter reports Zeleke Gessesse's band Dallol was signed to Bob Marley's Tuff Gong label and toured opening for Ziggy Marley and the Melody Makers, via a chain of newspaper sources; no label or tour-record verification was found. Venue history itself is Verified.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Population estimates for Caribbean communities in Chicago conflict between community and official sources.",
+   "detail": "Belizean community leaders estimated 35,000 in Chicago (1999) vs. 4,242 in the metro area per the 2000 census (Encyclopedia of Chicago). The Consulate General of Haiti estimated ~40,000 self-reported Haitians in Chicago (TRiiBE, 2026) — a consular estimate, not Census/ACS data. Use neither as a verified count.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "The American West Indian Association appears only as a passing mention.",
+   "detail": "The Encyclopedia of Chicago's 'Belizeans' entry notes Belizean participation, but no independent documentation of the association's founding, location, or activities was found. Kept Provisional, not Verified.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Devon Brown's claim of performing with Ziggy Marley is single-source and uncorroborated.",
+   "detail": "The claim appears only as Brown's own statement in a 2003 Daily Northwestern article about Northwestern's CaribFest. Recorded as an attributed claim, not a verified collaboration.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "c",
+   "finding": "Du Sable's birthplace details are debated despite the settled founder narrative.",
+   "detail": "Saint-Domingue (Haitian) origin is widely accepted in Haitian-diaspora scholarship and the Haitians in Chicago record, but exact birthplace records are absent; precise birth details are Provisional, not Verified.",
+   "sources_checked": "2026-09-28",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No reliable specific archival proof of a Chicago engagement was located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No reliable specific archival proof was located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No reliable specific archival proof was located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No reliable specific archival proof was located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "Single secondary recollection; no archival advertisement, newspaper listing, or venue record located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "Crowd-sourced listings with no corroborating archival source located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "None found; the Chicago connection rests only on Hughes's concurrent Chicago Defender column (1942–62).",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No dedicated dataset located; Puerto Rican migration scholarship does not disaggregate by race in the located sources.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "Limited specific documentation found; Puerto Rican Chicago dominates the located record.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No specific items documented in available sources.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "No press corroboration located.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "d",
+   "finding": "Only the São Paulo municipal legislative act (Law 14.112/2005) was verified.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Not supported. Sources document specific tours, bookings, and recordings — not a rescue of a moribund scene. Chess Records continued recording Chicago blues throughout the period, and artists like Muddy Waters and Howlin' Wolf sustained US careers. The 'rescue' framing flattens Black musicians' agency and is recorded here as Disputed mythology, not fact.",
+   "sources_checked": "AFBF histories (Louder, Bear Family), University of Mississippi archival exhibits, Broonzy/Memphis Slim biographies, and scholarly summaries (Adelt on blues tourism).",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Contradicted. The recording was made at Châteauvallon on 13 August 1970, not in Paris on 5 October 1969. Commercial metadata repeating the old legend should not be cited.",
+   "sources_checked": "Discographic discussion citing France Musique and session documentation (Organissimo forum thread).",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Disputed detail. Two music histories place the 2 September 1964 recording at Regent Sound, London, and note it exists only in mono; some fan sources claim Chess Studios, Chicago. The chart facts are unaffected. Flagged Provisional.",
+   "sources_checked": "Facility Fun and Men's Journal (citing uDiscover Music) versus fan discographic notes.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Framing disputed. Evidence indicates a Chicago DJ International release licensed to the UK, not a British-compiled record. Tong's organizational role is plausible but rests on a single commercial bio. Flagged Provisional; do not present as 'the first British compilation' without qualification.",
+   "sources_checked": "MusicGateway's Pete Tong biography versus the discographic upload of The House Sound of Chicago (DJ International, 1986, UK availability via London Records).",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Unresolved. No archival, press, or venue documentation found. Excluded from entities; needs primary sourcing before inclusion.",
+   "sources_checked": "Session web searches; only fan wikis (e.g., Fandom house-music wiki) mention this tour.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Unresolved. Plausible but undocumented in this research; excluded from entity claims pending a citable source.",
+   "sources_checked": "Session searches captured the claim in summaries but no citable source was retained.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Unresolved and out of scope for this track. Flagged so the track does not accidentally assert a single 'first'.",
+   "sources_checked": "Not Europe-specific; noted as a contested historiographic question during research.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Plausible but unverified from primary text. Lyric sites are weak sources; the claim was excluded from entities pending verification against album audio/credits or stronger press.",
+   "sources_checked": "Lyric sites and a Decoded Magazine retrospective on Homework.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Not documented in this research. Not pursued further; excluded rather than asserted.",
+   "sources_checked": "Session searches surfaced no documentation.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "e",
+   "finding": "",
+   "detail": "Unresolved. Recorded as an attributed, scope-limited statement (about her company, not Black culture generally) pending primary sourcing. Must not be generalized into a 'Europe saved Black art' narrative.",
+   "sources_checked": "Session research noted the attribution but did not capture a primary source.",
+   "status": "Unresolved",
+   "search_log_complete": true
+  },
+  {
+   "track": "f",
+   "finding": "Sources describe aid toward Canada but name no traveler, Canadian partner, route, or dated correspondence. No specific Chicago–Canada institutional relationship was documented; do not map one without stronger evidence.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Generic denominational 'presence in 60 countries' claims are boosterism without a Chicago congregation-to-overseas partnership. Only the Roberts Temple/Till Mississippi–Chicago link is documented.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Disputed",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Strong local history (Chicago History Museum) found, but no dated correspondence, branch, delegation, or partnership beyond Chicago — except the Curtis-to-Freedmen's training pipeline, which is documented as a relationship. No further cross-city linkages yet.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Founded 1916 as an early affiliate of the National Urban League (New York, 1910). National affiliation is documented but no dated national meeting, correspondence, or joint program beyond branch status was found. Kept out of the entity set.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Launched August 11, 1929 for Defender carriers; national visibility is broadly asserted but no historical named cross-city exchange was documented in this round. Kept out of the entity set.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "The primary form letter verifies dates and venues only; attendance counts were not found. Not claimed.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Exact figures are repeated from encyclopedia/derivative sources; the international network is corroborated by LOC's 1953 newsreel inventory and Horne's peer-reviewed book, but the precise counts remain unconfirmed. Recorded as Provisional.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Provisional",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Currently supported only by a single Congressional tribute; no corroboration found. Recorded as Provisional with boosterism risk.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Provisional",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "NPS confirms IBPOEW founded in Cincinnati (1897) and Knights of Pythias (colored) in Richmond (1869); both were part of Black Chicago's fraternal social architecture per local history journalism, but no named Chicago lodge, charter date, or correspondence was documented in this round. Kept out of the entity set.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Published in Chicago 1919–1939 with reported 65,000 circulation within a year and a rivalry with the Defender, but no documented cross-city distribution network or correspondence. Kept out of the entity set.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "The YMCA's role as the ASNLH's 1915 founding venue is documented; 'first YMCA in the Midwest to serve people of color' alone is not a documented intercity relationship.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Unresolved",
+   "search_log_complete": false
+  },
+  {
+   "track": "f",
+   "finding": "Evidence supports several bilateral or hub-and-spoke networks centered on Chicago (Defender distribution, ANP correspondents, headquarters relocations, convention hosting, delegation trips) but not a single integrated world system. The dataset should not be read as one.",
+   "detail": "",
+   "sources_checked": "",
+   "status": "Disputed",
+   "search_log_complete": false
+  }
+ ]
+}

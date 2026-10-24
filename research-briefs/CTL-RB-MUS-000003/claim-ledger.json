@@ -1,0 +1,492 @@
+{
+  "brief_id": "CTL-RB-MUS-000003",
+  "brief_title": "The Black Chicago Record Store",
+  "claim_ledger_version": "1.0",
+  "claims": [
+    {
+      "claim": "George Daniels worked at Chess Records, then at a Black-owned record wholesale company on Michigan Avenue.",
+      "grade": "VERIFIED",
+      "id": "C01",
+      "note": "HistoryMakers finding aid (EAD A2007_156) states both employments explicitly.",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "claim": "Daniels managed a wholesale record shop in 1968 and assumed ownership in 1969, renaming it George's Music Room.",
+      "grade": "VERIFIED",
+      "id": "C02",
+      "note": "HistoryMakers finding aid gives the 1968 manage / 1969 assume-ownership sequence and the renaming.",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "claim": "George's Music Room became an in-store promotional stop for recording artists.",
+      "grade": "VERIFIED",
+      "id": "C03",
+      "note": "Stated in the HistoryMakers finding aid.",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "claim": "Daniels founded the National United Independent Retailers, an organization dedicated to protecting African American-owned independent retailers; the HistoryMakers finding aid dates the founding to 1990.",
+      "grade": "VERIFIED",
+      "id": "C04",
+      "note": "Founding and mission in the finding aid; founding year 1990 per the detailed finding-aid search result.",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "claim": "HistoryMakers characterizes George's Music Room as benefiting surrounding North Lawndale businesses and as a site where Daniels mentored neighborhood youth.",
+      "grade": "VERIFIED",
+      "id": "C05",
+      "note": "The archive's own characterization; infrastructure interpretation built on it is our analysis, not the archive's wording.",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "claim": "Bob Koester founded Delmark Records in 1953 (originally 'Delmar') and relocated the label to Chicago in 1958.",
+      "grade": "VERIFIED",
+      "id": "C06",
+      "note": "Delmark's own institutional tribute page states founding year, original name, and relocation.",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "claim": "In 1959 Koester took over Seymour's Jazz Mart at 439 S. Wabash Ave. from songwriter Seymour Schwartz and renamed it Jazz Record Mart.",
+      "grade": "VERIFIED",
+      "id": "C07",
+      "note": "Stated on Delmark's institutional page (via quoted Block Club reporting); exact year and address given.",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "claim": "Delmark Records was subsidized by the store's sales, giving Koester freedom to record and curate across genres.",
+      "grade": "VERIFIED",
+      "id": "C08",
+      "note": "Delmark's own page states the subsidy relationship explicitly; the core store-label symbiosis claim.",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "claim": "Jazz Record Mart's final address was 27 E. Illinois St.; the store closed in 2016, with Koester attributing the closure to rising rent.",
+      "grade": "VERIFIED",
+      "id": "C09",
+      "note": "Delmark page quotes the 2016 DNAinfo report with Koester's rent explanation.",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "claim": "Calkins (2019) finds that between 1980 and 1990, record stores outside majority-white areas had significantly higher failure probabilities than stores within majority-white areas.",
+      "grade": "VERIFIED",
+      "id": "C10",
+      "note": "Peer-reviewed article, City & Community 18(3), 853-873, DOI 10.1111/cico.12433; finding stated in abstract and reproduced in the dissertation excerpt.",
+      "sources": [
+        "S24"
+      ]
+    },
+    {
+      "claim": "Calkins (2019) finds record stores were once more clustered in predominantly Black areas than they were by 2010.",
+      "grade": "VERIFIED",
+      "id": "C11",
+      "note": "Stated in the study's findings; strongest quantitative support for unequal infrastructure loss.",
+      "sources": [
+        "S24"
+      ]
+    },
+    {
+      "claim": "Davis (2011) reports that close to 1,000 African American-owned record stores operated in the South during their heyday.",
+      "grade": "VERIFIED",
+      "id": "C12",
+      "note": "Southern Cultures 17(4) article; scale figure is the article's own estimate for the 1960s-70s South.",
+      "sources": [
+        "S25"
+      ]
+    },
+    {
+      "claim": "Davis (2011) documents that Black store owners often had difficulty securing supplier credit and had to pay cash for inventory — a supply-side constraint, not evidence of stores extending credit to customers.",
+      "grade": "VERIFIED",
+      "id": "C13",
+      "note": "Critical distinction preserved: this is wholesale/supplier credit denied to owners, not consumer credit extended by stores.",
+      "sources": [
+        "S25"
+      ]
+    },
+    {
+      "claim": "Vee-Jay Records was founded in 1953 by Vivian Carter and James Bracken, who owned a record store in Gary, Indiana; Carter was also a DJ.",
+      "grade": "VERIFIED",
+      "id": "C14",
+      "note": "Indiana public-history reporting (Indiana Historical Bureau blog / IPM Nightlights). Gary, not Chicago — comparative regional case.",
+      "sources": [
+        "S06"
+      ]
+    },
+    {
+      "claim": "Russell Lee photographed the corner of Maxwell and Halsted Streets, Chicago, in April 1941; the image sits in the Library of Congress Prints & Photographs Division, FSA-OWI Collection, reproduction number LC-USF33-012984-M5.",
+      "grade": "VERIFIED",
+      "id": "C15",
+      "note": "Reproduction number from the scholarly figure caption citing LOC P&P; FSA-OWI works carry no known publication restrictions per S05.",
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "claim": "George's Music Room stood at 3915 W. Roosevelt Road in North Lawndale.",
+      "grade": "SUPPORTED",
+      "id": "C16",
+      "note": "Sibling CTL research (CTL-DR-MUSIC-001 / TRiiBE); not independently verified against city directories in this brief — cap at SUPPORTED.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "claim": "Imports Etc., on a side street in Chicago's Printers Row, was in 1986 the city's only record store dealing exclusively in dance music; most of its customers were DJs, stocking new 12-inch singles, old Philadelphia soul, and Italian imports.",
+      "grade": "SUPPORTED",
+      "id": "C17",
+      "note": "Contemporary SPIN feature (November 1986 issue). The 'only' claim is the reporter's contemporary characterization, not an audited market survey.",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "claim": "After Farley 'Jackmaster' Funk played Telex's 'Brainwash' (Belgian group, English lyrics by Sparks) in his sets, Imports Etc. sold 1,000 copies in two weeks.",
+      "grade": "SUPPORTED",
+      "id": "C18",
+      "note": "Participant testimony in contemporary journalism; not audited sales data. Capped at SUPPORTED, not VERIFIED.",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "claim": "Chip E. worked at Imports Etc.; after local DJs played his acetate of 'Like This,' he pressed 1,000 copies (borrowing his mother's income-tax check), sold 500 the first day and the rest within the week.",
+      "grade": "SUPPORTED",
+      "id": "C19",
+      "note": "Participant testimony in SPIN 1986 — documents the store-as-label pipeline: DJ-employee -> acetate -> club/radio play -> store sales -> pressing.",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "claim": "The WBMX Hot Mix 5 created record demand before release: DJs brought rough mixes to the show, and exposure ensured enough profit to fund the next pressing.",
+      "grade": "SUPPORTED",
+      "id": "C20",
+      "note": "SPIN 1986, quoting participants; J.M. Silk's 'Music Is the Key' reportedly sold 2,000 copies the day it came out after pre-release airplay.",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "claim": "Gramaphone Records opened in 1969.",
+      "grade": "VERIFIED",
+      "id": "C21",
+      "note": "Corroborated across NPR (2021), the Chicago Tribune (2019), and the store's Wikipedia article — multiple strong sources, per red-team rule.",
+      "sources": [
+        "S10",
+        "S11",
+        "S17"
+      ]
+    },
+    {
+      "claim": "Joe Dale and Carl Borowski took over Gramaphone in 1978, and the store shifted toward dance music in the early 1980s.",
+      "grade": "SUPPORTED",
+      "id": "C22",
+      "note": "Joe Dale obituaries (EDM All Day, Electronic Groove, March 2025) corroborate the 1978 takeover and early-1980s dance pivot; specialist press.",
+      "sources": [
+        "S20"
+      ]
+    },
+    {
+      "claim": "Gramaphone employed working DJs — including Derrick Carter, Ralphi Rosario, DJ Sneak, DJ Heather, DJ Colette, Mark Farina, and Jesse De La Peña — functioning as a retail library, peer-learning environment, equipment-advice point, and professional pipeline.",
+      "grade": "SUPPORTED",
+      "id": "C23",
+      "note": "Names across NPR, 5 Magazine, Beatsway, Wikipedia; Serafini's equipment-advice role from NPR/BM reporting.",
+      "sources": [
+        "S10",
+        "S12",
+        "S13",
+        "S17"
+      ]
+    },
+    {
+      "claim": "Vivian Carter played records for teenagers in her Gary, Indiana record store, solicited their reactions, and used that feedback in talent and record decisions — a store-as-A&R case.",
+      "grade": "SUPPORTED",
+      "id": "C24",
+      "note": "Indiana public-history reporting; comparative case, not a Chicago store.",
+      "sources": [
+        "S06"
+      ]
+    },
+    {
+      "claim": "Before computerized reporting, Billboard's charts drew separately on self-reported record-store sales, DJ playlists, and jukebox plays.",
+      "grade": "SUPPORTED",
+      "id": "C25",
+      "note": "Public Radio East history of the Hot 100 methodology; national context — no Chicago-specific reporting-panel source located.",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "claim": "More than 20 Black-owned stores formed the F.A.M.S. Coalition (Forever a Music Store) in 2021, seeking industry support, exclusives, vinyl variants, release parties, and equal opportunity.",
+      "grade": "SUPPORTED",
+      "id": "C26",
+      "note": "Radio X (2023) reporting; Drew Mitchell of Chicago's 606 Records quoted advocating equal opportunity for minority-owned stores.",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "claim": "Warner executive Steve Corbin described Black independent stores as important in breaking records in the early 1990s.",
+      "grade": "SUPPORTED",
+      "id": "C27",
+      "note": "Industry-executive testimony in Radio X reporting; modern parallel to Daniels's 1990 organizing.",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "claim": "In the Ticketron/Ticketmaster era, concert tickets were commonly bought at record stores; fans lined up outside record stores for tickets.",
+      "grade": "SUPPORTED",
+      "id": "C28",
+      "note": "Pollstar (2007) and TicketNews confirm the general US practice; no Chicago-specific store identified as a ticket outlet — that gap is UNRESOLVED (C72).",
+      "sources": [
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "claim": "Ora Nelle (Maxwell Radio) sold discs from a Maxwell Street storefront.",
+      "grade": "SUPPORTED",
+      "id": "C29",
+      "note": "Sibling CTL research (CTL-DR-BMI-002 track D); illustrates storefront-as-distribution in the Maxwell Street corridor.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "claim": "Jukebox operators tracked plays by location and regularly changed selections; Black and working-class artists often reached listeners through jukeboxes despite limited radio access.",
+      "grade": "SUPPORTED",
+      "id": "C30",
+      "note": "Smithsonian Magazine history and Absher (2014) monograph, U. Michigan Press. No Chicago store-to-operator link established.",
+      "sources": [
+        "S16",
+        "S23"
+      ]
+    },
+    {
+      "claim": "By 1954, Midwest jukebox operators were receiving rising requests for R&B in teenage locations.",
+      "grade": "SUPPORTED",
+      "id": "C31",
+      "note": "Absher (2014); adjacent distribution/listening infrastructure, not record stores themselves.",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "claim": "A 1970s Billboard piece documents Black entrepreneurs' barriers in one-stop/wholesale operations, including Jerry Augustus's Hitsville co-op one-stop in New York.",
+      "grade": "SUPPORTED",
+      "id": "C32",
+      "note": "Via Indiana University African American Music & Culture Digital Library; national context for Daniels's wholesaling career.",
+      "sources": [
+        "S22"
+      ]
+    },
+    {
+      "claim": "Charles L. Hughes (Country Soul, 2015): country-soul-era record stores sold records but also other goods; staff listened to customer requests; stores were sites of 'musical cross-pollination.'",
+      "grade": "SUPPORTED",
+      "id": "C33",
+      "note": "UNC Press blog interview with the scholar; regional (Southern) context, used comparatively.",
+      "sources": [
+        "S26"
+      ]
+    },
+    {
+      "claim": "Gramaphone Records is located at 2843 N. Clark St.; Hyde Park Records at 1377 E. 53rd St.",
+      "grade": "SUPPORTED",
+      "id": "C34",
+      "note": "Third Coast Review vinyl-shop directory; secondary directory source.",
+      "sources": [
+        "S21"
+      ]
+    },
+    {
+      "claim": "Joe Dale died in March 2025 (announced March 26, 2025); Gramaphone's statement called him an 'unsung hero of house music.'",
+      "grade": "SUPPORTED",
+      "id": "C35",
+      "note": "Two obituaries (EDM All Day, Electronic Groove); the 'unsung hero' phrase is the store's own attributed characterization.",
+      "sources": [
+        "S20"
+      ]
+    },
+    {
+      "claim": "In the Sway's Universe interview, George Daniels describes how labels' distribution and pricing practices undercut Black-owned mom-and-pop stores.",
+      "grade": "SUPPORTED",
+      "id": "C36",
+      "note": "Video title and description text verified 2026-09-28; segment-level transcript timestamps still to be logged at publication. Used as illustration of the label-retail conflict claim.",
+      "sources": [
+        "S08"
+      ]
+    },
+    {
+      "claim": "Gramaphone Records was featured in the documentary Better Living Through Circuitry.",
+      "grade": "SUPPORTED",
+      "id": "C37",
+      "note": "Wikipedia article claim; fine as corroboration, not sole basis for any infrastructure argument.",
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "claim": "Gramaphone was 'the first of its kind in the Chicago area, focusing on vinyl for DJs.'",
+      "grade": "SUPPORTED",
+      "id": "C38",
+      "note": "'First' claims are inherently fragile; this is reported contemporary characterization, used with attribution, not as an audited market fact.",
+      "sources": [
+        "S17",
+        "S11"
+      ]
+    },
+    {
+      "claim": "Koester ran Jazz Record Mart for nearly 50 years at multiple Chicago locations before opening Bob's Blues & Jazz Mart in Irving Park in 2016; he sold Delmark to Julia A. Miller in 2018.",
+      "grade": "SUPPORTED",
+      "id": "C39",
+      "note": "Delmark page and Block Club obituary; the 2018 sale confirms the label's continuation beyond the store.",
+      "sources": [
+        "S03"
+      ]
+    },
+    {
+      "claim": "George's Music Room's closure date: TRiiBE/sibling reporting says 2010; an IMDb documentary description says 2017.",
+      "grade": "DISPUTED",
+      "id": "C40",
+      "note": "Two secondary sources conflict; no primary source checked. Do not publish an unqualified closing date.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "claim": "Imports Etc. owner surname: 'Weisburg' in some accounts, 'Weisberg' in others; store name rendered 'Importes, Etc.' and 'Imports Etc.'",
+      "grade": "DISPUTED",
+      "id": "C41",
+      "note": "Spelling variants across sources; brief standardizes on 'Imports Etc.' (SPIN 1986 contemporary spelling) and flags the variants.",
+      "sources": [
+        "S07",
+        "S28"
+      ]
+    },
+    {
+      "claim": "The origin of the name 'house music': store bin labeling is one participant account among several (Knuckles's Warehouse vs. Farley's 'nobody in the city was playing imports' account in SPIN 1986).",
+      "grade": "DISPUTED",
+      "id": "C42",
+      "note": "SPIN 1986 itself carries two competing naming accounts; do not publish a settled story.",
+      "sources": [
+        "S07"
+      ]
+    },
+    {
+      "claim": "A 1979 record pool operated at Imports Etc.",
+      "grade": "PROVISIONAL",
+      "id": "C43",
+      "note": "Later oral history via sibling research; uncorroborated by contemporary documentation.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "claim": "DJ Ron Hardy used Imports Etc. as a supply base.",
+      "grade": "PROVISIONAL",
+      "id": "C44",
+      "note": "Sibling-research oral-history lead; SPIN 1986 (contemporary) does not name Hardy in connection with the store.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "claim": "Koester's store directly incubated Alligator Records, Living Blues magazine, and Flying Fish Records.",
+      "grade": "PROVISIONAL",
+      "id": "C45",
+      "note": "Depends on an indirectly reproduced Bruce Iglauer quotation; original Tribune/Sun-Times text not located.",
+      "sources": [
+        "S28"
+      ]
+    },
+    {
+      "claim": "The National United Independent Retailers' activities and membership beyond its 1990 founding.",
+      "grade": "PROVISIONAL",
+      "id": "C46",
+      "note": "Finding aid establishes founding and mission; scope of activity not detailed in located sources.",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "claim": "Imports Etc.'s opening year, closing year, and exact street address.",
+      "grade": "UNRESOLVED",
+      "id": "C47",
+      "note": "SPIN 1986 locates it only as 'a side street in Chicago's Printers Row'; city-directory work remains.",
+      "sources": []
+    },
+    {
+      "claim": "Whether named Chicago record stores routinely extended credit, layaway, tabs, or delayed payment to retail customers.",
+      "grade": "UNRESOLVED",
+      "id": "C48",
+      "note": "No Chicago-specific evidence located. Largest uncertainty in the brief. Supplier-credit evidence (C13) must not be misread as customer-credit evidence.",
+      "sources": []
+    },
+    {
+      "claim": "Which Chicago record stores were on Billboard's pre-computerized chart reporting panel.",
+      "grade": "UNRESOLVED",
+      "id": "C49",
+      "note": "The national methodology (C25) is SUPPORTED; no Chicago-specific panel membership located.",
+      "sources": []
+    },
+    {
+      "claim": "Which Chicago record stores served as Ticketmaster/Ticketron outlets.",
+      "grade": "UNRESOLVED",
+      "id": "C50",
+      "note": "General practice SUPPORTED (C28); Chicago-specific identification not found.",
+      "sources": []
+    },
+    {
+      "claim": "Specific Chicago record-store-to-jukebox-operator relationships.",
+      "grade": "UNRESOLVED",
+      "id": "C51",
+      "note": "Jukebox infrastructure context SUPPORTED (C30-C31); store-operator links not established.",
+      "sources": []
+    },
+    {
+      "claim": "George Daniels's role in protecting African American-owned independent retailers is documented through his founding of the National United Independent Retailers (1990) and his HistoryMakers oral history.",
+      "grade": "VERIFIED",
+      "id": "C52",
+      "note": "Archive + interview corroboration; the Sway interview elaborates the label-practice conflict.",
+      "sources": [
+        "S01",
+        "S08"
+      ]
+    },
+    {
+      "id": "C53",
+      "claim": "The specific form of artist appearances at George's Music Room (in-store performances vs. signings/photo appearances).",
+      "grade": "UNRESOLVED",
+      "sources": [
+        "S01"
+      ],
+      "note": "The HistoryMakers finding aid establishes the store as an artist promotional stop (C03) but does not detail the form those appearances took."
+    }
+  ],
+  "date_compiled": "2026-09-28",
+  "grade_definitions": {
+    "DISPUTED": "Multiple sources conflict; no resolution found yet.",
+    "PROVISIONAL": "Plausible and relevant, but resting on indirect quotation, later oral history, or one weak source; needs corroboration before publication as fact.",
+    "SUPPORTED": "Well-attested by reputable journalism or specialist reporting, but dependent on a single secondary account or participant testimony.",
+    "UNRESOLVED": "No evidence located; an open research question.",
+    "VERIFIED": "Directly established by primary or strong institutional evidence (archive, government, label, artist's own records). Per CTL red-team rule, one ordinary secondary source does not equal VERIFIED; corroboration across two or more strong sources also qualifies."
+  }
+}

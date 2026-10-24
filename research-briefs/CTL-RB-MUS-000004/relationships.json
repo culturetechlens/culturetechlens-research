@@ -1,0 +1,286 @@
+{
+ "brief_id": "CTL-RB-MUS-000004",
+ "ingestion_note": "VERIFIED edges are eligible for knowledge-graph ingestion. SUPPORTED edges carry grade visibly and are NOT eligible for automated ingestion until promoted.",
+ "relationships": [
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "Davis 2013; HR0201; Rush-Senate 2019",
+   "relationship": "bought",
+   "subject": "Leonard Chess",
+   "subject_label": "person",
+   "subject_to_object": "purchased 1450 AM WHFC and launched WVON, Apr 1, 1963"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "Davis 2013; HR0201; Rush-Senate 2019",
+   "relationship": "bought",
+   "subject": "Phil Chess",
+   "subject_label": "person",
+   "subject_to_object": "co-purchased 1450 AM WHFC and launched WVON, Apr 1, 1963"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "HR0201; Davis 2013",
+   "relationship": "employed",
+   "subject": "WVON launch lineup",
+   "subject_label": "group",
+   "subject_to_object": "Franklin McCarthy, E. Rodney Jones, Herb Kent, Wesley South, Pervis Spann on air at launch"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "Davis 2013; HR0201",
+   "relationship": "sold_to",
+   "subject": "Chess family",
+   "subject_label": "group",
+   "subject_to_object": "sold to Globetrotter Communications after Leonard Chess's death (consummated 1970)"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "FCC Call Sign History via WGRB history",
+   "relationship": "renamed",
+   "subject": "1390 AM",
+   "subject_label": "facility",
+   "subject_to_object": "call sign changed WVON\u2192WGCI, Oct 3, 1983"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "FCC Call Sign History via WGRB history",
+   "relationship": "renamed",
+   "subject": "1450 AM (Midway)",
+   "subject_label": "facility",
+   "subject_to_object": "WXOL\u2192WVON, Mar 28, 1984"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "Harold Washington",
+   "object_label": "person",
+   "provenance": "AAUB cpb-aacip-71cf9b5d2fb (Palmer 1989 oral history); Chicago Tribune obituary",
+   "relationship": "mobilized_election_of",
+   "subject": "Lu Palmer",
+   "subject_label": "person",
+   "subject_to_object": "Palmer's WVON commentary ('We shall see in '83') drove 1983 mayoral mobilization"
+  },
+  {
+   "grade": "VERIFIED",
+   "object": "WVON",
+   "object_label": "radio station",
+   "provenance": "HR0201; Davis 2013",
+   "relationship": "converted_to_talk",
+   "subject": "Midway Broadcasting",
+   "subject_label": "company",
+   "subject_to_object": "adopted Black-oriented talk format on WVON 1450, 1986"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WGRT",
+   "object_label": "radio station",
+   "provenance": "Billboard 1966-12-17; Pruter 1992",
+   "relationship": "bought",
+   "subject": "Ralph Atlass corporation",
+   "subject_label": "company",
+   "subject_to_object": "bought WAAF 950 AM ($900,000, 1967); relaunched as WGRT soul"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WJPC",
+   "object_label": "radio station",
+   "provenance": "Duncan's American Radio; Ebony 1973-12; Jet 1973-11-15",
+   "relationship": "bought",
+   "subject": "Johnson Publishing Company",
+   "subject_label": "company",
+   "subject_to_object": "bought 950 AM ($1.8M, May 29, 1973); calls \u2192 WJPC Nov 1, 1973"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WJPC",
+   "object_label": "radio station",
+   "provenance": "WSFS station history (citing Billboard 1992-11-28; M Street Journal 1992-07-08)",
+   "relationship": "performed_on",
+   "subject": "Tom Joyner",
+   "subject_label": "person",
+   "subject_to_object": "DJ at WJPC (950 AM)"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WJPC",
+   "object_label": "radio station",
+   "provenance": "WSFS station history",
+   "relationship": "performed_on",
+   "subject": "LaDonna Tittle",
+   "subject_label": "person",
+   "subject_to_object": "DJ at WJPC"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "1390 AM",
+   "object_label": "facility",
+   "provenance": "Barlow 1999; Pruter 1992; Billboard 1963-04-13",
+   "relationship": "performed_on",
+   "subject": "Al Benson",
+   "subject_label": "person",
+   "subject_to_object": "Sunday gospel then secular R&B/blues DJ on WGES 1390 from 1945"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WYNR",
+   "object_label": "radio station",
+   "provenance": "Broadcasting 1962-06-18; Broadcasting 1962-09-03; Chicago Tribune 1963",
+   "relationship": "bought",
+   "subject": "McLendon interests",
+   "subject_label": "company",
+   "subject_to_object": "bought 1390 AM ($1M + $1M non-compete, 1962); launched all-Black WYNR Sept 1, 1962"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WNUS",
+   "object_label": "radio station",
+   "provenance": "Broadcasting 1964-08-24; Billboard 1964",
+   "relationship": "renamed",
+   "subject": "1390 AM",
+   "subject_label": "facility",
+   "subject_to_object": "WYNR\u2192WNUS all-news, Sept 3, 1964"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WGCI-FM",
+   "object_label": "radio station",
+   "provenance": "Broadcasting 1975-03-10; Billboard 1975-11-01",
+   "relationship": "bought",
+   "subject": "Globetrotter Communications",
+   "subject_label": "company",
+   "subject_to_object": "bought 107.5 FM + 1390 AM ($3.55M, Feb 1975); launched disco WGCI"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WGCI-FM",
+   "object_label": "radio station",
+   "provenance": "WGCI-FM history; HistoryMakers Dyson finding aid",
+   "relationship": "performed_on",
+   "subject": "Tom Joyner",
+   "subject_label": "person",
+   "subject_to_object": "afternoon host while doing KKDA Dallas mornings ('Fly Jock')"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WGCI-FM",
+   "object_label": "radio station",
+   "provenance": "HistoryMakers Marv Dyson finding aid",
+   "relationship": "hired",
+   "subject": "Marv Dyson",
+   "subject_label": "person",
+   "subject_to_object": "GM hired Doug Banks (mornings 1986\u201393), gave Steve Harvey his radio break"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WBMX",
+   "object_label": "radio station",
+   "provenance": "City of Chicago Warehouse Landmark Report 2023 (municipal primary)",
+   "relationship": "broadcast",
+   "subject": "Hot Mix 5",
+   "subject_label": "collective",
+   "subject_to_object": "among first to put club DJs doing live house mixes on radio, from 1981"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WBMX",
+   "object_label": "radio station",
+   "provenance": "WBMX.com 'Real Story' 2006 (participant oral history); WVAZ history",
+   "relationship": "created_show",
+   "subject": "Lee Michaels",
+   "subject_label": "person",
+   "subject_to_object": "PD created Hot Mix 5 for 'Saturday Night Live, Ain't No Jive'"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "Soul Train",
+   "object_label": "TV program",
+   "provenance": "Black Enterprise; blackamericaweb; TVInsider",
+   "relationship": "created",
+   "subject": "Don Cornelius",
+   "subject_label": "person",
+   "subject_to_object": "WVON announcer (1966) \u2192 created Soul Train (pilot 1970, syndication Oct 1971)"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "Herb Kent",
+   "object_label": "person",
+   "provenance": "Ebony 2016; Final Call 2016; radio-online 2016; Chicago Mag 2016",
+   "relationship": "worked_at",
+   "subject": "WVON",
+   "subject_to_object": "Kent worked at WVON (1962\u201370) after WGES, WBEE, WJOB, WHFC; 27 years at V103"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WXOL",
+   "object_label": "radio station",
+   "provenance": "Davis 2013 tribute; WVON station history",
+   "relationship": "founded",
+   "subject": "Pervis Spann",
+   "subject_label": "person",
+   "subject_to_object": "co-founded Midway Broadcasting; launched blues WXOL on 1450 (1979)"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "WXOL",
+   "object_label": "radio station",
+   "provenance": "Davis 2013 tribute; WVON station history",
+   "relationship": "founded",
+   "subject": "Wesley South",
+   "subject_label": "person",
+   "subject_to_object": "co-founded Midway Broadcasting; launched WXOL on 1450 (1979); pushed 1986 talk flip"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "race records",
+   "object_label": "object",
+   "provenance": "Ellett 2013 (via Newman biography)",
+   "relationship": "used_economically",
+   "subject": "Jack Cooper",
+   "subject_label": "person",
+   "subject_to_object": "used ASCAP-exempt race records on 'The All-Negro Hour' (WGBS, 1929) \u2014 cheaper than live talent"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "Democracy\u2013USA",
+   "object_label": "program",
+   "provenance": "Ellett 2013",
+   "relationship": "wrote",
+   "subject": "Richard Durham",
+   "subject_label": "person",
+   "subject_to_object": "wrote Democracy\u2013USA (WBBM, 1946), Here Comes Tomorrow (WJJD, 1947), Destination Freedom (WMAQ, 1948\u201350)"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "pay-for-play promotion",
+   "object_label": "practice",
+   "provenance": "NPR 2017-01-17 (McCabe); opentext.uoregon.edu",
+   "relationship": "regulated",
+   "subject": "Federal Communications Act (1960 amendments)",
+   "subject_label": "law",
+   "subject_to_object": "required on-air disclosure of pay-for-play; labels routed promotion via independent promoters"
+  },
+  {
+   "grade": "SUPPORTED",
+   "object": "minority station ownership",
+   "object_label": "policy",
+   "provenance": "congress.gov memo 2020; justice.gov SG brief",
+   "relationship": "enabled_by",
+   "subject": "FCC 1978 minority-ownership policy",
+   "subject_label": "policy",
+   "subject_to_object": "Tax Certificate + Distress Sale programs grew minority-owned stations ~40 (1978) to ~323 (1995)"
+  }
+ ],
+ "title": "Black Radio as Music Infrastructure"
+}

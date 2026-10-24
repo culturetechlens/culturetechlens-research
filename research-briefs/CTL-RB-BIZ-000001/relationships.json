@@ -1,0 +1,190 @@
+{
+  "research_id": "CTL-RB-BIZ-000001",
+  "relationships": [
+    {
+      "grade": "supported",
+      "notes": "Founding year 1933 per company history and press; capital details graded provisional separately.",
+      "object": "rb-biz-e001",
+      "provenance": "Leak & Sons company history; Sun-Times-derived reporting",
+      "relationship": "FOUNDED",
+      "subject": "rb-biz-e002"
+    },
+    {
+      "grade": "supported",
+      "notes": "",
+      "object": "rb-biz-e001",
+      "provenance": "Sun-Times-derived reporting (2026)",
+      "relationship": "DIRECTED",
+      "subject": "rb-biz-e003"
+    },
+    {
+      "grade": "provisional",
+      "notes": "Family account ($500 loan); no corporate records.",
+      "object": "rb-biz-e001",
+      "provenance": "Sun-Times-derived reporting (family account)",
+      "relationship": "FINANCED_FOUNDING_OF",
+      "subject": "rb-biz-e004"
+    },
+    {
+      "grade": "supported",
+      "notes": "Purchased Bell Auto & Undertaking Co., 1947; moved to 3232 S. King Dr, 1969.",
+      "object": "rb-biz-e007",
+      "provenance": "Newberry Library blog; Congressional Record Vol. 141",
+      "relationship": "FOUNDED_AND_OPERATED",
+      "subject": "rb-biz-e008"
+    },
+    {
+      "grade": "verified",
+      "notes": "",
+      "object": "rb-biz-e013",
+      "provenance": "Congressional Record Vol. 141 (Dec 18, 1995); IBHE records (Worsham founding)",
+      "relationship": "TRAINED_AT",
+      "subject": "rb-biz-e008"
+    },
+    {
+      "grade": "supported",
+      "notes": "Licensed director/embalmer; worked from 1958; ran firm after husband's 1995 death until 2007 closure.",
+      "object": "rb-biz-e007",
+      "provenance": "Chicago Sun-Times obituary (via Legacy, 2017)",
+      "relationship": "DIRECTED",
+      "subject": "rb-biz-e009"
+    },
+    {
+      "grade": "supported",
+      "notes": "Self-history; trademark first use Jan 1, 1947 corroborates year.",
+      "object": "rb-biz-e005",
+      "provenance": "aaraynerandsonsfuneralhome.com/about-us/",
+      "relationship": "FOUNDED",
+      "subject": "rb-biz-e006"
+    },
+    {
+      "grade": "supported",
+      "notes": "Company self-history; corroboration advised.",
+      "object": "rb-biz-e013",
+      "provenance": "aaraynerandsonsfuneralhome.com/about-us/",
+      "relationship": "TRAINED_AT",
+      "subject": "rb-biz-e006"
+    },
+    {
+      "grade": "supported",
+      "notes": "Company self-history.",
+      "object": "rb-biz-e015",
+      "provenance": "aaraynerandsonsfuneralhome.com/about-us/",
+      "relationship": "EMPLOYED_BY",
+      "subject": "rb-biz-e006"
+    },
+    {
+      "grade": "supported",
+      "notes": "Company self-history; the insurance-funeral nexus.",
+      "object": "rb-biz-e016",
+      "provenance": "aaraynerandsonsfuneralhome.com/about-us/",
+      "relationship": "AFFILIATED_WITH",
+      "subject": "rb-biz-e015"
+    },
+    {
+      "grade": "verified",
+      "notes": "Body arrived Sept 2, 1955; casket opened at Till-Mobley's insistence; prepared for public viewing under glass.",
+      "object": "Emmett Till (person)",
+      "provenance": "City of Chicago landmark report",
+      "relationship": "RECEIVED_AND_PREPARED_BODY_OF",
+      "subject": "rb-biz-e005"
+    },
+    {
+      "grade": "verified",
+      "notes": "Crowd counts vary (50,000 vs 100,000); sequence verified.",
+      "object": "rb-biz-e005",
+      "provenance": "City of Chicago landmark report",
+      "relationship": "HOSTED_PUBLIC_VIEWING_OF",
+      "subject": "Emmett Till (person)"
+    },
+    {
+      "grade": "verified",
+      "notes": "",
+      "object": "rb-biz-a001",
+      "provenance": "City of Chicago landmark report",
+      "relationship": "OPERATED_AT",
+      "subject": "rb-biz-e005"
+    },
+    {
+      "grade": "verified",
+      "notes": "Burial Sept 6, 1955; fifty-car procession.",
+      "object": "rb-biz-e010",
+      "provenance": "City of Chicago landmark report; Emmett Till Memory Project",
+      "relationship": "BURIED_AT",
+      "subject": "Emmett Till (person)"
+    },
+    {
+      "grade": "verified",
+      "notes": "Funeral Sept 3, 1955; National Monument site since July 25, 2023.",
+      "object": "rb-biz-e011",
+      "provenance": "NPS (2023); City of Chicago landmark report",
+      "relationship": "FUNERAL_HELD_AT",
+      "subject": "Emmett Till (person)"
+    },
+    {
+      "grade": "verified",
+      "notes": "Her decision is the political center; the funeral home was the machinery.",
+      "object": "rb-biz-e005",
+      "provenance": "City of Chicago landmark report",
+      "relationship": "INSISTED_ON_OPEN_CASKET_AT",
+      "subject": "rb-biz-e012"
+    },
+    {
+      "grade": "supported",
+      "notes": "",
+      "object": "rb-biz-a002",
+      "provenance": "Leak & Sons company history",
+      "relationship": "OPERATED_AT",
+      "subject": "rb-biz-e001"
+    },
+    {
+      "grade": "supported",
+      "notes": "1969–2007; Heritage Memorial Wall site.",
+      "object": "rb-biz-a003",
+      "provenance": "Newberry Library blog",
+      "relationship": "OPERATED_AT",
+      "subject": "rb-biz-e007"
+    },
+    {
+      "grade": "supported",
+      "notes": "Building repurposed as Black press infrastructure; single secondary source.",
+      "object": "Chicago Defender (organization)",
+      "provenance": "Editor & Publisher (2009), via CTL-DR-BIZ-000001",
+      "relationship": "BUILDING_REPURPOSED_BY",
+      "subject": "rb-biz-e015"
+    },
+    {
+      "grade": "verified",
+      "notes": "Archivally documented (Harvey Papers, Amistad). National comparison; not Chicago evidence.",
+      "object": "her funeral home (Jackson, MS)",
+      "provenance": "Sanders (2014), Journal of Mississippi History",
+      "relationship": "DEPLOYED_FOR_MOVEMENT_SUPPORT",
+      "subject": "rb-biz-e017"
+    },
+    {
+      "grade": "supported",
+      "notes": "Scholarly synthesis (Du Bois 1899; Cann 2020; LOC 2021), not a direct organizational descent.",
+      "object": "Black funeral-home tradition (concept)",
+      "provenance": "Du Bois (1899); Cann (2020); Weinstein/LOC (2021)",
+      "relationship": "MUTUAL_AID_ANCESTOR_OF",
+      "subject": "rb-biz-e018"
+    },
+    {
+      "grade": "supported",
+      "notes": "Closure date via Alyce Griffin obituary; single source.",
+      "object": "2007-12-31",
+      "provenance": "Chicago Sun-Times obituary (via Legacy, 2017)",
+      "relationship": "CLOSED",
+      "subject": "rb-biz-e007"
+    },
+    {
+      "grade": "provisional",
+      "notes": "Single secondary source in sibling research; needs corroboration.",
+      "object": "rb-biz-a007",
+      "provenance": "CTL-DR-BIZ-000001 research notes",
+      "relationship": "OPERATED_IN_FORMER_FUNERAL_HOME",
+      "subject": "Johnson Publishing Company (organization)"
+    }
+  ],
+  "note": "Only VERIFIED-grade claims feed verified-only graph edges; SUPPORTED/PROVISIONAL edges retain their grade and must not be promoted."
+}

@@ -1,0 +1,3835 @@
+{
+  "meta": {
+    "generated": "2026-09-28",
+    "project": "CTL-DR-PRESERVE-001",
+    "title": "The Black Memory Emergency - canonical memory map",
+    "privacy_statement": "No private street addresses, precise home/storage locations of private collections, or sensitive personal data appear in this file. Custodians and locations are recorded at city/institution granularity. EXCEPTION: published street addresses of public museums/landmarks (7 records, all public institutions) are retained as published; the normalization rule applies to private and ambiguous locations. Privacy-limited records carry explicit privacy_note values; do not attempt to resolve them.",
+    "counts": {
+      "collections": 84,
+      "institutional_track_records": 32,
+      "community_track_records": 29,
+      "digital_collection_like_records": 21,
+      "framework_worked_example_records": 5,
+      "risk_derived_records": 4,
+      "cross_track_merges_resolved": 6,
+      "note": "Merged records (JPC, HistoryMakers, BMRC, Shorefront, SSCAC, Obsidian) appear once; origin counts sum above the canonical total.",
+      "track_level_input_records": 91,
+      "input_breakdown": {
+        "institutional": 32,
+        "community": 29,
+        "digital": 21,
+        "framework": 5,
+        "risk": 4
+      }
+    },
+    "grade_policy": "Record-level grades follow the track evidence standard (Verified/Provisional/Disputed/Unresolved). Where tracks disagreed on an extent point value, the documented range is given and the conflict noted. No grade conflict at merged-record level required weakening; see SYNTHESIS-NOTES.md."
+  },
+  "collections": [
+    {
+      "id": "CTL-PRESERVE-C-001",
+      "collection": "Vivian G. Harsh Research Collection of Afro-American History and Literature",
+      "custodian": "Chicago Public Library — Carter G. Woodson Regional Library",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black Chicago history",
+        "African American literature",
+        "civil rights",
+        "Black press",
+        "Great Migration",
+        "Chicago Black Renaissance"
+      ],
+      "dates": "1932–present (origins in Harsh's 1920s collecting)",
+      "formats": [
+        "books",
+        "manuscripts",
+        "photographs",
+        "newspapers",
+        "periodicals",
+        "clippings",
+        "church archives"
+      ],
+      "extent_documented": "70,000-80,000+ books (sources conflict: 70,000 per BlackPast; 80,000+ per WBEZ 2007); 250+ manuscript collections (CPL, 2025); ~300,000 pieces reported in 2024 digitization-grant coverage (different counting unit)",
+      "accessibility": "Open — public reading room",
+      "catalog_status": "Finding aids published for all CPL archival collections (per infoDOCKET/Library Journal, 2020)",
+      "digitization_status": "Selective; $2M Mellon digitization grant (Feb 2024) - first digitization push after decades in-person-only; not comprehensively documented",
+      "rights": "Mixed; unpublished manuscripts under donor/creator rights — not publicly documented in detail",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-018"
+      ],
+      "sources": [
+        {
+          "citation": "CPL blog, 'Celebrate Black History Month: Vivian G. Harsh Research Collection' (chipublib.org) — 250+ manuscript collections; most-accessed lists",
+          "primary": true
+        },
+        {
+          "citation": "University of Chicago BMRC exhibit text (lib.uchicago.edu) — 'oldest and largest Black history collection in the Midwest'; Hall Branch history",
+          "primary": true
+        },
+        {
+          "citation": "BlackPast.org, 'Vivian Gordon Harsh (1890-1960)' — 70,000 books; Special Negro Collection origins",
+          "primary": false
+        },
+        {
+          "citation": "WBEZ Chicago Public Radio transcript (2007, via files.archivists.org) — 80,000+ books; Hughes papers, slave insurance policy",
+          "primary": false
+        },
+        {
+          "citation": "Congressional Record, Vol. 158 (2012) tribute to Timuel D. Black — Black Papers, nearly 260 archival boxes, largest Harsh acquisition in 20+ years",
+          "primary": true
+        },
+        {
+          "citation": "Risks track (CTL-DR-PRESERVE-001): $2M Mellon digitization grant for Harsh Collection, Feb 2024 (Verified)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-002",
+      "collection": "George Cleveland Hall Branch Archives (incl. Special Negro Collection remnants)",
+      "custodian": "Chicago Public Library — Special Collections Division, Harold Washington Library Center",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black Chicago librarianship",
+        "African American art",
+        "Bronzeville cultural life"
+      ],
+      "dates": "1932–1970s (bulk)",
+      "formats": [
+        "administrative files",
+        "clippings",
+        "photographs",
+        "memorabilia",
+        "biographical files",
+        "subject files",
+        "pamphlets"
+      ],
+      "extent_documented": "28 linear feet (Archives of American Art Chicago survey)",
+      "accessibility": "Open — CPL Special Collections",
+      "catalog_status": "Survey-level description via Smithsonian AAA; CPL finding aids",
+      "digitization_status": "Not documented",
+      "rights": "CPL / mixed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": "https://www.aaa.si.edu/collections/surveys/chicago/chicago-public-library-harold-washington-library-center-special/george-cleveland-hall-branch-archives",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Smithsonian Archives of American Art, Chicago survey — George Cleveland Hall Branch archives descriptive summary",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-003",
+      "collection": "Chicago Department of Urban Renewal Records",
+      "custodian": "Chicago Public Library — Special Collections Division",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "urban renewal",
+        "displacement of Black neighborhoods",
+        "Douglas/Lake Meadows",
+        "urban planning"
+      ],
+      "dates": "1940s–1970s",
+      "formats": [
+        "photographs",
+        "administrative records",
+        "project files"
+      ],
+      "extent_documented": null,
+      "accessibility": "Open — CPL Special Collections",
+      "catalog_status": "Referenced with image credits in UChicago BMRC exhibit",
+      "digitization_status": "Selected images published via BMRC exhibit",
+      "rights": "City of Chicago records; CPL custody",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "University of Chicago BMRC exhibit text (lib.uchicago.edu) — photo credits 'Chicago Department of Urban Renewal Records, Chicago Public Library, Special Collections'",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-004",
+      "collection": "Archives and Manuscripts — African American holdings (Claude Barnett papers; Brotherhood of Sleeping Car Porters records; Earl Dickerson papers)",
+      "custodian": "Chicago History Museum",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black press (Associated Negro Press)",
+        "Black labor (Pullman porters)",
+        "Black business and insurance",
+        "civil rights",
+        "Chicago neighborhoods"
+      ],
+      "dates": "1918–1969 (highlighted collections)",
+      "formats": [
+        "correspondence",
+        "organizational records",
+        "diaries",
+        "scrapbooks",
+        "meeting minutes",
+        "oral histories",
+        "sound recordings"
+      ],
+      "extent_documented": null,
+      "accessibility": "Open — archives reading room; some collections (e.g., CPD Red Squad) under special access procedures",
+      "catalog_status": "Online collection guides; highlighted collections listed publicly",
+      "digitization_status": "Not comprehensively documented",
+      "rights": "Mixed donor/creator rights",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": "https://www.chicagohistory.org/collections/collection-contents/archives-and-manuscripts/",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Chicago History Museum, 'Archives and Manuscripts' collections page (chicagohistory.org) — frequently requested materials list",
+          "primary": true
+        },
+        {
+          "citation": "University of Chicago BMRC exhibit text — Archie Motley, Archivist Emeritus; African American collection-building",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-005",
+      "collection": "DuSable Black History Museum permanent collection and archives",
+      "custodian": "DuSable Black History Museum and Education Center",
+      "location": "Chicago, Illinois (740 E. 56th Place)",
+      "subjects": [
+        "African American history and culture",
+        "Black Chicago",
+        "slavery-era artifacts",
+        "Black art (South Side Community Art Center circle, WPA, Black Arts Movement)",
+        "Harold Washington papers/effects"
+      ],
+      "dates": "18th century–present",
+      "formats": [
+        "paintings",
+        "sculpture",
+        "prints and drawings",
+        "photographs",
+        "books",
+        "historical memorabilia",
+        "manuscripts (Charles Dawson Papers)",
+        "personal effects (Ida B. Wells desk, Paul Laurence Dunbar violin)"
+      ],
+      "extent_documented": "More than 15,000 pieces (museum's own figure; Wikipedia cites 13,000)",
+      "accessibility": "Open — museum galleries; research access by arrangement",
+      "catalog_status": "Not publicly documented",
+      "digitization_status": "Not publicly documented; AR artifact experience noted",
+      "rights": "Museum-held; largely private gifts",
+      "preservation_condition": "Not publicly documented; financial strain reported historically — long-term capacity provisional",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "DuSable Museum official site (dusablemuseum.org) — 15,000+ pieces",
+          "primary": true
+        },
+        {
+          "citation": "Wikipedia, 'DuSable Black History Museum' — founded 1961 by Margaret Burroughs; Smithsonian affiliate 2016; collection highlights",
+          "primary": false
+        },
+        {
+          "citation": "DePaul University Demon Discounts page — founding 1961; address 740 E 56th Pl",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-006",
+      "collection": "South Side Community Art Center archives",
+      "custodian": "South Side Community Art Center (community arts organization, opened 1940; only surviving New Deal Federal Art Project community art center in its original building)",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black visual art",
+        "Chicago Black Renaissance",
+        "WPA Federal Art Project",
+        "arts organizing",
+        "Black arts",
+        "Federal Art Project",
+        "exhibitions",
+        "community art center"
+      ],
+      "dates": "1938-2008",
+      "formats": [
+        "meeting minutes",
+        "correspondence",
+        "event ephemera",
+        "board files",
+        "photographs",
+        "exhibition programs",
+        "artist files",
+        "consignment agreements",
+        "clippings",
+        "serials",
+        "paintings/sculpture/prints (permanent collection 500+ works)",
+        "minutes",
+        "ephemera"
+      ],
+      "extent_documented": "75 linear feet (Smithsonian AAA Chicago survey); permanent collection of 500+ artworks (per institutional track)",
+      "accessibility": "Restricted - open by appointment only; fragile items replaced with researcher copies",
+      "catalog_status": "Survey-level description via Smithsonian AAA; internal arrangement in parts",
+      "digitization_status": "Selected materials digitized in UChicago Library's SSCAC Digital Collection",
+      "rights": "South Side Community Art Center",
+      "preservation_condition": "Some originals too fragile to handle",
+      "finding_aid_url": "https://www.aaa.si.edu/collections/surveys/chicago/south-side-community-art-center/archives-south-side-community-art-center",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Smithsonian Archives of American Art, Chicago survey — Archives of the South Side Community Art Center descriptive summary",
+          "primary": true
+        },
+        {
+          "citation": "Chicago Architecture Center, 'Design Dialogue: A Renewed South Side Community Art Center' — 500+ work permanent collection; $15M redevelopment incl. new archive space",
+          "primary": false
+        },
+        {
+          "citation": "Smithsonian Archives of American Art, Chicago Archives Survey: 'Archives of the South Side Community Art Center' (survey record)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "merged (institutional+community)"
+    },
+    {
+      "id": "CTL-PRESERVE-C-007",
+      "collection": "Stony Island Arts Bank collections (Johnson Publishing Library; Frankie Knuckles vinyl collection; Edward J. Williams Collection; UChicago glass lantern slides)",
+      "custodian": "Rebuild Foundation (founded by artist Theaster Gates)",
+      "location": "Chicago, Illinois (6760 S. Stony Island Ave.)",
+      "subjects": [
+        "Black media and publishing",
+        "house music",
+        "racial representation/memorabilia",
+        "Black visual culture"
+      ],
+      "dates": "Civil War era–present",
+      "formats": [
+        "books",
+        "periodicals",
+        "vinyl records",
+        "artifacts (~4,000 Negrobilia items)",
+        "glass lantern slides (60,000+)",
+        "furniture and ephemera (Johnson Publishing offices)"
+      ],
+      "extent_documented": "Edward J. Williams Collection ~4,000 artifacts; 60,000+ glass lantern slides; Johnson Publishing books/periodicals (count undocumented)",
+      "accessibility": "Programming- and appointment-based research venue; exhibition space",
+      "catalog_status": "Not publicly documented",
+      "digitization_status": "Mellon Archives Innovation Program (2022, $3.5M) building archival infrastructure",
+      "rights": "Rebuild Foundation-held",
+      "preservation_condition": "Purpose-built archive space in 2025 expansion; earlier conditions undocumented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-047"
+      ],
+      "sources": [
+        {
+          "citation": "Rebuild Foundation, Mellon Archives Innovation Fellowship page (rebuild-foundation.org) — four collections described; $3.5M grant",
+          "primary": true
+        },
+        {
+          "citation": "Whitewall, 'Ken Stewart on the Opening of the Stony Island Arts Bank' — Johnson Publishing archives, Knuckles vinyl, Williams Negrobilia, 60,000 slides",
+          "primary": false
+        },
+        {
+          "citation": "Wikipedia, 'Rebuild Foundation' — Stony Island Arts Bank collections list",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-008",
+      "collection": "The HistoryMakers Digital Archive / Video Oral History Collection",
+      "custodian": "The HistoryMakers (501(c)(3) nonprofit, Chicago HQ; founded 1999 by Julieanna Richardson); collection permanently housed at the Library of Congress (acquired 2014)",
+      "location": "Chicago, Illinois (HQ); collection at Library of Congress, Washington, DC",
+      "subjects": [
+        "African American biography and first-person testimony",
+        "arts",
+        "business",
+        "civic life",
+        "education",
+        "law",
+        "medicine",
+        "entertainment",
+        "military",
+        "media",
+        "African American oral history",
+        "video interviews",
+        "biographical archive"
+      ],
+      "dates": "1999-present (interviews reference events back to the 1700s)",
+      "formats": [
+        "video oral histories (2–15 hours each)",
+        "transcripts",
+        "analog tapes",
+        "DVDs",
+        "paper documents",
+        "digital images",
+        "14,000 analog tapes",
+        "3,000 DVDs",
+        "6,000 born-digital files",
+        "30,000+ digital photographs",
+        "~9,000 interview hours"
+      ],
+      "extent_documented": "Nearly 3,400 video oral history interviews / ~11,000 hours (2021-2022 reports; goal 5,000 interviews/30,000 hours); 14,000 analog tapes; 3,000 DVDs; 6,000 born-digital files; 30,000+ digital photographs (2014 acquisition counts)",
+      "accessibility": "Restricted - LoC Moving Image Reference Center (researchers); institutional digital subscription (180+ colleges/universities); not fully open online",
+      "catalog_status": "Interview-level list published at acquisition",
+      "digitization_status": "Born-digital and digitized holdings; ~2,000 hours converted to digital per founder interview, with more work and funding still needed - conversion incomplete. Rescued, not finished.",
+      "rights": "The HistoryMakers / Library of Congress; access terms vary",
+      "preservation_condition": "Stable institutional custody (LoC); format conversion incomplete",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-023"
+      ],
+      "sources": [
+        {
+          "citation": "Journal of Blacks in Higher Education (2014) — LoC acquires archive; 9,000 hours, 14,000 tapes, 3,000 DVDs, 70,000 documents",
+          "primary": false
+        },
+        {
+          "citation": "BusinessWire (2021) — ~3,400 interviews from 413 cities; housed permanently at LoC",
+          "primary": false
+        },
+        {
+          "citation": "BrandeisNOW (2016) — 2,700 oral histories, 9,000 hours; $725K Mellon modernization grant",
+          "primary": false
+        },
+        {
+          "citation": "CPL news release — 500 Chicago interviewees incl. Barack Obama (as state senator), Barbara Bowman, Linda Johnson Rice",
+          "primary": true
+        },
+        {
+          "citation": "Journal of Blacks in Higher Education, 'Library of Congress Acquires the Vast Archive of the History Makers' (2014)",
+          "primary": false,
+          "url": "https://jbhe.com/2014/06/library-of-congress-acquires-the-vast-archive-of-the-history-makers/"
+        },
+        {
+          "citation": "Black Enterprise, interview with Julieanna Richardson on HistoryMaker video series",
+          "primary": false,
+          "url": "https://www.blackenterprise.com/historymaker-video-series-julieanna-richardson/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "merged (institutional+digital)"
+    },
+    {
+      "id": "CTL-PRESERVE-C-009",
+      "collection": "Black Metropolis Research Consortium (BMRC) Archives Portal",
+      "custodian": "Black Metropolis Research Consortium (Chicago membership consortium, hosted at the University of Chicago Library); Mellon-funded",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "African American and African diasporic history, politics, and culture — Chicago focus",
+        "cross-institutional discovery",
+        "Chicago Black life",
+        "archival collections",
+        "consortium records"
+      ],
+      "dates": "Consortium organized mid-2000s (planning meetings 2003-2006); portal launched March 2022",
+      "formats": [
+        "collection guides/finding aids (EAD)",
+        "curated topic guides",
+        "digital exhibits",
+        "digitized selections",
+        "collection-level records",
+        "finding aids",
+        "digital"
+      ],
+      "extent_documented": "28 member institutions (as of 2026 board call); 1,000+ collection records from Chicago repositories",
+      "accessibility": "Open - public web portal (ungated search at bmrc.lib.uchicago.edu); quarterly digital exhibits",
+      "catalog_status": "Aggregated collection guides across members; processing programs (Color Curtain, Archie Motley internships)",
+      "digitization_status": "Discovery layer only - aggregates descriptions; it does not itself hold or preserve the underlying digitized objects at member institutions",
+      "rights": "N/A (discovery portal; rights held by member repositories)",
+      "preservation_condition": "N/A - portal, not a preservation repository",
+      "finding_aid_url": "https://bmrc.lib.uchicago.edu",
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-025"
+      ],
+      "sources": [
+        {
+          "citation": "UChicago News, 'Find archives of Black life in Chicago through new online resource' — portal launch; member list",
+          "primary": true
+        },
+        {
+          "citation": "BMRC, 'Current Members' (bmrc.lib.uchicago.edu) — member roster and Black collection strengths (Roosevelt, UChicago SCRC)",
+          "primary": true
+        },
+        {
+          "citation": "UChicago Library BMRC 15th-anniversary exhibit text — founding history 2003–2006",
+          "primary": true
+        },
+        {
+          "citation": "BMRC, Color Curtain Processing Project — EAD finding-aid production across 10 institutions",
+          "primary": true
+        },
+        {
+          "citation": "UChicago News, 'Find archives of Black life in Chicago through new online resource' (2022)",
+          "primary": false,
+          "url": "http://news.uchicago.edu/story/find-archives-black-life-chicago-through-new-online-resource-uchicago-library"
+        },
+        {
+          "citation": "BMRC Newsletter, July 2022 (PDF)",
+          "primary": true,
+          "url": "https://bmrc.lib.uchicago.edu/documents/61/BMRC_NEWS_JULY_2022.pdf"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "merged (institutional+digital)"
+    },
+    {
+      "id": "CTL-PRESERVE-C-010",
+      "collection": "Ida B. Wells Papers; Alton Abraham Collection of Sun Ra (among Black strengths of SCRC)",
+      "custodian": "University of Chicago — Hanna Holborn Gray Special Collections Research Center",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "anti-lynching journalism",
+        "Black Chicago",
+        "jazz/Sun Ra and Afrofuturism",
+        "civil liberties"
+      ],
+      "dates": "Late 19th century–20th century",
+      "formats": [
+        "manuscripts",
+        "correspondence",
+        "organizational records",
+        "recordings/ephemera"
+      ],
+      "extent_documented": null,
+      "accessibility": "Open by appointment; requests at least one business day ahead",
+      "catalog_status": "Online collection guides via UChicago Library",
+      "digitization_status": "Not documented",
+      "rights": "Mixed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "BMRC 'Current Members' page — SCRC Black collection strengths: Ida B. Wells Papers, Alton Abraham Collection of Sun Ra, ACLU Illinois Records",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-011",
+      "collection": "Black History Collection (MSBlaH68); Chicago SNCC materials",
+      "custodian": "University of Illinois at Chicago — Library Special Collections",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black freedom movements",
+        "civil rights",
+        "Black Panther Party",
+        "SNCC",
+        "Black cultural figures",
+        "Chicago activism",
+        "Black P. Stone Nation"
+      ],
+      "dates": "1940s–1970s (bulk 1960s)",
+      "formats": [
+        "pamphlets",
+        "periodicals",
+        "leaflets",
+        "official records",
+        "newspapers",
+        "correspondence"
+      ],
+      "extent_documented": null,
+      "accessibility": "Open — special collections reading room",
+      "catalog_status": "Folder-level metadata via UIC catalog",
+      "digitization_status": "Licensed into Adam Matthew Digital 'African American Communities' (subscription-only)",
+      "rights": "UIC Library, Special Collections",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Adam Matthew Digital, African American Communities — UIC Black History Collection document records (MSBlaH68) with collection overview text",
+          "primary": false
+        },
+        {
+          "citation": "BMRC protest-archives resource list — UIC: Student Nonviolent Coordinating Committee Collection, Black History Collection",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-012",
+      "collection": "Center for Black Music Research (CBMR) Library and Archives",
+      "custodian": "Columbia College Chicago — Center for Black Music Research",
+      "location": "Chicago, Illinois (618 S. Michigan Ave., 6th Floor)",
+      "subjects": [
+        "Black music worldwide",
+        "jazz",
+        "art music by Black composers",
+        "popular and traditional diasporic genres",
+        "Black music organizations"
+      ],
+      "dates": "Founded 1983; library/archives founded 1990; materials span 19th–21st centuries",
+      "formats": [
+        "personal papers",
+        "organizational records",
+        "scores and sheet music",
+        "sound recordings (cylinders, discs, magnetic, digital)",
+        "photographs",
+        "oral histories",
+        "books",
+        "periodicals",
+        "commercial recordings",
+        "ephemera"
+      ],
+      "extent_documented": "72 archival collections; 5,400+ catalogued books/dissertations; 11,000 sound recordings; 4,500 scores/sheet music (figures c. 2010s)",
+      "accessibility": "Restricted — research appointments, generally every other week",
+      "catalog_status": "Collection guides/finding aids published via Digital Commons as processed",
+      "digitization_status": "CBMR Digital Collections via Digital Commons institutional repository",
+      "rights": "Mixed donor/composer rights",
+      "preservation_condition": "Not publicly documented; 2012 defunding threat after 70% budget cuts (2006–2012) — institutional vulnerability documented",
+      "finding_aid_url": "https://digitalcommons.colum.edu/cbmr/",
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-046"
+      ],
+      "sources": [
+        {
+          "citation": "Columbia College Chicago College Archives, CBMR collections page (library.colum.edu) — scope, formats, location, appointment policy",
+          "primary": true
+        },
+        {
+          "citation": "Music In Africa directory — holdings figures: 5,400 books, 11,000 recordings, 4,500 scores, 72 archival collections",
+          "primary": false
+        },
+        {
+          "citation": "Journal of Blacks in Higher Education (2012) — budget cut 70% since 2006; funding-elimination recommendation",
+          "primary": false
+        },
+        {
+          "citation": "Society of American Archivists tour description — CBMR Library and Archives founded 1990; repository scope",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-013",
+      "collection": "NUBAA Archives (Black Experience collections); Bursar's Office Takeover records",
+      "custodian": "Northwestern University — McCormick Library of Special Collections and University Archives",
+      "location": "Evanston, Illinois",
+      "subjects": [
+        "Black student life",
+        "Black alumni",
+        "1968 Bursar's Office Takeover",
+        "Black faculty and organizations"
+      ],
+      "dates": "1960s–present",
+      "formats": [
+        "organizational records",
+        "photographs",
+        "audiovisual recordings",
+        "artifacts",
+        "documents",
+        "online exhibit"
+      ],
+      "extent_documented": null,
+      "accessibility": "Open — university archives; online exhibit and crowdsourced photo ID site",
+      "catalog_status": "Research guide on the Black experience at Northwestern; 'I know them!' crowdsourcing campaign",
+      "digitization_status": "Selected photos online; Bursar's Takeover online exhibit (bursars1968.northwestern.edu)",
+      "rights": "Northwestern University",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Northwestern News (2017), 'Focusing on the Black experience at Northwestern' — Archivist for the Black Experience hired; NUBAA Archives",
+          "primary": true
+        },
+        {
+          "citation": "Northwestern Magazine, 'Illuminating Black Student Life' — 2018 alumni donation of photos, records, AV, artifacts",
+          "primary": true
+        },
+        {
+          "citation": "Daily Northwestern (2018) — May 3, 1968 takeover: ~120 Black students, 38 hours",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-014",
+      "collection": "Dempsey Travis Papers; Christopher Robert Reed Papers; Frank Untermeyer Papers",
+      "custodian": "Roosevelt University — University Archives",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black Chicago history and historiography",
+        "Black real estate and business",
+        "Black urban life"
+      ],
+      "dates": "20th century",
+      "formats": [
+        "personal papers",
+        "manuscripts",
+        "research files"
+      ],
+      "extent_documented": null,
+      "accessibility": "Restricted — by appointment, Mon–Fri 9am–4pm",
+      "catalog_status": "Not publicly documented",
+      "digitization_status": "Not documented",
+      "rights": "Roosevelt University",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "BMRC 'Current Members' page — Roosevelt Black collection strengths: Frank Untermeyer Papers, Dempsey Travis Papers, Christopher Robert Reed Papers",
+          "primary": true
+        },
+        {
+          "citation": "UChicago BMRC exhibit text — Reed manuscript draft of 'Black Chicago: The Emergence of a Black Metropolis, 1920–1929'; Reed papers at Roosevelt",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-015",
+      "collection": "Community Archives (Young Lords Newspapers Collection; Veronica Williams Derr Collection)",
+      "custodian": "DePaul University — Special Collections and Archives",
+      "location": "Chicago, Illinois (Richardson Library, Lincoln Park)",
+      "subjects": [
+        "Young Lords Organization (Chicago)",
+        "Lincoln Park community history",
+        "social justice and the Catholic Left",
+        "African-American rare books (Derr Collection)"
+      ],
+      "dates": "1960s–present (Young Lords); 1969 donation (Derr Collection)",
+      "formats": [
+        "newspapers and publications",
+        "organizational documents",
+        "photographs",
+        "rare books (~17,000 vols. in Special Collections)"
+      ],
+      "extent_documented": null,
+      "accessibility": "Open — campus and community researchers",
+      "catalog_status": "Finding aids and guides online; digital collections portal",
+      "digitization_status": "Young Lords newspapers digitized in community digital collections",
+      "rights": "Contact SPCA regarding rights/reproduction",
+      "preservation_condition": "Climate-controlled stacks (Richardson Library, 1992)",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "DePaul University Libraries, Special Collections pages (library.depaul.edu) — collection strengths; Young Lords Newspapers Collection; Derr Collection 1969",
+          "primary": true
+        },
+        {
+          "citation": "UChicago BMRC exhibit/history-fair topics — Young Lords Records at DePaul",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-016",
+      "collection": "Pullman Company Records; Jack Conroy Papers; Mark Satter Papers; Chicago Defender newspaper holdings",
+      "custodian": "Newberry Library",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black railroad labor (porters/maids)",
+        "Chicago Black Renaissance literature",
+        "housing discrimination/redlining/contract selling",
+        "Black press"
+      ],
+      "dates": "Late 19th–20th century",
+      "formats": [
+        "employee records",
+        "labor relations documents",
+        "correspondence",
+        "manuscripts",
+        "newspapers",
+        "photographs",
+        "ephemera"
+      ],
+      "extent_documented": "Institutional scale: 1,500,000 printed titles; 5,000,000 manuscript pages; 500,000 maps (collection-level Black extents undocumented)",
+      "accessibility": "Open — free, readers 14+",
+      "catalog_status": "Online inventories (Pullman guide, Conroy and Satter XML finding aids)",
+      "digitization_status": "Many items digitized and accessible online",
+      "rights": "Mixed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Newberry Library, 'Gwendolyn Brooks and A Street in Bronzeville' collection handout (newberry.org) — Pullman, Conroy, Satter descriptions",
+          "primary": true
+        },
+        {
+          "citation": "Wikipedia, 'Newberry Library' — holdings scale; Chicago Defender in genealogy resources; free on-site access 14+",
+          "primary": false
+        },
+        {
+          "citation": "BMRC protest-archives list — Newberry: Chicago Black Lives Matter Protest Collection, Chicago Protest Collection",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-017",
+      "collection": "Maxwell Street — Steve Balkin Collection",
+      "custodian": "Chicago State University",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Maxwell Street market",
+        "Black Chicago street life and commerce"
+      ],
+      "dates": "20th century",
+      "formats": [
+        "Not documented in sources reviewed"
+      ],
+      "extent_documented": null,
+      "accessibility": "Not documented",
+      "catalog_status": "Not publicly documented",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "BMRC protest-archives resource list — 'Chicago State University - Maxwell Street - Steve Balkin Collection'",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-018",
+      "collection": "Shorefront Legacy Center community archive",
+      "custodian": "Shorefront Legacy Center (community nonprofit, Evanston, Illinois)",
+      "location": "Evanston, Illinois (Chicago North Shore); housed in a church basement",
+      "subjects": [
+        "Black suburban life (Evanston/north shore)",
+        "housing and public-accommodations discrimination",
+        "NAACP local chapter",
+        "reparations history",
+        "Black suburban life",
+        "NAACP",
+        "housing segregation",
+        "Evanston reparations"
+      ],
+      "dates": "100+ years of documentation; collected over ~30 years",
+      "formats": [
+        "papers",
+        "photographs",
+        "news clippings",
+        "organizational minutes",
+        "correspondence",
+        "artifacts (e.g., Community Hospital of Evanston emergency sign)",
+        "clippings",
+        "minutes"
+      ],
+      "extent_documented": "Not enumerated (shelves of boxes; described as 'filled from the floor to almost the ceiling' per NPR, 2026-09-19)",
+      "accessibility": "Community access by arrangement; records cited in Evanston reparations reporting",
+      "catalog_status": "Not documented",
+      "digitization_status": "Not documented",
+      "rights": "Not documented in sources",
+      "preservation_condition": "Church-basement storage; condition not professionally documented. Politically exposed: federal pressure against racial-justice programming reported 2026; Trump administration sued summer 2026 to end Evanston's reparations payments.",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-024"
+      ],
+      "sources": [
+        {
+          "citation": "NPR / Adrian Florido, 'How Shorefront Legacy Center preserves Black history from a church basement in Evanston' (Sept. 19, 2026) — basement archive, ~30 years, NAACP minutes, reparations link",
+          "primary": false
+        },
+        {
+          "citation": "UChicago BMRC exhibit text — Community Hospital of Evanston Collection item courtesy of Shorefront Legacy Center",
+          "primary": true
+        },
+        {
+          "citation": "NPR Illinois (Adrian Florido), 'How Shorefront Legacy Center preserves Black history from a church basement in Evanston' (2026-09-19)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "merged (institutional+community)"
+    },
+    {
+      "id": "CTL-PRESERVE-C-019",
+      "collection": "Oak Park Public Library — Black collections",
+      "custodian": "Oak Park Public Library",
+      "location": "Oak Park, Illinois",
+      "subjects": [
+        "Not documented in sources reviewed"
+      ],
+      "dates": null,
+      "formats": [],
+      "extent_documented": null,
+      "accessibility": "Public library — presumed open",
+      "catalog_status": "UNRESOLVED — BMRC member page references collections but no public description located",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "BMRC 'Current Members' page — 'Learn more about collections at Oak Park Public Library'",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-020",
+      "collection": "Cook County Archives and Records Office — government records",
+      "custodian": "Cook County Archives and Records Office",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "County government records (Black-history content unverified in public sources)"
+      ],
+      "dates": null,
+      "formats": [
+        "government records"
+      ],
+      "extent_documented": null,
+      "accessibility": "Government archive — presumed open with procedures",
+      "catalog_status": "UNRESOLVED — no collection-level public description located",
+      "digitization_status": "Not documented",
+      "rights": "Public records",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "UChicago News BMRC portal announcement — Cook County Archives and Records Office among member institutions",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-021",
+      "collection": "Freedmen's Bureau Records (RG 105); related Black-history federal records",
+      "custodian": "National Archives and Records Administration (NARA)",
+      "location": "Washington, DC / College Park, Maryland",
+      "subjects": [
+        "Reconstruction",
+        "freedpeople",
+        "Black genealogy",
+        "Black veterans",
+        "labor and apprenticeship",
+        "marriage registers",
+        "schools and hospitals",
+        "census and military records"
+      ],
+      "dates": "1865–1872 (Bureau); related series 1790–1970s",
+      "formats": [
+        "registers",
+        "correspondence",
+        "field office records",
+        "marriage records",
+        "rosters",
+        "microfilm (17 M-numbered publications)",
+        "census schedules"
+      ],
+      "extent_documented": "17 microfilm publications (M1869, M1875, M1900–M1914, M2029); first records received 1939",
+      "accessibility": "Open — public research rooms; microfilm publications for purchase",
+      "catalog_status": "Reference reports (RR series) by state; descriptive pamphlets; online catalog descriptions",
+      "digitization_status": "Microfilmed comprehensively; digital availability via partnerships not fully documented here",
+      "rights": "U.S. federal public records",
+      "preservation_condition": "Federal archival preservation; multi-year preservation/duplication project completed 2007",
+      "finding_aid_url": "https://www.archives.gov/research/african-americans/guide/other-resources",
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-050"
+      ],
+      "sources": [
+        {
+          "citation": "NARA, 'National Archives Completes Historic Freedmen's Bureau Records Project' (press release, 2007) — scope, microfilm series, 1939 receipt",
+          "primary": true
+        },
+        {
+          "citation": "NARA, 'Black History Guide: Other Resources' (archives.gov) — RR reference reports: census, military, DC slavery, Freedmen's Bank records",
+          "primary": true
+        },
+        {
+          "citation": "NARA Archivist remarks, Freedmen's Bureau Project Celebration (2017) — genealogical significance; Reginald Washington/Elaine Everly",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-022",
+      "collection": "Schomburg Center for Research in Black Culture",
+      "custodian": "New York Public Library — Schomburg Center",
+      "location": "New York, New York (515 Malcolm X Blvd., Harlem)",
+      "subjects": [
+        "Global Black history and culture",
+        "Harlem Renaissance",
+        "civil rights",
+        "African diaspora",
+        "Black arts and literature"
+      ],
+      "dates": "1925–present (holdings span 18th century–present)",
+      "formats": [
+        "books",
+        "manuscripts",
+        "rare books",
+        "photographs",
+        "prints",
+        "moving image and recorded sound",
+        "art and artifacts",
+        "newspapers/periodicals",
+        "sheet music",
+        "ephemera/vertical files"
+      ],
+      "extent_documented": "10 million items (Wikipedia) / 11 million items (NYPL centennial page, 2025) — range reflects growth",
+      "accessibility": "Open — general public; five format-based research divisions",
+      "catalog_status": "Division-level guides; Ernest D. Kaiser Index (179,000 citations to Black periodicals)",
+      "digitization_status": "Selective; digital exhibitions (e.g., centennial 'Icons')",
+      "rights": "Mixed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-019"
+      ],
+      "sources": [
+        {
+          "citation": "NYPL, '100 Years of the Schomburg Center: Icons' (nypl.org) — 11 million items; five divisions",
+          "primary": true
+        },
+        {
+          "citation": "Wikipedia, 'Schomburg Center for Research in Black Culture' — 10 million items; founded 1925; 515 Malcolm X Blvd.",
+          "primary": false
+        },
+        {
+          "citation": "Google Arts & Culture partner page — 'world's leading research library' devoted to peoples of African descent; 10M+ items",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-023",
+      "collection": "Moorland-Spingarn Research Center (Library Division + Manuscript Division)",
+      "custodian": "Howard University",
+      "location": "Washington, DC",
+      "subjects": [
+        "Global Black history and culture",
+        "civil rights",
+        "Black families and institutions",
+        "Black health professions",
+        "Black music (400+ composers)"
+      ],
+      "dates": "Formally established 1914; holdings 18th century–present",
+      "formats": [
+        "books",
+        "pamphlets",
+        "periodicals",
+        "newspapers",
+        "manuscripts",
+        "photographs (incl. daguerreotypes, tintypes, glass negatives)",
+        "oral histories",
+        "sheet music and recordings",
+        "artifacts",
+        "maps"
+      ],
+      "extent_documented": "175,000+ bound volumes; 17,000–18,000+ linear feet of manuscripts; 200+ processed manuscript collections (older) / ~650 collections (newer); ~800 oral histories; 100,000–150,000 prints/photographs; ~1,000 audio tapes",
+      "accessibility": "Open — research library (hours have varied; renovation-era changes documented)",
+      "catalog_status": "Division-level guides; Manuscript Division organized 1974 into Manuscripts, Prints & Photographs, Oral History, Music",
+      "digitization_status": "Not comprehensively documented; Digital Howard portal exists (not verified in this pass)",
+      "rights": "Mixed",
+      "preservation_condition": "DOCUMENTED CONCERN (2012): physical plant 'determined to be insufficient'; renovation/redesign planned under Howard Dodson — update UNRESOLVED",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-020"
+      ],
+      "sources": [
+        {
+          "citation": "Howard University press release via Univ. of Illinois Library (2012) — 175,000 vols; 17,000 ft manuscripts; Dodson appointment; renovation plans",
+          "primary": true
+        },
+        {
+          "citation": "NLM, 'Guide to Library and Archival Collections of African Americans in Medicine' — 200+ processed collections, 800 oral histories, 50,000 photos; 500 Howard Place NW",
+          "primary": true
+        },
+        {
+          "citation": "Wikipedia, 'Moorland–Spingarn Research Center' — 18,000+ linear ft; 650 collections; 150,000 graphic images; Music Dept 400+ composers",
+          "primary": false
+        },
+        {
+          "citation": "The Free Library (2014 profile) — 175,000 vols; 'nearly 100 years' documenting global Black experience",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-024",
+      "collection": "African American manuscript and visual holdings (Douglass, Terrell, Parks, NAACP, et al.)",
+      "custodian": "Library of Congress — Manuscript Division; Prints and Photographs Division",
+      "location": "Washington, DC (James Madison Building)",
+      "subjects": [
+        "slavery and abolition",
+        "Reconstruction Black officeholders",
+        "civil rights",
+        "Black women's activism",
+        "segregation/desegregation"
+      ],
+      "dates": "18th century–present",
+      "formats": [
+        "personal papers",
+        "organizational records",
+        "diaries",
+        "slave narratives",
+        "photographs",
+        "sound recordings (Voices Remembering Slavery, 1932–1975)",
+        "plays (Zora Neale Hurston)"
+      ],
+      "extent_documented": "Division: 12,000+ collections / 73 million+ items; Mary Church Terrell papers ~13,000 documents (fully digitized); Rosa Parks papers ~7,500 manuscript items + 2,500 photographs",
+      "accessibility": "Open — Manuscript Reading Room Mon–Sat; reader ID card, 16+; advance notice for offsite/restricted material",
+      "catalog_status": "'African-American History and Culture — Library of Congress Manuscripts: An Illustrated Guide' (research guide)",
+      "digitization_status": "SELECTIVE: Terrell papers fully digitized; Parks papers digitized; most manuscript collections not digitized",
+      "rights": "Mixed; unpublished papers under donor/creator rights",
+      "preservation_condition": "Federal preservation standards",
+      "finding_aid_url": "https://guides.loc.gov/manuscripts-illustrated-guide/african-american-history",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "LoC Manuscript Division, 'About this Reading Room' (loc.gov) — 12,000+ collections, 73M+ items; Black history a named strength",
+          "primary": true
+        },
+        {
+          "citation": "LoC research guide, African-American History and Culture manuscripts — Douglass, American Colonization Society, Reconstruction officials",
+          "primary": true
+        },
+        {
+          "citation": "LoC, 'African American History Online' resource guide (guides.loc.gov) — Terrell 13,000 docs digitized; Parks 7,500 items + 2,500 photos; Gladstone photos; Voices Remembering Slavery",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-025",
+      "collection": "NMAAHC permanent collection",
+      "custodian": "Smithsonian Institution — National Museum of African American History and Culture",
+      "location": "Washington, DC (National Mall)",
+      "subjects": [
+        "African American history and culture",
+        "slavery and freedom",
+        "segregation",
+        "civil rights",
+        "Black music, fashion, film, sports",
+        "military service"
+      ],
+      "dates": "14th century–present",
+      "formats": [
+        "artifacts",
+        "photographs",
+        "documents",
+        "textiles",
+        "vehicles",
+        "audiovisual media",
+        "3D models"
+      ],
+      "extent_documented": "37,000+ objects (Smithsonian newsdesk) / 45,000+ artifacts (Smithsonian fellowships page) — range reflects growth; ~3,000 on display; 10,000+ digitized objects online",
+      "accessibility": "Open — free museum; timed passes; 'Searchable Museum' online",
+      "catalog_status": "Online collection search; 10,000+ digitized objects with collection stories",
+      "digitization_status": "10,000+ digitized; Searchable Museum reimagines 'Slavery and Freedom' exhibition digitally",
+      "rights": "Smithsonian-held; donor agreements",
+      "preservation_condition": "Smithsonian museum standards",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-021"
+      ],
+      "sources": [
+        {
+          "citation": "Smithsonian newsdesk, 'Smithsonian Names Kevin Young as Director of NMAAHC' — 37,000 objects; 3,000 on display; 10,000 digitized; opened Sept. 24, 2016",
+          "primary": true
+        },
+        {
+          "citation": "Smithsonian fellowships page (fellowships.si.edu) — 45,000 artifacts; est. by Act of Congress 2003; 19th Smithsonian museum",
+          "primary": true
+        },
+        {
+          "citation": "Harvard Gazette (2019) — Bunch: 40,000 artifacts, 70% from 'basements, trunks, and attics'; Emmett Till casket provenance",
+          "primary": false
+        },
+        {
+          "citation": "Hyperallergic (2025) — Searchable Museum; 40,000+ artifact collection",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-026",
+      "collection": "Johnson Publishing Company Archive (Ebony/Jet photographic and business archive)",
+      "custodian": "Johnson Publishing Company (corporate) until 2019 Chapter 7 bankruptcy; archive purchased at bankruptcy auction July 2019 by foundation consortium (Ford, Mellon, MacArthur, Getty Trust) for just under $30M; ownership transferred July 2022 to joint ownership of Smithsonian NMAAHC and Getty Research Institute; physically housed at NMAAHC; processed in a Chicago warehouse by the Blackivists (Black archivist collective)",
+      "location": "Washington, DC (physically housed at NMAAHC); processing in Chicago, Illinois",
+      "subjects": [
+        "20th-century Black American life",
+        "civil rights movement",
+        "Black celebrity and culture",
+        "Black journalism (Ebony, Jet)",
+        "Ebony",
+        "Jet",
+        "Black press",
+        "photojournalism",
+        "Black business history",
+        "Black press photography",
+        "4M+ prints and negatives"
+      ],
+      "dates": "1942-2019 (company); images mid-20th century-2010s",
+      "formats": [
+        "photographic prints",
+        "negatives and slides",
+        "contact sheets",
+        "audio and visual recordings",
+        "prints",
+        "negatives",
+        "audiovisual recordings",
+        "magazines",
+        "business records",
+        "born-digital in progress"
+      ],
+      "extent_documented": "4 million+ prints and negatives (NMAAHC detail: 3M+ negatives/slides, 983,000 photographs, 166,000 contact sheets; sources vary 4M vs. 4.5M images); ~9,000-10,000 audio/visual recordings and thousands of hours of video; ~5,000 magazines; 200 boxes of business records",
+      "accessibility": "Portions accessible during ongoing digitization; long-term public access committed",
+      "catalog_status": "Processing underway since 2019 consortium purchase",
+      "digitization_status": "Getty Trust committed $30M to processing and digitization; portions released during work. At the 2019 sale, of ~1M prints, 3M negatives/contact sheets, and thousands of hours of video, \"very few have been digitized\" (CNN). Physical rescue does not equal digital access yet.",
+      "rights": "Joint ownership: Smithsonian NMAAHC and Getty Research Institute; rights framework not detailed in sources",
+      "preservation_condition": "Intact; undergoing professional conservation processing",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-015"
+      ],
+      "sources": [
+        {
+          "citation": "MacArthur Foundation press release (2022) — consortium transfer to Getty Trust and NMAAHC; $30M Getty digitization commitment; 4M+ photos",
+          "primary": true
+        },
+        {
+          "citation": "Getty News (2022) — official transfer announcement; archive physically housed at NMAAHC",
+          "primary": true
+        },
+        {
+          "citation": "The Art Newspaper (2022) — 3M+ negatives/slides, 983,000 photographs, 166,000 contact sheets, 9,000 AV recordings; $30M auction price",
+          "primary": false
+        },
+        {
+          "citation": "Hyperallergic (2025) — ownership formally transferred to NMAAHC and Getty Research Institute",
+          "primary": false
+        },
+        {
+          "citation": "The Art Newspaper, 'In the rescued Johnson archive, poignant images from Black American history' (2019-08-02)",
+          "primary": false
+        },
+        {
+          "citation": "History News Network, 'Progress Digitizing the Johnson Publishing Archive' (ca. 2023)",
+          "primary": false
+        },
+        {
+          "citation": "Smithsonian NMAAHC press release: Ford, Mellon, MacArthur foundations transfer sole ownership of historic Ebony and Jet archive (2023)",
+          "primary": true
+        },
+        {
+          "citation": "Essence, reporting on Getty $30M commitment and Blackivists processing in Chicago",
+          "primary": false
+        },
+        {
+          "citation": "Hyperallergic, 'Millions of Images from Ebony and Jet Magazines Will Soon Be Accessible to All'",
+          "primary": false,
+          "url": "https://hyperallergic.com/millions-of-images-from-ebony-and-jet-magazines-will-soon-be-accessible-to-all/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "merged (institutional+community+digital)"
+    },
+    {
+      "id": "CTL-PRESERVE-C-027",
+      "collection": "Avery Research Center archival collections",
+      "custodian": "College of Charleston — Avery Research Center for African American History and Culture",
+      "location": "Charleston, South Carolina",
+      "subjects": [
+        "Black Charleston and SC Lowcountry",
+        "slavery and free people of color (pre-1865)",
+        "civil rights",
+        "Black funeral homes and benevolent societies",
+        "Gullah/Geechee culture"
+      ],
+      "dates": "Pre-1865–present",
+      "formats": [
+        "manuscript collections",
+        "printed items and rare books",
+        "photographs",
+        "microfilm",
+        "VHS",
+        "clipping files",
+        "audio/video (digital)",
+        "artifacts (incl. sweetgrass baskets)"
+      ],
+      "extent_documented": "~200 manuscript collections (few items to 50+ linear ft); 6,000+ primary/secondary sources; 5,000+ printed items; 4,000+ photographs; hundreds of microfilm reels/VHS; dozens of artifact collections",
+      "accessibility": "Open — free guided tours Mon–Fri; reading room",
+      "catalog_status": "Processed collections searchable via Addlestone Library catalog and ArchivesSpace; online finding aids",
+      "digitization_status": "Selected materials in Lowcountry Digital Library and Lowcountry Digital History Initiative exhibits",
+      "rights": "Mixed",
+      "preservation_condition": "CLIR-funded processing (1,000 linear ft across Avery and Jewish Heritage Collection) improved access and care",
+      "finding_aid_url": "https://avery.charleston.edu/research/archives-and-library/",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Avery Research Center, 'Collection Overview' (avery.charleston.edu) — 200 mss collections; 5,000 printed items; 4,000 photos; civil rights and pre-1865 strengths",
+          "primary": true
+        },
+        {
+          "citation": "Wikipedia, 'Avery Research Center for African American History and Culture' — extent figures; ArchivesSpace catalog; Lowcountry Digital Library",
+          "primary": false
+        },
+        {
+          "citation": "CLIR, 'Success Beyond Access: CLIRing the Way' — three CLIR grants processed ~1,000 linear ft of African-American and Jewish collections",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-028",
+      "collection": "Amistad Research Center holdings",
+      "custodian": "Amistad Research Center (independent nonprofit, at Tulane University)",
+      "location": "New Orleans, Louisiana (6823 St. Charles Ave., Tilton Memorial Hall)",
+      "subjects": [
+        "civil rights",
+        "race relations",
+        "Black education",
+        "Black arts and music",
+        "African diaspora",
+        "New Orleans Black history"
+      ],
+      "dates": "Founded 1966; holdings 19th century–present",
+      "formats": [
+        "manuscripts",
+        "photographs (tintypes, glass negatives)",
+        "microfilm",
+        "moving image and sound recordings",
+        "art and artifacts",
+        "oral histories"
+      ],
+      "extent_documented": "~800–900 manuscript collections; 250,000 photographs (from 1860); ~14,000 microfilm reels; ~8,000 moving-image/sound items",
+      "accessibility": "Open — research center",
+      "catalog_status": "Online finding aids via ArchivesSpace (amistad-finding-aids.tulane.edu)",
+      "digitization_status": "Ongoing; digitization of civil rights and cultural archives funded by campaigns",
+      "rights": "Mixed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-022"
+      ],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'Amistad Research Center' — holdings figures; founded 1966 at Fisk; at Tulane since 1987; named collections",
+          "primary": false
+        },
+        {
+          "citation": "Tulane PreK-12 Education Collaborative — history: established 1966 by United Church Board; independent 1969; Dillard then US Mint then Tulane",
+          "primary": false
+        },
+        {
+          "citation": "Amistad Research Center 60th-anniversary campaign video (2026) — 'oldest and largest independent archive' of African American history; 900+ collections",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-029",
+      "collection": "John Hope and Aurelia E. Franklin Library — Special Collections and Archives",
+      "custodian": "Fisk University",
+      "location": "Nashville, Tennessee",
+      "subjects": [
+        "African American history and culture",
+        "Black literature and music",
+        "Black education (Rosenwald schools)",
+        "ex-slave narratives",
+        "Jubilee Singers"
+      ],
+      "dates": "19th century–present",
+      "formats": [
+        "books (50,000+ titles)",
+        "manuscripts",
+        "records and sheet music",
+        "newspapers/periodicals/theses",
+        "photographs",
+        "audio-cassette oral histories",
+        "university archives"
+      ],
+      "extent_documented": "50,000+ titles on Africans/African Americans; 2,600 records; 500 sheet-music pieces; 3,400 newspapers/periodicals/journals/theses; 700-interview Black Oral History Collection; Julius Rosenwald Fund Archive portal: 146,000+ digitized items (Nov 2025)",
+      "accessibility": "Reading room; oral-history tapes do not circulate; appointments via Special Collections Librarian",
+      "catalog_status": "LibGuides collection pages; Rosenwald portal searchable",
+      "digitization_status": "Julius Rosenwald Fund Archive fully launched as digital portal (Nov 2025); oral histories partially transcribed/digitized",
+      "rights": "Mixed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Fisk University catalog, Franklin Library page (fisk.smartcatalogiq.com) — 50,000 titles; Du Bois/Chesnutt/Douglas/Johnson/Hughes papers; Rosenwald Fund records",
+          "primary": true
+        },
+        {
+          "citation": "Fisk LibGuides, Black Oral History Collection — 700 interviews on audio cassette, founded 1970",
+          "primary": true
+        },
+        {
+          "citation": "Black Enterprise (Nov 2025) — Julius Rosenwald Fund Archive digital launch; 146,000+ digitized items",
+          "primary": false
+        },
+        {
+          "citation": "Nashville Banner (Sept 2025) — Rosenwald portal preview; fellowship applications, building plans",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-030",
+      "collection": "Archives Research Center (AUC HBCU archives)",
+      "custodian": "Atlanta University Center — Robert W. Woodruff Library",
+      "location": "Atlanta, Georgia (111 James P. Brawley Dr. SW)",
+      "subjects": [
+        "African American experience",
+        "civil rights",
+        "Black higher education (HBCUs)",
+        "Black women in radio",
+        "Black arts and literature"
+      ],
+      "dates": "20th century–present (built on Atlanta University's Trevor Arnett 'Negro Collection')",
+      "formats": [
+        "manuscripts",
+        "organizational records",
+        "institutional records",
+        "photographs",
+        "audiovisual materials",
+        "theses/dissertations"
+      ],
+      "extent_documented": "~7,500 cubic feet of archival collections; library overall 1M+ items",
+      "accessibility": "Open — research library; 2nd HBCU member of Association of Research Libraries (2022)",
+      "catalog_status": "Manuscript highlights published online (Cullen/Jackman, Lowery, Clarke, Black Women in Radio, Southern Education Foundation)",
+      "digitization_status": "Not comprehensively documented",
+      "rights": "Mixed; institutional records of AUC schools",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": "http://www.auctr.edu/archives-and-collections/archives/manuscripts/",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "AUC Woodruff Library, Manuscripts page (auctr.edu) — collection highlights; Trevor Arnett Negro Collection core",
+          "primary": true
+        },
+        {
+          "citation": "AUC Woodruff Library press release (2025) — Archives Research Center holdings: Clarke, Lowery, Slaughter/Cullen, Black Women in Radio; MLK Jr. Collection custodian; ARL 2022",
+          "primary": true
+        },
+        {
+          "citation": "Watch The Yard (2026) — John R. Lewis Congressional Papers; century of Black intellectual/civic life",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-031",
+      "collection": "Charles H. Wright Museum collection and archives",
+      "custodian": "Charles H. Wright Museum of African American History",
+      "location": "Detroit, Michigan (315 E. Warren Ave.)",
+      "subjects": [
+        "African American history and culture",
+        "Underground Railroad",
+        "Detroit Black labor movement",
+        "Tuskegee Airmen",
+        "civil rights"
+      ],
+      "dates": "Founded 1965; holdings span African antiquity–present",
+      "formats": [
+        "artifacts",
+        "archival documents",
+        "letters",
+        "masks and art objects",
+        "exhibition installations"
+      ],
+      "extent_documented": "35,000+ artifacts and archival materials (sources range 30,000–35,000+)",
+      "accessibility": "Open — museum; 125,000-sq.-ft. facility",
+      "catalog_status": "Not publicly documented",
+      "digitization_status": "Not publicly documented",
+      "rights": "Museum-held",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'Charles H. Wright Museum of African American History' — 35,000+ collection; founded 1965; 315 E. Warren Ave.",
+          "primary": false
+        },
+        {
+          "citation": "Historic Detroit — 30,000+ artifacts; Detroit labor movement documents; founded as International Afro-American Museum 1965",
+          "primary": false
+        },
+        {
+          "citation": "The Clio — Blanche Coggin Underground Railroad Collection; Harriet Tubman Museum Collection; Coleman A. Young Collection; Sheffield labor documents",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-032",
+      "collection": "Chicago art-related Black archival materials (survey descriptions)",
+      "custodian": "Smithsonian Institution — Archives of American Art (survey custodian; materials held by Chicago repositories)",
+      "location": "Washington, DC (survey); Chicago, Illinois (materials)",
+      "subjects": [
+        "Black Chicago art",
+        "arts organizations",
+        "artists' papers"
+      ],
+      "dates": "Survey published c. 2014–2015 (Terra Foundation Chicago project)",
+      "formats": [
+        "collection-level survey descriptions with repository links"
+      ],
+      "extent_documented": "Survey-level only",
+      "accessibility": "Open — online survey descriptions",
+      "catalog_status": "Published survey records (SSCAC, Hall Branch, Frances Minor papers, Illinois Arts Council records)",
+      "digitization_status": "Descriptions only; digitization varies by holding repository",
+      "rights": "Varies by holding repository",
+      "preservation_condition": "Not applicable (survey)",
+      "finding_aid_url": "https://www.aaa.si.edu/collections/surveys/chicago/south-side-community-art-center/archives-south-side-community-art-center",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Smithsonian AAA Chicago survey records — SSCAC archives; Hall Branch archives; Frances Minor papers; Illinois Arts Council records",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "institutional"
+    },
+    {
+      "id": "CTL-PRESERVE-C-033",
+      "collection": "Abbott-Sengstacke Family Papers (Chicago Defender founding family archive)",
+      "custodian": "Sengstacke family (private family custody) until May 2009 donation; now Chicago Public Library, Vivian G. Harsh Research Collection",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Chicago Defender",
+        "Black press",
+        "publishing family",
+        "civil rights era"
+      ],
+      "dates": "circa 1905-2009 (83 boxes)",
+      "formats": [
+        "papers",
+        "photographs",
+        "home movies",
+        "correspondence"
+      ],
+      "extent_documented": "83 boxes; ~4,000 photographs; 100 home movies (per press reports)",
+      "accessibility": "Public access via Chicago Public Library's Vivian G. Harsh Research Collection since 2009 donation",
+      "catalog_status": "Institutional cataloging presumed (not independently verified)",
+      "digitization_status": "UChicago Library committed to perpetual digital hosting of a large selection of the photographs (2018)",
+      "rights": "Not documented in sources",
+      "preservation_condition": "Transferred intact; condition details not documented in sources",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Editor and Publisher, 'Papers of Chicago Defender Founding Family Donated to City Library' (staff report, ca. 2009)",
+          "primary": false
+        },
+        {
+          "citation": "UChicago News, 'Finding History in a Loft: The Abbott-Sengstacke Family Papers' (ca. 2018)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-034",
+      "collection": "Chicago Defender photographic morgue (newspaper photo archive)",
+      "custodian": "Chicago Defender (Real Times Media ownership period); organized by volunteer Angela Ford; digitization partnership with Obsidian Collection Archives",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Chicago Defender",
+        "Black press",
+        "photojournalism"
+      ],
+      "dates": "1905-ongoing",
+      "formats": [
+        "photographs",
+        "negatives",
+        "newspaper clipping files"
+      ],
+      "extent_documented": "Estimated ~250,000 images (Ford's count, 2018)",
+      "accessibility": "Largely undigitized; 136 images and 8 curated stories publicly live on Google Arts & Culture as of 2018 reporting",
+      "catalog_status": "Organized by volunteer (2016-2018); formal catalog status not publicly confirmed",
+      "digitization_status": "Early-stage; Obsidian partnership since 2017-2018",
+      "rights": "Not documented in sources",
+      "preservation_condition": "Not documented in sources",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-016"
+      ],
+      "sources": [
+        {
+          "citation": "Mic.com, 'Obsidian Collection Archives Is Digitizing the Rich Photo Legacy of the Black Press' (2018)",
+          "primary": false
+        },
+        {
+          "citation": "Nonprofit Quarterly / WBEZ, on Defender-Obsidian-Google Arts & Culture partnership (2018)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-035",
+      "collection": "Obsidian Collection Archives",
+      "custodian": "Obsidian Collection Archives (Chicago nonprofit, launched 2017 by Angela Ford); original owners retain ownership and majority revenue",
+      "location": "Chicago, Illinois (planned physical home: Lu Palmer Mansion, Bronzeville; zoning approved ca. 2023; restoration completion not publicly confirmed)",
+      "subjects": [
+        "Black press",
+        "Chicago Defender",
+        "Afro-American newspaper",
+        "photojournalism",
+        "Chicago Defender photography",
+        "Black press photojournalism"
+      ],
+      "dates": "2017-present",
+      "formats": [
+        "digitized photographs",
+        "exhibition materials",
+        "photographic negatives/prints",
+        "digitized images",
+        "NFT experiments (2022)"
+      ],
+      "extent_documented": "Materials from the Chicago Defender (~250,000 images counted in early work), the Afro-American, and 12+ other Black newspapers; ~9 million images across partner papers per NPQ; totals not published",
+      "accessibility": "Digital selections via Google Arts & Culture (136 images and 8 photo stories publicly live as of 2018 reporting); physical archive center planned (status unresolved)",
+      "catalog_status": "Not documented",
+      "digitization_status": "Active digitization; early-stage as of last dated reporting (2018-2020). Preservation-grade storage, fixity, and long-term backup documentation not found. Current status unresolved as of 2026-09 - verify before citing as active.",
+      "rights": "Original owners retain ownership and majority revenue",
+      "preservation_condition": "Not documented in sources",
+      "finding_aid_url": "https://artsandculture.google.com/partner/the-obsidian-collection-archives",
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-017"
+      ],
+      "sources": [
+        {
+          "citation": "Mic.com, 'Obsidian Collection Archives Is Digitizing the Rich Photo Legacy of the Black Press' (2018)",
+          "primary": false
+        },
+        {
+          "citation": "Chicago Community Trust, 'Pre-Development Fund: Obsidian Collection Archives' (2021)",
+          "primary": true
+        },
+        {
+          "citation": "Preservation Chicago, on zoning approval for Palmer Mansion restoration (ca. 2023)",
+          "primary": false
+        },
+        {
+          "citation": "The TRiiBE, 'Can Lu Palmer's mansion become a community hub and museum on the South Side?' (2023-06)",
+          "primary": false
+        },
+        {
+          "citation": "Mic, 'Obsidian Collection Archives Is Digitizing the Rich Photo Legacy of the Black Press'",
+          "primary": false,
+          "url": "https://www.mic.com/articles/189710/obsidian-collection-archives-is-digitizing-the-rich-photo-legacy-of-the-black-press"
+        },
+        {
+          "citation": "Citizen Newspaper Group, 'Obsidian Collection Offers Newly Minted NFTs' (Jan 2022)",
+          "primary": false,
+          "url": "https://citizennewspapergroup.com/news/2022/jan/26/obsidian-collection-offers-newly-minted-nfts-rare-/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "merged (community+digital)"
+    },
+    {
+      "id": "CTL-PRESERVE-C-036",
+      "collection": "Pilgrim Baptist Church music and records archive (destroyed)",
+      "custodian": "Pilgrim Baptist Church congregation (Chicago)",
+      "location": "Bronzeville, Chicago",
+      "subjects": [
+        "gospel music",
+        "Thomas A. Dorsey",
+        "church records",
+        "National Convention of Gospel Choirs and Choruses"
+      ],
+      "dates": "1922-2006 (destroyed January 2006)",
+      "formats": [
+        "sheet music",
+        "announcements",
+        "concert/program notes",
+        "Sunday school attendance books"
+      ],
+      "extent_documented": null,
+      "accessibility": "Destroyed in January 2006 fire; surviving extent unresolved (a volunteer noted not every Dorsey record burned)",
+      "catalog_status": "Uncatalogued at time of loss",
+      "digitization_status": "None known",
+      "rights": "Not documented",
+      "preservation_condition": "Destroyed (building gutted by fire)",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-026"
+      ],
+      "sources": [
+        {
+          "citation": "Religion News Service, 'Gospel fans mourn loss of historic Chicago church' (2006-01-12)",
+          "primary": false
+        },
+        {
+          "citation": "NPR, 'The Music of Pilgrim Baptist Church' (2006-01-12)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-037",
+      "collection": "Rescued burial records from shuttered Black-owned funeral homes (Illinois)",
+      "custodian": "Shuttered Black-owned funeral homes (business custody) until 2022 rescue by Illinois Office of Comptroller and Bronzeville Historical Society; transferred to Chicago Public Library, Vivian G. Harsh Research Collection",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "funeral homes",
+        "burial records",
+        "genealogy",
+        "death care"
+      ],
+      "dates": "1880s-2022 (funeral records dating from the 1920s)",
+      "formats": [
+        "burial records",
+        "funeral records",
+        "database"
+      ],
+      "extent_documented": "More than 140,000 burial records",
+      "accessibility": "Public access via CPL Vivian G. Harsh Research Collection",
+      "catalog_status": "Database compiled during rescue (10-person BHS processing team)",
+      "digitization_status": "Database compiled; public digital access status not confirmed",
+      "rights": "Privacy considerations for personal data in burial records",
+      "preservation_condition": "Intact; transferred to permanent institutional custody",
+      "finding_aid_url": null,
+      "privacy_note": "Records may contain personal data of deceased individuals and families; names of shuttered funeral homes not published in sources. Do not reproduce record-level personal information.",
+      "related_entities": [
+        "CTL-PRESERVE-E-053"
+      ],
+      "sources": [
+        {
+          "citation": "Illinois Office of Comptroller press release, 'Comptroller Mendoza and Bronzeville Historical Society Collaborate to Preserve Illinois Black History' (2022-10-04)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-038",
+      "collection": "A.A. Rayner & Sons Funeral Home historical records",
+      "custodian": "A.A. Rayner & Sons (private business); custodianship of historical records unknown",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "funeral homes",
+        "Emmett Till",
+        "death care"
+      ],
+      "dates": "1947-present",
+      "formats": [
+        "business records (unconfirmed)"
+      ],
+      "extent_documented": null,
+      "accessibility": "Unknown; living private business",
+      "catalog_status": "Unknown",
+      "digitization_status": "None known",
+      "rights": "Private corporate property; privacy applies to any personal data",
+      "preservation_condition": "Unknown",
+      "finding_aid_url": null,
+      "privacy_note": "Do not seek or publish record-level personal data. Firm confirmed publicly that A.A. Rayner provided funeral services for the Till family.",
+      "related_entities": [
+        "CTL-PRESERVE-E-038"
+      ],
+      "sources": [
+        {
+          "citation": "A.A. Rayner & Sons Funeral Home official site (business history, Emmett Till services)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-039",
+      "collection": "King and King Funeral Home records (Indianapolis)",
+      "custodian": "King and King Funeral Home (Black Indianapolis funeral home) until 2024 rescue; received by Indiana Landmarks Black Heritage Preservation Program; deposited at Indiana Historical Society",
+      "location": "Indianapolis, Indiana (national comparator)",
+      "subjects": [
+        "funeral homes",
+        "genealogy",
+        "death certificates",
+        "business records"
+      ],
+      "dates": "1930s-1980s",
+      "formats": [
+        "death certificates",
+        "death-certificate applications",
+        "financial records"
+      ],
+      "extent_documented": null,
+      "accessibility": "Deposited at Indiana Historical Society for condition/privacy analysis; public access pending processing",
+      "catalog_status": "Unprocessed at last report",
+      "digitization_status": "None known",
+      "rights": "Privacy considerations for personal data",
+      "preservation_condition": "Rescued before building demolition; condition under assessment",
+      "finding_aid_url": null,
+      "privacy_note": "Death records contain personal data; access subject to privacy review.",
+      "related_entities": [
+        "CTL-PRESERVE-E-052"
+      ],
+      "sources": [
+        {
+          "citation": "Indiana Landmarks, 'Indiana Landmarks Receives Records from Black Indianapolis Funeral Home' (2024-09)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-040",
+      "collection": "Richard Funeral Home funeral programs (Louisiana)",
+      "custodian": "Richard Funeral Home (Black-owned, Amite, Louisiana) until donation arranged with Dr. Antoinette Harrell; donated to Center for Southeast Louisiana Studies",
+      "location": "Amite, Louisiana (national comparator)",
+      "subjects": [
+        "funeral programs",
+        "obituaries",
+        "genealogy"
+      ],
+      "dates": "Not specified",
+      "formats": [
+        "funeral programs",
+        "obituaries"
+      ],
+      "extent_documented": null,
+      "accessibility": "Via Center for Southeast Louisiana Studies",
+      "catalog_status": "Not documented",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not documented",
+      "finding_aid_url": null,
+      "privacy_note": "Funeral programs contain personal and family data; handle per repository policy.",
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Black Enterprise, 'Black-Owned Funeral Home Partners with Genealogist to Preserve History' (ca. 2022)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-041",
+      "collection": "Bronzeville Historical Society community archive",
+      "custodian": "Bronzeville Historical Society, led by Sherry Williams (founded 1999)",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Bronzeville",
+        "oral history",
+        "Great Migration",
+        "genealogy",
+        "community archives"
+      ],
+      "dates": "1999-present; holdings span 20th century",
+      "formats": [
+        "VHS oral histories",
+        "photographs",
+        "artifacts",
+        "memorabilia",
+        "landmark documentation"
+      ],
+      "extent_documented": "11 years of VHS oral histories (per UChicago Chronicle); James S. Parker photo collection housed at UIC via NHPRC grant; funeral-record rescue team (see separate record)",
+      "accessibility": "Community access via the Society; Parker collection at UIC",
+      "catalog_status": "Partially cataloged (Parker collection has finding aid via UIC)",
+      "digitization_status": "Oral histories digitized with UChicago student assistance (ca. 2009)",
+      "rights": "Not documented in sources",
+      "preservation_condition": "Community-held; condition not professionally documented",
+      "finding_aid_url": null,
+      "privacy_note": "Note: a distinct 'Bronzeville Black Chicagoan Historical Society' (est. 2017) also exists; do not conflate the two organizations.",
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "UChicago Chronicle, on Sherry Williams's 11 years of VHS oral histories and UChicago digitization assistance (2009)",
+          "primary": false
+        },
+        {
+          "citation": "bronzevillearchives.com, James S. Parker Collection (Society's site)",
+          "primary": true
+        },
+        {
+          "citation": "Illinois Office of Comptroller press release on funeral-record collaboration (2022-10-04)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-042",
+      "collection": "James S. Parker Collection (Bronzeville photographs and address database)",
+      "custodian": "Bronzeville Historical Society; housed at University of Illinois Chicago (NHPRC grant); collection of James S. Parker",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Bronzeville",
+        "architecture",
+        "property records",
+        "neighborhood change"
+      ],
+      "dates": "Photographs mostly pre-1999",
+      "formats": [
+        "photographs",
+        "ring binders",
+        "database (Excel)"
+      ],
+      "extent_documented": null,
+      "accessibility": "Via UIC; contact through Bronzeville Historical Society",
+      "catalog_status": "Address-organized ring binders; Excel property/address database",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not documented",
+      "finding_aid_url": "https://bronzevillearchives.com/wp-content/uploads/2017/10/james-s-parker-collection-description-2016.pdf",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Bronzeville Historical Society, 'James S. Parker Collection Description' (2016, hosted at bronzevillearchives.com)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-043",
+      "collection": "Frances Minor papers",
+      "custodian": "Community/private collecting origin; surveyed at Chicago Public Library, Woodson Regional Library Center",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black arts",
+        "South Side Community Art Center",
+        "exhibitions"
+      ],
+      "dates": "1950s-2008 (approx.; collection: 15 linear feet / 29 boxes)",
+      "formats": [
+        "art files",
+        "exhibition files",
+        "clippings",
+        "organizational records"
+      ],
+      "extent_documented": "15 linear feet / 29 boxes",
+      "accessibility": "Via CPL Woodson Regional Library Center",
+      "catalog_status": "Surveyed by Smithsonian Archives of American Art",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Smithsonian Archives of American Art, Chicago Archives Survey: Frances Minor papers",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-044",
+      "collection": "William McBride Jr. papers",
+      "custodian": "Community/private collecting origin; surveyed at Chicago Public Library (Woodson/Harsh collections)",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black arts",
+        "Black Power",
+        "South Side Community Art Center",
+        "posters",
+        "photographs"
+      ],
+      "dates": "20th century (collection: 45 linear feet / 46 archival boxes)",
+      "formats": [
+        "correspondence",
+        "organizational records",
+        "posters",
+        "photographs",
+        "publications",
+        "memorabilia"
+      ],
+      "extent_documented": "45 linear feet / 46 archival boxes",
+      "accessibility": "Via Chicago Public Library",
+      "catalog_status": "Surveyed by Smithsonian Archives of American Art",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Smithsonian Archives of American Art, Chicago Archives Survey: William McBride papers",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-045",
+      "collection": "WVON airchecks held by private collectors",
+      "custodian": "Private collectors (e.g., the credited Greg Barman, Don Beno, Ira Menacker, Rob Frankel collections; Richard Pegue tapes by an individual collector; 'Free the Airchecks!' Internet Archive collection)",
+      "location": "Chicago area (private residences; precise locations undisclosed)",
+      "subjects": [
+        "WVON",
+        "Black radio",
+        "soul music",
+        "talk radio"
+      ],
+      "dates": "1966-1990s (1966 airchecks of Lucky Cordell and Ed Cook dated January 29, 1966; Pegue tapes 1980s-1990s)",
+      "formats": [
+        "reel-to-reel and cassette aircheck tapes",
+        "digital audio derivatives"
+      ],
+      "extent_documented": null,
+      "accessibility": "Selections publicly streamable via Internet Archive ('Free the Airchecks!') and YouTube ('Ellis B Feaster' aircheck museum, active since 2008)",
+      "catalog_status": "Uncatalogued (hand-written tape labels/lists only)",
+      "digitization_status": "Partially digitized by collectors",
+      "rights": "Unclear (off-air recordings; broadcast copyrights not addressed in sources)",
+      "preservation_condition": "Unknown; home storage",
+      "finding_aid_url": null,
+      "privacy_note": "Collectors named only as credited by the Internet Archive collection itself. Precise home locations must not be published.",
+      "related_entities": [
+        "CTL-PRESERVE-E-033"
+      ],
+      "sources": [
+        {
+          "citation": "Internet Archive, 'Free the Airchecks!' collection (WVON airchecks, incl. Lucky Cordell and Ed Cook, Jan 29, 1966)",
+          "primary": true
+        },
+        {
+          "citation": "YouTube, 'Ellis B Feaster' aircheck museum (WVON airchecks incl. E. Rodney Jones/Jim Maloney 1967, Clair Nelson/Roy Wood 1968)",
+          "primary": true
+        },
+        {
+          "citation": "YouTube upload description, Richard Pegue 1986 WVON/WGCI aircheck (collector's first-person taping account, taped Pegue for seven years)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-046",
+      "collection": "Vee-Jay Records masters and master book",
+      "custodian": "Vee-Jay Records (founders Vivian Carter and James Bracken) until 1966 bankruptcy; assets bought by Betty Chiappetta and Randy Wood as Vee-Jay International; masters licensed to Buddah and Springboard in the 1970s; current custody unknown",
+      "location": "Gary, Indiana / Chicago region origins; current location unknown",
+      "subjects": [
+        "record label",
+        "R&B",
+        "gospel",
+        "Beatles (US releases)",
+        "Little Richard",
+        "John Lee Hooker",
+        "Jimmy Reed",
+        "Staple Singers",
+        "Dells"
+      ],
+      "dates": "1953-1966 (label); master book chronological by master number",
+      "formats": [
+        "master tapes",
+        "master book (ledger)"
+      ],
+      "extent_documented": "5,000+ masters (per historical documentaries)",
+      "accessibility": "Commercial reissues available; master tapes inaccessible/untraceable",
+      "catalog_status": "Master book referenced by discography researchers; catalog status of tapes unknown",
+      "digitization_status": "Music commercially reissued; master-tape provenance undocumented",
+      "rights": "Successive licensing (Buddah, Springboard, Concord/others); current rights status not documented",
+      "preservation_condition": "Unknown",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-028"
+      ],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'Vee-Jay Records' (bankruptcy, asset sale, licensing history)",
+          "primary": false
+        },
+        {
+          "citation": "RareBeatles.com discography research, referencing Vee-Jay master book",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-047",
+      "collection": "Chess Records masters (destroyed in 2008 Universal Studios fire)",
+      "custodian": "MCA/Geffen/Universal Music Group vaults at time of loss",
+      "location": "Universal Studios backlot vault, California",
+      "subjects": [
+        "Chess Records",
+        "blues",
+        "Chuck Berry",
+        "Muddy Waters",
+        "Howlin' Wolf"
+      ],
+      "dates": "1950-2008 (label); destroyed July 2008",
+      "formats": [
+        "master tapes"
+      ],
+      "extent_documented": "UMG internal 'Vault Loss Meeting' document cited: more than 100,000 masters and an estimated 500,000 song titles across labels destroyed; Chess-specific losses not itemized publicly",
+      "accessibility": "Destroyed; surviving commercial reissues and safety copies",
+      "catalog_status": "Destroyed; exact Chess title-by-title losses contested",
+      "digitization_status": "Reissues exist; original masters gone",
+      "rights": "Universal Music Group",
+      "preservation_condition": "Destroyed (fire)",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-027"
+      ],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'Chess Records' (masters destroyed in 2008 Universal Studios fire; All Platinum/MCA/Geffen provenance)",
+          "primary": false
+        },
+        {
+          "citation": "NYT Magazine, 'The Day the Music Burned' (2019), via Discogs/audiokarma mirrors (UMG internal vault-loss document)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-048",
+      "collection": "John Simmons photographic negatives (partially destroyed)",
+      "custodian": "John Simmons (private photographer); negatives stored in a friend's garage during a move",
+      "location": "Chicago area (precise storage undisclosed)",
+      "subjects": [
+        "Black Chicago",
+        "photography",
+        "civil rights era",
+        "jazz"
+      ],
+      "dates": "Life's work through 2025",
+      "formats": [
+        "negatives",
+        "prints",
+        "scans (via friends' copies)"
+      ],
+      "extent_documented": null,
+      "accessibility": "Not publicly accessible; partial salvage ongoing",
+      "catalog_status": "Uncatalogued",
+      "digitization_status": "Partial (scans recovered via prints Simmons had gifted)",
+      "rights": "Photographer's own work",
+      "preservation_condition": "Nearly all work lost/damaged in garage fire; negatives stuck together and water-damaged; salvage ongoing",
+      "finding_aid_url": null,
+      "privacy_note": "Precise storage location must not be published.",
+      "related_entities": [
+        "CTL-PRESERVE-E-031"
+      ],
+      "sources": [
+        {
+          "citation": "Hyperallergic, 'An Overlooked Photographer Who Documented Generations' (2025)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-049",
+      "collection": "Ovie Carter and Bob Black personal negative archives",
+      "custodian": "Ovie Carter (Pulitzer 1975, Chicago Tribune 1969-2004) and Bob Black (Chicago Defender from 1965, Chicago Sun-Times 1968-2006); personal custody (inferred from documentary footage; not stated outright)",
+      "location": "Chicago area (undisclosed)",
+      "subjects": [
+        "photojournalism",
+        "Black Chicago",
+        "civil rights era"
+      ],
+      "dates": "1960s-2000s careers",
+      "formats": [
+        "negatives",
+        "photographs"
+      ],
+      "extent_documented": null,
+      "accessibility": "Not documented",
+      "catalog_status": "No public catalog found",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Not documented",
+      "finding_aid_url": null,
+      "privacy_note": "Living individuals; disposition planning not publicly documented. Personal holdings inferred, not stated; do not over-claim.",
+      "related_entities": [
+        "CTL-PRESERVE-E-032"
+      ],
+      "sources": [
+        {
+          "citation": "PetaPixel, 'Award-Winning Documentary Celebrates Pioneering Black Photographers' ('Voices in the Mirror,' 2026-08-31)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-050",
+      "collection": "DAARAC Archive of Afro-American Cinema",
+      "custodian": "Department of Afro American Research, Arts and Culture (DAARAC), Chicago community nonprofit (inc. 2019, 501(c)(3) 2020), director Dr. James D. Spinks",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black film",
+        "race films",
+        "blaxploitation",
+        "Oscar Micheaux"
+      ],
+      "dates": "2008 (as Blaxploitation Pride)-present; films span 20th century",
+      "formats": [
+        "digital film archive",
+        "images",
+        "reference posts (1,500+)"
+      ],
+      "extent_documented": "Over 2,000 films identified/digitally archived; over 40,000 combined images (organization's claim)",
+      "accessibility": "Public reference archive at daaracarchive.org",
+      "catalog_status": "1,500+ reference posts; film-by-film research ongoing",
+      "digitization_status": "Digital archive maintained by the organization",
+      "rights": "Not documented",
+      "preservation_condition": "Digital holdings; film-element preservation methodology not publicly specified",
+      "finding_aid_url": "https://www.daarac.ngo",
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "DAARAC official site, daarac.ngo (organizational self-description)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-051",
+      "collection": "Separate Cinema Archive (John Duke Kisch)",
+      "custodian": "John Duke Kisch (private collector) until 2025 acquisition; now Lucas Museum of Narrative Art",
+      "location": "National (private collector; now Lucas Museum of Narrative Art)",
+      "subjects": [
+        "Black film",
+        "race films",
+        "posters",
+        "memorabilia",
+        "Oscar Micheaux"
+      ],
+      "dates": "1904-2019",
+      "formats": [
+        "posters",
+        "images",
+        "memorabilia"
+      ],
+      "extent_documented": "37,000 items (museum's announced figure)",
+      "accessibility": "Now entering museum collection",
+      "catalog_status": "Acquired by museum (2025 announcement)",
+      "digitization_status": "Not documented",
+      "rights": "Lucas Museum of Narrative Art",
+      "preservation_condition": "Intact (four decades of private stewardship)",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-054"
+      ],
+      "sources": [
+        {
+          "citation": "PBS SoCal, 'Separate Cinema Archive: A Black Film Time Machine' (2021)",
+          "primary": false
+        },
+        {
+          "citation": "Hyperallergic, on Lucas Museum acquisition of 37,000 items (2025)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-052",
+      "collection": "AFRO-American Newspapers chain archive (Afro Charities)",
+      "custodian": "AFRO-American Newspapers (family-owned) / Afro Charities; temporarily in state-owned storage facility",
+      "location": "Baltimore area (state-owned storage facility; not open to public; planned move to restored mansion in Upton, Baltimore)",
+      "subjects": [
+        "Black press",
+        "photography",
+        "reporter notebooks",
+        "clippings"
+      ],
+      "dates": "130-year newspaper archive (1892-present)",
+      "formats": [
+        "photographs",
+        "clips",
+        "cartoons",
+        "event programs",
+        "letters",
+        "reporter notebooks",
+        "artifacts"
+      ],
+      "extent_documented": "An estimated 3 million items (per Baltimore Banner)",
+      "accessibility": "Not open to public (inaccessible state storage)",
+      "catalog_status": "About 5% processed at last report (three-person team led by archivist Megan McShea)",
+      "digitization_status": "In progress (early-stage)",
+      "rights": "Afro Charities",
+      "preservation_condition": "Survives in storage; condition details not documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-034"
+      ],
+      "sources": [
+        {
+          "citation": "The Baltimore Banner, on the AFRO newspaper archive in state storage (~3M items, 5% processed) (ca. 2023)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-053",
+      "collection": "Chicago Bee newspaper and Overton Hygienic company records",
+      "custodian": "Chicago Bee / Overton Hygienic (Anthony Overton enterprises); custodianship of business records unknown; Bee Building now a Chicago Public Library branch",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Chicago Bee",
+        "Black press",
+        "cosmetics industry",
+        "Anthony Overton"
+      ],
+      "dates": "1925-1947 (newspaper); cosmetics firm into early 1980s",
+      "formats": [
+        "business records (unconfirmed)",
+        "newspaper morgue (unconfirmed)"
+      ],
+      "extent_documented": null,
+      "accessibility": "Unknown; 'very little of the historic newspaper has survived' (Sage Collective)",
+      "catalog_status": "None known",
+      "digitization_status": "None known",
+      "rights": "Not documented",
+      "preservation_condition": "Presumed largely lost",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Sage Collective, on surviving Chicago Bee material ('very little has survived')",
+          "primary": false
+        },
+        {
+          "citation": "Wikipedia, 'Chicago Bee' (publication history; building reuse as CPL branch)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-054",
+      "collection": "Chicago Whip newspaper morgue and business records",
+      "custodian": "Chicago Whip (1919-1939); custodianship unknown",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black press",
+        "Don't Spend Money Where You Can't Work campaign",
+        "Abram Harris"
+      ],
+      "dates": "1919-1939",
+      "formats": [
+        "newspaper morgue (unconfirmed)",
+        "business records (unconfirmed)"
+      ],
+      "extent_documented": null,
+      "accessibility": "No publicly documented archive located",
+      "catalog_status": "None known",
+      "digitization_status": "None known",
+      "rights": "Not documented",
+      "preservation_condition": "Unknown",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-036"
+      ],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'Chicago Whip' (publication history, 1919-1939, circulation 65,000)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-055",
+      "collection": "Muhammad Speaks newspaper archives",
+      "custodian": "Nation of Islam / Muhammad Speaks (1961-1975); custodianship undocumented",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Muhammad Speaks",
+        "Nation of Islam",
+        "Black press"
+      ],
+      "dates": "1961-1975",
+      "formats": [
+        "newspaper morgue (unconfirmed)",
+        "business records (unconfirmed)"
+      ],
+      "extent_documented": null,
+      "accessibility": "No publicly documented archive located",
+      "catalog_status": "None known",
+      "digitization_status": "None known",
+      "rights": "Not documented",
+      "preservation_condition": "Unknown",
+      "finding_aid_url": null,
+      "privacy_note": "Likely held by a private religious organization; inquiry constrained by privacy and trust.",
+      "related_entities": [
+        "CTL-PRESERVE-E-035"
+      ],
+      "sources": [
+        {
+          "citation": "Final Call, 'Muhammad Speaks: A Trailblazer in the Newspaper Industry' (2009)",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-056",
+      "collection": "Supreme Life Insurance / Binga State Bank corporate records",
+      "custodian": "Supreme Life Insurance Company (1919-); Binga State Bank (1921-1930); custodianship of historical corporate records unknown",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Black insurance",
+        "Black banking",
+        "Jesse Binga",
+        "Black Metropolis economy"
+      ],
+      "dates": "1919-1964 (board minutes cited through 1964)",
+      "formats": [
+        "board minutes",
+        "corporate records (unconfirmed location)"
+      ],
+      "extent_documented": null,
+      "accessibility": "No publicly documented archive located; board minutes (1953-1964) cited in Cambridge Business History Review scholarship, suggesting records existed in company hands",
+      "catalog_status": "None known",
+      "digitization_status": "None known",
+      "rights": "Not documented",
+      "preservation_condition": "Unknown",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-037"
+      ],
+      "sources": [
+        {
+          "citation": "Business History Review (Cambridge), scholarship citing Supreme Life board minutes 1953-1964",
+          "primary": false
+        },
+        {
+          "citation": "BlackPast.org, 'Jesse Binga' biographical entry",
+          "primary": false
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-057",
+      "collection": "Thomas A. Dorsey family and congregation-held gospel music materials",
+      "custodian": "Dorsey family and Pilgrim Baptist Church (historical custody); some items at Fisk University Special Collections; a 1932 Dorsey 78 privately owned and loaned to Baylor's Black Gospel Music Preservation Program",
+      "location": "Chicago, Illinois (family/congregation materials); Fisk University, Nashville (items seen by researchers)",
+      "subjects": [
+        "gospel music",
+        "Thomas A. Dorsey",
+        "Pilgrim Baptist Church"
+      ],
+      "dates": "1930s-1993",
+      "formats": [
+        "78rpm records",
+        "papers",
+        "postcards",
+        "condolence letters",
+        "funeral programs"
+      ],
+      "extent_documented": null,
+      "accessibility": "Partial (Fisk holdings seen by researchers; Baylor loan; Pilgrim materials destroyed 2006 — see separate record)",
+      "catalog_status": "Not documented",
+      "digitization_status": "Not documented",
+      "rights": "Not documented",
+      "preservation_condition": "Dispersed; Chicago-held family materials' status unresolved",
+      "finding_aid_url": null,
+      "privacy_note": "Private family holdings; do not over-claim custody.",
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "KTTZ, on researcher's visit to Fisk University Special Collections (Dorsey items: last postcard, condolence letters, Nettie Dorsey funeral program)",
+          "primary": false
+        },
+        {
+          "citation": "Baylor Black Gospel Music Preservation Program, 'Shout! Black Gospel Music Moments' (2022-11-20): rare 1932 Thomas Dorsey 78 loaned by private owner Dr. Stephanie Boddie",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-058",
+      "collection": "Private family collections of Black Chicago (aggregate, privacy-limited)",
+      "custodian": "Unnamed private families, South Side and West Side Chicago and suburbs",
+      "location": "Chicago area (non-specific by design)",
+      "subjects": [
+        "family papers",
+        "photographs",
+        "home movies",
+        "letters",
+        "diaries"
+      ],
+      "dates": "Varies; 20th century",
+      "formats": [
+        "papers",
+        "photographs",
+        "home movies",
+        "letters",
+        "diaries"
+      ],
+      "extent_documented": null,
+      "accessibility": "Private; unverifiable without violating privacy",
+      "catalog_status": "Uncatalogued",
+      "digitization_status": "None known",
+      "rights": "Private family property",
+      "preservation_condition": "Unknown; BMRC warns such materials are often discarded when the holder dies",
+      "finding_aid_url": null,
+      "privacy_note": "Existence reported but unverifiable without violating privacy. No names, addresses, or precise locations were obtained or are sought for publication.",
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "BMRC Legacy Management Resource Portal, bmrc.lib.uchicago.edu ('many people have collections of valuable items in their own home'; materials often thrown away after death)",
+          "primary": true
+        }
+      ],
+      "grade": "Not graded",
+      "grade_note": "Track files grade substantive claims, not collection records; no record-level grade was documented in the track files.",
+      "grade_conflict": null,
+      "track": "community"
+    },
+    {
+      "id": "CTL-PRESERVE-C-059",
+      "collection": "South Side Home Movie Project",
+      "custodian": "University of Chicago (Arts + Public Life / Film Studies Center); founded by Jacqueline Stewart (2005)",
+      "location": "Chicago, Illinois",
+      "subjects": [
+        "Chicago South Side",
+        "home movies",
+        "family films",
+        "16mm/8mm/Super 8"
+      ],
+      "dates": "2005–present",
+      "formats": [
+        "16mm film",
+        "8mm film",
+        "Super 8 film",
+        "digitized video files"
+      ],
+      "extent_documented": "1,200+ reels collected (16mm, 8mm, Super 8); 700+ films digitized, most in a public archive (2025 reporting)",
+      "accessibility": "Public archive; exhibitions and community events.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "As reported in 2025: 1,200+ reels collected; 700+ films digitized, with most made available in a public archive. Backup/redundancy details not documented in sources reviewed.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "UChicago News, 'Film archivist keeps Chicago families' memories alive' (2025)",
+          "primary": false,
+          "url": "http://news.uchicago.edu/story/film-archivist-keeps-chicago-families-memories-alive"
+        },
+        {
+          "citation": "South Side Home Movie Project, 'Exhibition: The Act of Recording Is an Act of Love' (project site)",
+          "primary": true,
+          "url": "https://sshmp.uchicago.edu/events/exhibition-the-act-of-recording-is-an-act-of-love-the-south-side-home-movie-project"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-060",
+      "collection": "BlackPast.org",
+      "custodian": "BlackPast.org (nonprofit); founded 2007 by Quintard Taylor",
+      "location": "United States (location not documented in sources reviewed)",
+      "subjects": [
+        "Black history encyclopedia",
+        "biographies",
+        "events",
+        "places"
+      ],
+      "dates": "2007–present",
+      "formats": [
+        "web articles",
+        "images",
+        "timelines"
+      ],
+      "extent_documented": "7,200 entries; nearly 1,000 contributors; 6.5 million annual visitors (2023 figures)",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "2023 figures: 7,200 entries, nearly 1,000 contributors, 6.5 million annual visitors. Succession after founder's 2025 death is the open preservation question; no public backup-policy documentation found.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Founder Quintard Taylor died September 21, 2025; organization continued; succession after founder death is the open preservation question; no public backup-policy documentation found",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-030"
+      ],
+      "sources": [
+        {
+          "citation": "BlackPast.org announcement of founder Quintard Taylor's passing (2025)",
+          "primary": true,
+          "url": "https://blackpast.org/blackpast-org-announces-with-profound-sadness-the-passing-of-founder-dr-quintard-taylor/"
+        },
+        {
+          "citation": "UW History Department, 'Remembering Quintard Taylor' (2025)",
+          "primary": false,
+          "url": "https://history.washington.edu/news/2025/10/14/remembering-quintard-taylor"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-061",
+      "collection": "Colored Conventions Project",
+      "custodian": "Began at University of Delaware; became flagship of Penn State Center for Black Digital Research in 2020",
+      "location": "Newark, Delaware (origins, University of Delaware); University Park, Pennsylvania (Penn State Center for Black Digital Research, since 2020)",
+      "subjects": [
+        "19th-century Black organizing",
+        "convention proceedings",
+        "Black political history"
+      ],
+      "dates": "2012–present",
+      "formats": [
+        "digitized proceedings",
+        "transcriptions",
+        "exhibits",
+        "teaching guides",
+        "maps",
+        "datasets"
+      ],
+      "extent_documented": "Hundreds of 19th-century Black-organizing proceedings digitized, transcribed, and exhibited",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Hundreds of proceedings transcribed and exhibited. NEH-funded; hosted on university infrastructure. Backup specifics not publicly documented.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "NEH public award record HD-248462-16",
+          "primary": true,
+          "url": "https://apps.neh.gov/publicquery/AwardDetail.aspx?gn=HD-248462-16"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-062",
+      "collection": "SNCC Digital Gateway",
+      "custodian": "Duke University Libraries + SNCC Legacy Project + Center for Documentary Studies",
+      "location": "Durham, North Carolina (Duke University)",
+      "subjects": [
+        "Student Nonviolent Coordinating Committee",
+        "civil rights movement",
+        "oral histories"
+      ],
+      "dates": "launched 2016–present",
+      "formats": [
+        "documents",
+        "oral histories",
+        "photographs",
+        "audiovisual",
+        "maps",
+        "timelines"
+      ],
+      "extent_documented": "Documents, oral histories, photographs, AV, maps with movement-veteran co-authored interpretation (extent not quantified)",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Hosted on Duke infrastructure with movement-veteran-created interpretation. Backup specifics not publicly documented.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Duke Human Rights Center, SNCC Legacy Project page",
+          "primary": true,
+          "url": "https://humanrights.fhi.duke.edu/sncc-legacy-project/"
+        },
+        {
+          "citation": "SNCC Legacy Project, 'The SNCC Narrative'",
+          "primary": true,
+          "url": "https://sncclegacyproject.org/the-sncc-narrative/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-063",
+      "collection": "HBCU Digital Library Trust / HBCU Library Alliance Digital Library",
+      "custodian": "HBCU Library Alliance; four-year project launched 2023 with $6 million from Harvard's Legacy of Slavery initiative",
+      "location": "National (30+ HBCUs)",
+      "subjects": [
+        "HBCU archives",
+        "student newspapers",
+        "yearbooks",
+        "photographs",
+        "records"
+      ],
+      "dates": "2023–present (four-year project)",
+      "formats": [
+        "digitized documents",
+        "photographs",
+        "publications"
+      ],
+      "extent_documented": "16,500+ items added in 2024; target: all 107 HBCUs; $6M four-year project (2023-2027)",
+      "accessibility": "Public digital library.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "30+ HBCUs represented; 16,500+ digitized items added/stored in 2024; stated target: all 107 HBCUs. Post-grant sustainability (after the four-year term) is the open question.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Time-bound grant funding is the structural risk: four-year project, not a permanent endowment",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Harvard Library news, 'HBCULA-HL Partnership' (2023-03-08)",
+          "primary": false,
+          "url": "http://library.harvard.edu/about/news/2023-03-08/hbcula-hl-partnership"
+        },
+        {
+          "citation": "AUC Woodruff Library, '$500,000 MacArthur grant to expand HBCU digitization project'",
+          "primary": false,
+          "url": "https://www.auctr.edu/news-events/the-auc-woodruff-library-awarded-500000-grant-from-the-macarthur-foundation-to-expand-hbcu-digitization-project/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-064",
+      "collection": "Civil Rights Digital Library",
+      "custodian": "Digital Library of Georgia; partners include public broadcasting archives",
+      "location": "Georgia (Digital Library of Georgia)",
+      "subjects": [
+        "civil rights movement",
+        "television news footage",
+        "documents",
+        "oral histories"
+      ],
+      "dates": "launched 2008; expanded/relaunched 2022",
+      "formats": [
+        "documents",
+        "images",
+        "audio",
+        "video (incl. 1,500+ raw TV-news clips)"
+      ],
+      "extent_documented": "350+ collections; 60,000+ items; 1,500+ raw TV-news clips",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "350+ collections, 60,000+ items as of the 2022 relaunch. State-university infrastructure.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "College & Research Libraries News, 'Civil Rights Digital Library' relaunch coverage (2022)",
+          "primary": false,
+          "url": "http://carrels.distantreader.org/journal-collegeAndResearchLibrariesNews-ojsoai/cache/crln-25829.pdf"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-065",
+      "collection": "SlaveVoyages",
+      "custodian": "Consortium of institutions; originally Emory University; hosted by Rice University (2021); announced move to Harvard (2025)",
+      "location": "Rice University, Houston, Texas (2021-2025); announced move to Harvard (2025)",
+      "subjects": [
+        "transatlantic slave trade",
+        "voyage database",
+        "African names database"
+      ],
+      "dates": "1999 (CD-ROM) / 2008 (website)–present",
+      "formats": [
+        "databases",
+        "datasets",
+        "visualizations",
+        "essays"
+      ],
+      "extent_documented": "N/A (data project); best-documented format-migration success: five carrier/format generations over 50+ years",
+      "accessibility": "Public, ungated; data downloadable.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Migrated across five decades of media: punch cards → computers → 1999 CD-ROM → 2008 website → recoded 2015–2018. Consortium governance model created explicitly for sustainability. 2025 announcement: moving from Rice to Harvard.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Emory News, 'Understanding history: slavery in the Americas' (2021)",
+          "primary": false,
+          "url": "https://news.emory.edu/features/2021/03/understanding-history-slavery-americas"
+        },
+        {
+          "citation": "Rice News, 'World's largest database on history of slave trade now housed at Rice' (2021)",
+          "primary": false,
+          "url": "https://news.rice.edu/news/2021/worlds-largest-database-history-slave-trade-now-housed-rice"
+        },
+        {
+          "citation": "Phys.org, 'Slave database moving to Harvard' (2025)",
+          "primary": false,
+          "url": "https://phys.org/news/2025-04-slave-database-harvard.html"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-066",
+      "collection": "Freedmen's Bureau Project",
+      "custodian": "FamilySearch with partners including the Smithsonian National Museum of African American History and Culture",
+      "location": "National (online; FamilySearch + NMAAHC partnership)",
+      "subjects": [
+        "Freedmen's Bureau records",
+        "Reconstruction-era Black genealogy"
+      ],
+      "dates": "2015–2016 (indexing); database delivered December 6, 2016",
+      "formats": [
+        "handwritten records (digitized images)",
+        "searchable index database"
+      ],
+      "extent_documented": "4 million Freedmen’s Bureau records indexed by 25,000+ volunteers; free at discoverfreedmen.org",
+      "accessibility": "Public, ungated (FamilySearch; partner sites).",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "~19,000–25,000 volunteers indexed nearly two million handwritten records in 2015–2016; database symbolically delivered to NMAAHC on a flash drive on Dec 6, 2016; searchable via FamilySearch and DiscoverFreedmen.org.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "ARCPLS genealogy blog, 'Freedmen's Bureau Records Project Complete Thanks to FamilySearch' (2016)",
+          "primary": false,
+          "url": "https://genealogy.arcpls.org/2016/12/28/freemens-bureau-records-project-complete-thanks-to-familysearch/"
+        },
+        {
+          "citation": "Church Newsroom, 'Freedmen's Bureau Database Presented to NMAAHC' (2016)",
+          "primary": false,
+          "url": "https://newsroom.churchofjesuschrist.org/article/freedmen-bureau-database-national-museum-african-american-history-culture"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-067",
+      "collection": "Last Seen: Finding Family After Slavery",
+      "custodian": "Villanova University (Judith Giesberg) + Mother Bethel AME Church, Philadelphia",
+      "location": "Philadelphia, Pennsylvania (Villanova University + Mother Bethel AME Church)",
+      "subjects": [
+        "'Information Wanted' ads",
+        "family reunification after emancipation",
+        "1863–1902 Black newspapers"
+      ],
+      "dates": "2016/2017–present (informationwanted.org)",
+      "formats": [
+        "digitized newspaper ads",
+        "transcriptions",
+        "database"
+      ],
+      "extent_documented": "Digitized \"Information Wanted\" newspaper ads (extent not quantified)",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "~3,500 ads digitized as of 2022, drawn from six Black newspapers (Christian Recorder, Black Republican, Colored Tennessean, South Carolina Leader, Free Men's Press, Colored Citizen). Project credited with reuniting two families by early 2017.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "WMOT/NPR, 'After Slavery, Searching For Loved Ones In Wanted Ads' (2017)",
+          "primary": false,
+          "url": "https://www.wmot.org/2017-02-22/after-slavery-searching-for-loved-ones-in-wanted-ads"
+        },
+        {
+          "citation": "Seminary Ridge Museum event page, Giesberg bio and project description (2026)",
+          "primary": false,
+          "url": "https://www.seminaryridgemuseum.org/events/2026-02-hhh"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-068",
+      "collection": "Project STAND (Student Activism Now Documented)",
+      "custodian": "Founded 2016 by Lae'l Hughes-Watkins; Mellon-funded; partners include AUC Robert W. Woodruff Library; 40–80 consortium members",
+      "location": "National (40-80 consortium members; AUC Woodruff partner)",
+      "subjects": [
+        "student activism",
+        "marginalized student organizers",
+        "BIPOC/LGBTQ+ campus history"
+      ],
+      "dates": "2016–present",
+      "formats": [
+        "digitized documents",
+        "photographs",
+        "oral histories",
+        "toolkits",
+        "metadata standards"
+      ],
+      "extent_documented": "$80,000 in micro-grants awarded 2025 (with AUC Woodruff); digitizes BIPOC student-activism materials",
+      "accessibility": "Public portal; member collections vary.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "$80,000 in micro-grants awarded with AUC Woodruff Library to digitize BIPOC student activism collections; Archiving Student Activism Toolkit and metadata standards published. Portal at standarchives.com.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Mellon Foundation, 'Archiving Student Activism Means More Than You Think'",
+          "primary": false,
+          "url": "https://www.mellon.org/grant-story/archiving-student-activism-means-more-than-you-think"
+        },
+        {
+          "citation": "AUC Woodruff Library, 'AUC Woodruff Library and Project STAND Award $80,000 in Micro-grants' (2025)",
+          "primary": false,
+          "url": "https://www.auctr.edu/news/auc-woodruff-library-and-project-stand-award-80000-in-micro-grants-to-digitize-bipoc-student-activism/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-069",
+      "collection": "Say Brother / Basic Black (American Archive of Public Broadcasting)",
+      "custodian": "WGBH/GBH; preserved collection in the American Archive of Public Broadcasting (AAPB, GBH + Library of Congress)",
+      "location": "Boston, Massachusetts (WGBH/GBH); AAPB national",
+      "subjects": [
+        "Black public-affairs television",
+        "1968–1997 WGBH series",
+        "Boston Black community"
+      ],
+      "dates": "1968–1997 (Say Brother); 1998–present (as Basic Black; reimagined 2025 as GBH News Rooted)",
+      "formats": [
+        "videotape masters",
+        "digitized streaming video",
+        "transcripts/metadata"
+      ],
+      "extent_documented": "83 programs streaming in AAPB (1968-1982 tapes preserved via NEH funding)",
+      "accessibility": "Public streaming for cleared items; some materials on-site only (rights).",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "NEH Archives and Special Collections grant (April 2000) funded preservation of 1968–1982 tapes; collection now in AAPB (50,000+ hours of digitized public media). AAPB also holds related Black collections: Black Journal, Soul!, KUT's In Black America, Eyes on the Prize interviews.",
+      "rights": "Rights still gate some streaming",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'Basic Black (TV series)' — cites NEH grant and AAPB collection",
+          "primary": false,
+          "url": "https://en.wikipedia.org/wiki/Basic_Black_(TV_series)"
+        },
+        {
+          "citation": "AAPB Special Collections listing",
+          "primary": true,
+          "url": "http://americanarchive.org/special_collections"
+        },
+        {
+          "citation": "CPB, 'Public Media Amplifies African American Voices During Black History Month'",
+          "primary": false,
+          "url": "https://cpb.org/spotlight/public-media-amplifies-african-american-voices-during-black-history-month-0"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-070",
+      "collection": "Digital Howard / Black Press Archive Digitization Project",
+      "custodian": "Howard University Libraries; Moorland-Spingarn Research Center (MSRC); Black Press Archive project with Center for Journalism and Democracy, funded by Jonathan Logan Family Foundation",
+      "location": "Washington, DC (Howard University)",
+      "subjects": [
+        "Black press",
+        "MSRC manuscripts",
+        "HBCU scholarship"
+      ],
+      "dates": "Digital Howard developed from ~2015 (Mellon-funded); Black Press Archive Digitization Project announced 2023",
+      "formats": [
+        "digitized newspapers",
+        "manuscripts",
+        "photographs",
+        "theses/dissertations",
+        "oral histories"
+      ],
+      "extent_documented": "Public digital front door for MSRC (18,000+ linear feet, 700+ collections); Black Press Archive project digitizing Freedom’s Journal (1827-1829), Negro World (1924-1928), Chicago Defender, Amsterdam News, LA Sentinel, Afro-American runs",
+      "accessibility": "Public via Digital Howard; some materials rights-restricted.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "MSRC holds 18,000+ linear feet / 700+ collections. Black Press Archives include Freedom's Journal (1827–1829), Negro World (1924–1928), and major 20th-century titles; the 2023 project aims to make them publicly available via Digital Howard.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Digital Howard, Digital Collections (MSRC)",
+          "primary": true,
+          "url": "https://dh.howard.edu/digi_collect/"
+        },
+        {
+          "citation": "Digital Initiatives Symposium 2015 abstract, 'Digitizing the Black Experience' (Mellon-funded Digital Howard)",
+          "primary": false,
+          "url": "https://digital.sandiego.edu/symposium/2015/2015/11/"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-071",
+      "collection": "Umbra Search: African American History",
+      "custodian": "Created 2014 by University of Minnesota's Givens Collection and Penumbra Theatre; much content via DPLA",
+      "location": "Minnesota (University of Minnesota; content via DPLA)",
+      "subjects": [
+        "African American history",
+        "aggregated digitized materials"
+      ],
+      "dates": "2014–present",
+      "formats": [
+        "aggregated metadata",
+        "thumbnails",
+        "links to host institutions"
+      ],
+      "extent_documented": "N/A (metadata aggregator; holds links, not objects)",
+      "accessibility": "Public, ungated search.",
+      "catalog_status": "N/A - aggregator/discovery portal; holds links, not objects",
+      "digitization_status": "Aggregates open digitized resources held elsewhere; it does not preserve the underlying objects. Only what institutions chose to digitize and expose is discoverable — a selection layer, not a preservation layer.",
+      "rights": "N/A - aggregator; rights held by contributing institutions",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "American Archivist Reviews Portal, review of Umbra Search (2026)",
+          "primary": false,
+          "url": "https://files.archivists.org/periodicals/American-Archivist/ReviewsPortal/Clear_UmbraSearch.pdf"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-072",
+      "collection": "Black Film Archive",
+      "custodian": "Maya Cade (founded 2021)",
+      "location": "Online (founded 2021 by Maya Cade)",
+      "subjects": [
+        "Black cinema 1915–1979",
+        "streaming availability"
+      ],
+      "dates": "2021–present",
+      "formats": [
+        "curated links",
+        "editorial descriptions"
+      ],
+      "extent_documented": "200+ Black films (1915-1979) linked to third-party streaming; preserves zero bytes itself (discovery index)",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Launched with 200+ Black films (1915–1979) linked to third-party streaming availability. The project preserves no film files; availability depends on external platforms and licensing windows.",
+      "rights": "N/A - links to third-party streaming; holds no content",
+      "preservation_condition": "Not publicly documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Maya Cade, 'Introducing BlackFilmArchive.com' (Substack, 2021)",
+          "primary": true,
+          "url": "https://blackfilmarchive.substack.com/p/introducing-blackfilmarchivecom"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-073",
+      "collection": "Black Archives Co (Instagram)",
+      "custodian": "Renata Cherlise (blackarchives.co)",
+      "location": "Online (Instagram; founded by Renata Cherlise)",
+      "subjects": [
+        "mid-20th-century Black life",
+        "family photographs",
+        "crowdsourced images"
+      ],
+      "dates": "2011–present (Tumblr, then Instagram)",
+      "formats": [
+        "digitized photographs",
+        "Instagram posts",
+        "book (2023)"
+      ],
+      "extent_documented": "Crowdsourced mid-20th-century Black-life photographs; 554,000 Instagram followers (April 2024); book published 2023 (print backstop)",
+      "accessibility": "Public via Instagram; book commercially available.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Crowdsourced family photographs of Black life since 2011; published as 'Black Archives: A Photographic Celebration of Black Life' (2023). No public documentation of backup/export outside Instagram and the book — the archive lives primarily on a rented platform.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Digital-only; primary home is a rented platform (Instagram); no institutional export documented",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-049"
+      ],
+      "sources": [
+        {
+          "citation": "Imaginations Journal, 'Snapshots as History: The Black Archives Project'",
+          "primary": false,
+          "url": "https://imaginationsjournal.ca/index.php/imaginations/article/download/29678/21635/78029"
+        },
+        {
+          "citation": "Stance Podcast, 'Reframing the Black Image' (2021)",
+          "primary": false,
+          "url": "https://stancepodcast.com/episodes/tnfgucci"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-074",
+      "collection": "AALBC.com (African American Literature Book Club)",
+      "custodian": "Troy D. Johnson (founder, March 1998)",
+      "location": "Online (founded March 1998 by Troy D. Johnson)",
+      "subjects": [
+        "Black books",
+        "author profiles",
+        "reviews",
+        "forums",
+        "bestseller lists"
+      ],
+      "dates": "1998–present",
+      "formats": [
+        "web articles",
+        "forums",
+        "newsletters",
+        "bestseller data"
+      ],
+      "extent_documented": "One of the oldest continuously operating Black websites (since 1998); bestseller lists since 1998; forums with decades of threads",
+      "accessibility": "Public, ungated.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "28 years of continuous operation; bestseller lists published continuously since 1998; discussion forums with decades of threads. No public documentation of backup/escrow; single-operator dependency.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "Single-operator dependency; no documented succession/escrow",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Wikipedia, 'AALBC.com'",
+          "primary": false,
+          "url": "https://en.wikipedia.org/wiki/AALBC.com"
+        },
+        {
+          "citation": "Gradient News, 'Troy Johnson: Founder of the African American Literature Book Club'",
+          "primary": false,
+          "url": "https://www.joingradient.com/news/troy-johnson-founder-of-the-african-american-literature-book-club"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-075",
+      "collection": "AfriGeneas",
+      "custodian": "Founded 1996; Valencia Nelson (founder/co-owner)",
+      "location": "Online (founded 1996 by Valencia Nelson)",
+      "subjects": [
+        "African American genealogy",
+        "mailing lists",
+        "message boards",
+        "chats"
+      ],
+      "dates": "1996–present",
+      "formats": [
+        "web pages",
+        "message boards",
+        "mailing lists",
+        "searchable query archives back to 1997"
+      ],
+      "extent_documented": "Likely the oldest continuously operating African American genealogy site; searchable query archives back to 1997",
+      "accessibility": "Public; forums and chats.",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Searchable archived message database of genealogical queries back to 1997 — a 29-year community knowledge base. Backup/escrow not publicly documented. CAUTION: a third-party site indexer displayed a gambling-spam page title for afrigeneas.com (observed ~55 days before compilation); direct verification of the live domain was not possible in this environment — treat as an unverified flag, not a confirmed compromise.",
+      "rights": "Not documented in sources reviewed",
+      "preservation_condition": "A third-party site indexer displayed a gambling-spam title for afrigeneas.com (observed ~Aug 2026); the live domain could not be verified directly - recorded as an uncertainty, not a confirmed compromise",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "LinkStock directory entry, AfriGeneas (founded 1996, status active)",
+          "primary": false,
+          "url": "https://linkstock.net/afrigeneas/"
+        },
+        {
+          "citation": "Legacy Family Tree webinar description, 'Best Internet Resources for African American Genealogy' (2011) — 'oldest continually operating African American genealogy website'",
+          "primary": false,
+          "url": "https://www.youtube.com/watch?v=Vuuku-TTWRI"
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": null,
+      "grade_conflict": null,
+      "track": "digital"
+    },
+    {
+      "id": "CTL-PRESERVE-C-076",
+      "collection": "Knoxville College institutional records and campus heritage",
+      "custodian": "Knoxville College (HBCU, founded 1875; lost accreditation 1997; campus closed 2017)",
+      "location": "Knoxville, Tennessee",
+      "subjects": [
+        "HBCU history",
+        "institutional records",
+        "Black higher education"
+      ],
+      "dates": "1875-present (campus closed 2017; historic building lost to fire November 2024)",
+      "formats": [
+        "institutional records",
+        "campus heritage materials"
+      ],
+      "extent_documented": null,
+      "accessibility": "Not documented; records custody undocumented",
+      "catalog_status": "Not documented",
+      "digitization_status": "Not documented",
+      "rights": "Knoxville College",
+      "preservation_condition": "At risk - campus decay; historic building lost to fire November 2024; records custody undocumented. Framework assessment (Tier 2, Provisional): Risk High, Significance High, Uniqueness presumed Sole copy (unverified).",
+      "finding_aid_url": null,
+      "privacy_note": "Provisional framework assessment (EX-03): records-specific threat inferential; uniqueness unverified. Board cooperating with preservation planners; essentially no funds.",
+      "related_entities": [
+        "CTL-PRESERVE-E-039"
+      ],
+      "sources": [
+        {
+          "citation": "WVLT, 2024-11-05",
+          "primary": false
+        },
+        {
+          "citation": "JBHE, 2018",
+          "primary": false
+        },
+        {
+          "citation": "Inside Higher Ed",
+          "primary": false
+        },
+        {
+          "citation": "Knoxville News Sentinel, 2018",
+          "primary": false
+        }
+      ],
+      "grade": "Provisional",
+      "grade_note": "Framework worked example as memory-map record; grade reflects underlying collection evidence (EX-03/EX-04 Provisional per framework provisional_rule).",
+      "grade_conflict": null,
+      "track": "framework"
+    },
+    {
+      "id": "CTL-PRESERVE-C-077",
+      "collection": "Muhammad Speaks newspaper run, Black Archives of Mid-America",
+      "custodian": "Black Archives of Mid-America (small nonprofit Black archive)",
+      "location": "Location not documented in sources reviewed (Black Archives of Mid-America)",
+      "subjects": [
+        "Muhammad Speaks",
+        "Nation of Islam",
+        "Black press"
+      ],
+      "dates": "1967-1997",
+      "formats": [
+        "newspapers",
+        "newsprint"
+      ],
+      "extent_documented": "18 boxes",
+      "accessibility": "Small nonprofit archive; fragile newsprint - handle with care",
+      "catalog_status": "Finding aid AC58 (Black Archives of Mid-America)",
+      "digitization_status": "Not digitized at assessment; digitization grant pipeline recommended (verify duplication via WorldCat first)",
+      "rights": "Black Archives of Mid-America",
+      "preservation_condition": "Fragile newsprint; small nonprofit; no imminent threat. Framework assessment (Tier 3, Provisional): 15-year run of major Black national paper covering civil-rights era.",
+      "finding_aid_url": null,
+      "privacy_note": "Provisional framework assessment (EX-04). Distinct from the paper’s own archive/morgue (custodianship unresolved; separate record).",
+      "related_entities": [],
+      "sources": [
+        {
+          "citation": "Black Archives of Mid-America finding aid AC58",
+          "primary": false
+        }
+      ],
+      "grade": "Provisional",
+      "grade_note": "Framework worked example as memory-map record; grade reflects underlying collection evidence (EX-03/EX-04 Provisional per framework provisional_rule).",
+      "grade_conflict": null,
+      "track": "framework"
+    },
+    {
+      "id": "CTL-PRESERVE-C-078",
+      "collection": "DJ Screw Collection, University of Houston Libraries",
+      "custodian": "University of Houston Libraries, Special Collections",
+      "location": "Houston, Texas",
+      "subjects": [
+        "hip-hop",
+        "DJ Screw",
+        "chopped and screwed",
+        "Houston"
+      ],
+      "dates": "1971-2000 (Robert Earl Davis Jr. / DJ Screw); donated by family from 2011",
+      "formats": [
+        "personal papers",
+        "vinyl records",
+        "original screw tapes",
+        "ephemera"
+      ],
+      "extent_documented": "Personal papers; 1,600+ records; original screw tapes",
+      "accessibility": "Open - finding aid (2010-023); partially digitized",
+      "catalog_status": "Cataloged; digital access via UH Digital Collections",
+      "digitization_status": "Partially digitized",
+      "rights": "University of Houston Libraries",
+      "preservation_condition": "Stable institutional custody",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-041"
+      ],
+      "sources": [
+        {
+          "citation": "UH Libraries finding aid 2010-023",
+          "primary": false
+        },
+        {
+          "citation": "UH Digital Collections",
+          "primary": false
+        },
+        {
+          "citation": "BET, 2011",
+          "primary": false
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Framework worked example as memory-map record; grade reflects underlying collection evidence (EX-03/EX-04 Provisional per framework provisional_rule).",
+      "grade_conflict": null,
+      "track": "framework"
+    },
+    {
+      "id": "CTL-PRESERVE-C-079",
+      "collection": "Surviving Oscar Micheaux film elements",
+      "custodian": "Scattered across archives and private hands",
+      "location": "Various (scattered holdings)",
+      "subjects": [
+        "Black independent cinema",
+        "race films",
+        "Oscar Micheaux"
+      ],
+      "dates": "1918-1948 (40+ features made; ~30 lost; ~10 survive)",
+      "formats": [
+        "nitrate film",
+        "safety film",
+        "film prints"
+      ],
+      "extent_documented": "Per surviving title, single or partial prints (nitrate)",
+      "accessibility": "Scattered; limited",
+      "catalog_status": "Not documented",
+      "digitization_status": "Not documented (duplication to safety stock recommended)",
+      "rights": "Murky rights across scattered holdings",
+      "preservation_condition": "Nitrate decomposition active; single-print survival. Framework assessment (Tier 1): Risk Critical, Significance Exceptional, Uniqueness Sole copy. Scattered holdings; specialist restoration; high cost.",
+      "finding_aid_url": null,
+      "privacy_note": "Framework assessment (EX-07): feasibility Low but does not demote (only \"Not feasible now\" gates). ~30 lost titles should be named as document-only.",
+      "related_entities": [
+        "CTL-PRESERVE-E-040"
+      ],
+      "sources": [
+        {
+          "citation": "KOLUMN Magazine, 2025",
+          "primary": false
+        },
+        {
+          "citation": "Smithsonian Magazine",
+          "primary": false
+        },
+        {
+          "citation": "Il Cinema Ritrovato festival notes",
+          "primary": false
+        },
+        {
+          "citation": "Indiana University ScholarWorks",
+          "primary": false
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Framework worked example as memory-map record; grade reflects underlying collection evidence (EX-03/EX-04 Provisional per framework provisional_rule).",
+      "grade_conflict": null,
+      "track": "framework"
+    },
+    {
+      "id": "CTL-PRESERVE-C-080",
+      "collection": "Mother Bethel AME Church records",
+      "custodian": "Presbyterian Historical Society (since 2013 move); founding congregation of first independent Black denomination in America (founded 1794 by Richard Allen)",
+      "location": "Philadelphia, Pennsylvania",
+      "subjects": [
+        "AME Church",
+        "Richard Allen",
+        "congregational records",
+        "Black church history"
+      ],
+      "dates": "1794-present (archives moved to PHS 2013; digitization completed 2021)",
+      "formats": [
+        "congregational records",
+        "organizational records"
+      ],
+      "extent_documented": null,
+      "accessibility": "Digitized 2021; public access via Presbyterian Historical Society",
+      "catalog_status": "Cataloged (PHS)",
+      "digitization_status": "Digitization completed 2021",
+      "rights": "Presbyterian Historical Society",
+      "preservation_condition": "Stable institutional custody (post-intervention). Framework retrospective: at the 2013 decision point this rated Tier 2 (High risk); intervention moved it to Tier 4 (Monitor).",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-042"
+      ],
+      "sources": [
+        {
+          "citation": "The Christian Post, 2021-02-11",
+          "primary": false
+        },
+        {
+          "citation": "Presbyterian Historical Society",
+          "primary": false
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Framework worked example as memory-map record; grade reflects underlying collection evidence (EX-03/EX-04 Provisional per framework provisional_rule).",
+      "grade_conflict": null,
+      "track": "framework"
+    },
+    {
+      "id": "CTL-PRESERVE-C-081",
+      "collection": "Charles \"Teenie\" Harris archive",
+      "custodian": "Carnegie Museum of Art (purchased from the family, 2001)",
+      "location": "Pittsburgh, Pennsylvania",
+      "subjects": [
+        "Black urban life",
+        "photojournalism",
+        "Pittsburgh Courier"
+      ],
+      "dates": "1930s-1970s (photographer d. June 12, 1998; archive acquired 2001)",
+      "formats": [
+        "negatives",
+        "photographs"
+      ],
+      "extent_documented": "~80,000 negatives (\"largest and most complete portrait of African-American urban life\" per reporting); CMOA confirms 70,000+ images",
+      "accessibility": "Carnegie Museum of Art; public identification program ongoing",
+      "catalog_status": "Decades-long public-identification program; few negatives titled or dated at acquisition",
+      "digitization_status": "Digitization/identification work ongoing (see CMOA archive project)",
+      "rights": "Carnegie Museum of Art",
+      "preservation_condition": "Secured institutionally; orphaned context (poor metadata) is the active risk",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-029"
+      ],
+      "sources": [
+        {
+          "citation": "The Crowley Company, 'Accessing the Archive: Charles Teenie Harris and the Power of Preservation' (case study) — https://thecrowleycompany.com/wp-content/uploads/2025/10/CMOA-Accessing-the-Archive-Charles-Teenie-Harris-and-the-Power-of-Preservation_04_Interactive.pdf",
+          "primary": true
+        },
+        {
+          "citation": "Carnegie Museum of Art, 'About the Charles Teenie Harris Archive' — https://stores.carnegiemuseums.org/carnegie-museum-of-art/current-exhibitions/charles-teenie-harris-in-sharp-focus-/?price_min=0&price_max=14&sort=featured",
+          "primary": true
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Derived from risks track case; grade carries the source case grade.",
+      "grade_conflict": null,
+      "track": "risks"
+    },
+    {
+      "id": "CTL-PRESERVE-C-082",
+      "collection": "The Baltimore Collection",
+      "custodian": "University of Delaware Library (donated 2001)",
+      "location": "Newark, Delaware",
+      "subjects": [
+        "19th/20th-century Black portraiture",
+        "orphan photographs",
+        "provenance reconstruction"
+      ],
+      "dates": "Donated 2001; research seminars 2017-2023",
+      "formats": [
+        "photographs (53)"
+      ],
+      "extent_documented": "53 photographs of Black sitters",
+      "accessibility": "University of Delaware Library; research seminars reconstructing metadata",
+      "catalog_status": "Arrived as \"found objects\" - no photographers, sitters, dates, or provenance; metadata under reconstruction",
+      "digitization_status": "Not documented in sources reviewed",
+      "rights": "University of Delaware Library",
+      "preservation_condition": "Stable institutional custody; unknown ownership is the cataloging risk",
+      "finding_aid_url": null,
+      "privacy_note": "Sitters are unidentified; no personal data published beyond the institutional record.",
+      "related_entities": [
+        "CTL-PRESERVE-E-043"
+      ],
+      "sources": [
+        {
+          "citation": "University of Delaware Library, 'Curating Hidden Collections & the Black Archive: Project Seminar | The Baltimore Collection' — https://sites.udel.edu/baltimorecollection/curating-hidden-collections-the-black-archive/",
+          "primary": true
+        },
+        {
+          "citation": "University of Delaware Library, 'Conceptions of the Black Archive and the Politics of the Unknown' — https://sites.udel.edu/baltimorecollection/conceptions-of-the-black-archive-and-the-politics-of-the-unknown/",
+          "primary": true
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Derived from risks track case; grade carries the source case grade.",
+      "grade_conflict": null,
+      "track": "risks"
+    },
+    {
+      "id": "CTL-PRESERVE-C-083",
+      "collection": "Calhoun-McCormick photographic archive (Black New Orleans)",
+      "custodian": "Photographers Keith Calhoun and Chandra McCormick (private custody)",
+      "location": "New Orleans, Louisiana",
+      "subjects": [
+        "Black New Orleans",
+        "photography",
+        "Hurricane Katrina"
+      ],
+      "dates": "~30 years of film; flooded August-September 2005 (Hurricane Katrina)",
+      "formats": [
+        "film negatives",
+        "prints"
+      ],
+      "extent_documented": null,
+      "accessibility": "Private custody; some material salvaged and exhibited",
+      "catalog_status": "Not documented in sources reviewed",
+      "digitization_status": "Not documented in sources reviewed",
+      "rights": "The photographers",
+      "preservation_condition": "Waterlogged negatives in 2005; partial salvage and restoration followed - personal/collective loss, not total destruction",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-051"
+      ],
+      "sources": [
+        {
+          "citation": "National Geographic, 'Warped and Waterlogged, a Damaged Photo Collection Takes on New Life' (2021) — https://www.nationalgeographic.com/photography/article/warped-and-waterlogged-a-damaged-photo-collection-takes-on-new-life",
+          "primary": false
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Derived from risks track case; grade carries the source case grade.",
+      "grade_conflict": null,
+      "track": "risks"
+    },
+    {
+      "id": "CTL-PRESERVE-C-084",
+      "collection": "HBCU radio station archives (aggregate, 29 stations)",
+      "custodian": "29 HBCU radio stations; HBCU Radio Preservation Project ($5M Mellon grant to WYSO, with NEDCC)",
+      "location": "National (HBCUs)",
+      "subjects": [
+        "Black radio",
+        "HBCU history",
+        "broadcast archives",
+        "magnetic media"
+      ],
+      "dates": "1960s-present holdings; surveyed 2019-2026",
+      "formats": [
+        "reel-to-reel tape",
+        "cassettes",
+        "floppy disks",
+        "unlabeled CDs"
+      ],
+      "extent_documented": null,
+      "accessibility": "Varies by station; preservation project underway",
+      "catalog_status": "Surveyed by Jocelyn Robinson (NPR-documented); NEDCC field reporting 2026",
+      "digitization_status": "Some tapes already \"past repair\"; at one school, nothing saved from 40+ years of broadcasting",
+      "rights": "Varies by station",
+      "preservation_condition": "Deteriorating past repair in documented cases; described as a \"looming preservation crisis\"",
+      "finding_aid_url": null,
+      "privacy_note": null,
+      "related_entities": [
+        "CTL-PRESERVE-E-045"
+      ],
+      "sources": [
+        {
+          "citation": "NPR/WUOT, 'One Woman's Quest To Preserve The Radio Archives At Historically Black Colleges' (Feb 16, 2020) — https://www.wuot.org/2020-02-16/one-womans-quest-to-preserve-the-radio-archives-at-historically-black-colleges",
+          "primary": false
+        },
+        {
+          "citation": "NEDCC, '40 Years of HBCU Radio Broadcast Formats' (Aug 20, 2026) — https://www.nedcc.org/about/nedcc-stories/hbcu-formats",
+          "primary": true
+        }
+      ],
+      "grade": "Verified",
+      "grade_note": "Derived from risks track case; grade carries the source case grade.",
+      "grade_conflict": null,
+      "track": "risks"
+    }
+  ]
+}

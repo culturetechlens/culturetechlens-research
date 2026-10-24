@@ -1,0 +1,1029 @@
+{
+  "dossier_id": "CTL-RD-BIZ-000001",
+  "evidence_file": "CTL-EF-BIZ-000001",
+  "entity_count": 53,
+  "entities": [
+    {
+      "entity_id": "canon-johnson-publishing-company",
+      "name": "Johnson Publishing Company",
+      "entity_type": "company",
+      "description": "Chicago-based Black-owned publishing company (1942-2019); publisher of Negro Digest, Ebony, Jet; owner of Fashion Fair Cosmetics, Ebony Fashion Fair, WJPC; Chapter 7 liquidation 2019-04-09.",
+      "claims": [
+        {
+          "claim_id": "C-001",
+          "claim": "Founded November 1942 in Chicago by John H. Johnson (originally Negro Digest Publishing Co.)",
+          "grade": "VERIFIED",
+          "evidence": "African American Registry; Congressional Record vols. 147/149; Johnson autobiography",
+          "source": "CTL-DR-BPM-003; congress.gov",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-004",
+          "claim": "Ceased operations via Chapter 7 liquidation filed 2019-04-09 (Case 19-10236, N.D. Ill.), ending 77 years",
+          "grade": "VERIFIED",
+          "evidence": "Voluntary petition (Scribd copy); AP 2019-04-09",
+          "source": "U.S. Bankruptcy Court, N.D. Ill.",
+          "source_type": "primary"
+        },
+        {
+          "claim_id": "C-040",
+          "claim": "Sold Ebony and Jet to Clear View Group (Austin TX, Black-owned PE) June 2016; price undisclosed; retained Fashion Fair Cosmetics and photo archive",
+          "grade": "VERIFIED",
+          "evidence": "NPR 2016-06-19; CJR 2019",
+          "source": "npr.org",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1942-11",
+        "end": "2019-04-09"
+      },
+      "canonical_audit_id": "canon-johnson-publishing-company"
+    },
+    {
+      "entity_id": "canon-john-h-johnson",
+      "name": "John H. Johnson",
+      "entity_type": "person",
+      "description": "Founder of Johnson Publishing Company; publisher of Ebony and Jet (1918-01-19 - 2005-08-08).",
+      "claims": [
+        {
+          "claim_id": "C-006",
+          "claim": "John H. Johnson (Jan 19 1918, Arkansas City AR - Aug 8 2005, Chicago) founded JPC and led it as publisher/chairman until his death",
+          "grade": "VERIFIED",
+          "evidence": "AP obituary 2005-08-09; Encyclopedia.com; notablebiographies.com",
+          "source": "ap.org",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-049",
+          "claim": "First African American on Forbes 400 (1982); NAACP Spingarn Medal (1966); Presidential Medal of Freedom (1996); Black Enterprise Entrepreneur of the Decade (1987)",
+          "grade": "VERIFIED",
+          "evidence": "NPR 2016; Encyclopedia.com; Congressional Record",
+          "source": "npr.org",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1918-01-19",
+        "end": "2005-08-08"
+      },
+      "canonical_audit_id": "canon-john-h-johnson"
+    },
+    {
+      "entity_id": "canon-wjpc",
+      "name": "WJPC",
+      "entity_type": "organization",
+      "description": "JPC-owned Chicago radio station (1973-1994); first Black-owned radio station in Chicago.",
+      "claims": [
+        {
+          "claim_id": "C-025",
+          "claim": "JPC bought WGRT (WJPC) for $1.8M in May 1973 - first Black-owned Chicago radio station; sold December 1994",
+          "grade": "VERIFIED",
+          "evidence": "FundingUniverse; CTL-DR-BPM-003 red-team",
+          "source": "fundinguniverse.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1973-05",
+        "end": "1994-12"
+      },
+      "canonical_audit_id": "canon-wjpc"
+    },
+    {
+      "entity_id": "canon-supreme-life-insurance",
+      "name": "Supreme Liberty Life Insurance Company",
+      "entity_type": "company",
+      "description": "Black-owned Chicago insurer; John H. Johnson's employer 1936-1943; JPC's first offices inside its building; its policyholder list supplied JPC's first subscribers.",
+      "claims": [
+        {
+          "claim_id": "C-028",
+          "claim": "Johnson worked at Supreme Life (office assistant/in-house magazine editor); JPC's first HQ 1942-43 was inside the Supreme Life Building at 3501 S. Parkway; first subscribers came from its policyholder mailing list",
+          "grade": "VERIFIED",
+          "evidence": "notablebiographies.com; AP obituary; Chicago Landmark Designation Report",
+          "source": "ap.org",
+          "source_type": "secondary"
+        }
+      ],
+      "canonical_audit_id": "canon-supreme-life-insurance"
+    },
+    {
+      "entity_id": "RD-BIZ-000001-070",
+      "name": "Johnson Publishing Company Archive",
+      "entity_type": "archive",
+      "description": "Photographic and audiovisual archive of JPC's magazines (~4M images); bought at bankruptcy auction July 2019 for $30M; jointly owned by NMAAHC and Getty Research Institute since 2022-07-28; housed at NMAAHC, Washington DC.",
+      "claims": [
+        {
+          "claim_id": "C-043",
+          "claim": "July 2019: consortium of Ford Foundation, J. Paul Getty Trust, MacArthur Foundation, Mellon Foundation bought the archive at auction for $30M (Smithsonian co-purchaser role per Art Newspaper, disputed by Pulitzer's four-foundation account)",
+          "grade": "VERIFIED",
+          "evidence": "pulitzer.org 2019-07-25; theartnewspaper.com 2022-08-01",
+          "source": "pulitzer.org",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-044",
+          "claim": "2022-07-28: joint ownership transferred to NMAAHC + Getty Research Institute; housed at NMAAHC; Getty committed $30M to digitization; public access target 2029 (provisional)",
+          "grade": "VERIFIED",
+          "evidence": "theartnewspaper.com 2022-08-01; hyperallergic.com; eurweb.com",
+          "source": "theartnewspaper.com",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-045",
+          "claim": "Extent: 3M+ photo negatives/slides; 983,000 photographs; 166,000 contact sheets; 9,000 A/V recordings incl. Ebony/Jet Showcase TV, Black Achievement Awards, radio segments",
+          "grade": "VERIFIED",
+          "evidence": "theartnewspaper.com 2022-08-01; cjr.org",
+          "source": "theartnewspaper.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "2019-07",
+        "end": null
+      },
+      "custody": [
+        "JPC (to 2019-04)",
+        "Chapter 7 estate/trustee Mimi Stein (2019-04-2019-07)",
+        "Four-foundation consortium (2019-07-2022-07-28)",
+        "NMAAHC + Getty Research Institute (joint, from 2022-07-28)"
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-002",
+      "name": "Eunice W. Johnson",
+      "entity_type": "person",
+      "description": "JPC secretary-treasurer; named Ebony; created Ebony Fashion Fair (1958); founded Fashion Fair Cosmetics (1973). (1916 - 2010-01-03).",
+      "claims": [
+        {
+          "claim_id": "C-007",
+          "claim": "Eunice Walker Johnson (1916 - Jan 3 2010): JPC secretary-treasurer, named Ebony ('thinking of the dark wood'), created the Ebony Fashion Fair, founded Fashion Fair Cosmetics",
+          "grade": "VERIFIED",
+          "evidence": "Black Enterprise obit 2010-01-04; Essence obit 2010; Delta Sigma Theta release 2010-01-08",
+          "source": "blackenterprise.com",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-005",
+          "claim": "Formal co-founder status of JPC",
+          "grade": "PROVISIONAL",
+          "evidence": "Black Enterprise obituary calls her co-founder; incorporation records not located",
+          "source": "blackenterprise.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1916",
+        "end": "2010-01-03"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-003",
+      "name": "Linda Johnson Rice",
+      "entity_type": "person",
+      "description": "Daughter of John H. and Eunice Johnson; JPC president/COO then CEO (2002-2019); last chairman/CEO.",
+      "claims": [
+        {
+          "claim_id": "C-008",
+          "claim": "Became CEO of JPC in 2002; last chairman/CEO through the 2019 bankruptcy",
+          "grade": "VERIFIED",
+          "evidence": "CTL-DR-BPM-003 per-ljr; NPR 2016",
+          "source": "bpm-003",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-004",
+      "name": "Desiree Rogers",
+      "entity_type": "person",
+      "description": "JPC CEO 2010-2017; former White House Social Secretary (Obama, 2008-2010); co-buyer of Fashion Fair Cosmetics (2019).",
+      "claims": [
+        {
+          "claim_id": "C-008b",
+          "claim": "Named JPC CEO 2010-08-10; partnered with Linda Johnson Rice to lead the company 2010-2017; co-bought Fashion Fair Cosmetics for $1.85M Nov 2019",
+          "grade": "SUPPORTED",
+          "evidence": "chicagotalks.colum.edu; spectacularmag.com 2019; essence.com",
+          "source": "chicagotalks.colum.edu",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-005",
+      "name": "Ben Burns",
+      "entity_type": "person",
+      "description": "Founding editor of Ebony (1945); white editor removed in the 1953-54 repositioning.",
+      "claims": [
+        {
+          "claim_id": "C-012",
+          "claim": "Founding editor of Ebony (1945)",
+          "grade": "VERIFIED",
+          "evidence": "CTL-DR-BPM-003; blackculturalevents.com; Manchester thesis 2021",
+          "source": "bpm-003",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-006",
+      "name": "Era Bell Thompson",
+      "entity_type": "person",
+      "description": "Pioneering Black woman editor at Ebony (associate editor, then editor); international coverage.",
+      "claims": [
+        {
+          "claim_id": "C-013",
+          "claim": "Pioneering Black woman editor at Ebony; brought international coverage of the global Black experience",
+          "grade": "SUPPORTED",
+          "evidence": "blackculturalevents.com; artrabbit.com",
+          "source": "blackculturalevents.com",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-007",
+      "name": "Lerone Bennett Jr.",
+      "entity_type": "person",
+      "description": "Jet city editor (1952-53); Ebony associate editor (1953), executive editor (from 1958); historian/author. (1928-10-17 - 2018-02-14).",
+      "claims": [
+        {
+          "claim_id": "C-011",
+          "claim": "Jet city editor 1952-53; Ebony associate editor 1953, executive editor from 1958; author of Before the Mayflower and Succeeding Against the Odds",
+          "grade": "VERIFIED",
+          "evidence": "ebony.com obit 2018; Wikipedia (citing sources)",
+          "source": "ebony.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1928-10-17",
+        "end": "2018-02-14"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-008",
+      "name": "Simeon Booker",
+      "entity_type": "person",
+      "description": "Jet Washington bureau chief (~1954-2007); reported the Emmett Till story.",
+      "claims": [
+        {
+          "claim_id": "C-015",
+          "claim": "Jet Washington bureau chief c.1954-2007; covered Emmett Till for Jet",
+          "grade": "VERIFIED",
+          "evidence": "Library of Congress Civil Rights History Project (Booker oral history)",
+          "source": "loc.gov",
+          "source_type": "primary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-009",
+      "name": "Robert E. Johnson",
+      "entity_type": "person",
+      "description": "Associate publisher and executive editor of Jet (joined Feb 1953). WEAK SOURCE ONLY - do not publish without re-sourcing.",
+      "claims": [
+        {
+          "claim_id": "C-014",
+          "claim": "Associate publisher and executive editor of Jet; joined February 1953",
+          "grade": "PROVISIONAL",
+          "evidence": "Wikipedia citing Jet obituary; BPM-003 red-team downgrade (weak_source_only)",
+          "source": "wikipedia",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1922",
+        "end": "1995/1996 (disputed)"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-010",
+      "name": "Moneta Sleet Jr.",
+      "entity_type": "person",
+      "description": "Staff photographer, Ebony (1955-1996); first African American man to win the Pulitzer Prize in journalism (1969).",
+      "claims": [
+        {
+          "claim_id": "C-009",
+          "claim": "Staff photographer at Ebony 1955-1996; 1969 Pulitzer Prize for Feature Photography (Coretta Scott King funeral photo) - first African American man to win the Pulitzer in journalism",
+          "grade": "VERIFIED",
+          "evidence": "swanngalleries.com 2014; dodgeburnphoto.com; Newseum (via Swann)",
+          "source": "swanngalleries.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1926-02-14",
+        "end": "1996-09-30"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-011",
+      "name": "David Jackson",
+      "entity_type": "person",
+      "description": "Staff photographer, Jet; took the Emmett Till open-casket photographs (Sept 1955).",
+      "claims": [
+        {
+          "claim_id": "C-010",
+          "claim": "Jet staff photographer; Emmett Till open-casket photographs published in Jet September 1955",
+          "grade": "VERIFIED",
+          "evidence": "CTL-DR-BPM-003 per-djackson; LOC (Booker oral history)",
+          "source": "bpm-003",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-012",
+      "name": "Isaac Sutton",
+      "entity_type": "person",
+      "description": "Staff photographer, Ebony; 41-year career. (1923-1995).",
+      "claims": [
+        {
+          "claim_id": "C-016",
+          "claim": "JPC staff photographer with 41-year career at Ebony",
+          "grade": "SUPPORTED",
+          "evidence": "Wikipedia Moneta Sleet Jr. article; Theaster Gates Black Image Corporation (2018)",
+          "source": "wikipedia",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1923",
+        "end": "1995"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-080",
+      "name": "Negro Digest / Black World",
+      "entity_type": "publication",
+      "description": "JPC's first magazine (Nov 1942 - Nov 1951; revived Jun 1961; renamed Black World May 1970 - Apr 1976).",
+      "claims": [
+        {
+          "claim_id": "C-002",
+          "claim": "First issue November 1942",
+          "grade": "VERIFIED",
+          "evidence": "Grolier Club exhibition; Wikipedia",
+          "source": "grolierclub.omeka.net",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-017",
+          "claim": "Run: Nov 1942-Nov 1951; revived Jun 1961; Black World May 1970-Apr 1976",
+          "grade": "VERIFIED",
+          "evidence": "Wikipedia Negro Digest; Grolier Club",
+          "source": "wikipedia",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1942-11",
+        "end": "1976-04"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-081",
+      "name": "Ebony",
+      "entity_type": "publication",
+      "description": "JPC flagship monthly (Nov 1 1945 - Jun 2016 under JPC); named by Eunice Johnson.",
+      "claims": [
+        {
+          "claim_id": "C-018",
+          "claim": "Launched 1945-11-01; 25,000 first run sold out; named by Eunice Johnson",
+          "grade": "VERIFIED",
+          "evidence": "ebony.com 75th anniversary; history.com; Congressional Record",
+          "source": "ebony.com",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-050",
+          "claim": "'9 million subscribers' claim REFUTED: peak circulation ~2.3M (1985); 9M conflates circulation with pass-along readership",
+          "grade": "DISPUTED",
+          "evidence": "AP obit 2005; Congressional Record (readership figures)",
+          "source": "ap.org",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1945-11-01",
+        "end": "2016-06"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-082",
+      "name": "Jet",
+      "entity_type": "publication",
+      "description": "JPC pocket-size weekly news digest (Nov 1 1951 - Jun 2014 print; JPC to 2016).",
+      "claims": [
+        {
+          "claim_id": "C-019",
+          "claim": "Launched 1951-11-01 as pocket-size weekly news digest",
+          "grade": "VERIFIED",
+          "evidence": "ebony.com 75th; AP 2014",
+          "source": "ebony.com",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-020",
+          "claim": "Published David Jackson's Emmett Till open-casket photographs, Sept 1955 (Sept 15 issue favored)",
+          "grade": "VERIFIED",
+          "evidence": "LOC Civil Rights History Project",
+          "source": "loc.gov",
+          "source_type": "primary"
+        }
+      ],
+      "dates": {
+        "start": "1951-11-01",
+        "end": "2016-06"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-083",
+      "name": "Tan Confessions / Tan / Black Stars",
+      "entity_type": "publication",
+      "description": "JPC true-confessions lineage (Nov 1950 - Jul 1981).",
+      "claims": [
+        {
+          "claim_id": "C-021",
+          "claim": "Tan Confessions (Nov 1950-Aug 1952) -> Tan (Sep 1952-Oct 1971) -> Black Stars (Nov 1971-Jul 1981)",
+          "grade": "SUPPORTED",
+          "evidence": "Wikipedia JPC; Ohio University thesis 2021",
+          "source": "wikipedia",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1950-11",
+        "end": "1981-07"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-084",
+      "name": "Ebony Jr! / Ebony Man / Ebony South Africa / Hue / Copper Romance",
+      "entity_type": "publication",
+      "description": "JPC secondary titles.",
+      "claims": [
+        {
+          "claim_id": "C-022",
+          "claim": "Ebony Jr! (May 1973-Oct 1985); Ebony Man: EM (Nov 1985-Jan 1998); Ebony South Africa (Nov/Dec 1995-Sep 2000); Hue (1953-); Copper Romance (1953-)",
+          "grade": "SUPPORTED",
+          "evidence": "Wikipedia JPC",
+          "source": "wikipedia",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-090",
+      "name": "Fashion Fair Cosmetics",
+      "entity_type": "product",
+      "description": "Prestige cosmetics line for Black women, founded 1973 by Eunice W. Johnson; sold out of bankruptcy Nov 2019 ($1.85M).",
+      "claims": [
+        {
+          "claim_id": "C-024",
+          "claim": "Founded 1973 by Eunice W. Johnson; first national prestige makeup line for Black women; sold Nov 2019 to Mayberry McKissack/Rogers for $1.85M",
+          "grade": "VERIFIED",
+          "evidence": "essence.com; newblackvoices.nyc (Hollywood Reporter); spectacularmag.com 2019",
+          "source": "essence.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1973",
+        "end": null
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-091",
+      "name": "Ebony Fashion Fair",
+      "entity_type": "product",
+      "description": "Traveling couture fashion show (1958-2009); 200+ cities; $55M+ raised for charity/scholarships.",
+      "claims": [
+        {
+          "claim_id": "C-023",
+          "claim": "Ran 1958-2009; 200+ cities (US, Canada, Caribbean, England); $55M+ raised; Eunice W. Johnson producer/director from 1961",
+          "grade": "VERIFIED",
+          "evidence": "blackenterprise.com 2010; essence.com 2010; Delta Sigma Theta 2010",
+          "source": "blackenterprise.com",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1958",
+        "end": "2009"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-092",
+      "name": "JPC Book Division",
+      "entity_type": "division",
+      "description": "JPC book publishing arm (Before the Mayflower; Succeeding Against the Odds).",
+      "claims": [
+        {
+          "claim_id": "C-026",
+          "claim": "JPC operated a book division publishing Before the Mayflower, Succeeding Against the Odds, and others",
+          "grade": "SUPPORTED",
+          "evidence": "Congressional Record vol.149; ebony.com (Bennett obit)",
+          "source": "congress.gov",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-093",
+      "name": "Supreme Beauty Products / Mahogany Travel / EBCO International",
+      "entity_type": "division",
+      "description": "JPC diversification arms.",
+      "claims": [
+        {
+          "claim_id": "C-026b",
+          "claim": "JPC diversified into Supreme Beauty Products (Duke/Raveen), Mahogany Travel, EBCO International (51%, South Africa)",
+          "grade": "SUPPORTED",
+          "evidence": "FundingUniverse; CTL-DR-ECON-001",
+          "source": "fundinguniverse.com",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-094",
+      "name": "Ebony/Jet Entertainment Group / JPC Consumer Products / EbonyJet.com",
+      "entity_type": "division",
+      "description": "Later-era JPC multimedia, lifestyle-branding, and digital arms (thinly documented).",
+      "claims": [
+        {
+          "claim_id": "C-027",
+          "claim": "Later years: Ebony/Jet Entertainment Group, JPC Consumer Products, EbonyJet.com digital presence",
+          "grade": "PROVISIONAL",
+          "evidence": "Wikipedia JPC",
+          "source": "wikipedia",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-060",
+      "name": "Supreme Life Building (3501 S. Parkway Ave)",
+      "entity_type": "place",
+      "description": "JPC's first home (1942-43); Johnson's office in Earl B. Dickerson's second-floor law library.",
+      "claims": [
+        {
+          "claim_id": "C-028",
+          "claim": "JPC HQ 1942-43 inside the Supreme Life Building, 3501 S. Parkway; Johnson's office in Dickerson's law library",
+          "grade": "VERIFIED",
+          "evidence": "Chicago Landmark Designation Report; thefreelibrary.com chronology",
+          "source": "chicago.gov",
+          "source_type": "primary"
+        }
+      ],
+      "dates": {
+        "start": "1942",
+        "end": "1943"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-061",
+      "name": "5619 S. State Street",
+      "entity_type": "place",
+      "description": "JPC's first owned building (1943-1949), Washington Park; one-story retail building; extant.",
+      "claims": [
+        {
+          "claim_id": "C-029",
+          "claim": "Purchased 1943 ($4,000, one-story retail building); JPC HQ to 1949",
+          "grade": "VERIFIED",
+          "evidence": "Chicago Landmark Designation Report; Wikipedia JPC",
+          "source": "chicago.gov",
+          "source_type": "primary"
+        }
+      ],
+      "dates": {
+        "start": "1943",
+        "end": "1949"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-062",
+      "name": "1820 S. Michigan Avenue",
+      "entity_type": "place",
+      "description": "JPC HQ 1949-1971 (former Hursen Funeral Home, rehabilitated; demolished).",
+      "claims": [
+        {
+          "claim_id": "C-029b",
+          "claim": "JPC HQ 1949-1971 at 1820 S. Michigan (former Hursen Funeral Home)",
+          "grade": "VERIFIED",
+          "evidence": "Chicago Landmark Designation Report",
+          "source": "chicago.gov",
+          "source_type": "primary"
+        }
+      ],
+      "dates": {
+        "start": "1949",
+        "end": "1971"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-063",
+      "name": "Johnson Publishing Company Building (820 S. Michigan Avenue)",
+      "entity_type": "place",
+      "description": "Purpose-built 11-story JPC HQ (Dec 1971-2011); designed by John Warren Moutoussamy; first Black-owned Loop building; only Chicago high-rise designed by an African American; Chicago Landmark (2017); now 150 apartments.",
+      "claims": [
+        {
+          "claim_id": "C-030",
+          "claim": "Moved in Dec 1971; Moutoussamy design; first Black-owned Loop building; only African-American-designed Chicago high-rise",
+          "grade": "VERIFIED",
+          "evidence": "Preservation Chicago; Chicago Landmark Designation Report; Wikipedia JPC",
+          "source": "preservationchicago.org",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-032",
+          "claim": "Sold to Columbia College Chicago (sale 2010/close Jan 2011); Chicago Landmark fall 2017; 3L Real Estate Nov 2017 ($10M); 150 apartments; Ebony Test Kitchen to MOFAD via Landmarks Illinois; rooftop sign preserved",
+          "grade": "VERIFIED",
+          "evidence": "NPR 2010; press; Wikipedia JPC",
+          "source": "npr.org",
+          "source_type": "secondary"
+        }
+      ],
+      "dates": {
+        "start": "1971-12",
+        "end": "2011-01"
+      }
+    },
+    {
+      "entity_id": "RD-BIZ-000001-064",
+      "name": "200 S. Michigan Avenue, Suite 900",
+      "entity_type": "place",
+      "description": "JPC's final principal place of business (per 2019-04-09 bankruptcy petition).",
+      "claims": [
+        {
+          "claim_id": "C-033",
+          "claim": "Final principal place of business: 200 S. Michigan Ave., Suite 900, Chicago IL 60604",
+          "grade": "VERIFIED",
+          "evidence": "Bankruptcy petition Case 19-10236",
+          "source": "scribd.com",
+          "source_type": "primary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-020",
+      "name": "Clear View Group",
+      "entity_type": "organization",
+      "description": "Austin, Texas-based Black-owned private equity firm (chairman Michael Gibson); bought Ebony and Jet from JPC, June 2016.",
+      "claims": [
+        {
+          "claim_id": "C-040",
+          "claim": "Acquired Ebony and Jet from JPC June 2016; created Ebony Media Corp; price undisclosed",
+          "grade": "VERIFIED",
+          "evidence": "NPR 2016-06-19; CJR 2019",
+          "source": "npr.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-021",
+      "name": "Ebony Media Corp",
+      "entity_type": "organization",
+      "description": "New publisher created by Clear View Group for Ebony and Jet (2016).",
+      "claims": [
+        {
+          "claim_id": "C-040b",
+          "claim": "Created by Clear View Group as the new publisher of Ebony and Jet, June 2016",
+          "grade": "VERIFIED",
+          "evidence": "NPR 2016-06-19",
+          "source": "npr.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-022",
+      "name": "Bridgeman Sports and Media",
+      "entity_type": "organization",
+      "description": "Bought Ebony assets Dec 2020 ($14M); relaunched March 2021.",
+      "claims": [
+        {
+          "claim_id": "C-046",
+          "claim": "Acquired Ebony assets Dec 2020 for $14M; relaunched March 2021",
+          "grade": "VERIFIED",
+          "evidence": "CTL-DR-BPM-003; NPR",
+          "source": "bpm-003",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-024",
+      "name": "Capital Holdings V, LLC",
+      "entity_type": "organization",
+      "description": "Held $12M loan secured by the JPC Archive (Mellody Hobson/George Lucas); in default ~3 years pre-bankruptcy.",
+      "claims": [
+        {
+          "claim_id": "C-042",
+          "claim": "$12M loan secured by the JPC Archive; in default ~3 years before filing",
+          "grade": "SUPPORTED",
+          "evidence": "bankruptcyidea.org 2023 (citing case filings)",
+          "source": "bankruptcyidea.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-030",
+      "name": "Ford Foundation",
+      "entity_type": "organization",
+      "description": "Member of the 2019 four-foundation consortium that bought the JPC Archive ($30M).",
+      "claims": [
+        {
+          "claim_id": "C-043",
+          "claim": "Consortium member in the July 2019 $30M archive purchase",
+          "grade": "VERIFIED",
+          "evidence": "pulitzer.org 2019-07-25",
+          "source": "pulitzer.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-031",
+      "name": "J. Paul Getty Trust",
+      "entity_type": "organization",
+      "description": "Consortium member (2019); co-owner of the JPC Archive via the Getty Research Institute (from 2022-07-28); $30M digitization commitment.",
+      "claims": [
+        {
+          "claim_id": "C-043b",
+          "claim": "Consortium member 2019; joint owner from 2022-07-28; $30M digitization commitment",
+          "grade": "VERIFIED",
+          "evidence": "pulitzer.org 2019-07-25; hyperallergic.com",
+          "source": "pulitzer.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-032",
+      "name": "John D. and Catherine T. MacArthur Foundation",
+      "entity_type": "organization",
+      "description": "Member of the 2019 four-foundation consortium ($30M).",
+      "claims": [
+        {
+          "claim_id": "C-043c",
+          "claim": "Consortium member in the July 2019 $30M archive purchase",
+          "grade": "VERIFIED",
+          "evidence": "pulitzer.org 2019-07-25",
+          "source": "pulitzer.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-033",
+      "name": "Andrew W. Mellon Foundation",
+      "entity_type": "organization",
+      "description": "Member of the 2019 four-foundation consortium ($30M).",
+      "claims": [
+        {
+          "claim_id": "C-043d",
+          "claim": "Consortium member in the July 2019 $30M archive purchase",
+          "grade": "VERIFIED",
+          "evidence": "pulitzer.org 2019-07-25",
+          "source": "pulitzer.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-034",
+      "name": "National Museum of African American History and Culture",
+      "entity_type": "organization",
+      "description": "Smithsonian museum; joint owner of the JPC Archive (from 2022-07-28); physical custodian in Washington, DC.",
+      "claims": [
+        {
+          "claim_id": "C-044b",
+          "claim": "Joint owner of the JPC Archive from 2022-07-28; archive physically housed at the NMAAHC",
+          "grade": "VERIFIED",
+          "evidence": "theartnewspaper.com 2022-08-01",
+          "source": "theartnewspaper.com",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-035",
+      "name": "Getty Research Institute",
+      "entity_type": "organization",
+      "description": "Joint owner of the JPC Archive (from 2022-07-28) with the NMAAHC.",
+      "claims": [
+        {
+          "claim_id": "C-044c",
+          "claim": "Joint owner of the JPC Archive from 2022-07-28",
+          "grade": "VERIFIED",
+          "evidence": "theartnewspaper.com 2022-08-01",
+          "source": "theartnewspaper.com",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-100",
+      "name": "Black consumer markets",
+      "entity_type": "concept",
+      "description": "The Black consumer economy whose scale JPC demonstrated to white corporate advertisers.",
+      "claims": [
+        {
+          "claim_id": "C-034",
+          "claim": "JPC proved the Black consumer market to white advertisers (Zenith 1947; Pepsi/Colgate/Beech-Nut/Seagram/Remington Rand by 1948; Chesterfield full-color; Chrysler 1954; '$15 billion... ripe and ready' - Ad Age 1952)",
+          "grade": "VERIFIED",
+          "evidence": "Congressional Record; Manchester thesis; stephenhicks.org/Forbes reprint",
+          "source": "congress.gov",
+          "source_type": "secondary"
+        },
+        {
+          "claim_id": "C-035",
+          "claim": "JPC insisted ads in its publications feature Black models",
+          "grade": "VERIFIED",
+          "evidence": "CTL-DR-BPM-003; CTL-DR-ECON-001",
+          "source": "bpm-003",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-101",
+      "name": "Civil Rights Movement",
+      "entity_type": "concept",
+      "description": "The Black freedom struggle documented by JPC's publications and photographers.",
+      "claims": [
+        {
+          "claim_id": "C-047",
+          "claim": "Jet's Sept 1955 Till photographs catalyzed national attention; Ebony published MLK's 'Advice for Living' (1957-58); Sleet chronicled King/the movement for 13 years",
+          "grade": "VERIFIED",
+          "evidence": "LOC; CTL-DR-BPM-003; Swann Galleries",
+          "source": "loc.gov",
+          "source_type": "primary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-065",
+      "name": "Chicago, Illinois",
+      "entity_type": "place",
+      "description": "JPC's base of operations throughout, 1942-2019.",
+      "claims": [
+        {
+          "claim_id": "C-x",
+          "claim": "JPC was Chicago-based for its entire 77-year history",
+          "grade": "VERIFIED",
+          "evidence": "All sources",
+          "source": "all",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-102",
+      "name": "Black models in JPC advertising and the Ebony Fashion Fair",
+      "entity_type": "group",
+      "description": "Black models featured in JPC publications' ads and in Ebony Fashion Fair casts (group entity; no individual IDs asserted).",
+      "claims": [
+        {
+          "claim_id": "C-035",
+          "claim": "JPC insisted ads in its publications feature Black models",
+          "grade": "VERIFIED",
+          "evidence": "CTL-DR-BPM-003; CTL-DR-ECON-001",
+          "source": "bpm-003",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-050",
+      "name": "Zenith Radio",
+      "entity_type": "company",
+      "description": "First major advertising contract in Ebony (1947).",
+      "claims": [
+        {
+          "claim_id": "C-034",
+          "claim": "Zenith signed the first major advertising contract in 1947",
+          "grade": "VERIFIED",
+          "evidence": "Manchester thesis; Congressional Record",
+          "source": "congress.gov",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-051",
+      "name": "Chrysler",
+      "entity_type": "company",
+      "description": "Advertiser in Ebony from 1954.",
+      "claims": [
+        {
+          "claim_id": "C-034b",
+          "claim": "Chrysler signed as advertiser in 1954",
+          "grade": "VERIFIED",
+          "evidence": "Congressional Record vol.149",
+          "source": "congress.gov",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-052",
+      "name": "Chesterfield",
+      "entity_type": "company",
+      "description": "Ran the first full-color ads in a Black magazine (Ebony).",
+      "claims": [
+        {
+          "claim_id": "C-034c",
+          "claim": "Chesterfield ran the first full-color ads in a Black magazine",
+          "grade": "SUPPORTED",
+          "evidence": "Hicks/Forbes reprint",
+          "source": "stephenhicks.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-053",
+      "name": "Pepsi-Cola",
+      "entity_type": "company",
+      "description": "Advertiser in Ebony by 1948.",
+      "claims": [
+        {
+          "claim_id": "C-034d",
+          "claim": "Pepsi-Cola advertised in Ebony by 1948",
+          "grade": "SUPPORTED",
+          "evidence": "Hicks/Forbes reprint",
+          "source": "stephenhicks.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-054",
+      "name": "Colgate",
+      "entity_type": "company",
+      "description": "Advertiser in Ebony by 1948.",
+      "claims": [
+        {
+          "claim_id": "C-034e",
+          "claim": "Colgate advertised in Ebony by 1948",
+          "grade": "SUPPORTED",
+          "evidence": "Hicks/Forbes reprint",
+          "source": "stephenhicks.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-055",
+      "name": "Seagram",
+      "entity_type": "company",
+      "description": "Advertiser in Ebony by 1948.",
+      "claims": [
+        {
+          "claim_id": "C-034f",
+          "claim": "Seagram advertised in Ebony by 1948",
+          "grade": "SUPPORTED",
+          "evidence": "Hicks/Forbes reprint",
+          "source": "stephenhicks.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-036",
+      "name": "Columbia College Chicago",
+      "entity_type": "organization",
+      "description": "Bought 820 S. Michigan from JPC (sale 2010, closed Jan 2011).",
+      "claims": [
+        {
+          "claim_id": "C-032b",
+          "claim": "Bought 820 S. Michigan (sale 2010, closed January 2011)",
+          "grade": "VERIFIED",
+          "evidence": "NPR 2010",
+          "source": "npr.org",
+          "source_type": "secondary"
+        }
+      ]
+    },
+    {
+      "entity_id": "RD-BIZ-000001-041",
+      "name": "Cheryl Mayberry McKissack",
+      "entity_type": "person",
+      "description": "Co-buyer of Fashion Fair Cosmetics out of bankruptcy (Nov 2019, $1.85M).",
+      "claims": [
+        {
+          "claim_id": "C-024b",
+          "claim": "Co-bought Fashion Fair Cosmetics for $1.85M, Nov 2019",
+          "grade": "VERIFIED",
+          "evidence": "Essence; New Black Voices (Hollywood Reporter)",
+          "source": "essence.com",
+          "source_type": "secondary"
+        }
+      ]
+    }
+  ]
+}

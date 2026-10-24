@@ -1,0 +1,364 @@
+{
+  "brief_id": "CTL-RB-MEDIA-000003",
+  "compiled": "2026-09-28",
+  "edge_policy": "Edges may use only VERIFIED claims, plus SUPPORTED claims with the grade visible. No PROVISIONAL, DISPUTED, or UNRESOLVED claim may source an edge.",
+  "relationship_count": 35,
+  "relationships": [
+    {
+      "claim_ids": [
+        "C-SOUL-1",
+        "C-SOUL-2"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "HistoryMakers finding aids; BET gallery; VH1 documentary PR (2010).",
+      "relation": "was hired by",
+      "source": "ent-person-don-cornelius",
+      "target": "ent-org-wciu"
+    },
+    {
+      "claim_ids": [
+        "C-SOUL-2",
+        "C-SOUL-3"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia Soul Train article (Chicago launch); VH1 documentary PR (2010).",
+      "relation": "created, hosted, and produced",
+      "source": "ent-person-don-cornelius",
+      "target": "ent-prog-soul-train"
+    },
+    {
+      "claim_ids": [
+        "C-SOUL-2"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia Soul Train article; VH1 documentary PR (2010).",
+      "relation": "premiered on",
+      "source": "ent-prog-soul-train",
+      "target": "ent-org-wciu"
+    },
+    {
+      "claim_ids": [
+        "C-SOUL-2"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia Soul Train article; VH1 documentary PR (2010).",
+      "relation": "sponsored the first broadcast of",
+      "source": "ent-org-sears",
+      "target": "ent-prog-soul-train"
+    },
+    {
+      "claim_ids": [
+        "C-SOUL-3"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia Soul Train article; VH1 documentary PR (2010).",
+      "relation": "co-sponsored national syndication of",
+      "source": "ent-org-johnson-products",
+      "target": "ent-prog-soul-train"
+    },
+    {
+      "claim_ids": [
+        "C-SOUL-3"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia Soul Train article; corroborating histories.",
+      "relation": "hosted the local Chicago edition of",
+      "source": "ent-person-clinton-ghent",
+      "target": "ent-prog-soul-train"
+    },
+    {
+      "claim_ids": [
+        "C-BIRD-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia article (citing contemporary coverage); Ryan Ellett OTRR article.",
+      "relation": "created",
+      "source": "ent-person-richard-durham",
+      "target": "ent-prog-bird-iron-feather"
+    },
+    {
+      "claim_ids": [
+        "C-BIRD-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia article; Ryan Ellett OTRR article.",
+      "relation": "produced and broadcast",
+      "source": "ent-org-wttw",
+      "target": "ent-prog-bird-iron-feather"
+    },
+    {
+      "claim_ids": [
+        "C-BIRD-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Wikipedia article (citing contemporary coverage).",
+      "relation": "distributed",
+      "source": "ent-org-net",
+      "target": "ent-prog-bird-iron-feather"
+    },
+    {
+      "claim_ids": [
+        "C-TIL-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2003_023; T Dog Media obituary (2021).",
+      "relation": "hosted",
+      "source": "ent-person-jim-tilmon",
+      "target": "ent-prog-our-people"
+    },
+    {
+      "claim_ids": [
+        "C-TIL-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2003_023; WGBH/AAPB 'Black Power' exhibit.",
+      "relation": "produced and broadcast",
+      "source": "ent-org-wttw",
+      "target": "ent-prog-our-people"
+    },
+    {
+      "claim_ids": [
+        "C-JUB-1",
+        "C-JUB-3"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "LA Sentinel 50th-anniversary coverage; jubileeshowcase.com; Rhythm & Light.",
+      "relation": "created, produced, and hosted",
+      "source": "ent-person-sid-ordower",
+      "target": "ent-prog-jubilee-showcase"
+    },
+    {
+      "claim_ids": [
+        "C-JUB-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "LA Sentinel 50th-anniversary coverage; jubileeshowcase.com.",
+      "relation": "broadcast (1963-1984)",
+      "source": "ent-org-wls",
+      "target": "ent-prog-jubilee-showcase"
+    },
+    {
+      "claim_ids": [
+        "C-PORT-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2002_090; Black Enterprise obituary.",
+      "relation": "worked at (1964-1985)",
+      "source": "ent-person-harry-porterfield",
+      "target": "ent-org-wbbm"
+    },
+    {
+      "claim_ids": [
+        "C-PORT-2"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers biography; Adweek/TVSpy.",
+      "relation": "created",
+      "source": "ent-person-harry-porterfield",
+      "target": "ent-prog-someone-you-should-know"
+    },
+    {
+      "claim_ids": [
+        "C-PORT-3"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Adweek/TVSpy; Black Enterprise obituary.",
+      "relation": "led a boycott of (1985)",
+      "source": "ent-person-jesse-jackson",
+      "target": "ent-org-wbbm"
+    },
+    {
+      "claim_ids": [
+        "C-PORT-3"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Adweek/TVSpy; Black Enterprise obituary.",
+      "relation": "moved to (1985)",
+      "source": "ent-person-harry-porterfield",
+      "target": "ent-org-wls"
+    },
+    {
+      "claim_ids": [
+        "C-SAUN-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Daily Southtown obituary (2018); TVNewsCheck (2009).",
+      "relation": "worked at (community affairs / Common Ground)",
+      "source": "ent-person-warner-saunders",
+      "target": "ent-org-wbbm"
+    },
+    {
+      "claim_ids": [
+        "C-SAUN-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Daily Southtown obituary (2018); TVNewsCheck (2009).",
+      "relation": "co-anchored 10 p.m. news (1980-2009)",
+      "source": "ent-person-warner-saunders",
+      "target": "ent-org-wmaq"
+    },
+    {
+      "claim_ids": [
+        "C-SIMP-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2007_249; American Academy of Arts & Sciences.",
+      "relation": "worked at (first Black woman TV reporter)",
+      "source": "ent-person-carole-simpson",
+      "target": "ent-org-wmaq"
+    },
+    {
+      "claim_ids": [
+        "C-DEE-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Congressional Record Vol. 168 (2022); IBA bio; Reel Chicago obituary.",
+      "relation": "worked at (1967-68)",
+      "source": "ent-person-merri-dee",
+      "target": "ent-org-wciu"
+    },
+    {
+      "claim_ids": [
+        "C-DEE-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Congressional Record Vol. 168 (2022); IBA bio; Reel Chicago obituary.",
+      "relation": "hosted a program on (1970-71)",
+      "source": "ent-person-merri-dee",
+      "target": "ent-org-wsns"
+    },
+    {
+      "claim_ids": [
+        "C-DEE-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Congressional Record Vol. 168 (2022); IBA bio; Reel Chicago obituary.",
+      "relation": "anchored at (from 1972)",
+      "source": "ent-person-merri-dee",
+      "target": "ent-org-wgn"
+    },
+    {
+      "claim_ids": [
+        "C-CAMP-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2001_008.",
+      "relation": "worked at (Director of Community Services; Chicagoing)",
+      "source": "ent-person-bill-campbell",
+      "target": "ent-org-wls"
+    },
+    {
+      "claim_ids": [
+        "C-WJYS-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "FCC comparative-hearing record (via WJYS history); journal-isms.com; Out of the Picture 2007.",
+      "relation": "won the license for",
+      "source": "ent-org-jovon",
+      "target": "ent-org-wjys"
+    },
+    {
+      "claim_ids": [
+        "C-WJYS-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "FCC comparative-hearing record; journal-isms.com; Out of the Picture 2007.",
+      "relation": "owned",
+      "source": "ent-person-strouds",
+      "target": "ent-org-jovon"
+    },
+    {
+      "claim_ids": [
+        "C-WJYS-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Out of the Picture 2007 (policyarchive.org); journal-isms.com.",
+      "relation": "was the Chicago market's only Black-owned full-power station",
+      "source": "ent-org-wjys",
+      "target": "ent-org-fcc"
+    },
+    {
+      "claim_ids": [
+        "C-BURR-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Campaign US (2017); Black Enterprise; Tom Burrell accounts.",
+      "relation": "co-founded (1971)",
+      "source": "ent-person-tom-burrell",
+      "target": "ent-org-burrell"
+    },
+    {
+      "claim_ids": [
+        "C-BURR-1"
+      ],
+      "grade": "VERIFIED",
+      "provenance": "Campaign US (2017); Black Enterprise; agency history.",
+      "relation": "co-founded (1971)",
+      "source": "ent-person-emmett-mcbain",
+      "target": "ent-org-burrell"
+    },
+    {
+      "claim_ids": [
+        "C-THO-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2014_029.",
+      "relation": "worked at (political reporter, from 1991)",
+      "source": "ent-person-charles-thomas",
+      "target": "ent-org-wls"
+    },
+    {
+      "claim_ids": [
+        "C-DEF-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "Ryan Ellett; MacDonald; Defender anniversary coverage.",
+      "relation": "co-sponsored (1947 talent contest)",
+      "source": "ent-org-chicago-defender",
+      "target": "ent-org-wbbm"
+    },
+    {
+      "claim_ids": [
+        "C-MBC-1",
+        "C-SAUN-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "MBC institutional record; TVNewsCheck (2009).",
+      "relation": "honored (2009 salute)",
+      "source": "ent-org-mbc",
+      "target": "ent-person-warner-saunders"
+    },
+    {
+      "claim_ids": [
+        "C-TIL-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2003_023.",
+      "relation": "holds the oral-history archive of",
+      "source": "ent-org-historymakers",
+      "target": "ent-person-jim-tilmon"
+    },
+    {
+      "claim_ids": [
+        "C-SIMP-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2007_249.",
+      "relation": "holds the oral-history archive of",
+      "source": "ent-org-historymakers",
+      "target": "ent-person-carole-simpson"
+    },
+    {
+      "claim_ids": [
+        "C-PORT-1"
+      ],
+      "grade": "SUPPORTED",
+      "provenance": "The HistoryMakers finding aid A2002_090.",
+      "relation": "holds the oral-history archive of",
+      "source": "ent-org-historymakers",
+      "target": "ent-person-harry-porterfield"
+    }
+  ],
+  "status": "Research",
+  "version": "0.1"
+}

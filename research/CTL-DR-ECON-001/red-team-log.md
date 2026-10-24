@@ -1,0 +1,43 @@
+# Red-team correction log
+
+- ECON-025 Courier claim -> Disputed with Sengstacke contradiction (F-001)
+- ECON-025: added Verified Regal claim via ECON-055 cross-ref (F-001)
+- ECON-052 founding claim -> Disputed (F-002)
+- ECON-064 WVON causality -> Provisional, attributed (F-005)
+- ECON-002: entity-level status=debunked (F-006)
+- ECON-011[0] DELETED: Jesse Binga opened a private bank in 1908; it received an Illinois sta
+- ECON-055[17] DELETED: S.B. Fuller purchased the Regal Theater in 1961, the first Black owner
+- ECON-055: removed weaker Regal duplicate; cross-noted NNBL duplicate (F-009)
+- ECON-061: founding claims consolidated (F-010)
+- ECON-040: founding-capital variants unified (F-011)
+- ECON-045: duplicate 1912 ordinance claim removed (F-012)
+- ECON-042: King-personal-detail cross-note added (F-013)
+- ECON-034: exchange dispute resolved as AMEX (F-014)
+- ECON-034[4] grade Verified -> Provisional: Red-team F-015: superlative on Wikipedia-only; downgrade pending corroboration
+- ECON-012[0] grade Verified -> Provisional: Red-team F-016: Wikipedia single chain; downgrade pending U-M/dental-history sou
+- ECON-021[2] grade Verified -> Provisional: Red-team F-017: Wikipedia single chain
+- ECON-033[2] grade Verified -> Provisional: Red-team F-018: Wikipedia single chain
+- ECON-065[1] grade Verified -> Provisional: Red-team F-019: Wikipedia single chain
+- ECON-019[2] grade Verified -> Provisional: Red-team F-020: superlative on single 2026 trade source
+- ECON-016[3] grade Verified -> Provisional: Red-team F-021: single news item, no case citation
+- ECON-055[8] grade Verified -> Provisional: Red-team F-022: Wikipedia only; pending NAM records
+- ECON-023[2] grade Verified -> Provisional: Red-team F-023: office-sharing detail is Wikipedia-only; LDF/alderman facts stay
+- ECON-039: dates flagged unverified (F-026)
+- ECON-061: $1.65T figure -> Disputed, do-not-render (F-027)
+- ECON-044/022: Wilson linkage note added (F-029)
+- ECON-008: summary superlative softened + Provisional claim added (F-030)
+- ECON-025: summary superlative softened + Provisional claim added (F-030)
+- F-006/F-028: 3 worker-ID citations rewritten to merged ECON-IDs
+- ECON-060: source re-pointed to NARA/DOCUMERICA (N-006)
+- F-004: 35 ungraded timeline events -> Provisional with verification warning
+- F-002: timeline Poro-1918 event -> Disputed
+- F-002: timeline Poro-1918 event -> Disputed
+- F-025: credit-gap edge -> Provisional, Woodstock cited directly
+- F-007: relationships normalized: 60 Verified kept, 1 non-Verified held out- 
+- ECON-025[12] F-003: John H. Johnson "trained" -> Provisional inspiration-lore; George E. Johnson/Dudley remain the documented alumni
+- ECON-055[15] F-003: John H. Johnson "trained" -> Provisional inspiration-lore; George E. Johnson/Dudley remain the documented alumni
+- ECON-023: claim [2] split -> Verified (LDF/alderman) + Provisional (Green office-sharing)
+- Poro timeline: merged 3 events into one Disputed event with date_alternatives 1917/1918
+- F-024 fuzzy dedupe (1924, jaccard=0.67): merged "Supreme Life buys its bank building at 3501 S. King Dri..." into kept event
+- F-024 fuzzy dedupe (1930, jaccard=0.62): merged "Binga State Bank closes in the Depression...." into kept event
+- F-024 fuzzy dedupe (1961, jaccard=0.62): merged "Fuller purchases the Regal Theater — first Black owners..." into kept event

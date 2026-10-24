@@ -1,0 +1,1080 @@
+{
+ "project": "CTL-DR-LIFE-001",
+ "chain": [
+  "object",
+  "manufacturer",
+  "design",
+  "period",
+  "advertising",
+  "symbolism",
+  "consumer_use",
+  "photographs",
+  "museum_holdings",
+  "related_people",
+  "related_movements"
+ ],
+ "verification_grades": [
+  "Verified",
+  "Provisional",
+  "Disputed",
+  "Unresolved"
+ ],
+ "count": 9,
+ "biographies": [
+  {
+   "chicago_connection": "NMAAHC's accessioned example was distributed by Eden Enterprise, Inc. of Skokie, Illinois (Chicago area).",
+   "id": "ob-01",
+   "links": [
+    {
+     "evidence": "NMAAHC collection record describes a plastic-and-metal fist pick, object number 2014.125.2, date range 2002-2014.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+     "step": "object",
+     "uncertainty": "None for the object's accession, materials, and date range as cataloged.",
+     "value": "Black fist afro pick of plastic and metal, NMAAHC object 2014.125.2, dated 2002-2014.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC record lists Eden Enterprise, Inc. of Skokie, Illinois as the distributor of this example.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+     "step": "manufacturer",
+     "uncertainty": "Distributor is not maker; original inventor/manufacturer of the fist pick design is separately contested (see related_people).",
+     "value": "Distributor: Eden Enterprise, Inc., Skokie, Illinois (per NMAAHC).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "MoMA record for 215.2019 describes a 'Black Power Afro pick hair comb' in injection-molded plastic, dated 1972-1976; NMAAHC example is plastic and metal with a fist handle.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://www.moma.org/collection/works/401235",
+     "step": "design",
+     "uncertainty": "None for the two cataloged examples; variant designs (wood, peace-sign handles) exist outside these records.",
+     "value": "Fist-shaped handle pick; injection-molded plastic; metal teeth on the NMAAHC example.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "MoMA dates its example 1972-1976; NMAAHC dates its example 2002-2014.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://www.moma.org/collection/works/401235",
+     "step": "period",
+     "uncertainty": "Exact first appearance of the fist design is unresolved (see Disputed related_people link).",
+     "value": "Fist-pick design belongs to the 1970s Black Power era; the NMAAHC example is dated 2002-2014, showing the form persisted.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Pick Progress project documents the patent/design chronology of the fist pick and notes the plastic Black fist comb produced since 1972.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://pickprogressproject.com/history/",
+     "step": "advertising",
+     "uncertainty": "No dated period print advertisement for a fist pick was located in this pass.",
+     "value": "Fist picks were marketed through Black beauty-supply and novelty channels; the Pick Progress history project traces the design's commercial history.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "The Fitzwilliam Museum's 2013 'Origins of the Afro Comb' exhibition placed a 5,500-year-old Egyptian comb beside a modern fist comb, presenting the latter as a symbol of the 1970s U.S. Black Civil Rights/Power movement (reported by a UCL conservator, 2013-10-28); NMAAHC's record carries the movement/topic cataloging.",
+     "primary": false,
+     "publication_date": "2013-10-28",
+     "source": "https://blogs.ucl.ac.uk/museums/2013/10/28/african-hair-combs-a-conservators-comment/",
+     "step": "symbolism",
+     "uncertainty": "The symbolism is documented by a museum exhibition and museum cataloging, not by a quoted contemporary consumer — strong but second-order.",
+     "value": "The fist comb was a symbol of the U.S. Black Civil Rights/Power movement of the 1970s; NMAAHC catalogs its example under the topics Black Power, hair, and identity and the movement 'Black is Beautiful'.",
+     "verification": "Provisional",
+     "red_team_note": "Fist-pick Black Power symbolism rests on 2013 Fitzwilliam exhibition and modern NMAAHC cataloging; no contemporary 1970s source. Link's own uncertainty admits second-order evidence."
+    },
+    {
+     "evidence": "Interview reporting: Willie Morrow said a customer brought him a Nigerian pick and he developed wood, plastic, and metal versions (ND Insider, 2017-02-24).",
+     "primary": false,
+     "publication_date": "2017-02-24",
+     "source": "https://www.ndinsider.com/story/news/nation-now/2017/02/24/afro-rises/98327072/",
+     "step": "consumer_use",
+     "uncertainty": "Single retrospective interview; consumer-use details beyond Morrow's account not independently corroborated here.",
+     "value": "Picks were used to shape and lift Afro hairstyles and worn/carried as accessories; developer Willie Morrow described producing wood, plastic, and metal versions after a customer brought him a Nigerian pick.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "Object media on the NMAAHC record; history photography referenced by the Pick Progress project.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+     "step": "photographs",
+     "uncertainty": "Object photography documents the artifact, not period consumer use.",
+     "value": "The NMAAHC and MoMA records carry object photography; dated period photographs of consumers using fist picks were not located in this pass.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "Both object records were read directly; NMAAHC record states 'No Known Copyright Restrictions.'",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of these holdings.",
+     "value": "NMAAHC 2014.125.2 (Eden Enterprise fist pick, 2002-2014); MoMA 215.2019 ('Black Power Afro pick hair comb,' 1972-1976, Antonio's Manufacturing).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "ND Insider (2017-02-24) reports both the Bundles/Childrey 1969 account (via A'Lelia Bundles) and the Romani fist-design patent account; MoMA record 215.2019 lists Romani, Bundles, and Childrey together on the 1972-1976 pick.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.moma.org/collection/works/401235",
+     "step": "related_people",
+     "uncertainty": "No actual patent record was retrieved in this pass; invention/patent attribution remains contested.",
+     "value": "Competing attribution accounts: (a) A'Lelia Bundles reported that Samuel H. Bundles Jr. and Henry M. Childrey developed a pick in 1969 for Summit Laboratories; (b) MoMA associates designers Anthony Romani, Samuel H. Bundles Jr., and Henry M. Childrey with the 1972-1976 Antonio's Manufacturing fist pick, while other reporting attributes a fist/peace-sign design patent to Anthony Romani in the early 1970s. The accounts conflict and cannot be collapsed into one inventor.",
+     "verification": "Disputed"
+    },
+    {
+     "evidence": "NMAAHC catalogs the object under the topics Black Power, hair, and identity and the movement 'Black is Beautiful'; the Fitzwilliam/UCL 2013 account ties the fist comb to the 1970s Black Civil Rights/Power movement.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+     "step": "related_movements",
+     "uncertainty": "Movement cataloging is the museum's classification, not a claim that the object was issued by a movement organization.",
+     "value": "Black Power; Black is Beautiful.",
+     "verification": "Verified"
+    }
+   ],
+   "object_name": "Afro pick (fist-handle hair pick)"
+  },
+  {
+   "chicago_connection": "None documented in this pass; comparative national evidence only.",
+   "id": "ob-02",
+   "links": [
+    {
+     "evidence": "NMAAHC collection record documents the heater-plus-comb set, maker, object number, and honoree.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+     "step": "object",
+     "uncertainty": "None for the accessioned set as cataloged.",
+     "value": "Hot-comb heater and comb set made by Solar Electric Mfg. Co., NMAAHC object 2011.59.48ab, a gift honoring Edna Stevens McIntyre.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC object record 2011.59.48ab; NMAAHC collection search result for the Holmes travel-kit hot comb.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+     "step": "manufacturer",
+     "uncertainty": "Numerous other makers existed; only these two are documented here.",
+     "value": "Solar Electric Mfg. Co. (this set, per NMAAHC); a second NMAAHC hot comb, from the travel hair care kit of Anna Mae Queen Holmes, was manufactured by Reck-Junior (founded 1950) and is on view in the Cultural Expressions gallery.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC object record 2011.59.48ab documents materials, heater design, use, and engraved initials.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+     "step": "design",
+     "uncertainty": "None for the cataloged set.",
+     "value": "Electric heater with handle plus a metal comb; the NMAAHC set bears engraved initials; materials and construction documented in the museum record.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC interpretive essay 'Sizzle' documents the 1886 catalog appearance and the uncertain origin.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+     "step": "period",
+     "uncertainty": "The 1886 date is the earliest catalog appearance documented by NMAAHC, not a verified invention date.",
+     "value": "Hot combs were offered in U.S. commercial catalogs by 1886; NMAAHC states the exact origin is difficult to determine.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC 'Sizzle' essay documents commercial-catalog sales by 1886.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+     "step": "advertising",
+     "uncertainty": "Specific period advertisements were not retrieved in this pass; only the catalog-sales fact is documented.",
+     "value": "Hot combs were advertised and sold through U.S. commercial catalogs by 1886.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC's 'Sizzle' essay documents the multiple meanings Black women attached to straightened hair and the respectability discourse around it.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+     "step": "symbolism",
+     "uncertainty": "The essay is interpretive; meanings are documented from historical sources it cites rather than invented here.",
+     "value": "Straightened hair carried multiple documented meanings — respectability, beauty, identity, economic necessity — not a single symbolism.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC 'Sizzle' essay documents consumer use, including the physical practice and its social meanings.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+     "step": "consumer_use",
+     "uncertainty": "None beyond the essay's own scope.",
+     "value": "Heated combs were used to straighten hair, in home and salon settings; NMAAHC documents the practice, its labor, and its social context.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Essence reporting confirms a hot comb was displayed in the NMAAHC gallery (secondary confirmation of display photography).",
+     "primary": false,
+     "publication_date": null,
+     "source": "http://www.essence.com/news/hot-comb-smithsonian-museum-african-american-history/",
+     "step": "photographs",
+     "uncertainty": "Secondary source; no dated consumer-use photograph verified.",
+     "value": "A hot comb was photographed on display in NMAAHC's everyday-life gallery; dated photographs of period consumer use were not located in this pass.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "NMAAHC object record and NMAAHC collection search result, both read directly.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of these holdings.",
+     "value": "NMAAHC 2011.59.48ab (Solar heater and comb, 'No Known Copyright Restrictions'); Reck-Junior hot comb from Anna Mae Queen Holmes's travel hair care kit, on view in NMAAHC's Cultural Expressions gallery.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC 'Sizzle' essay (Walker misconception, Grateau, 1886 catalogs, Sammons 1920, Grant 1925); NMAAHC object records (McIntyre honoree; Holmes ownership).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+     "step": "related_people",
+     "uncertainty": "Patent details are as reported by NMAAHC; the underlying patent documents were not retrieved. Invention attribution is contested — hence Disputed.",
+     "value": "Madam C.J. Walker is widely but wrongly credited as the inventor — NMAAHC explicitly states it is a misconception that she invented the hot comb. NMAAHC notes Marcel Grateau is often credited (his documented patents were for hair-waving/curling irons), a Walter Sammons patent in 1920, and a Clara Grant patent in 1925. The NMAAHC set honors Edna Stevens McIntyre; the travel-kit comb was owned by Anna Mae Queen Holmes (1926-2013).",
+     "verification": "Disputed"
+    },
+    {
+     "evidence": "No source in this pass places the hot comb within a named movement; NMAAHC treats it within Black beauty culture and everyday life.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "related_movements",
+     "uncertainty": "Respectability politics is discussed in scholarship around straightened hair but was not verified as a movement link for this object in this pass.",
+     "value": "No movement membership verified in this pass.",
+     "verification": "Unresolved"
+    }
+   ],
+   "object_name": "Hot comb / pressing comb"
+  },
+  {
+   "chicago_connection": "No Chicago-made or Chicago-advertised fan verified in this pass; Leak & Sons Funeral Home (Chicago, founded 1933) is comparative context only — see gaps.md.",
+   "id": "ob-03",
+   "links": [
+    {
+     "evidence": "Sixth Floor Museum collection record documents the 1968 fan, its maker, materials, and object number.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+     "step": "object",
+     "uncertainty": "None for the cataloged object.",
+     "value": "1968 'Freedom Fighters' funeral fan created by Ferguson Funeral Home, of paper, wood, and metal; Sixth Floor Museum object 2018.018.0001.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "MTSU digital archive essay on the church-fan object documents the Bedford Calendar and Novelty Company as a producer.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+     "step": "manufacturer",
+     "uncertainty": "Maker of the specific 1968 Ferguson fan is cataloged as Ferguson Funeral Home (the advertiser/creator), not Bedford; the Bedford link is to the fan type.",
+     "value": "The Bedford Calendar and Novelty Company is documented as a maker of such church fans.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "MTSU essay describes the standard form; Sixth Floor record confirms paper, wood, metal and notes the reverse advertises funeral-home locations and services.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+     "step": "design",
+     "uncertainty": "None for the general form; individual fans vary in imagery.",
+     "value": "Folding paper fan on a wooden stick: a stock devotional or portrait image on one side, a local business advertisement on the reverse.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "MTSU essay connects the fans' heyday to churches before widespread air conditioning; Sixth Floor record dates its example to 1968.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+     "step": "period",
+     "uncertainty": "No precise start/end dates for the form's heyday were documented.",
+     "value": "Heyday tied to hot, unairconditioned churches — broadly mid-20th century; the documented example is 1968.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "MTSU essay ('typical church fans carried local-business ads on the reverse; many Black funeral homes advertised on them'); Sixth Floor record (reverse advertises locations/services).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+     "step": "advertising",
+     "uncertainty": "None for the advertising function itself.",
+     "value": "Typical church fans carried local-business advertisements on the reverse; many Black funeral homes advertised on them; the 1968 Ferguson fan's reverse advertises the funeral home's locations and services.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "MTSU essay's framing language; the 1968 fan's front depicts Martin Luther King Jr., John F. Kennedy, and Robert F. Kennedy (per Sixth Floor record).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+     "step": "symbolism",
+     "uncertainty": "The 'symbol' framing is a scholar's interpretation, not contemporary testimony — hence Provisional, not Verified.",
+     "value": "The MTSU essay frames a saved fan as 'a symbol of the midcentury African American death-related observance that was practical, commercial, and uplifting'; the 1968 'Freedom Fighters' fan pairs the images of assassinated leaders with funeral advertising.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "MTSU essay documents use in unairconditioned services and notes the fans were meant to be thrown away after short use yet were saved.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+     "step": "consumer_use",
+     "uncertainty": "None for the general use pattern.",
+     "value": "Waved by congregants during hot church services and funerals; meant to be disposable but often saved.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "None found; a commercial listing shows a vintage Mahalia Jackson/Spriggs & Watson fan as a product photo only.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://beforetimes.shop/ephemera/vintage-spriggs-watson-funeral-home-folding-fan-mahalia-jackson-image-pittsburgh/",
+     "step": "photographs",
+     "uncertainty": "Photographs of fans in church settings likely exist in archives but were not verified here.",
+     "value": "No dated photographs of church fans in use were located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Sixth Floor Museum collection record read directly.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of the holding.",
+     "value": "Sixth Floor Museum 2018.018.0001 (1968 'Freedom Fighters' funeral fan, Ferguson Funeral Home).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Sixth Floor record (depicted leaders; Ferguson creator); MTSU essay (Hellum Funeral Home); commercial listing (Spriggs & Watson/Mahalia Jackson, Pittsburgh).",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+     "step": "related_people",
+     "uncertainty": "The Spriggs & Watson/Mahalia Jackson fan is known only from a commercial listing — Provisional detail within a Verified link.",
+     "value": "The 1968 fan depicts Martin Luther King Jr., John F. Kennedy, and Robert F. Kennedy; its creator is Ferguson Funeral Home. The MTSU-documented fan advertises Hellum Funeral Home. A vintage marketplace listing shows a Mahalia Jackson image paired with a Spriggs & Watson Funeral Home (Pittsburgh) advertisement.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "The fan's front depicts King, JFK, and RFK in 1968, the year of the King and Kennedy assassinations (per Sixth Floor record).",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+     "step": "related_movements",
+     "uncertainty": "The movement association is evident from the object's imagery but is not stated in the museum's cataloging — hence Provisional.",
+     "value": "Civil Rights Movement — the 1968 'Freedom Fighters' fan memorializes assassinated civil-rights-era leaders.",
+     "verification": "Provisional"
+    }
+   ],
+   "object_name": "Funeral-home advertising church fan"
+  },
+  {
+   "chicago_connection": "Direct: both companies were Chicago firms — Montgomery Ward founded its Chicago mail-order business in 1872; Sears was a Chicago company whose catalogs are held in Smithsonian collections under place 'Chicago, Illinois'.",
+   "id": "ob-04",
+   "links": [
+    {
+     "evidence": "Smithsonian Institution collection record: 'Trade catalogs from Sears, Roebuck and Co. Inc.', Place: Chicago, Illinois; Location: Trade Literature at the American History Museum Library.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://www.si.edu/object/trade-catalogs-sears-roebuck-and-co-inc%3ASILNMAHTL_18420",
+     "step": "object",
+     "uncertainty": "The record covers the trade-catalog series rather than one dated issue; no single issue was pulled as the exemplar.",
+     "value": "Sears, Roebuck and Co. mail-order catalogs, held in the Smithsonian Libraries Trade Literature Collections (place: Chicago, Illinois).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Aaron Montgomery Ward founded the Chicago mail-order business in 1872; his first catalog was a single sheet listing 163 items. Sears, Roebuck and Co. was the Chicago competitor founded by Richard Sears.",
+     "primary": false,
+     "publication_date": null,
+     "source": "http://www.connectingthewindycity.com/2017/08/august-27-1872-montgomery-wards-first.html",
+     "step": "manufacturer",
+     "uncertainty": "1872 and the 163-item sheet rest on secondary accounts (including Wikipedia's Aaron Montgomery Ward entry); not corroborated from a primary company record here.",
+     "value": "Aaron Montgomery Ward (founded the Chicago mail-order business in 1872; first catalog a one-sheet of 163 items); Sears, Roebuck and Co., Chicago (Richard Sears).",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "City of Chicago landmark report on the Sears district: by 1895 the catalog exceeded 500 pages with a vast merchandise range; historian Daniel Boorstin called it 'the Bible of the new rural consumption communities.'",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Sears_Roebuck_and_Co_District.pdf",
+     "step": "design",
+     "uncertainty": "Page counts are period claims reported by the landmark study.",
+     "value": "The multi-hundred-page illustrated 'Big Book' — over 500 pages by 1895, covering shoes, garments, wagons, stoves, furniture, musical instruments, firearms, bicycles, and more.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Ward's 1872 founding (secondary); Smithsonian Magazine dates the end of Sears's 'Big Book' to January 25, 1993; a secondary source dates the end of the Montgomery Ward catalog to 1985.",
+     "primary": false,
+     "publication_date": "2023-01-25",
+     "source": "https://www.smithsonianmag.com/innovation/before-folding-30-years-ago-the-sears-catalog-sold-some-surprising-products-180981504/",
+     "step": "period",
+     "uncertainty": "1872 and 1985 endpoints rest on secondary sources; only the 1993 Sears end date is institutionally sourced.",
+     "value": "From Montgomery Ward's 1872 Chicago founding through the Sears 'Big Book' era, which ceased production on January 25, 1993 (the Ward catalog ended in 1985, per secondary sources).",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "City of Chicago landmark report quotes the 1894 cover declarations 'Book of Bargains: A Money Saver for Everyone' and 'Cheapest Supply House on Earth,' and Sears's motto 'We Can't Afford to Lose a Customer.'",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Sears_Roebuck_and_Co_District.pdf",
+     "step": "advertising",
+     "uncertainty": "Quoted slogans are from the landmark report, not from a retrieved catalog cover image.",
+     "value": "Early Sears catalogs billed themselves as the 'Cheapest Supply House on Earth' and the 'Book of Bargains,' with the motto 'We Can't Afford to Lose a Customer'; Richard Sears wrote nearly all the catalog copy himself until his 1908 retirement.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Historian Einav Rabinovitch-Fox, quoted in Finance & Commerce (2018): buying by mail order 'allowed African-Americans to assert their right to participate as equals in the market, turning the act of shopping via the mail into a political act of resistance.' Louis Hyman's research (reproduced educational PDF) adds that the catalog gave Black Southern families autonomy from discriminatory merchants, that Sears's founders ran photographs to 'prove' they were white, and that merchants burned the catalogs.",
+     "primary": false,
+     "publication_date": "2018-11-01",
+     "source": "https://finance-commerce.com/2018/11/how-sears-helped-more-people-feel-like-americans/",
+     "step": "symbolism",
+     "uncertainty": "The Hyman details rest on a reproduced educational PDF whose provenance is weaker than the Finance & Commerce interview — the Verified grade rests on the Rabinovitch-Fox quotation.",
+     "value": "For Black consumers under Jim Crow, ordering by mail was a documented political act: it let African Americans bypass discriminatory stores and 'assert their right to participate as equals in the market.'",
+     "verification": "Provisional",
+     "red_team_note": "Mail-order-as-political-act rests on modern historian Rabinovitch-Fox's framing alone; methodology 4.2 caps at Provisional."
+    },
+    {
+     "evidence": "The Rabinovitch-Fox quotation above; the Hyman account of catalog ordering giving Black Southern families autonomy; Smithsonian curator Kathleen Franz documents the catalog's secondary household uses (Smithsonian Magazine, 2023-01-25).",
+     "primary": false,
+     "publication_date": "2018-11-01",
+     "source": "https://finance-commerce.com/2018/11/how-sears-helped-more-people-feel-like-americans/",
+     "step": "consumer_use",
+     "uncertainty": "Specific Black-family order records were not retrieved; the use pattern is documented through historians' accounts.",
+     "value": "Black families, especially in the rural South, ordered goods by mail to avoid discriminatory local merchants; the catalog itself was also re-used around the home.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "photographs",
+     "uncertainty": "Catalog-use photographs likely exist in archives but were not verified here.",
+     "value": "No dated photographs of catalog consumer use were located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Smithsonian Institution collection record read directly.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://www.si.edu/object/trade-catalogs-sears-roebuck-and-co-inc%3ASILNMAHTL_18420",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of the holding.",
+     "value": "Smithsonian Libraries Trade Literature Collections: 'Trade catalogs from Sears, Roebuck and Co. Inc.' (Place: Chicago, Illinois; held at the American History Museum Library).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Ward founding (connectingthewindycity/Wikipedia); Sears details (Chicago landmark report; History); Rosenwald-Washington partnership and school figures (Finance & Commerce, 2018).",
+     "primary": false,
+     "publication_date": "2018-11-01",
+     "source": "https://finance-commerce.com/2018/11/how-sears-helped-more-people-feel-like-americans/",
+     "step": "related_people",
+     "uncertainty": "Ward and early Sears details are secondary; the Rosenwald-Washington partnership is reported in reputable press.",
+     "value": "Aaron Montgomery Ward; Richard Sears; Julius Rosenwald (Sears president/investor, joined 1895) — whose 1912 partnership with Booker T. Washington funded more than 5,000 Rosenwald schools serving some 663,000 Black students.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Rosenwald school-building philanthropy from 1912 (Finance & Commerce); the catalog-as-resistance argument (Rabinovitch-Fox).",
+     "primary": false,
+     "publication_date": "2018-11-01",
+     "source": "https://finance-commerce.com/2018/11/how-sears-helped-more-people-feel-like-americans/",
+     "step": "related_movements",
+     "uncertainty": "The 'movement' framing of catalog shopping is a historian's argument, not a membership claim.",
+     "value": "Rosenwald school-building philanthropy (from 1912); mail-order catalog shopping as Jim Crow-era consumer resistance (scholarly).",
+     "verification": "Verified"
+    }
+   ],
+   "object_name": "Mail-order catalog (Sears / Montgomery Ward)"
+  },
+  {
+   "chicago_connection": "Direct: the exemplar 45 is a Chess Records single — recorded in Chicago (Universal Studios, 111 E. Ontario, May 21, 1955) and released on Chess 1604.",
+   "id": "ob-05",
+   "links": [
+    {
+     "evidence": "The Chuck Berry Database (specialist discography) documents Chess 1604: 'Maybellene'/'Wee Wee Hours,' recorded May 21, 1955, first released July 1955.",
+     "primary": false,
+     "publication_date": null,
+     "source": "http://www.crlf.de/ChuckBerry/cbdb/session/66-1955-05-21%2000:00:00.html",
+     "step": "object",
+     "uncertainty": "Specialist discography, credible but single-source and not institutional.",
+     "value": "Chess 1604: Chuck Berry's 'Maybellene' backed with 'Wee Wee Hours,' first released as a 45-rpm single in 1955.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "A New Jersey Antique Radio Club technical gazette documents RCA's 1949 introduction of the 45 system; NMAAHC catalogs Chess Records (founded 1950) as the subject of its Chuck Berry guitar record.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://njarc.org/document_library/45rpmgazette/GAZ002.pdf",
+     "step": "manufacturer",
+     "uncertainty": "The gazette is a specialist secondary source; the Chess label attribution for 1604 rests on the discography.",
+     "value": "RCA introduced the 45-rpm system in 1949; the exemplar single was issued by Chess Records, Chicago.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "Technical gazette and 45 guide: 7-inch disc at 45 revolutions per minute.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://njarc.org/document_library/45rpmgazette/GAZ002.pdf",
+     "step": "design",
+     "uncertainty": "None for the format's basic specification.",
+     "value": "7-inch vinyl disc played at 45 RPM, one song per side — a low-cost, durable single format.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "RCA's 1949 introduction (technical gazette).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://njarc.org/document_library/45rpmgazette/GAZ002.pdf",
+     "step": "period",
+     "uncertainty": "The 1949 date rests on a specialist secondary source.",
+     "value": "From RCA's 1949 introduction of the system onward; dominant single format of the 1950s-1960s.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "The technical gazette documents RCA's advertising campaign for the 45 system and its price cuts on players to push adoption.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://njarc.org/document_library/45rpmgazette/GAZ002.pdf",
+     "step": "advertising",
+     "uncertainty": "Single specialist source; no specific ad image retrieved.",
+     "value": "RCA advertised the 45 system heavily and cut player prices to drive adoption of the format.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "symbolism",
+     "uncertainty": "No contemporary documented symbolic meaning for the 45 as an object was found; avoid inventing one.",
+     "value": "No documented symbolism located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "The 45 guide describes the format as low-cost and durable; jukebox and teen listening contexts are general knowledge not separately sourced here.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.classical33.co.uk/45-record-guide-size-value-prices-worth-and-history-of-45-records/",
+     "step": "consumer_use",
+     "uncertainty": "Consumer-use details rest on general secondary description, not primary accounts.",
+     "value": "Affordable singles for jukeboxes and home players; the 45 was the vehicle for rock-and-roll hits like 'Maybellene.'",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "photographs",
+     "uncertainty": "Label and sleeve photographs exist in collector contexts but were not verified here.",
+     "value": "No dated photographs of 45-rpm consumer use were located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "None found — NMAAHC's Chess-related holding located here is Chuck Berry's 'Maybellene' Gibson guitar (Musical Crossroads), not a 45.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/collection/search?edan_q=%2A%3A%2A&edan_fq%5B0%5D=p.edanmdm.descriptivenonrepeating.online_media.media.usage.access%3A%22CC0%22&edan_fq%5B1%5D=p.edanmdm.indexedstructured.onphysicalexhibit%3A%22Yes%22&edan_fq%5B2%5D=date%3A%221950s%22&edan_fq%5B3%5D=-name%3A%22Herring%2C+Asa+D.%22&edan_fq%5B4%5D=-topic%3A%22U.S.+History%2C+1945-1953%22&edan_fq%5B5%5D=-name%3A%22Reed%2C+William+E.%22&edan_fq%5B6%5D=-name%3A%22Madison%2C+George%22&edan_fq%5B7%5D=-object_type%3A%22wrist+watches%22&edan_fq%5B8%5D=-place%3A%223521+Attica+Road%22&edan_fq%5B9%5D=-object_type%3A%22Uniforms%22&edan_fq%5B10%5D=-name%3A%22Lamb%2C+Theodore+Lafayette%22&edan_fq%5B11%5D=-name%3A%22Chess+Records%22",
+     "step": "museum_holdings",
+     "uncertainty": "NMAAHC likely holds Chess 45s, but no accessioned 45 was verified in this pass.",
+     "value": "No verified museum holding of a Chess 45-rpm single located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Chuck Berry Database session pages (recorded at Universal Studios, 111 E. Ontario, Chicago, May 21, 1955; produced by Leonard & Phil Chess).",
+     "primary": false,
+     "publication_date": null,
+     "source": "http://www.crlf.de/ChuckBerry/cbdb/session/66-1955-05-21%2000:00:00.html",
+     "step": "related_people",
+     "uncertainty": "Personnel and session details rest on a specialist discography.",
+     "value": "Chuck Berry (artist); Leonard & Phil Chess (producers); session personnel including Johnnie Johnson and Willie Dixon per the discography.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "related_movements",
+     "uncertainty": "Rock and roll's cultural role is real but was not documented as a movement link for this object in this pass.",
+     "value": "No movement membership verified in this pass.",
+     "verification": "Unresolved"
+    }
+   ],
+   "object_name": "45-rpm single (Chess 1604, 'Maybellene')"
+  },
+  {
+   "chicago_connection": "No Chicago maker verified; the holding is at the Smithsonian's National Museum of American History. Chicago radio (e.g., WVON) listening context is plausible but unverified — see gaps.md.",
+   "id": "ob-06",
+   "links": [
+    {
+     "evidence": "Smithsonian Magazine documents the Regency TR-1 as the first commercially manufactured transistor radio (corroborated by Marketplace, 2022-12-14); the Smithsonian's National Museum of American History holds an example.",
+     "primary": false,
+     "publication_date": "2022-12-14",
+     "source": "https://www.marketplace.org/story/2022/12/14/taking-the-transistor-mainstream-with-music-on-the-go",
+     "step": "object",
+     "uncertainty": "No single accessioned NMAAHC example anchors this biography; the object is the documented type exemplar.",
+     "value": "Regency TR-1 portable transistor radio — the first commercially manufactured transistor radio.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "Smithsonian Magazine documents the Texas Instruments/Regency (Regency Division of I.D.E.A.) development and the October 18, 1954 on-sale date.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+     "step": "manufacturer",
+     "uncertainty": "None for the TR-1's maker and launch as reported.",
+     "value": "Texas Instruments and the Regency Division of I.D.E.A.; the Regency TR-1 hit stores on October 18, 1954.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Smithsonian Magazine: pocket-sized AM set, sold for $50, marketed on portability, durability, and battery life.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+     "step": "design",
+     "uncertainty": "None for the TR-1's basic specification.",
+     "value": "Small pocket-sized portable AM radio; battery-powered; sold at $50 in 1954.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Smithsonian Magazine (1954 launch, 'the portable electronic age'); MoMA's Braun TP 1 portable radio/phonograph is dated 1959.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+     "step": "period",
+     "uncertainty": "None for the launch date.",
+     "value": "From October 18, 1954 — the launch of the portable electronic age.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Smithsonian Magazine reports the marketing claims around portability, durability, and battery advantages; no period ad image retrieved.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+     "step": "advertising",
+     "uncertainty": "No specific period advertisement was retrieved in this pass.",
+     "value": "Marketed on portability, durability, and battery life — 'music on the go.'",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found — no contemporary Black-press symbolism for the transistor radio was located; a Chicago WVON-listening link is plausible but unverified.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "symbolism",
+     "uncertainty": "Do not infer symbolism from the format's general cultural role.",
+     "value": "No documented symbolism located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Smithsonian Magazine documents how portable listening changed habits; Marketplace (2022-12-14) frames it as 'music on the go.'",
+     "primary": false,
+     "publication_date": "2022-12-14",
+     "source": "https://www.marketplace.org/story/2022/12/14/taking-the-transistor-mainstream-with-music-on-the-go",
+     "step": "consumer_use",
+     "uncertainty": "Black consumer-use specifics (e.g., oral histories) were not located.",
+     "value": "Private portable listening — radio moved from the living room to the pocket, changing where and how people listened to music.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "photographs",
+     "uncertainty": "Press and advertising photography exists but was not verified here.",
+     "value": "No dated photographs of transistor-radio consumer use were located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Smithsonian Magazine reports the National Museum of American History holds a Regency TR-1 donated in 1984 by Dr. Willis A. Adcock of Texas Instruments, plus a clear prototype; MoMA holds the Braun TP 1 (1959), object 2500.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+     "step": "museum_holdings",
+     "uncertainty": "The holding is at NMAH, not NMAAHC; details rest on the magazine's reporting of the collection.",
+     "value": "National Museum of American History: Regency TR-1 (donated 1984 by Dr. Willis A. Adcock, Texas Instruments) and a prototype. MoMA: Braun TP 1 portable transistor radio/phonograph (1959).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Smithsonian Magazine: Dr. Willis A. Adcock (Texas Instruments) donated the TR-1 to the Smithsonian in 1984.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+     "step": "related_people",
+     "uncertainty": "None for the donation fact as reported.",
+     "value": "Dr. Willis A. Adcock of Texas Instruments — donor of the Smithsonian's TR-1.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "related_movements",
+     "uncertainty": "None claimed.",
+     "value": "No movement membership verified in this pass.",
+     "verification": "Unresolved"
+    }
+   ],
+   "object_name": "Transistor radio (Regency TR-1)"
+  },
+  {
+   "chicago_connection": "Comparative: the Ebony symbolism evidence is national; the museum example is Chuck Berry's car. Chicago-specific Cadillac consumer evidence was not located — see gaps.md.",
+   "id": "ob-08",
+   "links": [
+    {
+     "evidence": "NMAAHC collection record: 1973 Cadillac Eldorado created by General Motors, owned and driven by Chuck Berry, object 2011.137.1, on view in Musical Crossroads.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+     "step": "object",
+     "uncertainty": "The Eldorado is a celebrity-owned exemplar; it documents the museum holding, not the ordinary consumer's car — noted as a caveat.",
+     "value": "Cadillac as cultural object, documented through a 1973 Cadillac Eldorado owned and driven by Chuck Berry (NMAAHC 2011.137.1).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC object record lists General Motors (founded 1908) as creator of the Eldorado.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+     "step": "manufacturer",
+     "uncertainty": "None for the GM/Cadillac attribution of this example.",
+     "value": "General Motors (Cadillac marque), founded 1908 per the NMAAHC record.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC record: 1973 Eldorado; luxury automobile design.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+     "step": "design",
+     "uncertainty": "None for the cataloged car.",
+     "value": "1973 Cadillac Eldorado — full-size luxury coupe.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "The symbolism and consumer-use evidence cluster in the postwar-to-1970s period; no precise period bounds were documented.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php",
+     "step": "period",
+     "uncertainty": "Period bounds are approximate.",
+     "value": "Postwar through the 1970s — the era of the documented Black-consumer Cadillac discourse.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None retrieved — period Cadillac advertisements were not located in this pass.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "advertising",
+     "uncertainty": "Period ads exist in archives but were not retrieved here.",
+     "value": "No period advertising located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Columbia Journalism Review quotes Ebony's 1949 essay 'Why Negroes Buy Cadillacs': a Cadillac represented aspiration to be treated as a 'first class American.' This is contemporary Black-press evidence — the strongest symbolism finding in the batch.",
+     "primary": false,
+     "publication_date": "1949",
+     "source": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php",
+     "step": "symbolism",
+     "uncertainty": "Quoted via CJR, not read from the original 1949 Ebony issue; the quotation is precise but second-hand.",
+     "value": "Ebony's 1949 essay 'Why Negroes Buy Cadillacs' documented the car's meaning: owning a Cadillac was an aspiration to be treated as a 'first class American.'",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Scholarly discussion of Cadillac in Black consumption, segregation, status, and music, including Ralph Ellison (pcharm journal article).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://ojs.library.carleton.ca/index.php/pcharm/article/view/1577/1421",
+     "step": "consumer_use",
+     "uncertainty": "Scholarly secondary source; no primary consumer accounts retrieved.",
+     "value": "Black consumers purchased and displayed Cadillacs as markers of arrival and status under segregation; discussed in scholarship including writing on Ralph Ellison.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "NMAAHC object record carries photography of the Berry Eldorado; no dated photographs of ordinary consumers' Cadillacs were located.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+     "step": "photographs",
+     "uncertainty": "Object photography only.",
+     "value": "Photographs of the accessioned 1973 Eldorado exist on the NMAAHC record; dated consumer-use photographs were not located.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "NMAAHC collection record read directly; rights: 'No Known Copyright Restrictions.'",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of the holding.",
+     "value": "NMAAHC 2011.137.1 (1973 Cadillac Eldorado, Chuck Berry; on view in Musical Crossroads).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC record (Berry ownership); pcharm article (Ellison); CJR (Ebony 1949 essay, author not named in the excerpt).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+     "step": "related_people",
+     "uncertainty": "Ellison and the Ebony essayist rest on secondary accounts.",
+     "value": "Chuck Berry (owner/driver of the museum's Eldorado); Ralph Ellison (discussed in Cadillac-consumption scholarship); the unnamed author of Ebony's 1949 'Why Negroes Buy Cadillacs.'",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "The civil-rights-era framing rests on scholarly discussion, not on a documented movement adoption of the object.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://ojs.library.carleton.ca/index.php/pcharm/article/view/1577/1421",
+     "step": "related_movements",
+     "uncertainty": "Movement link is interpretive.",
+     "value": "Civil-rights-era status and aspiration discourse (scholarly).",
+     "verification": "Provisional"
+    }
+   ],
+   "object_name": "Cadillac (as cultural object)"
+  },
+  {
+   "chicago_connection": "Direct: founded by C.D. Murray in his Chicago barbershop in 1925 (archived official company history).",
+   "id": "ob-09",
+   "links": [
+    {
+     "evidence": "NMAAHC collection record: round orange metal tin, object 2014.261ab, gift of Marva P. Wiley, with full transcription of the tin's text.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+     "step": "object",
+     "uncertainty": "None for the accessioned tin as cataloged.",
+     "value": "Tin of Murray's Superior Hair Dressing Pomade, NMAAHC object 2014.261ab — round orange metal tin, gift of Marva P. Wiley.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC record: 'Manufactured by Murray's Worldwide, Inc., American, founded 1925'; lid text reads 'MANUFACTURED BY MURRAY'S SUPERIOR PRODUCTS CO. / 21841 WYOMING, OAK PARK, MI 48237 USA' and 'COPYRIGHT 1926 BY MURRAY'S SUPERIOR PRODUCTS CO.'; archived official company history says C.D. Murray began producing products in his Chicago barbershop in 1925 and Harry Berlin purchased the company in 1959.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+     "step": "manufacturer",
+     "uncertainty": "The 1925 founding and 1959 purchase rest on the company's own archived history (secondary); the lid texts are primary object evidence.",
+     "value": "Murray's Superior Products Co. / Murray's Worldwide, Inc. — founded 1925; the tin's lid documents the Oak Park, Michigan address and a 1926 copyright.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC description: round orange tin; company name, product name, quantity and weight in black and red type; directions in English, Spanish, French, and German; ingredients and manufacturer information around the perimeter; a woman's head in profile; lid depicts a man and woman with red lips.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+     "step": "design",
+     "uncertainty": "None for the cataloged tin.",
+     "value": "Round orange metal tin with black-and-red typography, multilingual directions, a woman's head in profile, and a lid portrait of a man and woman.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC (company founded 1925); lid copyright 1926 (primary); tin's barcode text 'www.murrayspomade.com / Established 1925.'",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+     "step": "period",
+     "uncertainty": "The tin's own date is not given; the design era is bounded by the 1926 copyright and the company's continued production.",
+     "value": "From 1925 to the present; the tin design carries a 1926 copyright notice.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "The tin itself carries the brand's web-era marketing ('www.MurraysPomade.com', 'Established 1925'); no period print advertisement was retrieved.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+     "step": "advertising",
+     "uncertainty": "No period print ad verified; the link rests on the packaging's own marketing text.",
+     "value": "Brand marketing is documented on the packaging itself ('Established 1925'); period print advertising was not located in this pass.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found — no contemporary documented symbolic meaning for the pomade tin was located; nostalgia for the orange tin is not evidence.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "symbolism",
+     "uncertainty": "Do not treat the tin's iconic status as documented symbolism.",
+     "value": "No documented symbolism located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "Product copy describes a thick oil/wax pomade for a 'clean, neat look' that 'controls and enhances your natural waves'; Wikipedia notes it was initially marketed toward Black consumers and is notoriously hard to wash out.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://thehairdepot.com/products/murrays-superior-hair-dressing-pomade-1-1-oz",
+     "step": "consumer_use",
+     "uncertainty": "Commercial product copy and Wikipedia; no primary consumer accounts retrieved.",
+     "value": "Used as a heavy-hold hair dressing for styling and waves; thick oil/wax consistency, famously difficult to wash out.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "photographs",
+     "uncertainty": "Product and advertising photography exists but was not verified here.",
+     "value": "No dated photographs of Murray's consumer use were located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "NMAAHC collection record read directly; on view in the Cultural Expressions gallery; rights: 'No Known Copyright Restrictions.'",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of the holding.",
+     "value": "NMAAHC 2014.261ab (tin of Murray's Superior Hair Dressing Pomade, gift of Marva P. Wiley).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Archived official company history (Murray, Berlin); NMAAHC record (Wiley donor).",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://web.archive.org/web/20150107153205/http://www.murrayspomade.com/history.php",
+     "step": "related_people",
+     "uncertainty": "Murray and Berlin details rest on the company's own archived history.",
+     "value": "C.D. Murray (founder, began production in his Chicago barbershop in 1925); Harry Berlin (pharmacist who purchased the company in 1959); Marva P. Wiley (donor of the NMAAHC tin).",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "None found.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "related_movements",
+     "uncertainty": "None claimed.",
+     "value": "No movement membership verified in this pass.",
+     "verification": "Unresolved"
+    }
+   ],
+   "object_name": "Murray's Superior Hair Dressing Pomade (tin)"
+  },
+  {
+   "chicago_connection": "No Chicago school yearbook verified in this pass; NMAAHC holds a diploma from Chicago's Muhammad University of Islam (related evidence). The 1970 East High 'Grey Eagle' and 1955 Allen 'Yellow Jacket' are the verified exemplars.",
+   "id": "ob-10",
+   "links": [
+    {
+     "evidence": "NMAAHC collection record: 1955 Allen University 'Yellow Jacket,' published by Taylor Publishing Company, object 2017.99.2, public domain.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+     "step": "object",
+     "uncertainty": "None for the accessioned yearbook as cataloged.",
+     "value": "1955 Allen University 'Yellow Jacket' yearbook, NMAAHC object 2017.99.2.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC record lists Taylor Publishing Company as publisher of the 1955 Allen yearbook and of the 1970 East High 'Grey Eagle' (2018.15.3).",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+     "step": "manufacturer",
+     "uncertainty": "None for the publisher attribution as cataloged.",
+     "value": "Taylor Publishing Company (Dallas, Texas — publisher of both verified exemplars).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC descriptions: campus photographs, academic and social-life documentation, school-life photographs with handwritten inscriptions (1970 'Grey Eagle').",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2018.15.3",
+     "step": "design",
+     "uncertainty": "None for the cataloged contents.",
+     "value": "Bound yearbook with campus and class photographs documenting academic and social life; the 1970 'Grey Eagle' carries handwritten student inscriptions.",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC records date the exemplars 1955 and 1970.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+     "step": "period",
+     "uncertainty": "None for the two exemplars' dates.",
+     "value": "1955 (Allen University 'Yellow Jacket'); 1970 (East High School 'Grey Eagle').",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "None found for these copies — yearbook advertising pages were not documented.",
+     "primary": false,
+     "publication_date": null,
+     "source": null,
+     "step": "advertising",
+     "uncertainty": "Yearbooks of the era commonly carried local-business ads, but none was verified for these copies.",
+     "value": "No yearbook advertising located in this pass.",
+     "verification": "Unresolved"
+    },
+    {
+     "evidence": "NMAAHC frames the yearbooks as documentation of Black institutional and school life; the symbolic reading rests on museum framing rather than contemporary testimony.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+     "step": "symbolism",
+     "uncertainty": "Symbolic meaning is museum-framed, not contemporary-sourced — hence Provisional.",
+     "value": "The yearbook as archive and affirmation of Black institutional life — a record of schools as community anchors.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "NMAAHC documents handwritten inscriptions in the 1970 'Grey Eagle,' evidence of personal keeping and exchange.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2018.15.3",
+     "step": "consumer_use",
+     "uncertainty": "Use is inferred from the inscriptions — Provisional, not a primary account of use.",
+     "value": "Students kept, inscribed, and exchanged yearbooks as personal and social records.",
+     "verification": "Provisional"
+    },
+    {
+     "evidence": "NMAAHC records note the yearbooks' photographic contents; the yearbook itself is a photographic record.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2018.15.3",
+     "step": "photographs",
+     "uncertainty": "None for the fact that the yearbooks contain dated photographs.",
+     "value": "The yearbooks are themselves dated photographic records of school life (1955 and 1970).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "Both NMAAHC collection records read directly.",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+     "step": "museum_holdings",
+     "uncertainty": "None for the fact of these holdings.",
+     "value": "NMAAHC 2017.99.2 (1955 Allen University 'Yellow Jacket' — public domain); NMAAHC 2018.15.3 (1970 East High School 'Grey Eagle,' Taylor Publishing).",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC records (Taylor Publishing; East High students' inscriptions).",
+     "primary": true,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+     "step": "related_people",
+     "uncertainty": "None for the publisher; the inscribers are anonymous students.",
+     "value": "Taylor Publishing Company (publisher); the East High students whose handwritten inscriptions survive in the 1970 'Grey Eagle.'",
+     "verification": "Verified"
+    },
+    {
+     "evidence": "NMAAHC holds a diploma from Chicago's Muhammad University of Islam (founded 1934), received by Bobby 6X Jones and signed by Elijah Muhammad — documenting the Black independent-schooling tradition in Chicago.",
+     "primary": false,
+     "publication_date": null,
+     "source": "https://nmaahc.si.edu/explore/collection/search?edan_q=%2A%3A%2A&edan_fq%5B0%5D=topic%3A%22Education%22&edan_fq%5B1%5D=-date%3A%221920s%22",
+     "step": "related_movements",
+     "uncertainty": "The diploma is related evidence, not a movement membership for the yearbook itself — hence Provisional.",
+     "value": "Black independent schooling tradition (cf. Chicago's Muhammad University of Islam, founded 1934).",
+     "verification": "Provisional"
+    }
+   ],
+   "object_name": "Yearbook (1955 Allen University 'Yellow Jacket')"
+  }
+ ]
+}

@@ -1,0 +1,611 @@
+[
+ {
+  "id": "CTL-E-MUS2-001",
+  "name": "Frankie Knuckles",
+  "type": "person",
+  "subtype": "dj",
+  "dates": "{1955}-2014; Warehouse resident from March 1977",
+  "claims": [
+   "Resident DJ at the Warehouse from March 1977 (city landmark report).",
+   "Out gay man; Black gay club roots (Chicago LGBT Hall of Fame).",
+   "Part of the collective that created house; lone-inventor claims are DISPUTED."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-002",
+  "name": "Ron Hardy",
+  "type": "person",
+  "subtype": "dj",
+  "dates": "resident DJ from Feb 1983; death year disputed",
+  "claims": [
+   "Resident DJ at the Music Box (earlier Den One).",
+   "Experimental mixing/editing pushed house harder and more psychedelic.",
+   "Club-tested Phuture's 'Acid Tracks.'",
+   "Death year DISPUTED (1991 vs 1992) - never state."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-003",
+  "name": "Robert Williams",
+  "type": "person",
+  "subtype": "promoter",
+  "dates": "active from 1973",
+  "claims": [
+   "Founded/promoted the Warehouse; ran 'US Studios' parties.",
+   "First offered the Warehouse residency to Larry Levan (1976).",
+   "Rebranded the Warehouse as the Music Box (1983) and hired Ron Hardy."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-004",
+  "name": "Larry Levan",
+  "type": "person",
+  "subtype": "dj",
+  "dates": "1954-1992",
+  "claims": [
+   "Continental Baths resident; mentor/collaborator of Knuckles.",
+   "Declined the Warehouse residency; recommended Knuckles."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-005",
+  "name": "Jesse Saunders",
+  "type": "person",
+  "subtype": "dj_producer",
+  "dates": "active from 1982/83",
+  "claims": [
+   "Co-created and pressed 'On & On' (Jes Say, Jan 1984) with Vince Lawrence.",
+   "Cassette club-testing preceded pressing."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-006",
+  "name": "Vince Lawrence",
+  "type": "person",
+  "subtype": "producer",
+  "dates": "active from 1983",
+  "claims": [
+   "Co-created and pressed 'On & On' with Saunders.",
+   "Wrote Farley's 'Love Can't Turn Around.'",
+   "Trax co-founder per some accounts (disputed)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-007",
+  "name": "Jamie Principle",
+  "type": "person",
+  "subtype": "singer_producer",
+  "dates": "active 1980s",
+  "claims": [
+   "Wrote 'Your Love'; circulated it on cassette in clubs before vinyl.",
+   "Trax 1987 Knuckles-credited 'Your Love' reflects label practice, not authorship."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-008",
+  "name": "Marshall Jefferson",
+  "type": "person",
+  "subtype": "producer",
+  "dates": "active from 1983",
+  "claims": [
+   "'Move Your Body' (1986) established the piano-led house anthem.",
+   "Co-produced Sleezy D's 'I've Lost Control' (1986)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-009",
+  "name": "Larry Heard (Mr. Fingers)",
+  "type": "person",
+  "subtype": "producer",
+  "dates": "active from 1984",
+  "claims": [
+   "Deep-house landmarks: 'Washing Machine,' 'Can You Feel It,' 'Beyond the Clouds.'",
+   "Fingers Inc. with Robert Owens brought songwriting into house."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-010",
+  "name": "Robert Owens",
+  "type": "person",
+  "subtype": "singer",
+  "dates": "active from 1985",
+  "claims": [
+   "Vocalist in Larry Heard's Fingers Inc. (with Ron Wilson)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-011",
+  "name": "Farley 'Jackmaster' Funk",
+  "type": "person",
+  "subtype": "dj_producer",
+  "dates": "active from 1983",
+  "claims": [
+   "Leading house DJ; Hot Mix 5 member.",
+   "'Love Can't Turn Around' (1986) reached UK Top 10."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-012",
+  "name": "Darryl Pandy",
+  "type": "person",
+  "subtype": "singer",
+  "dates": "active 1980s",
+  "claims": [
+   "Gospel singer; vocal on Farley's 'Love Can't Turn Around.'"
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-013",
+  "name": "Phuture",
+  "type": "group",
+  "subtype": "producers",
+  "dates": "founded 1985",
+  "claims": [
+   "DJ Pierre, Spanky (Earl Smith Jr.), Herb J.",
+   "Recorded 'Acid Tracks' to tape; Hardy club-tested it at the Music Box.",
+   "Trax pressing 1987 credited with defining acid house."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-014",
+  "name": "Adonis",
+  "type": "person",
+  "subtype": "producer",
+  "dates": "active from 1986",
+  "claims": [
+   "Among first-wave producers whose tracks Hardy debuted at the Music Box."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-015",
+  "name": "Steve 'Silk' Hurley",
+  "type": "person",
+  "subtype": "producer",
+  "dates": "active 1980s",
+  "claims": [
+   "'Jack Your Body' reported UK #1 (1987) - PROVISIONAL, single fan-wiki source."
+  ],
+  "evidence_grade": "PROVISIONAL",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-016",
+  "name": "Chip E.",
+  "type": "person",
+  "subtype": "producer",
+  "dates": "active 1980s",
+  "claims": [
+   "'Jack Trax' (1985) cited as early-house-record candidate."
+  ],
+  "evidence_grade": "PROVISIONAL",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-017",
+  "name": "Wayne Williams",
+  "type": "person",
+  "subtype": "dj",
+  "dates": "active from 1977",
+  "claims": [
+   "Founded Chosen Few Disco Corp. (1977) with South Side DJs.",
+   "Has publicly questioned aspects of Jesse Saunders's account."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-018",
+  "name": "Celeste Alexander (DJ Celeste)",
+  "type": "person",
+  "subtype": "dj",
+  "dates": "began 1982",
+  "claims": [
+   "One of Chicago's first female house DJs; Fantastic Four collective."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-019",
+  "name": "Lori Branch",
+  "type": "person",
+  "subtype": "dj",
+  "dates": "active from late 1979",
+  "claims": [
+   "Early female house DJ from the Warehouse teen-party scene."
+  ],
+  "evidence_grade": "PROVISIONAL",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-020",
+  "name": "Lee Michaels",
+  "type": "person",
+  "subtype": "radio_pd",
+  "dates": "active 1981",
+  "claims": [
+   "WBMX program director; assembled the Hot Mix 5 in 1981."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-021",
+  "name": "Rocky Jones",
+  "type": "person",
+  "subtype": "label_owner",
+  "dates": "active 1985",
+  "claims": [
+   "Co-founded DJ International with Benji Espinoza (1985)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-022",
+  "name": "Benji Espinoza",
+  "type": "person",
+  "subtype": "label_owner",
+  "dates": "active 1985",
+  "claims": [
+   "Co-founded DJ International with Rocky Jones (1985)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-023",
+  "name": "Larry Sherman",
+  "type": "person",
+  "subtype": "label_owner",
+  "dates": "active mid-1980s",
+  "claims": [
+   "Credited as Trax Records co-founder; founding year and credits disputed."
+  ],
+  "evidence_grade": "DISPUTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-024",
+  "name": "Tadao Kikumoto",
+  "type": "person",
+  "subtype": "engineer",
+  "dates": "active 1970s-80s",
+  "claims": [
+   "Designed the Roland TB-303 (1981), TR-808 (1980), TR-909 (1983)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "en.wikipedia 'Roland TB-303' / 'Tadao Kikumoto' (tertiary)"
+ },
+ {
+  "id": "CTL-E-MUS2-025",
+  "name": "Steve Dahl",
+  "type": "person",
+  "subtype": "radio_dj",
+  "dates": "active 1970s",
+  "claims": [
+   "WLUP DJ; promoted Disco Demolition Night (July 12, 1979)."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "Britannica"
+ },
+ {
+  "id": "CTL-E-MUS2-026",
+  "name": "The Warehouse",
+  "type": "place",
+  "subtype": "club",
+  "dates": "period of significance 1977-1982; 206 S. Jefferson St.",
+  "claims": [
+   "Members-only club founded/promoted by Robert Williams.",
+   "Frankie Knuckles resident from March 1977.",
+   "Black, Latino, largely gay crowd.",
+   "Term 'house music' derives from the club name; the recorded genre emerged later."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)"
+ },
+ {
+  "id": "CTL-E-MUS2-027",
+  "name": "The Music Box",
+  "type": "place",
+  "subtype": "club",
+  "dates": "opened Feb 1983; ADDRESS DISPUTED",
+  "claims": [
+   "Opened February 1983 with Ron Hardy resident.",
+   "Address disputed: 1632 S. Indiana (oral histories) vs. Lower Wacker (city report) vs. others. Never state address."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "City of Chicago Landmark Designation Report (2023); CTL-DR-MUSIC-001 timeline"
+ },
+ {
+  "id": "CTL-E-MUS2-028",
+  "name": "The Power Plant",
+  "type": "place",
+  "subtype": "club",
+  "dates": "opened 1983; 1015 N. Halsted St.",
+  "claims": [
+   "Knuckles's club after the 1983 split with Williams."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "City of Chicago Landmark Designation Report (2023)"
+ },
+ {
+  "id": "CTL-E-MUS2-029",
+  "name": "Hot Mix 5",
+  "type": "group",
+  "subtype": "radio_dj_team",
+  "dates": "1981-1989",
+  "claims": [
+   "WBMX mix show 'Saturday Night Live, Ain't No Jive.'",
+   "Farley Keith, Mickey 'Mixin' Oliver, Ralphi Rosario, Kenny 'Jammin' Jason, Scott 'Smokin' Silz.",
+   "Carried the club sound to ~1M+ weekly radio listeners."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-030",
+  "name": "Chosen Few DJs",
+  "type": "group",
+  "subtype": "dj_collective",
+  "dates": "founded 1977",
+  "claims": [
+   "South Side mobile-DJ crew; Chosen Few Picnic from 1990."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-031",
+  "name": "Trax Records",
+  "type": "organization",
+  "subtype": "label",
+  "dates": "founded late 1984 vs. 1985 (disputed)",
+  "claims": [
+   "Pressed key early house records ('Move Your Body,' 'Acid Tracks').",
+   "Founding year and credits disputed; 2022 royalty lawsuit (allegations)."
+  ],
+  "evidence_grade": "DISPUTED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-032",
+  "name": "DJ International Records",
+  "type": "organization",
+  "subtype": "label",
+  "dates": "founded 1985",
+  "claims": [
+   "Co-founded by Rocky Jones and Benji Espinoza.",
+   "Issued Knuckles, Hardy, Farley, Hurley, Jefferson, Fast Eddie releases."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "DJ Mag; CTL-DR-MUSIC-001"
+ },
+ {
+  "id": "CTL-E-MUS2-033",
+  "name": "WBMX",
+  "type": "organization",
+  "subtype": "radio_station",
+  "dates": "active 1980s",
+  "claims": [
+   "Chicago station that carried Hot Mix 5 house mixes in the 1980s."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "CTL-DR-MUSIC-001 distillation + CTL-RB-MUS-000002 primary verification"
+ },
+ {
+  "id": "CTL-E-MUS2-034",
+  "name": "Imports Etc.",
+  "type": "organization",
+  "subtype": "record_store",
+  "dates": "1980s; Printers Row",
+  "claims": [
+   "Dance-music-only record store; DJs' source.",
+   "Detroit techno innovators encountered house there (SPIN, 1986)."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "SPIN 'Burning Down the House' (Nov 1986)"
+ },
+ {
+  "id": "CTL-E-MUS2-035",
+  "name": "Gramaphone Records",
+  "type": "organization",
+  "subtype": "record_store",
+  "dates": "opened 1969",
+  "claims": [
+   "Shifted toward house/DJ vinyl by the 1980s."
+  ],
+  "evidence_grade": "PROVISIONAL",
+  "provenance": "Iowa Public Radio (2021)"
+ },
+ {
+  "id": "CTL-E-MUS2-036",
+  "name": "Jes Say Records",
+  "type": "organization",
+  "subtype": "label",
+  "dates": "1984",
+  "claims": [
+   "Saunders's label; pressed 'On & On' (Jan 1984)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "WCSU/NPR (2023); NPR/KMUC (2012)"
+ },
+ {
+  "id": "CTL-E-MUS2-037",
+  "name": "Mitchbal Records",
+  "type": "organization",
+  "subtype": "label",
+  "dates": "1983-84",
+  "claims": [
+   "Vince Lawrence's label; released Z-Factor's 'Fantasy' (March 1984)."
+  ],
+  "evidence_grade": "PROVISIONAL",
+  "provenance": "Hyperreal 'Sample and Hold'"
+ },
+ {
+  "id": "CTL-E-MUS2-038",
+  "name": "Disco Demolition Night",
+  "type": "event",
+  "subtype": "promo_riot",
+  "dates": "July 12, 1979; Comiskey Park",
+  "claims": [
+   "WLUP/Steve Dahl anti-disco promotion; riot; forfeited game.",
+   "Did not 'kill disco' or cause house - context, not cause."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "Britannica"
+ },
+ {
+  "id": "CTL-E-MUS2-039",
+  "name": "'On & On'",
+  "type": "work",
+  "subtype": "record",
+  "dates": "Jes Say, Jan 1984",
+  "claims": [
+   "Saunders/Lawrence; generally accepted as first house track committed to vinyl.",
+   "Based partly on a Mach 'On & On' bootleg megamix."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "RA; NPR/KMUC"
+ },
+ {
+  "id": "CTL-E-MUS2-040",
+  "name": "'Your Love'",
+  "type": "work",
+  "subtype": "record",
+  "dates": "Persona 1986; Trax 1987 (contested credit)",
+  "claims": [
+   "Jamie Principle's song; cassette-circulated in clubs before vinyl.",
+   "1987 Trax version credited to Knuckles (disputed)."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "Insomniac; RA"
+ },
+ {
+  "id": "CTL-E-MUS2-041",
+  "name": "'Acid Tracks'",
+  "type": "work",
+  "subtype": "record",
+  "dates": "Trax 1987",
+  "claims": [
+   "Phuture; recorded to tape 1985; club-tested by Hardy.",
+   "12-minute TB-303/TR-707/TR-727 instrumental; credited with defining acid house."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "MusicRadar; Wikipedia 'Phuture' (cited)"
+ },
+ {
+  "id": "CTL-E-MUS2-042",
+  "name": "'Move Your Body'",
+  "type": "work",
+  "subtype": "record",
+  "dates": "1986",
+  "claims": [
+   "Marshall Jefferson; piano-led house anthem.",
+   "First-label question (Trax vs DJ International) unresolved."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "Grammy.com"
+ },
+ {
+  "id": "CTL-E-MUS2-043",
+  "name": "'Love Can't Turn Around'",
+  "type": "work",
+  "subtype": "record",
+  "dates": "1986",
+  "claims": [
+   "Farley 'Jackmaster' Funk; written Lawrence, sung Pandy; UK Top 10."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "WCSU/NPR (2023)"
+ },
+ {
+  "id": "CTL-E-MUS2-044",
+  "name": "Roland TB-303",
+  "type": "object",
+  "subtype": "synthesizer",
+  "dates": "1981-1984",
+  "claims": [
+   "Bass Line synthesizer by Tadao Kikumoto; commercial failure; cheap second-hand.",
+   "Real-time filter/envelope manipulation = acid house sound."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "en.wikipedia 'Roland TB-303'; MusicRadar"
+ },
+ {
+  "id": "CTL-E-MUS2-045",
+  "name": "Roland TR-707/TR-727",
+  "type": "object",
+  "subtype": "drum_machine",
+  "dates": "mid-1980s",
+  "claims": [
+   "Digital drum machines used on 'Acid Tracks' alongside the TB-303."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "Wikipedia 'Phuture' (cited)"
+ },
+ {
+  "id": "CTL-E-MUS2-046",
+  "name": "Reel-to-reel editing",
+  "type": "object",
+  "subtype": "technique",
+  "dates": "1970s",
+  "claims": [
+   "Knuckles/Levan extended and reworked disco/soul records for the dance floor."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "City landmark report (Knuckles/Levan process)"
+ },
+ {
+  "id": "CTL-E-MUS2-047",
+  "name": "Warehouse-era house dance community",
+  "type": "community",
+  "subtype": "dance_culture",
+  "dates": "1977-1982",
+  "claims": [
+   "Dancers as the scene's social form; queer-of-color congregation."
+  ],
+  "evidence_grade": "VERIFIED",
+  "provenance": "City landmark report; Salkind oral histories (via CTL-DR-MUSIC-001)"
+ },
+ {
+  "id": "CTL-E-MUS2-048",
+  "name": "The Fantastic Four",
+  "type": "group",
+  "subtype": "dj_collective",
+  "dates": "1980s",
+  "claims": [
+   "All-female house DJ collective; included DJ Celeste."
+  ],
+  "evidence_grade": "SUPPORTED",
+  "provenance": "CBMR oral history (via CTL-DR-MUSIC-001)"
+ }
+]

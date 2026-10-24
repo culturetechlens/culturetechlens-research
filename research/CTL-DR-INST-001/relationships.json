@@ -1,0 +1,547 @@
+{
+ "project": "CTL-DR-INST-001",
+ "count": 60,
+ "verification_policy": "verified-only",
+ "relationships": [
+  {
+   "from": "Chicago Urban League (War Camp Community Service)",
+   "to": "INST-A-016",
+   "relation": null,
+   "evidence": "NC State News (2020) summarizing peer-reviewed study; Congressional Record (2019-09-30, Sen. Durbin).",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-A-003",
+   "to": "Roberts Temple Church of God in Christ (4021 S. State St.)",
+   "relation": null,
+   "evidence": "Emmett Till Memory Project; City of Chicago landmark report.",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "Roberts Temple Church of God in Christ (4021 S. State St.)",
+   "to": "INST-A-004",
+   "relation": null,
+   "evidence": "Emmett Till Memory Project; City of Chicago landmark report; Sen. Duckworth's office.",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-A-007",
+   "to": "Black nursing graduates (Provident-trained workforce)",
+   "relation": null,
+   "evidence": "UIC Mapping Care Project ('Black Women in White,' ch. 4); Chicago History Museum.",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-A-008",
+   "to": "National Pythian Temple (Bronzeville, Chicago)",
+   "relation": null,
+   "evidence": "Art Institute of Chicago (2024); NPS nomination text (NRHP 64000173).",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-A-012",
+   "to": "Black Chicago care infrastructure (kindergartens, nurseries, orphanages, settlement houses, elderly homes, medical facilities)",
+   "relation": null,
+   "evidence": "Elizabeth Lindsay Davis, 'The Story of the Illinois Federation of Colored Women's Clubs' (1922) \u2014 primary; Wanda A. Hendricks, Gender, Race, and Politics in the Midwest (IU Press, 1998).",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-A-017",
+   "to": "South Side Writers' Group",
+   "relation": null,
+   "evidence": "City of Chicago, 'Chicago Black Renaissance Literary Movement' report (municipal).",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-A-002",
+   "to": "Lakeside Bank",
+   "relation": null,
+   "evidence": "Congressional Record (1995-12-18, Rep. Bobby Rush tribute) \u2014 primary.",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "Religious Hospitallers of St. Joseph (Kingston, Ontario)",
+   "to": "INST-A-005",
+   "relation": null,
+   "evidence": "Becker's Hospital Review (2024-07-26); stbh.org CHNA documents.",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "Catholic Health International",
+   "to": "INST-A-005",
+   "relation": null,
+   "evidence": "stbh.org (2025 implementation plan).",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "from": "INST-C-002",
+   "to": "National Bar Association",
+   "relation": null,
+   "evidence": "Official CCBA history names the three founders and the organizing trip.",
+   "source": "cookcountybar.org, 'Our History' (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-001",
+   "to": "National Medical Association",
+   "relation": null,
+   "evidence": "Official site: 'CCPA is the local chapter of the National Medical Association.'",
+   "source": "ccpachicago.org (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-003",
+   "to": "INST-C-003",
+   "relation": null,
+   "evidence": "1956 ANP reporting on the rename after 25 years under the Negro name; Baradaran's history confirms the Chicago Negro Chamber became the Cosmopolitan Chamber.",
+   "source": "Atlanta Daily World (ANP), 1956-10-19; Baradaran, The Color of Money",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-006",
+   "to": "Alpha Kappa Alpha Sorority, Incorporated",
+   "relation": null,
+   "evidence": "American Banker reports the AKA sponsorship and field of membership.",
+   "source": "americanbanker.com (2023)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-007",
+   "to": "United Fidelity Bank, fsb",
+   "relation": null,
+   "evidence": "IDFPR and FDIC failed-bank records concur.",
+   "source": "IDFPR (2015-02-09); FDIC failed-bank list",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-008",
+   "to": "Liberty Bank and Trust Company",
+   "relation": null,
+   "evidence": "FDIC failed-bank records and press release concur.",
+   "source": "FDIC failed-bank list; FDIC press release (2013)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-009",
+   "to": "Atlanta Life Insurance Company",
+   "relation": null,
+   "evidence": "Scholarly review of the company's history gives the 1990 acquisition.",
+   "source": "Indiana Magazine of History review (scholarworks.iu.edu)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-013",
+   "to": "Johnson Publishing Company",
+   "relation": null,
+   "evidence": "Johnson Publishing Company history gives the acquisition and sale.",
+   "source": "en.wikipedia.org, 'Johnson Publishing Company'",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "INST-C-014",
+   "to": "City Colleges of Chicago",
+   "relation": null,
+   "evidence": "Official City Colleges page describes ownership and location.",
+   "source": "ccc.edu (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "City of Chicago",
+   "to": "INST-C-004",
+   "relation": null,
+   "evidence": "ProPublica's municipal-deposits investigation documents the placement and return; 2024 anniversary coverage corroborates the city's role.",
+   "source": "propublica.org (2021); sankofaonline.com (2024)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "from": "Robert S. Abbott",
+   "to": "Chicago Defender",
+   "relation": "founded",
+   "evidence": "Abbott founded the Defender in 1905; foundational Black press institution.",
+   "source": "https://www.editorandpublisher.com/stories/the-revival-of-the-black-press-in-america,27852",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Sengstacke family",
+   "to": "Chicago Defender",
+   "relation": "owned",
+   "evidence": "Family ownership from John Sengstacke (1940) until the 2003 sale to Real Times investors.",
+   "source": "https://www.editorandpublisher.com/stories/the-revival-of-the-black-press-in-america,27852",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Real Times Media (investor group)",
+   "to": "Chicago Defender",
+   "relation": "acquired",
+   "evidence": "Investor consortium acquired the Defender from Sengstacke family ownership in 2003; converted daily to weekly.",
+   "source": "https://www.editorandpublisher.com/stories/the-revival-of-the-black-press-in-america,27852",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Anthony Overton",
+   "to": "Chicago Bee",
+   "relation": "founded",
+   "evidence": "Overton founded the Chicago Bee (1925) as part of his cross-subsidized business ecosystem.",
+   "source": "https://en.wikipedia.org/wiki/Chicago_Bee",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Overton Hygienic Company (cosmetics)",
+   "to": "Chicago Bee",
+   "relation": "cross_subsidized",
+   "evidence": "Overton's cosmetics/building/bank ecosystem cross-subsidized the Bee; after his death the paper briefly continued under his sons and closed in 1947.",
+   "source": "https://en.wikipedia.org/wiki/Chicago_Bee",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Anthony Overton, Jesse Binga, Oscar De Priest",
+   "to": "Chicago Whip",
+   "relation": "financed",
+   "evidence": "The Whip (1919-1939) was financed by Overton, Binga, and De Priest; its jobs campaign secured 15,000+ jobs for Black Chicagoans.",
+   "source": "https://en.wikipedia.org/wiki/Chicago_Whip",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Balm L. Leavell and Joseph H. Jefferson",
+   "to": "Chicago Crusader",
+   "relation": "founded",
+   "evidence": "Founded 1940 as The Crusader; published by Balm Leavell until his death in 1968.",
+   "source": "http://en.wikipedia.org/wiki/The_Chicago_Crusader",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Balm L. Leavell",
+   "to": "Dorothy Leavell",
+   "relation": "succession",
+   "evidence": "Dorothy Leavell succeeded her husband as owner/publisher of the Chicago Crusader after his 1968 death; still owner/publisher.",
+   "source": "http://en.wikipedia.org/wiki/The_Chicago_Crusader",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "John H. Johnson",
+   "to": "Johnson Publishing Company",
+   "relation": "founded",
+   "evidence": "Johnson founded the company in 1942; it built the Ebony/Jet magazine empire.",
+   "source": "https://www.nprillinois.org/2016-06-19/jet-and-ebony-sold-ending-a-71-year-run-as-a-voice-for-african-americans",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Johnson Publishing Company",
+   "to": "Ebony",
+   "relation": "published",
+   "evidence": "JPC published Ebony from its 1945 founding until the 2016 sale to Clear View Group.",
+   "source": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Johnson Publishing Company",
+   "to": "Jet",
+   "relation": "published",
+   "evidence": "JPC published Jet from 1951 until it left print in 2014.",
+   "source": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Clear View Group (private equity)",
+   "to": "Ebony and Jet",
+   "relation": "acquired",
+   "evidence": "Clear View Group acquired Ebony and digital-only Jet from Johnson Publishing in 2016; JPC filed Chapter 7 in 2019.",
+   "source": "https://www.nprillinois.org/2016-06-19/jet-and-ebony-sold-ending-a-71-year-run-as-a-voice-for-african-americans",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Margaret Taylor-Burroughs and co-founders",
+   "to": "DuSable Museum",
+   "relation": "founded",
+   "evidence": "Burroughs, her husband Charles, and colleagues founded the Ebony Museum of Negro History and Art in 1961; later renamed for Jean Baptiste Point DuSable.",
+   "source": "https://en.wikipedia.org/wiki/DuSable_Black_History_Museum",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Chicago Park District",
+   "to": "DuSable Museum",
+   "relation": "leased_facilities",
+   "evidence": "The museum moved to the former South Park Commission headquarters (Burnham, 1910) in 1973 and was granted a lease on the Stables and Roundhouse Building in the early 2000s.",
+   "source": "https://www.tclf.org/dusable-black-history-museum-and-education-center",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Chess Records",
+   "to": "WVON",
+   "relation": "founded",
+   "evidence": "WVON call letters established 1963 under Chess ownership.",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Midway Broadcasting (Black-owned)",
+   "to": "WVON",
+   "relation": "owns_operates",
+   "evidence": "Black-owned Midway Broadcasting recovered the WVON call letters and operates the station on leased frequency infrastructure.",
+   "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Jesse Binga",
+   "to": "Binga State Bank",
+   "relation": "founded",
+   "evidence": "Binga founded the bank in 1908; it closed in 1930.",
+   "source": "https://blackpast.org/african-american-history/binga-jesse-1865-1950/",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Groupe Nduom (Ghanaian)",
+   "to": "Illinois Service Federal",
+   "relation": "acquired",
+   "evidence": "Groupe Nduom acquired Illinois Service Federal in April 2016; renamed GN Bank effective July 2018.",
+   "source": "http://occ.gov/static/cra/craeval/feb19/703395.pdf",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "FDIC",
+   "to": "Seaway National Bank",
+   "relation": "closed",
+   "evidence": "Regulators closed Seaway in January 2017; State Bank of Texas assumed deposits and nine branches plus $240M in deposits went to Self-Help Federal Credit Union.",
+   "source": "https://m.bankingexchange.com/news-feed/item/6807-minority-owned-institutions-dwindling?Itemid=635",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "FDIC",
+   "to": "ShoreBank",
+   "relation": "closed",
+   "evidence": "FDIC closed ShoreBank on August 20, 2010; Urban Partnership Bank acquired deposits and branches the same day.",
+   "source": "https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/shorebank.html",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Urban Partnership Bank",
+   "to": "Providence Bank & Trust",
+   "relation": "merged_into",
+   "evidence": "Urban Partnership merged into Providence Bank & Trust in January 2019; Providence lacked its intensive community-development focus.",
+   "source": "https://nextcity.org/urbanist-news/building-on-chicagos-legacy-of-community-development-banking",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Cook County",
+   "to": "Provident Hospital",
+   "relation": "acquired_reopened",
+   "evidence": "Cook County purchased the closed private hospital in 1991, invested over $50M, and reopened it in 1993 as a public community teaching hospital.",
+   "source": "https://cookcountyhealth.org/wp-content/uploads/Provident-Hospital-FAQs-FINAL-8.9.19.pdf",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Julius Rosenwald (philanthropy)",
+   "to": "Wabash Avenue YMCA",
+   "relation": "funded_construction",
+   "evidence": "Rosenwald philanthropy substantially enabled construction of the 1913 Black YMCA.",
+   "source": "https://en.wikipedia.org/wiki/Wabash_Avenue_YMCA",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "The Renaissance Collaborative",
+   "to": "Wabash Avenue YMCA (building)",
+   "relation": "rehabilitated",
+   "evidence": "The Collaborative rehabilitated the closed 1981 YMCA as 101 units of supportive housing plus recreation/office space, financed with HUD, TIF, Federal Home Loan Bank, and community-loan funds.",
+   "source": "https://www.chicago.gov/content/city/en/depts/doh/provdrs/renters/news/2023/april/chicago-issues--5-9-million-for-permanent-supportive-housing-in-.html",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "SCLC",
+   "to": "Operation Breadbasket",
+   "relation": "parent_organization",
+   "evidence": "Breadbasket was institutionally a department of the SCLC, publicly identified with Jesse Jackson.",
+   "source": "https://archive.org/details/operationbreadba0000depp",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Operation Breadbasket",
+   "to": "Operation PUSH",
+   "relation": "succeeded_by",
+   "evidence": "Jesse Jackson resigned from SCLC/Breadbasket in December 1971 and carried much of the program into Operation PUSH.",
+   "source": "https://archive.org/details/operationbreadba0000depp",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Operation PUSH and National Rainbow Coalition",
+   "to": "Rainbow PUSH Coalition",
+   "relation": "merged_into",
+   "evidence": "The two organizations merged in 1996 to form the Rainbow PUSH Coalition (Britannica).",
+   "source": "https://www.britannica.com/topic/National-Rainbow-Coalition-American-organization",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Al Raby (CCCO)",
+   "to": "SCLC",
+   "relation": "partnered",
+   "evidence": "Raby's local CCCO coalition partnered with SCLC in the Chicago Freedom Movement; the CCCO dissolved in late 1967.",
+   "source": "https://sites.middlebury.edu/chicagofreedommovement/coordinating-council-of-community-organizations/",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Industrial Areas Foundation (Alinsky)",
+   "to": "The Woodlawn Organization",
+   "relation": "organizing_support",
+   "evidence": "TWO was founded through local Black clergy/community leadership with organizing expertise from Alinsky's IAF.",
+   "source": "http://staging.community-wealth.org/sites/clone.community-wealth.org/files/downloads/article-domhoff.pdf",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Ida B. Wells and Ferdinand Barnett",
+   "to": "Negro Fellowship League",
+   "relation": "founded",
+   "evidence": "Wells and Barnett opened the League in 1910 with initial white-publisher financing; Wells later subsidized it from her probation-officer salary until its 1920 closure.",
+   "source": "https://tnmuseum.org/junior-curators/posts/first-of-many-ida-b-wells-part-iii",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Rube Foster",
+   "to": "Chicago American Giants",
+   "relation": "founded",
+   "evidence": "Foster founded the American Giants in 1911 after leaving the Leland Giants; charter members of his Negro National League (1920).",
+   "source": "https://en.wikipedia.org/wiki/Chicago_American_Giants",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Clarence H. Cobbs",
+   "to": "First Church of Deliverance",
+   "relation": "founded",
+   "evidence": "Cobbs founded the church in 1929; built its landmark 1939 building and pioneering radio/television ministry.",
+   "source": "https://en.wikipedia.org/wiki/First_Church_of_Deliverance",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "S.B. Fuller",
+   "to": "Regal Theater",
+   "relation": "purchased",
+   "evidence": "Fuller purchased the Regal in 1961 \u2014 the first Black ownership of the theater; he lost it in 1968.",
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Edward and Bettiann Gardner",
+   "to": "New Regal Theater",
+   "relation": "renovated_renamed",
+   "evidence": "The Gardners renovated the 1927 Avalon Theater and renamed it the New Regal in 1987 \u2014 a name/concept succession of the original Regal.",
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "WPA (federal)",
+   "to": "National Pythian Temple",
+   "relation": "acquired_repurposed",
+   "evidence": "After financial difficulties, the WPA acquired the Pythian Temple during the Depression and repositioned it as multifamily housing.",
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Morning_Star_Baptist_Final_Report.pdf",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Eighth Regiment Armory (building)",
+   "to": "Chicago Military Academy-Bronzeville",
+   "relation": "repurposed_as",
+   "evidence": "After the armory closed in the early 1960s, the renovated building reopened in 1999 as the CPS military academy.",
+   "source": "https://en.wikipedia.org/wiki/Eighth_Regiment_Armory_(Chicago)",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "CPS",
+   "to": "Dyett High School (original)",
+   "relation": "closed",
+   "evidence": "CPS closed Dyett in 2015 over community opposition.",
+   "source": "http://www.chicagoreporter.com/when-chicago-closed-her-kids-school-she-decided-to-fight-back/",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "CPS",
+   "to": "Dyett High School for the Arts",
+   "relation": "reopened",
+   "evidence": "CPS reopened Dyett as an arts-focused high school in 2016 after a 34-day hunger strike \u2014 but not under the community-demanded curriculum.",
+   "source": "https://kocoonline.org/initiatives/the-fight-for-dyett-high-school/",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "Hull House Association",
+   "to": "Metropolitan Family Services",
+   "relation": "negotiated_transfer",
+   "evidence": "At closure in 2012, Hull House was in talks with Metropolitan Family Services to take over its programs.",
+   "source": "https://staging.philanthropy.com/news/chicagos-hull-house-charity-to-close-after-123-years/",
+   "verification": "Verified",
+   "provenance": "track-e"
+  },
+  {
+   "from": "U.S. Congress (National Heritage Area Act)",
+   "to": "Bronzeville-Black Metropolis National Heritage Area",
+   "relation": "designated",
+   "evidence": "Congress passed the designation in December 2022; President Biden signed it January 5, 2023 (Public Law 117-339), with the local Commission as coordinating authority.",
+   "source": "https://www.iit.edu/news/congress-passes-bill-designating-bronzeville-neighborhood-national-heritage-area",
+   "verification": "Verified",
+   "provenance": "track-e"
+  }
+ ]
+}

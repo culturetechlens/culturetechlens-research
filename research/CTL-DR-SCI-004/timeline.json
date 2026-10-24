@@ -1,0 +1,1921 @@
+{
+ "project": "CTL-DR-SCI-004",
+ "event_count": 168,
+ "events": [
+  {
+   "date": "1844",
+   "event": "Prayer group of seven forms in home of John Day (later Maria Parker; then State & Madison schoolhouse) \u2014 origin of Quinn Chapel.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "quinnchicago.org history page",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1847",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "event": "Quinn Chapel A.M.E. formally organized in Chicago (origins as a seven-member prayer group in 1844); becomes a station on the Underground Railroad and center of abolitionist activity.",
+   "source": "HABS IL-1204; Congressional Record Vol. 143 (1997)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "b"
+  },
+  {
+   "date": "1847",
+   "entities": [
+    "quinn-chapel-ame",
+    "archibald-carey-sr"
+   ],
+   "event": "Quinn Chapel AME Church founded in Chicago; becomes the institutional base of the Carey family.",
+   "source": "Dennis C. Dickerson, African American Preachers and Politics (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1847-07-22",
+   "event": "Prayer group recognized as an official AME congregation and named Quinn Chapel for Bishop William Paul Quinn, under Rev. George Johnson.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "quinnchicago.org; Congressional Record vol. 143 (c.1997)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1850-04-06",
+   "event": "Olivet predecessor organized as Xenia Baptist Church (3 members) \u2014 per the congregation's own history.",
+   "entities": [
+    "olivet-baptist"
+   ],
+   "source": "olivetchicago.org history page",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1853-04-06",
+   "event": "Xenia Baptist Church renamed Zoar Baptist Church \u2014 per the congregation's own history.",
+   "entities": [
+    "olivet-baptist"
+   ],
+   "source": "olivetchicago.org history page",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1861-12-22",
+   "event": "Zoar and Mt. Zion Baptist churches merge under Rev. J.F. Boulden to form Olivet Baptist Church.",
+   "entities": [
+    "olivet-baptist"
+   ],
+   "source": "olivetchicago.org; Wikipedia (association minutes cited)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1862-06",
+   "event": "Bethel AME organized as a mission church of Quinn Chapel by Bishop William Paul Quinn.",
+   "entities": [
+    "bethel-ame",
+    "quinn-chapel-ame"
+   ],
+   "source": "The Christian Recorder (c.2017)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1871",
+   "event": "Great Chicago Fire destroys Quinn Chapel's original downtown building.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "quinnchicago.org; Wikipedia",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1890",
+   "event": "Quinn Chapel purchases present site at Wabash & 24th.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "quinnchicago.org",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1891",
+   "event": "Kehilath Anshe Ma'ariv synagogue (future Pilgrim Baptist building) constructed at 3301 S. Indiana, designed by Sullivan & Adler.",
+   "entities": [
+    "pilgrim-baptist"
+   ],
+   "source": "Congressional Record vol. 159 (2013); NPR (2006)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1891",
+   "event": "Provident Hospital organized by Dr. Daniel Hale Williams \u2014 birthplace claimed by Quinn Chapel.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "Congressional Record vol. 143 (c.1997)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1891",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "event": "Provident Hospital of Chicago organized by Dr. Daniel Hale Williams, with organizing centered at Quinn Chapel A.M.E.",
+   "source": "Congressional Record Vol. 143 (1997)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "b"
+  },
+  {
+   "date": "1892",
+   "event": "Current Quinn Chapel building completed (Henry F. Starbuck, architect).",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "NPS/HABS materials; Chicago Landmark records",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1893",
+   "event": "St. Mark Methodist Episcopal Church founded in a State Street storefront; Rev. S.C. Goosley develops Methodist presence in Black Chicago.",
+   "entities": [
+    "st-mark-umc"
+   ],
+   "source": "stmarkumcchicago.org; Parker (2019)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1898",
+   "event": "Quinn Chapel initiates the first retirement home for African-Americans (Elam House).",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "Congressional Record vol. 143 (c.1997)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1898",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "event": "Quinn Chapel initiates the first retirement home for African Americans.",
+   "source": "Congressional Record Vol. 143 (1997)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1898",
+   "entities": [
+    "archibald-carey-sr",
+    "quinn-chapel-ame"
+   ],
+   "event": "Archibald J. Carey Sr. becomes pastor of Quinn Chapel; later campaigns for Republicans, allies with Mayor William Hale Thompson, and receives city appointments (chief examiner of claims, civil service commissioner).",
+   "source": "The TRiiBE (2021); Dickerson book (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1899",
+   "event": "Isaiah Temple synagogue (future Ebenezer building) completed at 4501 S. Vincennes, designed by Dankmar Adler.",
+   "entities": [
+    "ebenezer-mbc"
+   ],
+   "source": "Chicago Landmark Designation Report (2011); NPS NRHP",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1902",
+   "event": "Ebenezer Missionary Baptist congregation formed.",
+   "entities": [
+    "ebenezer-mbc"
+   ],
+   "source": "Chicago Landmark Designation Report (2011)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1907",
+   "event": "St. Mark moves to 50th Street & Wabash Avenue.",
+   "entities": [
+    "st-mark-umc"
+   ],
+   "source": "Parker (2019) synopsis",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1908",
+   "entities": [
+    "phyllis-wheatley-club"
+   ],
+   "event": "Phyllis Wheatley Home established by the Phyllis Wheatley Club to house Black migrant women and girls arriving in Chicago without relatives or resources.",
+   "source": "Kimani, UCLA M.A. thesis (2012)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1910",
+   "entities": [
+    "elder-lucy-smith"
+   ],
+   "event": "Lucinda 'Lucy' Smith arrives in Chicago from Georgia (via Atlanta), joining the Great Migration; she later attends the Pentecostal Stone Church and develops a healing ministry.",
+   "source": "Wikipedia, 'Elder Lucy Smith'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1911-01-29",
+   "entities": [
+    "phyllis-wheatley-club"
+   ],
+   "event": "Phyllis Wheatley Club holds a mass meeting of Black middle-class women at Bethel A.M.E. Church to raise support for the Phyllis Wheatley Home.",
+   "source": "Kimani, UCLA M.A. thesis (2012), citing Chicago Defender",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1912-04-10",
+   "event": "Greater Harvest Baptist founded by Rev. Louis Boddie \u2014 per current church sources (disputed vs. 1920).",
+   "entities": [
+    "greater-harvest"
+   ],
+   "source": "church app description; '114 Years' celebration (2026)",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1916",
+   "entities": [
+    "olivet-baptist-church"
+   ],
+   "event": "Rev. Lacy Kirk Williams becomes pastor of Olivet Baptist Church and turns it toward community-minded ministry for arriving Southern migrants.",
+   "source": "Afro-Conscious Media (2026-04-04)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1916",
+   "entities": [
+    "elder-lucy-smith",
+    "all-nations-pentecostal-church"
+   ],
+   "event": "Smith begins prayer meetings in her Chicago home with two other women; the meetings grow into a congregation.",
+   "source": "Wikipedia, 'Elder Lucy Smith'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1916-09",
+   "event": "Pilgrim Baptist founded from the Union Grove Prayer Meeting Club (Deacon John A. Finnie's home, 242 E. 42nd St.); Rev. Jessie D. Luck becomes first pastor January 1917.",
+   "entities": [
+    "pilgrim-baptist"
+   ],
+   "source": "Congressional Record vol. 159 (2013)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1917-09-26",
+   "event": "Olive Leaf Club formed by Mrs. Bertie Boone and Mrs. Maggie Walker \u2014 origin of Liberty Baptist.",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "libertybaptistchurchchicago.org",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1918",
+   "entities": [
+    "olivet-baptist-church"
+   ],
+   "event": "Olivet Baptist Church purchases the First Baptist Church building at 3101 S. King Drive for $80,000 as the Douglas/Bronzeville neighborhood becomes almost entirely Black.",
+   "source": "Preservation Chicago",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "b"
+  },
+  {
+   "date": "1919",
+   "event": "Liberty Baptist Church founded (disputed vs. 1918); Rev. D.W. Bowen first pastor.",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "libertybaptistchurchchicago.org",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1919",
+   "entities": [
+    "olivet-baptist-church"
+   ],
+   "event": "During the Chicago Race Riot of 1919, Olivet Baptist works to maintain peace; through the 1920s the church serves as a community center amid the Great Migration influx.",
+   "source": "Preservation Chicago (Chicago 7 2025)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1920",
+   "event": "Peoples Community Church of Christ / Metropolitan Community Center founded by Rev. William Decatur Cook.",
+   "entities": [
+    "metropolitan-apostolic"
+   ],
+   "source": "Chicago Landmark Designation Report",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1920",
+   "entities": [
+    "all-nations-pentecostal-church",
+    "elder-lucy-smith"
+   ],
+   "event": "All Nations Pentecostal Church established on Langley Avenue, Bronzeville -- an interracial Pentecostal congregation led by a woman founder.",
+   "source": "Wikipedia, 'Elder Lucy Smith'; Wallace D. Best (2007) via book review",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1920-04-10",
+   "event": "Greater Harvest Baptist born at 4419 State St. \u2014 per the church's own 1962 album liner history (disputed vs. 1912).",
+   "entities": [
+    "greater-harvest"
+   ],
+   "source": "1962 album liner notes",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1921",
+   "event": "Ebenezer Missionary Baptist purchases the Isaiah Temple building at 4501 S. Vincennes.",
+   "entities": [
+    "ebenezer-mbc"
+   ],
+   "source": "Chicago Landmark Designation Report (2011)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1922",
+   "event": "Pilgrim Baptist purchases the Kehilath Anshe Ma'ariv synagogue at 3301 S. Indiana.",
+   "entities": [
+    "pilgrim-baptist"
+   ],
+   "source": "Congressional Record vol. 159 (2013); NPR (2006)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1924",
+   "event": "Liberty Baptist purchases the Olivet Building (J.M. Higginbotham, architect).",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "lynnbecker.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1925",
+   "event": "Rev. D.Z. Jackson becomes pastor of Liberty Baptist; membership grows from hundreds to thousands within a decade.",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "lynnbecker.com; libertybaptistchurchchicago.org",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1926-12",
+   "entities": [
+    "all-nations-pentecostal-church"
+   ],
+   "event": "Construction completed on the purpose-built All Nations Pentecostal Church building on Langley Avenue.",
+   "source": "Wikipedia, 'Elder Lucy Smith'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1927",
+   "event": "Metropolitan Community Church purchases the 4100 S. King Drive building.",
+   "entities": [
+    "metropolitan-apostolic"
+   ],
+   "source": "Chicago Landmark Designation Report",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1927",
+   "entities": [
+    "mahalia-jackson",
+    "greater-salem-baptist-church"
+   ],
+   "event": "Mahalia Jackson moves to Chicago; joins Greater Salem Baptist Church and its choir, later singing with the Johnson Brothers/Johnson Gospel Singers.",
+   "source": "soulwalking.co.uk; blackamericaweb.com",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1929",
+   "entities": [
+    "first-church-of-deliverance",
+    "clarence-h-cobbs"
+   ],
+   "event": "Rev. Clarence H. Cobbs founds the First Church of Deliverance (storefront at 4155 S. State St., May 1929).",
+   "source": "Wikipedia (Clarence H. Cobbs)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1929",
+   "entities": [
+    "sallie-martin",
+    "thomas-dorsey"
+   ],
+   "event": "Sallie Martin moves to Chicago and joins a chorus directed by Thomas A. Dorsey.",
+   "source": "BlackPast.org",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1929-05",
+   "event": "First Church of Deliverance founded by Rev. Clarence H. Cobbs; first storefront at 4155 S. State St.",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "source": "Wikipedia 'Clarence H. Cobbs'",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1930",
+   "entities": [
+    "archibald-carey-jr"
+   ],
+   "event": "Archibald J. Carey Jr. assigned as pastor of Woodlawn AME Church (a 49-member mission); begins pastorate he holds to 1949.",
+   "source": "Stanford King Institute (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1930",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "Mays & Nicholson survey finds storefronts comprise 72% of African American churches in Chicago (vs. 54% Baltimore, 48% Philadelphia, 45% Detroit), concentrated in Baptist, Holiness, and Spiritualist denominations.",
+   "source": "Mays & Nicholson (1933) via Boyd (1998); also Rogers Park/West Ridge Historical Society",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1931",
+   "event": "Thomas A. Dorsey organizes the Pilgrim Baptist Gospel Chorus under Rev. Junius C. Austin \u2014 per Pilgrim's institutional history (overlaps Ebenezer's 1931 claim).",
+   "entities": [
+    "pilgrim-baptist"
+   ],
+   "source": "Congressional Record vol. 159 (2013)",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1931",
+   "event": "First modern gospel choir formed at Ebenezer under Dorsey, Theodore Frye, and Roberta Martin \u2014 per Ebenezer's landmark history (overlaps Pilgrim's 1931 claim).",
+   "entities": [
+    "ebenezer-mbc"
+   ],
+   "source": "Chicago Landmark Designation Report (2011); Wikipedia",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1932",
+   "entities": [
+    "thomas-dorsey",
+    "pilgrim-baptist-church"
+   ],
+   "event": "Thomas A. Dorsey becomes music director of Pilgrim Baptist Church (tenure through late 1970s); establishes Dorsey House of Music, the first Black-owned gospel publishing house.",
+   "source": "GRAMMY.com; National Trust; LA Sentinel",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1932",
+   "entities": [
+    "theodore-frye",
+    "ebenezer-baptist-church",
+    "thomas-dorsey"
+   ],
+   "event": "Following the deaths of Dorsey's wife Nettie and infant son, Theodore Frye first sings 'Take My Hand, Precious Lord' to the Ebenezer Baptist congregation.",
+   "source": "MDPI Religions 10(4), 285 (2019); southeastsun.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1932",
+   "entities": [
+    "noi-temple-no-2"
+   ],
+   "event": "Elijah Muhammad founds the Nation of Islam's Temple No. 2 (Southside Mosque) in Chicago.",
+   "source": "Encyclopedia.com entry on Elijah Muhammad; NOI handbill ('The movement in Chicago was founded in 1932 by Elijah Mohammed')",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1933",
+   "event": "First Church of Deliverance moves to 4315 S. Wabash Ave.",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "source": "Wikipedia 'Clarence H. Cobbs'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1933",
+   "entities": [
+    "ncgcc",
+    "thomas-dorsey",
+    "sallie-martin"
+   ],
+   "event": "Dorsey and Sallie Martin co-found the National Convention of Gospel Choirs and Choruses (some sources date the founding organization, the Gospel Choral Union of Chicago, to 1932).",
+   "source": "BlackPast.org; Path MEGAzine",
+   "source_type": "secondary",
+   "verification": "Disputed",
+   "_track": "d"
+  },
+  {
+   "date": "1933",
+   "entities": [
+    "roberta-martin",
+    "theodore-frye",
+    "ebenezer-baptist-church",
+    "roberta-martin-singers"
+   ],
+   "event": "Roberta Martin organizes the Martin-Frye Quartet from Ebenezer Baptist's junior choir with Dorsey's and Frye's help.",
+   "source": "Smithsonian NMAH AC-0408",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1933",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "Benjamin E. Mays and Joseph W. Nicholson publish The Negro's Church (Institute of Social and Religious Research), the survey source for the 1930 storefront figures.",
+   "source": "Boyd (1998), citing Mays & Nicholson (1933)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1935",
+   "event": "First Church of Deliverance begins radio broadcasts on WSBC, including the pioneering 'Midnight Broadcast.'",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "source": "Wikipedia 'Clarence H. Cobbs'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1935",
+   "entities": [
+    "first-church-of-deliverance",
+    "clarence-h-cobbs"
+   ],
+   "event": "First Church of Deliverance begins broadcasting services on WSBC radio, including the hour-long 'Midnight Broadcast.'",
+   "source": "Wikipedia (Clarence H. Cobbs)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1936",
+   "entities": [
+    "roberta-martin-singers",
+    "roberta-martin"
+   ],
+   "event": "The Martin-Frye Quartet is renamed the Roberta Martin Singers.",
+   "source": "Smithsonian NMAH AC-0408; Wikipedia",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1937",
+   "entities": [
+    "mahalia-jackson"
+   ],
+   "event": "Mahalia Jackson records for Decca \u2014 among the first gospel sessions for the label.",
+   "source": "soulwalking.co.uk",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1939",
+   "event": "First Church of Deliverance moves into a new building at Wabash Ave. designed by Walter T. Bailey; Hammond organ installed at Kenneth Morris's urging.",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "source": "Wikipedia 'Clarence H. Cobbs'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1939",
+   "entities": [
+    "roberta-martin"
+   ],
+   "event": "Roberta Martin incorporates the Roberta Martin Studio of Music publishing house.",
+   "source": "fromthevaults-boppinbob.blogspot.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1939",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "event": "At Kenneth Morris's urging, a Hammond organ is installed at the First Church of Deliverance, giving the choir its distinctive sound.",
+   "source": "Wikipedia (Clarence H. Cobbs)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1940",
+   "entities": [
+    "sallie-martin"
+   ],
+   "event": "Sallie Martin leaves Dorsey and co-founds Martin & Morris Publishing, which publishes 'Just a Closer Walk with Thee.'",
+   "source": "BlackPast.org",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1941",
+   "entities": [
+    "joseph-h-jackson",
+    "olivet-baptist-church"
+   ],
+   "event": "Rev. Joseph H. Jackson called to pastor Olivet Baptist Church, Chicago; serves until his death in 1990.",
+   "source": "Stanford King Institute (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1945",
+   "event": "Greater Harvest radio broadcast begins on WAAF.",
+   "entities": [
+    "greater-harvest"
+   ],
+   "source": "1962 album liner notes",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1945",
+   "entities": [
+    "willie-t-barrow"
+   ],
+   "event": "Willie Taplin Barrow comes to Chicago; works as a youth minister and SCLC field organizer.",
+   "source": "The HistoryMakers finding aid A1999_001 (primary); Congressional Record 2015 (primary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1945",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "Drake & Cayton's Black Metropolis published: documents tensions between old-line pastors and storefront 'jack-leg preachers' and the performance gifts valued in storefront ministry.",
+   "source": "Boyd (1998), citing Drake & Cayton (1945/1962); NPS nomination text",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1947",
+   "entities": [
+    "archibald-carey-jr"
+   ],
+   "event": "Archibald Carey Jr. elected alderman of Chicago's 3rd Ward as a Republican; re-elected 1951; serves to 1955.",
+   "source": "Stanford King Institute (secondary); NIU thesis (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1947",
+   "entities": [
+    "roberta-martin-singers"
+   ],
+   "event": "The Roberta Martin Singers make their first recording for Fidelity Records ('Precious Memories').",
+   "source": "Wikipedia; HistoryMakers",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1947",
+   "entities": [
+    "mahalia-jackson"
+   ],
+   "event": "Mahalia Jackson's 'Move On Up a Little Higher' (Apollo) becomes one of the highest-selling gospel singles in history.",
+   "source": "face2faceafrica.com; blackamericaweb.com",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1948",
+   "event": "Greater Harvest purchases 5121/5125 S. State St. (2,500-seat building); builds community center and mothers-and-children home.",
+   "entities": [
+    "greater-harvest"
+   ],
+   "source": "1962 album liner notes",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1949",
+   "event": "Bethel AME moves to its current location, 4440 S. Michigan Ave., after 17 prior locations.",
+   "entities": [
+    "bethel-ame"
+   ],
+   "source": "The Christian Recorder (c.2017)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1949",
+   "entities": [
+    "archibald-carey-jr",
+    "quinn-chapel-ame"
+   ],
+   "event": "Carey Jr. named pastor of Quinn Chapel AME (his father's church); serves until 1967.",
+   "source": "Stanford King Institute (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1949",
+   "entities": [
+    "roberta-martin-singers"
+   ],
+   "event": "The Roberta Martin Singers begin recording for Apollo Records (through 1955).",
+   "source": "Wikipedia",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1950",
+   "entities": [
+    "clay-evans",
+    "fellowship-missionary-baptist"
+   ],
+   "event": "Clay Evans ordained a Baptist minister; founding year of Fellowship Missionary Baptist Church per church site and 2000 Congressional Record (secondary press sources say 1958 -- Disputed).",
+   "source": "Fellowship Chicago official site (primary); Congressional Record 2000 (primary)",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "c"
+  },
+  {
+   "date": "1950",
+   "entities": [
+    "morning-star-baptist-church",
+    "roberta-martin-singers"
+   ],
+   "event": "The Barrett Sisters form their group after being nurtured in Morning Star Baptist's choir; DeLois is recruited into the Roberta Martin Singers.",
+   "source": "City of Chicago Landmark Report (Morning Star Baptist)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1950",
+   "entities": [
+    "clay-evans",
+    "fellowship-missionary-baptist-church"
+   ],
+   "event": "Rev. Clay Evans founds Fellowship Baptist Church (Sept 10, 1950) and organizes its choir the same month.",
+   "source": "mygospelhighway11.com; praiseindy.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1950-04",
+   "event": "Liberty Baptist announces plans for a new $250,000 building at 49th & South Park Way (now King Drive).",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "lynnbecker.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1950-09-10",
+   "event": "Fellowship Missionary Baptist Church founded by Rev. Clay Evans with five members \u2014 per Wikipedia and the Congressional Record (disputed vs. 1958).",
+   "entities": [
+    "fellowship-mbc"
+   ],
+   "source": "Wikipedia 'Clay Evans (pastor)'; Congressional Record vol. 165 (2019)",
+   "source_type": "primary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1952",
+   "entities": [
+    "archibald-carey-jr"
+   ],
+   "event": "Carey Jr. addresses the Republican National Convention in Chicago on equal rights.",
+   "source": "NIU thesis (Huskie Commons); encyclopedia entries (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1952",
+   "entities": [
+    "fellowship-missionary-baptist-church"
+   ],
+   "event": "Fellowship Baptist secures a weekly radio broadcast.",
+   "source": "mygospelhighway11.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1952",
+   "entities": [
+    "elder-lucy-smith",
+    "all-nations-pentecostal-church"
+   ],
+   "event": "Elder Lucy Smith dies; her funeral is reported as attended by 60,000 people, described as the largest funeral held in Chicago to that date.",
+   "source": "Wikipedia, 'Elder Lucy Smith'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1952-10",
+   "event": "Liberty Baptist breaks ground on its new building (estimated cost now $500,000).",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "lynnbecker.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1953",
+   "event": "First Church of Deliverance becomes the first Black church in the country to televise its services (WLS-TV, 12 weeks).",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "source": "Wikipedia 'Clarence H. Cobbs'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1953",
+   "entities": [
+    "archibald-carey-jr",
+    "joseph-h-jackson"
+   ],
+   "event": "Carey Jr. serves as alternate member of the U.S. delegation to the Eighth UN General Assembly. J.H. Jackson elected president of the National Baptist Convention (serves to ~1982).",
+   "source": "Stanford King Institute (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1953",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "event": "First Church of Deliverance becomes the first Black church in the U.S. to televise its services (WLS-TV, 12 weeks).",
+   "source": "Wikipedia (Clarence H. Cobbs)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1954",
+   "entities": [
+    "clay-evans",
+    "consuella-york"
+   ],
+   "event": "Clay Evans ordains Mother Consuella York, reported as the first Black woman ordained into the Baptist clergy in Chicago (year from single quoted source -- Provisional).",
+   "source": "The Final Call, Dec 2019 (secondary)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "c"
+  },
+  {
+   "date": "1955",
+   "entities": [
+    "addie-l-wyatt",
+    "vernon-park-church-of-god",
+    "archibald-carey-jr"
+   ],
+   "event": "Addie Wyatt ordained (1955); she later serves as copastor of Vernon Park Church of God. President Eisenhower appoints Carey Jr. vice-chair of the President's Committee on Government Employment Policy (chair from 1957).",
+   "source": "The HistoryMakers A2002_096 (primary); Stanford King Institute (secondary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1956",
+   "event": "Liberty Baptist's new modernist building at 4849 S. King Drive (William Alderman, architect) completed.",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "docomomo-chicago.org",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1956-04",
+   "entities": [
+    "archibald-carey-jr"
+   ],
+   "event": "Carey Jr. helps organize Chicago 'Hour of Prayer' raising $2,500 for the Montgomery Improvement Association during the bus boycott.",
+   "source": "Stanford King Institute (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1957",
+   "entities": [
+    "archibald-carey-jr",
+    "george-h-clements"
+   ],
+   "event": "Carey Jr. appointed chairman of the President's Committee on Government Employment Policy (Aug 3, 1957), succeeding Maxwell Abbell. Fr. George Clements ordained in the Archdiocese of Chicago.",
+   "source": "Stanford King Institute; encyclopedia entries; Religion News Service (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1958",
+   "event": "Fellowship Baptist founding date given in some biographical sources (disputed vs. 1950).",
+   "entities": [
+    "fellowship-mbc"
+   ],
+   "source": "biographical/boropulse coverage",
+   "source_type": "secondary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1959",
+   "event": "St. Mark moves to its present location, 8441 S. St. Lawrence Ave.",
+   "entities": [
+    "st-mark-umc"
+   ],
+   "source": "Parker (2019) synopsis",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1959",
+   "entities": [
+    "woodlawn-organization"
+   ],
+   "event": "The Woodlawn Organization (TWO) is founded out of the Greater Woodlawn Pastors' Alliance, adopting Alinsky-style organizing against slum landlords and University of Chicago urban renewal.",
+   "source": "ERIC ED035799 (1969)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1960",
+   "entities": [
+    "arthur-m-brazier",
+    "woodlawn-organization"
+   ],
+   "event": "Arthur Brazier becomes pastor of Apostolic Church of God, Woodlawn; helps found the (Temporary) Woodlawn Organization with Alinsky's IAF and becomes its spokesman.",
+   "source": "The HistoryMakers A2005_003 (primary); Nonprofit Quarterly (secondary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1961-12-03",
+   "event": "Trinity United Church of Christ founded by twelve Black families in an elementary school gymnasium; Rev. Kenneth B. Smith first pastor.",
+   "entities": [
+    "trinity-ucc"
+   ],
+   "source": "Wikipedia; tucc.org",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1961-12-03",
+   "entities": [
+    "trinity-ucc"
+   ],
+   "event": "Trinity United Church of Christ founded.",
+   "source": "Wikipedia (Trinity United Church of Christ)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1962",
+   "entities": [
+    "jesse-l-jackson-sr",
+    "willie-t-barrow",
+    "addie-l-wyatt",
+    "operation-push"
+   ],
+   "event": "Operation Breadbasket founded in Chicago as SCLC's economic arm; Jesse Jackson appointed by King to lead it (1966, national director 1967); Willie Barrow and Addie Wyatt among early Chicago participants.",
+   "source": "CNN Fast Facts; RNS; HistoryMakers (mixed primary/secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1962",
+   "entities": [
+    "fellowship-missionary-baptist-church"
+   ],
+   "event": "The Fellowship choir records its first album, produced by Idessa Malone.",
+   "source": "mygospelhighway11.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1962",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "James B. Stronks publishes first observed list of Chicago storefront churches in Names (Sept. 1962), documenting congregations in South and West side Negro neighborhoods.",
+   "source": "Stronks, Names (1962)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1963",
+   "entities": [
+    "arthur-m-brazier",
+    "willie-t-barrow",
+    "addie-l-wyatt"
+   ],
+   "event": "Brazier leads TWO against University of Chicago expansion. Barrow helps organize the March on Washington. The Labor Legislation Committee report (Wyatt, appointed by Eleanor Roosevelt) is presented to the Commission on the Status of Women.",
+   "source": "HistoryMakers A2005_003; Congressional Record 2015; HistoryMakers A2002_096",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1963",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "Stronks's second list (July 1963) records new storefront congregations between 31st-49th Sts., Cottage Grove Ave. and State St.; notes earlier-listed churches now deserted -- documenting turnover.",
+   "source": "Stronks, 'New Store-Front Churches in Chicago,' Names (1963)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1964",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "Stronks's third list (June 1964) records storefront churches principally along West Roosevelt Road, including Spiritualist and Holiness congregations (e.g., Traveling Souls Spiritual Church, Free Holiness Church of God).",
+   "source": "Stronks, 'Chicago Store-Front Churches: 1964,' Names",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1964-09-19",
+   "entities": [
+    "joseph-h-jackson"
+   ],
+   "event": "J.H. Jackson delivers 'The Vote is the Only Effective Weapon in the Civil Rights Struggle' at the NBC annual meeting in Detroit -- the definitive public statement of his anti-direct-action stance.",
+   "source": "BlackPast.org reprint of address (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1965",
+   "entities": [
+    "fellowship-missionary-baptist",
+    "operation-breadbasket"
+   ],
+   "event": "Martin Luther King Jr. delivers his only major address of fall 1965 at Fellowship Missionary Baptist Church; early weekly meetings of Operation Breadbasket are held there under associate pastor Jesse Jackson.",
+   "source": "Chicago Freedom Movement sites (Middlebury)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1965",
+   "entities": [
+    "clay-evans",
+    "arthur-m-brazier",
+    "ccco",
+    "willie-t-barrow"
+   ],
+   "event": "Clay Evans joins the civil rights movement in Chicago. Brazier resigns from the CCCO (which he co-founded with Bill Berry). Barrow helps organize the Selma march.",
+   "source": "Fellowship Chicago; HistoryMakers A2005_003; Congressional Record 2015",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1965",
+   "entities": [
+    "storefront-church-phenomenon",
+    "cogic-chicago",
+    "spiritualist-churches"
+   ],
+   "event": "Robert G. Noreen publishes 'Ghetto Worship: A Study of the Names of Chicago Storefront Churches' (Names 13(1)): 381 compiled names -- 69% Baptist, 8% Church of God in Christ, 4% Pentecostal/Spiritualist, 2% AME; describes rented small-business premises, hand-lettered signage, multiple churches per block.",
+   "source": "Noreen (1965), ans-names.pitt.edu",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1965-09",
+   "entities": [
+    "warren-avenue-congregational",
+    "ccco"
+   ],
+   "event": "James Bevel arrives in Chicago; SCLC staff establish their West Side headquarters at Warren Avenue Congregational Church, 3101 W. Warren Blvd.",
+   "source": "Chicago Reporter (2016); Middlebury",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1965-10",
+   "entities": [
+    "warren-avenue-congregational"
+   ],
+   "event": "John McKnight (U.S. Commission on Civil Rights, Midwest Director) presents on systematic lending discrimination to ~80 movement staff in the basement of Warren Avenue Congregational Church.",
+   "source": "Chicago Reporter (2016)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1966",
+   "event": "Dr. Martin Luther King Jr. uses Liberty Baptist as his headquarters during the Chicago Freedom Movement.",
+   "entities": [
+    "liberty-baptist"
+   ],
+   "source": "lynnbecker.com",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1966",
+   "entities": [
+    "operation-breadbasket",
+    "fellowship-missionary-baptist"
+   ],
+   "event": "Operation Breadbasket is established in Chicago, developing out of the Fellowship Missionary Baptist Church meetings; it ultimately becomes the Rainbow/PUSH Coalition.",
+   "source": "Chicago Freedom Movement sites (Middlebury)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1966",
+   "entities": [
+    "clay-evans",
+    "arthur-m-brazier",
+    "joseph-h-jackson",
+    "archibald-carey-jr"
+   ],
+   "event": "Chicago Freedom Movement: King brings the campaign north; Clay Evans welcomes King into Fellowship despite Mayor Daley's pressure; Brazier works with Al Raby on the campaign; J.H. Jackson publicly withholds support. Carey Jr. switches to Democrat and is elected Cook County circuit judge.",
+   "source": "Congressional Record 2019; HistoryMakers A2005_003; Middlebury CFM archive; Stanford King Institute",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1966-07-29",
+   "entities": [
+    "new-friendship-baptist",
+    "ccco"
+   ],
+   "event": "Roughly 450 marchers led by Andrew Young, Al Raby, and other CFM lieutenants march from New Friendship Baptist Church to H.F. Halverson Realty in Gage Park.",
+   "source": "Harold Titus blog, citing Bernstein",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1966-08",
+   "entities": [
+    "greater-mount-hope-baptist"
+   ],
+   "event": "Greater Mount Hope Baptist Church becomes the South Side Action Center of the Chicago Freedom Movement.",
+   "source": "Chicago Freedom Movement sites (Middlebury)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1966-08-04",
+   "entities": [
+    "new-friendship-baptist"
+   ],
+   "event": "King delivers his 'My place is in Gage Park' speech at New Friendship Baptist Church, the first major staging area for CFM South Side rallies and marches.",
+   "source": "Chicago Freedom Movement sites (Middlebury)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1966-08-17",
+   "entities": [
+    "chicago-conference-religion-race",
+    "ccco"
+   ],
+   "event": "The Chicago Conference on Religion and Race coordinates the summit meeting between CFM leaders, Mayor Daley, business leaders, and real estate officials, producing the Summit Agreement.",
+   "source": "Indiana Law Review Vol. 41",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1967",
+   "entities": [
+    "ccco"
+   ],
+   "event": "The CCCO dissolves in late 1967 after Al Raby resigns as convenor, marking the formal end of the Chicago Freedom Movement.",
+   "source": "Middlebury CCCO page (citing Encyclopedia of Chicago)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1967",
+   "entities": [
+    "storefront-church-phenomenon",
+    "cogic-chicago"
+   ],
+   "event": "Allan Spear's Black Chicago documents the post-migration increase in small Holiness and Pentecostal groups as migrants sought emotional, demonstrative worship.",
+   "source": "Spear (1967), via FSU dissertation excerpt",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1968",
+   "event": "Rev. Clay Evans ordains Rev. Jesse Jackson at Fellowship Missionary Baptist.",
+   "entities": [
+    "fellowship-mbc"
+   ],
+   "source": "Congressional Record vol. 165 (2019); Final Call (2019)",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1968",
+   "entities": [
+    "fellowship-missionary-baptist"
+   ],
+   "event": "Rev. Clay Evans ordains Rev. Jesse Jackson as a minister at Fellowship Missionary Baptist Church.",
+   "source": "Legacy.com / BlackFacts obituary (2019)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1968",
+   "entities": [
+    "clay-evans",
+    "jesse-l-jackson-sr"
+   ],
+   "event": "Clay Evans ordains Jesse Jackson as a Baptist minister at Fellowship Missionary Baptist Church.",
+   "source": "BlackFacts/Legacy obituary summaries; CNN Fast Facts (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1968",
+   "entities": [
+    "church-program-economy"
+   ],
+   "event": "James Cleveland \u2014 boy soprano at Pilgrim Baptist under Dorsey \u2014 founds the Gospel Music Workshop of America (some sources say 1967), institutional successor to the convention model.",
+   "source": "Wikipedia; Internet Archive liner notes",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "d"
+  },
+  {
+   "date": "1969",
+   "entities": [
+    "george-h-clements"
+   ],
+   "event": "Fr. George Clements named first Black pastor of Holy Angels Catholic Church, Bronzeville (serves to 1991).",
+   "source": "Religion News Service; Archdiocese assignment list (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1971",
+   "event": "Evans and Jackson found Operation PUSH; Evans becomes founding national board chairman.",
+   "entities": [
+    "fellowship-mbc"
+   ],
+   "source": "Congressional Record vol. 165 (2019); Wikipedia 'Clay Evans (pastor)'",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "1971-12",
+   "entities": [
+    "jesse-l-jackson-sr",
+    "clay-evans",
+    "operation-push"
+   ],
+   "event": "Jesse Jackson resigns from SCLC and founds Operation PUSH in Chicago; Clay Evans becomes founding national board chairman (serves to 1976).",
+   "source": "CNN Fast Facts; Fellowship Chicago official site (primary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1972",
+   "entities": [
+    "jeremiah-wright",
+    "trinity-ucc"
+   ],
+   "event": "Jeremiah Wright becomes pastor of Trinity United Church of Christ (87 members); builds it over 36 years into an 8,000+ member activist congregation.",
+   "source": "BillMoyers.com (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1972",
+   "entities": [
+    "mosque-maryam",
+    "noi-temple-no-2"
+   ],
+   "event": "Elijah Muhammad purchases the former Saints Constantine and Helen Greek Orthodox Church at 7351 S. Stony Island Ave., South Shore (congregation relocated to Palos Hills), converting it into the NOI's Mosque No. 2/Mosque Maryam; Farrakhan later says Muammar Gaddafi lent $3 million toward the conversion.",
+   "source": "Wikipedia, 'Mosque Maryam'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1972-03-01",
+   "event": "Rev. Dr. Jeremiah A. Wright Jr. becomes pastor of Trinity UCC (some sources give 1971-03-01).",
+   "entities": [
+    "trinity-ucc"
+   ],
+   "source": "Wikipedia 'Jeremiah Wright'; Alchetron",
+   "source_type": "secondary",
+   "verification": "Disputed",
+   "_track": "a"
+  },
+  {
+   "date": "1974",
+   "entities": [
+    "addie-l-wyatt"
+   ],
+   "event": "Addie Wyatt co-founds the Coalition of Labor Union Women and delivers the keynote at its founding meeting.",
+   "source": "The HistoryMakers A2002_096 (primary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1975",
+   "entities": [
+    "addie-l-wyatt"
+   ],
+   "event": "Time magazine names Addie Wyatt one of its 12 women of the year -- the first African-American woman so honored by the magazine (per obituary accounts).",
+   "source": "The Bluegrass Special obituary; Wikipedia (secondary)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "c"
+  },
+  {
+   "date": "1977-08-03",
+   "event": "Quinn Chapel designated a Chicago Landmark.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "City of Chicago Landmarks records",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1979-09-04",
+   "event": "Quinn Chapel listed on the National Register of Historic Places.",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "source": "NPS NRIS #79000827",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1981",
+   "entities": [
+    "george-h-clements"
+   ],
+   "event": "Fr. Clements becomes the first U.S. Catholic priest to adopt a child; founds One Church-One Child.",
+   "source": "Religion News Service; CatholicPhilly (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1981",
+   "entities": [
+    "first-church-of-deliverance"
+   ],
+   "event": "First Church of Deliverance Choir's 'Songs of Deliverance Vol. V' recorded live at the church, self-released on the FCD label.",
+   "source": "Discogs",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1982",
+   "entities": [
+    "washington-1983-voter-drive",
+    "vernon-park-church-of-god"
+   ],
+   "event": "Church-anchored voter registration drive for Harold Washington's mayoral bid: nearly 140,000 new Black voters registered by mid-December (Washington had asked for 50,000); 252 Black ministers endorse; mobile registration vans operate from churches including Vernon Park Church of God.",
+   "source": "Christianity Today (May 1983)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1982",
+   "entities": [
+    "joseph-h-jackson"
+   ],
+   "event": "J.H. Jackson's presidency of the National Baptist Convention ends after ~29 years.",
+   "source": "BlackPast.org; encyclopedia entries (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1983",
+   "entities": [
+    "jesse-l-jackson-sr"
+   ],
+   "event": "Jesse Jackson announces candidacy for the 1984 Democratic presidential nomination (Nov 3, 1983).",
+   "source": "CNN Fast Facts (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1983",
+   "entities": [
+    "fellowship-missionary-baptist-church"
+   ],
+   "event": "Rev. Clay Evans and the Fellowship Missionary Baptist Church Choir release 'Be Still and Know That I Am God' on Jewel Records.",
+   "source": "Discogs",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1984",
+   "entities": [
+    "willie-t-barrow",
+    "jesse-l-jackson-sr",
+    "operation-push"
+   ],
+   "event": "Willie Barrow becomes executive director of Operation PUSH -- the first woman to lead a major civil rights organization (per press accounts). Jackson runs for president; founds National Rainbow Coalition (year disputed 1984-1986).",
+   "source": "Citizen Newspaper Group; Wikipedia; CNN Fast Facts (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1987",
+   "entities": [
+    "fellowship-missionary-baptist-church"
+   ],
+   "event": "'From The Ship' released on Savoy Records; Fellowship choir albums chart on Billboard gospel charts.",
+   "source": "Discogs; YouTube liner notes",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "d"
+  },
+  {
+   "date": "1988",
+   "entities": [
+    "jesse-l-jackson-sr"
+   ],
+   "event": "Jesse Jackson's second campaign for the Democratic presidential nomination.",
+   "source": "CNN Fast Facts (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1988",
+   "entities": [
+    "mosque-maryam"
+   ],
+   "event": "Louis Farrakhan repurchases the Stony Island building; it is named Mosque Maryam (after Mary, mother of Jesus) and serves as NOI national headquarters.",
+   "source": "Wikipedia, 'Mosque Maryam'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "e"
+  },
+  {
+   "date": "1989",
+   "entities": [
+    "clay-evans"
+   ],
+   "event": "Clay Evans becomes founding president/chairman of the African American Religious Connection (serves to 2006).",
+   "source": "Fellowship Chicago official site (primary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1992",
+   "entities": [
+    "project-vote-1992"
+   ],
+   "event": "Barack Obama directs Illinois Project Vote!, recruiting staff and volunteers from Black churches and training 700 deputy registrars (of 11,000 citywide).",
+   "source": "Chicago Magazine, 'Vote of Confidence'",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "1992-10-03",
+   "event": "Barack and Michelle Obama married at Trinity United Church of Christ by Rev. Wright.",
+   "entities": [
+    "trinity-ucc"
+   ],
+   "source": "compiled press references; answers.com",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "1996",
+   "entities": [
+    "operation-push",
+    "willie-t-barrow",
+    "jesse-l-jackson-sr"
+   ],
+   "event": "Operation PUSH and the National Rainbow Coalition merge as the Rainbow PUSH Coalition; Willie Barrow later serves as chairman of the board and CEO.",
+   "source": "CNN Fast Facts; Congressional Record 2015",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "1997",
+   "entities": [
+    "church-mothers",
+    "missionary-societies"
+   ],
+   "event": "Cheryl Townsend Gilkes publishes 'The Politics of Silence' on dual-sex political systems and the Church Mother role in African American religion.",
+   "source": "Gilkes (1997), in African American Christianity (ed. Johnson)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "1998",
+   "entities": [
+    "storefront-church-phenomenon"
+   ],
+   "event": "Robert L. Boyd publishes 'The Storefront Church Ministry...: The Making of an Ethnic Niche' (Social Science Journal), framing storefront ministry as a migrant ethnic niche and the storefront church as a migrant support institution.",
+   "source": "Boyd (1998)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "2000-12-08",
+   "event": "Rev. Charles Jenkins succeeds Rev. Clay Evans as senior pastor of Fellowship Missionary Baptist.",
+   "entities": [
+    "fellowship-mbc"
+   ],
+   "source": "Wikipedia 'Clay Evans (pastor)'; praiseindy.com (2010)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "2003",
+   "event": "Rev. Leon Finney Jr.'s Christ Apostolic Church purchases the Metropolitan building; congregation renamed Metropolitan Apostolic Community Church.",
+   "entities": [
+    "metropolitan-apostolic"
+   ],
+   "source": "Chicago Landmark Designation Report",
+   "source_type": "primary",
+   "verification": "Provisional",
+   "_track": "a"
+  },
+  {
+   "date": "2006-01-06",
+   "event": "Pilgrim Baptist's historic 1891 Sullivan & Adler building destroyed by fire during roof repairs; not rebuilt.",
+   "entities": [
+    "pilgrim-baptist"
+   ],
+   "source": "NPR (2006-01-12); chicagotalks.colum.edu (2015)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "2007",
+   "entities": [
+    "storefront-church-phenomenon",
+    "all-nations-pentecostal-church",
+    "elder-lucy-smith"
+   ],
+   "event": "Wallace D. Best publishes Passionately Human, No Less Divine (Princeton UP): first book-length study of migration-era religion in Black Chicago; argues storefront/Pentecostal churches were community-active innovators, centering Elder Lucy Smith and women's religious leadership.",
+   "source": "Princeton AAS page; book review (Free Online Library)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "2008",
+   "entities": [
+    "jeremiah-wright",
+    "trinity-ucc"
+   ],
+   "event": "Wright retires from Trinity UCC (May 2008) amid the national sermon controversy; Obama denounces the sermons and distances himself.",
+   "source": "BillMoyers.com (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "2008-03",
+   "event": "Trinity UCC recognized as the largest congregation in the United Church of Christ; Rev. Wright retires after 36 years.",
+   "entities": [
+    "trinity-ucc"
+   ],
+   "source": "UCC President John H. Thomas statement (2008)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "2009",
+   "entities": [
+    "contemporary-storefront-churches"
+   ],
+   "event": "Dave Jordano publishes Articles of Faith (Center for American Places): five years of photography documenting small African American community churches in repurposed commercial spaces on Chicago's South and West sides.",
+   "source": "PhilPapers abstract of Jordano (2009)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "2012",
+   "entities": [
+    "addie-l-wyatt"
+   ],
+   "event": "Addie Wyatt dies March 28; her papers go on display at the Vivian G. Harsh Research Collection, Carter G. Woodson Library.",
+   "source": "CTU obituary; HistoryMakers (secondary/primary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "2015",
+   "entities": [
+    "willie-t-barrow"
+   ],
+   "event": "Willie T. Barrow dies March 12; U.S. Senate tribute records her PUSH leadership and civil rights work.",
+   "source": "Congressional Record, Senate, Vol. 161 (primary); NPR Illinois (secondary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "2015-01-31",
+   "entities": [
+    "quinn-chapel-ame"
+   ],
+   "event": "'Souls to the Polls' early-voting initiative announced at Quinn Chapel A.M.E., with religious leaders pledging to transport at least 100 congregations to the polls.",
+   "source": "Medill Reports Chicago (2015-01-31)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "b"
+  },
+  {
+   "date": "2016-10-24",
+   "event": "Ebenezer Missionary Baptist listed on the National Register of Historic Places.",
+   "entities": [
+    "ebenezer-mbc"
+   ],
+   "source": "NPS NRHP #16000734",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "2017",
+   "entities": [
+    "trinity-ucc",
+    "imani-village"
+   ],
+   "event": "Imani Village site dedicated: Trinity UCC's 27-acre (per Christian Century) faith-based development in Pullman with urban farm, planned senior housing, youth athletics, and clinic.",
+   "source": "Christian Century (2017-10-10)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "2019",
+   "entities": [
+    "clay-evans",
+    "george-h-clements"
+   ],
+   "event": "Clay Evans dies November 27 (age 94); George Clements dies November 25 (age 87). Congressional tributes document their civic legacies.",
+   "source": "Congressional Record, House, Vol. 165 (primary); RNS (secondary)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "2019-11-27",
+   "event": "Rev. Clay Evans dies in Chicago at age 94.",
+   "entities": [
+    "fellowship-mbc"
+   ],
+   "source": "Final Call (2019-12-04); Congressional Record vol. 165 (2019)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "a"
+  },
+  {
+   "date": "2024-01-25",
+   "entities": [
+    "contemporary-storefront-churches"
+   ],
+   "event": "WBEZ Curious City episode 'What's the Impact of Storefront Churches on a Community?' reports storefront churches still operating as fixtures in South and West side neighborhoods such as Austin.",
+   "source": "Everand podcast listing (WBEZ, 2024)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "e"
+  },
+  {
+   "date": "2025-04",
+   "entities": [
+    "olivet-baptist-church"
+   ],
+   "event": "Olivet Baptist Church proposes Trinity Square: $157M, 366-unit mixed-income development with daycare, food pantry, workforce incubator, and health clinic on church land at 31st and King Drive.",
+   "source": "Urbanize Chicago (2025-04-20); Chicago Sun-Times (2025-04-29)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  },
+  {
+   "date": "2025-11",
+   "entities": [
+    "trinity-ucc",
+    "imani-village"
+   ],
+   "event": "Ribbon cutting for Imani Village Senior Residence, 9621 S. Cottage Grove Ave.: 70 affordable units, $13.9M in city Department of Housing financing.",
+   "source": "City of Chicago press release (chicago.gov)",
+   "source_type": "primary",
+   "verification": "Verified",
+   "_track": "b"
+  },
+  {
+   "date": "2026-02",
+   "entities": [
+    "jesse-l-jackson-sr"
+   ],
+   "event": "Rev. Jesse L. Jackson Sr. dies at 84; Religion News Service obituary summarizes his Chicago-based ministry and civil rights career.",
+   "source": "Religion News Service obituary (secondary)",
+   "source_type": "secondary",
+   "verification": "Verified",
+   "_track": "c"
+  },
+  {
+   "date": "2026-08",
+   "entities": [
+    "woodlawn-central",
+    "apostolic-church-of-god"
+   ],
+   "event": "Woodlawn Central breaks ground: 8-acre, ~870-home church-led development on Apostolic Church of God land at 63rd and Dorchester.",
+   "source": "J. Byron Brazier, Black Enterprise (2026-09-28)",
+   "source_type": "secondary",
+   "verification": "Provisional",
+   "_track": "b"
+  }
+ ]
+}

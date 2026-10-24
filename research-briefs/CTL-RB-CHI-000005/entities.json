@@ -1,0 +1,271 @@
+{
+  "brief_id": "CTL-RB-CHI-000005",
+  "generated": "2026-09-28",
+  "entities": [
+    {
+      "id": "ENT-PERSON-001",
+      "type": "person",
+      "name": "Rev. Lacy Kirk Williams",
+      "description": "Pastor of Olivet Baptist Church from 1916; directed migrants to housing, provided childcare and the city's first kindergarten.",
+      "provenance": "Encyclopedia of Chicago (Wallace Best); WBEZ 2026",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PERSON-002",
+      "type": "person",
+      "name": "Walter White",
+      "description": "NAACP investigator; reported 1919 Black Belt boundaries and 20+ bombings in The Crisis, Oct. 1919.",
+      "provenance": "The Crisis, Oct. 1919 (primary)",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PERSON-003",
+      "type": "person",
+      "name": "Clyde Ross",
+      "description": "North Lawndale homebuyer on contract; joined the Contract Buyers League in 1968. Purchase year/price disputed (1958/$27,000 vs 1961/$26,000).",
+      "provenance": "Moyers & Company documentary; Coates 'The Case for Reparations'",
+      "grade": "SUPPORTED",
+      "origin": "sibling-derived"
+    },
+    {
+      "id": "ENT-PERSON-004",
+      "type": "person",
+      "name": "Betty Howard",
+      "description": "Black mother whose family moved into Trumbull Park Homes on July 30, 1953, triggering years of white violence.",
+      "provenance": "Encyclopedia of Chicago (D. Bradford Hunt); SAH Archipedia",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PERSON-005",
+      "type": "person",
+      "name": "Donald Howard",
+      "description": "Husband of Betty Howard; co-head of the first Black family in Trumbull Park Homes.",
+      "provenance": "Encyclopedia of Chicago; SAH Archipedia",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PERSON-006",
+      "type": "person",
+      "name": "Richard Wright",
+      "description": "Author; set Native Son (1940) in the Black Belt and documented kitchenette life in 12 Million Black Voices (1941).",
+      "provenance": "University of Chicago biography",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PERSON-007",
+      "type": "person",
+      "name": "Joe LaRue",
+      "description": "Moved to Chatham in 1960; emblematic second-wave far-South-Side pioneer.",
+      "provenance": "Newcity profile",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PERSON-008",
+      "type": "person",
+      "name": "Billy Lamar Brooks Sr.",
+      "description": "North Lawndale activist who aided the Contract Buyers League; subject of Moyers short film 'The Guardian of North Lawndale.'",
+      "provenance": "billmoyers.com (2014)",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-ORG-001",
+      "type": "organization",
+      "name": "Olivet Baptist Church",
+      "description": "South Side church at 3101 S. King Drive (from 1918); migrant reception, housing referrals, childcare, first kindergarten.",
+      "provenance": "Encyc. Chicago; WBEZ; Preservation Chicago",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-ORG-002",
+      "type": "organization",
+      "name": "Wabash Avenue YMCA",
+      "description": "3763 S. Wabash; Rosenwald-funded Black YMCA (opened 1913/1914) providing lodging, job training, education to migrants.",
+      "provenance": "NPS National Register nomination",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-ORG-003",
+      "type": "organization",
+      "name": "Chicago Defender",
+      "description": "Black newspaper; encouraged migration and circulated in the South via Illinois Central trains.",
+      "provenance": "CULtivate report",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-ORG-004",
+      "type": "organization",
+      "name": "Chicago Commission on Race Relations",
+      "description": "Appointed after the 1919 riot; produced the 672-page report The Negro in Chicago (1922).",
+      "provenance": "Internet Archive metadata (verified)",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-ORG-005",
+      "type": "organization",
+      "name": "Chicago Housing Authority (CHA)",
+      "description": "Public housing agency; Neighborhood Composition Rule concentrated 1950s-60s projects in Black areas.",
+      "provenance": "CULtivate report",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-ORG-006",
+      "type": "organization",
+      "name": "Contract Buyers League",
+      "description": "Organization of Black contract homebuyers (from 1968) that fought speculators via payment strikes and lawsuits.",
+      "provenance": "Sibling brief; Moyers documentary",
+      "grade": "VERIFIED",
+      "origin": "sibling-derived"
+    },
+    {
+      "id": "ENT-PLACE-001",
+      "type": "place",
+      "name": "The Black Belt",
+      "description": "Historic South Side Black settlement corridor; boundaries shifted 1919 (railroad-30th-40th-Ellis) through 1940s (Cermak-Lake Michigan-South Chicago-LaSalle).",
+      "provenance": "White 1919; CULtivate",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PLACE-002",
+      "type": "place",
+      "name": "Bronzeville (Black Metropolis)",
+      "description": "Peak-era name for the Black Belt's city-within-a-city; ~300,000 residents, 22nd-63rd, State-Cottage Grove.",
+      "provenance": "Popular histories; talkingblackinamerica.org",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PLACE-003",
+      "type": "place",
+      "name": "North Lawndale",
+      "description": "West Side neighborhood; >90% Black by 1960; center of contract selling.",
+      "provenance": "UIC CAGIS via Chicago Agent Magazine; sibling brief",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PLACE-004",
+      "type": "place",
+      "name": "Trumbull Park Homes",
+      "description": "CHA project; site of 1953-1963 white violence against Black residents.",
+      "provenance": "Encyc. Chicago; Hirsch 1995",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PLACE-005",
+      "type": "place",
+      "name": "Illinois Central Station (12th & Michigan)",
+      "description": "Arrival point for most Great Migration trains; anchor of first-wave settlement geography.",
+      "provenance": "American Immigration Council",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-PLACE-006",
+      "type": "place",
+      "name": "Chatham",
+      "description": "Far South Side neighborhood; blockbusting documented there in 1959; second-wave expansion frontier.",
+      "provenance": "HUD history; Newcity",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-EVENT-001",
+      "type": "event",
+      "name": "Great Migration, First Wave",
+      "description": "c. 1916-1930; 50,000+ arrivals 1916-1919; confinement to the Black Belt.",
+      "provenance": "CULtivate; Encyc. Chicago",
+      "grade": "SUPPORTED",
+      "origin": "new",
+      "date_range": "1916-1930"
+    },
+    {
+      "id": "ENT-EVENT-002",
+      "type": "event",
+      "name": "Great Migration, Second Wave",
+      "description": "1940s-1960s; ~278,000 to ~813,000 Black Chicagoans; South and West Side expansion.",
+      "provenance": "CULtivate; Encyc. Chicago",
+      "grade": "SUPPORTED",
+      "origin": "new",
+      "date_range": "1940-1970"
+    },
+    {
+      "id": "ENT-EVENT-003",
+      "type": "event",
+      "name": "Chicago Race Riot of 1919",
+      "description": "July 27-Aug 3, 1919; 38 dead, 537 injured, 1,000-2,000 homeless.",
+      "provenance": "Encyc. Chicago; Chicago Reader; Britannica",
+      "grade": "VERIFIED",
+      "origin": "new",
+      "date_range": "1919-07-27 to 1919-08-03"
+    },
+    {
+      "id": "ENT-EVENT-004",
+      "type": "event",
+      "name": "Housing bombing campaign",
+      "description": "58 racial bombings, July 1917-March 1921, concentrated in the Black settlement zone.",
+      "provenance": "Chicago Commission on Race Relations (1922)",
+      "grade": "VERIFIED",
+      "origin": "new",
+      "date_range": "1917-1921"
+    },
+    {
+      "id": "ENT-CONCEPT-001",
+      "type": "concept",
+      "name": "Kitchenette",
+      "description": "Subdivided single-room tenure form; 3-5 families per original unit; enabler and constraint.",
+      "provenance": "City of Chicago landmark report",
+      "grade": "VERIFIED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-CONCEPT-002",
+      "type": "concept",
+      "name": "Restrictive covenant",
+      "description": "Legal instrument barring Black occupancy; struck down in Hansberry v. Lee (1940), unenforceable after Shelley v. Kraemer (1948).",
+      "provenance": "Sibling brief; Encyc. Chicago",
+      "grade": "VERIFIED",
+      "origin": "sibling-derived"
+    },
+    {
+      "id": "ENT-CONCEPT-003",
+      "type": "concept",
+      "name": "Contract selling",
+      "description": "Predatory installment home sale with forfeiture clauses; targeted Black buyers denied mortgages.",
+      "provenance": "Sibling brief; Moyers documentary",
+      "grade": "VERIFIED",
+      "origin": "sibling-derived"
+    },
+    {
+      "id": "ENT-CONCEPT-004",
+      "type": "concept",
+      "name": "Blockbusting",
+      "description": "Panic-peddling tactic accelerating white flight and Black neighborhood turnover after 1948.",
+      "provenance": "Fourteeneast; HUD history",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    },
+    {
+      "id": "ENT-CONCEPT-005",
+      "type": "concept",
+      "name": "Neighborhood Composition Rule",
+      "description": "CHA policy concentrating public housing in racially segregated areas.",
+      "provenance": "CULtivate report",
+      "grade": "SUPPORTED",
+      "origin": "new"
+    }
+  ]
+}

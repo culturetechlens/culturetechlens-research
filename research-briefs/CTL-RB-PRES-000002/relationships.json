@@ -1,0 +1,305 @@
+{
+  "brief_id": "CTL-RB-PRES-000002",
+  "generated": "2026-09-28",
+  "edge_rule": "Each edge carries a grade = minimum of its supporting claim grades. Only edges graded VERIFIED or SUPPORTED are included; the original 'VERIFIED-only' spec was relaxed rather than mislabel SUPPORTED claims. Every edge carries claim-ID provenance.",
+  "edge_count": 27,
+  "relationships": [
+    {
+      "source": "ENT-P-ELLINGTON",
+      "relation": "co_founded",
+      "target": "ENT-O-NETNOIR",
+      "date": "1994-1995",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C001"
+      ],
+      "notes": "NetNoir launch June 1995."
+    },
+    {
+      "source": "ENT-P-CASSELLE",
+      "relation": "co_founded",
+      "target": "ENT-O-NETNOIR",
+      "date": "1994-1995",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C001"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-P-GATES",
+      "relation": "co_founded",
+      "target": "ENT-O-AFRICANA",
+      "date": "1999-01",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-P-APPIAH",
+      "relation": "co_founded",
+      "target": "ENT-O-AFRICANA",
+      "date": "1999-01",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-P-FRASIER",
+      "relation": "founded",
+      "target": "ENT-O-DATPIFF",
+      "date": "2005",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C013"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-P-BARBER",
+      "relation": "founded",
+      "target": "ENT-O-FSD",
+      "date": "2007-10",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C028"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-AOL",
+      "relation": "acquired",
+      "target": "ENT-O-AFRICANA",
+      "date": "2000",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "notes": "Time Warner acquisition (~$10M figure provisional)."
+    },
+    {
+      "source": "ENT-O-AFRICANA",
+      "relation": "closed_on",
+      "target": "ENT-E-AFRICANA-CLOSE",
+      "date": "2005-01-31",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-AFRICANA",
+      "relation": "features_migrated_to",
+      "target": "ENT-O-BLACKVOICES",
+      "date": "2005-01-31",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C026"
+      ],
+      "notes": "'Many of the features' moved; completeness unknown."
+    },
+    {
+      "source": "ENT-O-AOL",
+      "relation": "acquired",
+      "target": "ENT-O-BLACKVOICES",
+      "date": "2004-02",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C003"
+      ],
+      "notes": "Acquired from Tribune."
+    },
+    {
+      "source": "ENT-P-WASOW",
+      "relation": "co_founded",
+      "target": "ENT-O-BLACKPLANET",
+      "date": "1999-09-01",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-P-SUN",
+      "relation": "co_founded",
+      "target": "ENT-O-BLACKPLANET",
+      "date": "1999-09-01",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-RADIOONE",
+      "relation": "acquired",
+      "target": "ENT-O-COMMUNITYCONNECT",
+      "date": "2008-04",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C027"
+      ],
+      "notes": "$38M; included BlackPlanet, MiGente, AsianAvenue."
+    },
+    {
+      "source": "ENT-O-MEDIALAB",
+      "relation": "acquired",
+      "target": "ENT-O-DATPIFF",
+      "date": "2019",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C013"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-YAHOO",
+      "relation": "shutdown",
+      "target": "ENT-O-GEOCITIES",
+      "date": "2009-10-26",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C007"
+      ],
+      "notes": "Unrescued content deleted; Yahoo declined to archive."
+    },
+    {
+      "source": "ENT-O-YAHOO",
+      "relation": "deleted_content_of",
+      "target": "ENT-O-YAHOOGROUPS",
+      "date": "2019-12-14",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C009"
+      ],
+      "notes": "All previously posted content."
+    },
+    {
+      "source": "ENT-O-YAHOO",
+      "relation": "closed",
+      "target": "ENT-O-YAHOOGROUPS",
+      "date": "2020-12-15",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C009"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-MYSPACE",
+      "relation": "lost_in_migration",
+      "target": "ENT-E-MYSPACE-LOSS",
+      "date": "2019-03-18",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C005"
+      ],
+      "notes": "~50M songs, 14M artists, 2003-2015; photos/videos also lost."
+    },
+    {
+      "source": "ENT-O-TWITTER",
+      "relation": "discontinued",
+      "target": "ENT-O-VINE",
+      "date": "2017-01-17",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C011"
+      ],
+      "notes": "Read-only archive launched Jan 20, 2017; removed ~Apr 2019 (date provisional)."
+    },
+    {
+      "source": "ENT-O-TWITTER",
+      "relation": "ended_free_access",
+      "target": "ENT-T-TWARC",
+      "date": "2023-02-13",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C015"
+      ],
+      "notes": "API paywall degraded Catalog, Hydrator, twarc."
+    },
+    {
+      "source": "ENT-P-FOSTER",
+      "relation": "co_developed",
+      "target": "ENT-O-ATBW",
+      "date": "2021-2023",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-P-JULES",
+      "relation": "co_developed",
+      "target": "ENT-O-ATBW",
+      "date": "2021-2023",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-ATBW",
+      "relation": "funded_by",
+      "target": "ENT-O-MELLON",
+      "date": "2023-03",
+      "grade": "VERIFIED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C021"
+      ],
+      "notes": "$2.5M Mellon Foundation grant."
+    },
+    {
+      "source": "ENT-O-IA",
+      "relation": "attacked_in",
+      "target": "ENT-E-IA-ATTACK",
+      "date": "2024-10-08",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C020"
+      ],
+      "notes": "31M records breached; DDoS; Wayback down ~6 days."
+    },
+    {
+      "source": "ENT-O-DOCNOW",
+      "relation": "formed_in_response_to",
+      "target": "ENT-E-FERGUSON",
+      "date": "2014-2016",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C031"
+      ],
+      "notes": ""
+    },
+    {
+      "source": "ENT-O-ESPN",
+      "relation": "rebranded",
+      "target": "ENT-E-ANDSCAPE",
+      "date": "2022-02-28",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C029"
+      ],
+      "notes": "The Undefeated -> Andscape; migration control case."
+    },
+    {
+      "source": "ENT-P-PETERSON",
+      "relation": "owner_editor_of",
+      "target": "ENT-O-RACIALICIOUS",
+      "date": "",
+      "grade": "SUPPORTED",
+      "provenance": [
+        "CTL-RB-PRES-000002-C036"
+      ],
+      "notes": "Data & Society / Feminist Wire identify Peterson as Owner/Editor; domain dead 2026-09-28; archive status unresolved."
+    }
+  ]
+}

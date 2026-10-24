@@ -1,0 +1,1724 @@
+{
+  "project": "CTL-DR-ECON-001",
+  "title": "The Black Business Ecosystem",
+  "generated": "2026-09-28",
+  "disputed_date_policy": "Conflicting dates preserved as date_alternatives; do not smooth.",
+  "events": [
+    {
+      "claim": "Lloyd Garrison Wheeler becomes the first Black American admitted to the Illinois bar (1869).",
+      "date": "1869",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-016"
+      ],
+      "source": "Wikipedia (Lloyd G. Wheeler)",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Single chain; bar records not checked."
+    },
+    {
+      "date": "1880",
+      "description": "Black men excluded from the white Knights of Pythias organize the Black order in Vicksburg, Mississippi, under Thomas Stringer.",
+      "entities": [
+        "ECON-W1-012"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Ida Gray graduates from the University of Michigan College of Dentistry as the first African-American woman dentist in the United States.",
+      "date": "1890",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-014"
+      ],
+      "source": "Wikipedia (Ida Gray)",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Single chain; U-M records not checked."
+    },
+    {
+      "claim": "Annie Turnbo Malone (born 1869, Metropolis IL) develops scalp/hair products and begins door-to-door sales in Illinois.",
+      "date": "1890s",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa; SHSMO",
+      "type": "founding"
+    },
+    {
+      "claim": "Ida Platt becomes the first Black woman licensed to practice law in Illinois.",
+      "date": "1894",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-018"
+      ],
+      "source": "Wikipedia (Ida Platt)",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Single chain."
+    },
+    {
+      "claim": "Ida Gray (later Rollins) relocates her dental practice to Chicago, serving Black and white clients.",
+      "date": "1895",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-014"
+      ],
+      "source": "Wikipedia (Ida Gray)",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Single chain; office address not found."
+    },
+    {
+      "claim": "Anthony Overton founded the Hygienic Manufacturing Company in Kansas City, Missouri, with $2,000 in family savings.",
+      "date": "1898",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "BlackPast.org; CTL-DR-BVM-005",
+      "type": "founding"
+    },
+    {
+      "date": "1898/99",
+      "description": "Black Pullman porters found the Improved Benevolent and Protective Order of Elks of the World (Black Elks) in Cincinnati.",
+      "entities": [
+        "ECON-W1-013"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Lloyd Garrison Wheeler founds the Chicago chapter of the National Negro Business League.",
+      "date": "1901",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-016"
+      ],
+      "source": "Wikipedia (Lloyd G. Wheeler)",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Single chain; NNBL chapter records not checked."
+    },
+    {
+      "claim": "Annie Turnbo marries Nelson Pope; Malone meets her later-famous sales agent and rival Madam C.J. Walker c. 1903 (provisional).",
+      "date": "1902",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa; LA Sentinel",
+      "type": "biographical"
+    },
+    {
+      "claim": "Annie Turnbo Malone moves to St. Louis and copyrights the Poro brand; large facility by 1910.",
+      "date": "1902-1910",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Good Black News; AAUW",
+      "type": "founding"
+    },
+    {
+      "claim": "Samuel B. Fuller born June 4, 1905, Monroe, Ouachita Parish, Louisiana.",
+      "date": "1905-06-04",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia 'Samuel B. Fuller'; Face2Face Africa",
+      "type": "biographical"
+    },
+    {
+      "date": "1908",
+      "description": "Jesse Binga opens a private bank \u2014 the first Black-owned bank in the Northern U.S. \u2014 after acquiring the former McCarthy Bank building at 35th & State.",
+      "entities": [
+        "ECON-W1-001"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "claim": "Olive Myrtle Henderson graduates from Northwestern Dental School, Northwestern's first Black woman dental graduate.",
+      "date": "1908",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-014"
+      ],
+      "source": "Northwestern Galter PDF; Mortenson Dental Partners",
+      "source_date": "2016; 2021",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Corroborated by two secondary chains."
+    },
+    {
+      "claim": "Jesse Binga opens a private bank serving Black Chicagoans; state charter (Binga State Bank) follows in 1921.",
+      "date": "1908",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "NPS Black Metropolis nomination; Kansas City Fed (2019)",
+      "type": "finance"
+    },
+    {
+      "date": "1909",
+      "description": "Booker T. Washington hails Binga at the National Negro Business Men's League conference in Louisville.",
+      "entities": [
+        "ECON-W1-001"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Anthony Overton moved Hygienic Manufacturing to Chicago's South Side.",
+      "date": "1911",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "BlackPast.org; Next City (2019)",
+      "type": "relocation"
+    },
+    {
+      "claim": "Olive Myrtle Henderson opens her South Side private practice.",
+      "date": "1912",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-014"
+      ],
+      "source": "Northwestern Galter PDF; Mortenson Dental Partners",
+      "source_date": "2016; 2021",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Practice address not stated."
+    },
+    {
+      "claim": "The Cook County Bar Association is founded by Black lawyers; Edward H. Wright is its first president.",
+      "date": "1914",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-018"
+      ],
+      "source": "Wikipedia (Cook County Bar Association)",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Single chain; CCBA archive not checked."
+    },
+    {
+      "claim": "Anthony Overton founded Half-Century Magazine in Chicago.",
+      "date": "1916",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; ERIC ED189632",
+      "type": "founding"
+    },
+    {
+      "claim": "Marjorie Stewart Joyner becomes the first African American graduate of Chicago's A.B. Molar Beauty School and opens her own beauty salon in Chicago at age 20.",
+      "date": "1916",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Lemelson-MIT Center; Happi",
+      "type": "firm-founding"
+    },
+    {
+      "claim": "Ground is broken for the Jordan Building (NE corner State & 36th), commissioned by Joseph J. Jordan \u2014 the start of the Black-owned/financed State Street building series.",
+      "date": "1916",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-008",
+        "ECON-W4-005"
+      ],
+      "source": "NPS Black Metropolis Thematic Nomination",
+      "source_date": "1985",
+      "source_type": "primary",
+      "uncertainty": "Single authoritative source; financing records not independently checked."
+    },
+    {
+      "claim": "Annie Turnbo Malone founds Poro College in St. Louis \u2014 1917 per Good Black News/Face2Face, 1918 per SHSMO; founding year disputed. (Her Poro beauty business dates to c. 1902.) The St. Louis complex was a manufacturing-and-education hub described as the first U.S. educational institution dedicated to Black cosmetology.",
+      "date": "1917 (disputed)",
+      "date_alternatives": [
+        "1917",
+        "1918"
+      ],
+      "grade": "Disputed",
+      "source": "Good Black News; Face2Face; SHSMO; SHSMO/urbanreviewstl",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Red-team F-002: was rendered as a Verified 1918 founding; founding year remains disputed and the \"first institution\" framing is widely repeated but not verified here.",
+      "related_entities": [
+        "ECON-052"
+      ]
+    },
+    {
+      "date": "1919",
+      "description": "Frank L. Gillespie founds the Liberty Life Insurance Company in Chicago \u2014 the first Black-owned and operated insurer in the northern United States.",
+      "entities": [
+        "ECON-W1-007"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "claim": "Liberty Life Insurance Company incorporated in Chicago by Frank L. Gillespie and Black investors; first Black-owned insurer outside the South.",
+      "date": "1919",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia 'Frank L. Gillespie'; Business History Review",
+      "type": "founding"
+    },
+    {
+      "claim": "Frank L. Gillespie incorporates Liberty Life Insurance Company (later Supreme Life), the first Black-owned and operated insurer in the northern U.S.",
+      "date": "1919",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Chicago Landmark record; Business History Review (Puth)",
+      "type": "finance"
+    },
+    {
+      "claim": "Earl B. Dickerson becomes the first African American to earn a JD from the University of Chicago Law School; he becomes general counsel of Supreme Liberty Life.",
+      "date": "1920",
+      "date_alternatives": "1921 (alternative start year at Supreme Life)",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-013"
+      ],
+      "source": "UChicago Law; NPS; Stanford King Institute",
+      "source_date": "2020-2021; 2022; n.d.",
+      "source_type": "secondary",
+      "uncertainty": "1920 vs 1921 start-year nuance between sources."
+    },
+    {
+      "date": "1921",
+      "description": "13 Black insurance companies meet at North Carolina Mutual's Durham headquarters to found the National Negro Insurance Association, breaking from the NNBL; Binga State Bank receives its Illinois state charter.",
+      "entities": [
+        "ECON-W1-001",
+        "ECON-W1-010"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Supreme Life Building (3501 S. King Drive / S. Parkway) built 1921 by architect Albert Anis.",
+      "date": "1921",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "blackhistoryheroes.com; CTL-DR-BVM-005",
+      "type": "building"
+    },
+    {
+      "claim": "Binga State Bank receives its state charter; deposits exceed $200,000 on opening, reach $1.3M within three years (per secondary profiles).",
+      "date": "1921",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "BlackPast; aaregistry.org",
+      "type": "finance"
+    },
+    {
+      "claim": "Overton commissioned the Overton Hygienic Building, 3619-3627 S. State Street (architect Z. Erol Smith).",
+      "date": "1922",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Next City (2019); CTL-DR-BVM-005",
+      "type": "building"
+    },
+    {
+      "claim": "Douglass National Bank founded by Anthony Overton (year disputed 1921/1922/1923 per BVM-005).",
+      "date": "1922",
+      "date_alternatives": [
+        "1921",
+        "1923"
+      ],
+      "grade": "Disputed",
+      "source": "CTL-DR-BVM-005",
+      "type": "founding"
+    },
+    {
+      "claim": "Douglass National Bank opens (Anthony Overton) in the Overton Hygienic Building; founding year disputed 1921/1922/1923.",
+      "date": "1922",
+      "date_alternatives": [
+        "1921",
+        "1923"
+      ],
+      "grade": "Disputed",
+      "source": "Kansas City Fed (1922); Wikipedia/Overton (1923)",
+      "type": "finance"
+    },
+    {
+      "claim": "Overton commissions the Overton Hygienic Building (3619\u20133627 S. State), housing his cosmetics firm, Victory Life, and Douglass National Bank.",
+      "date": "1922",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-BVM-005",
+      "type": "reinvestment"
+    },
+    {
+      "date": "1922/1923 (disputed)",
+      "description": "Anthony Overton's Douglass National Bank begins operations (founding year disputed: 1921/1922/1923); Overton also founds Victory Life Insurance Company around the same time.",
+      "entities": [
+        "ECON-W1-002",
+        "ECON-W1-008"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "date": "1923",
+      "description": "3,000 delegates attend the Black Elks' national convention in Chicago; Supreme Life (as Liberty Life) buys its 3501 S. King Drive headquarters outright.",
+      "entities": [
+        "ECON-W1-007",
+        "ECON-W1-013"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "date": "1924",
+      "description": "Supreme Life buys outright its 3501 S. King Drive headquarters (originally South Parkway).",
+      "entities": [
+        "ECON-W1-007"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication.",
+      "source": "Chicago Landmark record (blackhistoryheroes.com)"
+    },
+    {
+      "claim": "Supreme Life buys the complete bank building at 3501 S. King Drive (1924).",
+      "date": "1924",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "blackhistoryheroes.com",
+      "type": "real-estate"
+    },
+    {
+      "date": "1925",
+      "description": "The Metropolitan Funeral System Association is founded to sell burial insurance to working-class Black migrants.",
+      "entities": [
+        "ECON-W1-009"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Half-Century Magazine ceased publication.",
+      "date": "1925",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; ERIC ED189632",
+      "type": "closure"
+    },
+    {
+      "claim": "Chicago Metropolitan Assurance Company founded (Black-owned insurer; Weems 1996 book study, 1925\u20131985).",
+      "date": "1925",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Weems, Black Business in the Black Metropolis (via OHCHR submission)",
+      "type": "finance"
+    },
+    {
+      "date": "1926",
+      "description": "19 Black-owned banks and S&Ls organize at Pythias Hall, Philadelphia \u2014 the precursor of the National Negro Bankers Association; the National Pythian Temple rises in Bronzeville (1926 per NPS; 1928 per order history).",
+      "entities": [
+        "ECON-W1-011",
+        "ECON-W1-012"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Poro employs 175 people and reports franchised outlets with some 75,000 women selling Poro products as agents.",
+      "date": "1926",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa; DRLOIH Journal",
+      "type": "scale"
+    },
+    {
+      "claim": "The National Pythian Temple is erected on State Street to Walter T. Bailey's design.",
+      "date": "1926",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-011",
+        "ECON-W4-005"
+      ],
+      "source": "NPS nomination; Art Institute of Chicago; CTL-DR-BVM-005",
+      "source_date": "1985; n.d.; 2026-09-28",
+      "source_type": "secondary",
+      "uncertainty": "Date per BVM-005/NPS."
+    },
+    {
+      "date": "1927",
+      "description": "The National Negro Bankers Association is founded in Durham, N.C., in response to American Bankers Association exclusion.",
+      "entities": [
+        "ECON-W1-011"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Overton's divorce trial year; he won the 1927 NAACP Spingarn Medal (provisional, needs NAACP records).",
+      "date": "1927",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "BlackPast.org",
+      "type": "honor"
+    },
+    {
+      "claim": "Samuel B. Fuller moved to Chicago; after menial jobs managed a coal yard, then joined the Black-owned Commonwealth Burial Association.",
+      "date": "1928",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; FEE",
+      "type": "biographical"
+    },
+    {
+      "date": "1929",
+      "description": "Metropolitan Funeral System Association reaches ~70,000 policyholders; the Binga Arcade Building opens at 35th & State.",
+      "entities": [
+        "ECON-W1-001",
+        "ECON-W1-009"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Liberty Life merged with Supreme Life and Northeastern Life to form the Supreme Liberty Life Insurance Company (provisional; post-1921-depression consolidation).",
+      "date": "1929",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "insurance.museum",
+      "type": "merger"
+    },
+    {
+      "claim": "Chicago Bee Building commissioned by Anthony Overton (1929); Chicago Bee newspaper (1925/26 per BPM-003, founding disputed).",
+      "date": "1929",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Next City (2019); CTL-DR-BVM-005",
+      "type": "building"
+    },
+    {
+      "claim": "Fuller Products incorporated (1929 per Wikipedia/Face2Face; 1934 per HNN; 1935 loan story per Face2Face) \u2014 founding year disputed.",
+      "date": "1929",
+      "date_alternatives": [
+        "1934",
+        "1935"
+      ],
+      "grade": "Disputed",
+      "source": "Wikipedia; HNN (2005); Face2Face Africa",
+      "type": "founding"
+    },
+    {
+      "claim": "James Hale Porter, Joseph D. Bibb, and A.C. MacNeal launch the 'Don't Spend Your Money Where You Can't Work' campaign; Bibb coins the slogan; boycotts target A&P and Silver Dollar Food grocery chains; churches promote the Double Duty Dollar.",
+      "date": "1929",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Opie, Southern Food and Civil Rights; Durham essay (Harsh Collection)",
+      "type": "campaign"
+    },
+    {
+      "claim": "Binga opens the Arcade Building at 35th and State Streets.",
+      "date": "1929",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "BlackPast (via CTL-DR-BVM-005)",
+      "type": "reinvestment"
+    },
+    {
+      "claim": "S.B. Fuller founds Fuller Products with a $25 loan; opens his factory in 1939.",
+      "date": "1929",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "face2faceafrica.com; blacknews.com",
+      "type": "firm"
+    },
+    {
+      "date": "1930",
+      "description": "Binga State Bank closes in June during the Great Depression.",
+      "entities": [
+        "ECON-W1-001"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication.",
+      "source": "NPS; BlackPast"
+    },
+    {
+      "claim": "Annie Turnbo Malone moved Poro's business headquarters from St. Louis to Chicago's 'Poro Block' on South Parkway.",
+      "date": "1930",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "SHSMO; AAUW; LA Sentinel",
+      "type": "relocation"
+    },
+    {
+      "claim": "After a public divorce and lawsuits, Annie Malone relocates Poro to Chicago; the site becomes known as the 'Poro Block.'",
+      "date": "1930",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "DRLOIH Journal; Los Angeles Sentinel; Face2Face Africa",
+      "type": "relocation"
+    },
+    {
+      "claim": "Mary T. Washington opens her own South Side accounting firm.",
+      "date": "1931",
+      "date_alternatives": "1939 (Northwestern Magazine)",
+      "grade": "Disputed",
+      "related_entities": [
+        "ECON-W4-015"
+      ],
+      "source": "Black Enterprise; Northwestern Magazine",
+      "source_date": "2018; 2018",
+      "source_type": "secondary",
+      "uncertainty": "Founding year genuinely disputed between the two sources."
+    },
+    {
+      "claim": "The Regal Theater is sold to the Balaban & Katz chain (corporate consolidation of a Black-audience anchor venue).",
+      "date": "1931",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-BVM-005",
+      "type": "break"
+    },
+    {
+      "date": "1932",
+      "description": "Douglass National Bank fails \u2014 the last Black bank of the Bronzeville era; Victory Life (1922/23\u20131932) ends with the Overton conglomerate.",
+      "entities": [
+        "ECON-W1-002",
+        "ECON-W1-008"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Edward Jones leads negotiations forming the 12-member Policy Syndicate council for Chicago policy matters.",
+      "date": "1932",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa",
+      "type": "informal-economy"
+    },
+    {
+      "claim": "Douglass National Bank fails (the Depression takes Binga's and Overton's banks within two years).",
+      "date": "1932",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-BVM-005 (Nordin/NNBA article)",
+      "type": "break"
+    },
+    {
+      "date": "1933",
+      "description": "Jesse Binga is convicted of embezzling $22,000 in bank funds, sentenced to 10 years; released after 3 following petitions including one from Clarence Darrow.",
+      "entities": [
+        "ECON-W1-001"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Leak & Sons Funeral Homes founded in Chicago by Rev. A.R. Leak ($500 family loan + $500 World's Fair earnings \u2014 family account).",
+      "date": "1933",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise (2026); leakandsonsfuneralhomes.com",
+      "type": "founding"
+    },
+    {
+      "claim": "Rev. A.R. Leak founds what becomes Leak & Sons Funeral Chapels, beginning as Unity Funeral Home, with a $500 loan and $500 earned as a bathroom attendant at the Chicago World's Fair (Century of Progress).",
+      "date": "1933",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise (2026-06-01); Leak & Sons company site",
+      "type": "firm-founding"
+    },
+    {
+      "claim": "James 'Genial Jim' Knight, a policy king, opens the Palm Tavern at 446 E. 47th Street.",
+      "date": "1933",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Daily Northwestern (2001-10-17)",
+      "type": "firm-founding"
+    },
+    {
+      "claim": "The Cosmopolitan Chamber of Commerce is established by Black businessmen.",
+      "date": "1933",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-017"
+      ],
+      "source": "Federal Reserve Bank of Chicago; MWRD",
+      "source_date": "n.d.; 2012",
+      "source_type": "primary",
+      "uncertainty": "National-ranking superlative is attributed, not independently confirmed."
+    },
+    {
+      "claim": "Rev. A.R. Leak founds what becomes Leak & Sons Funeral Homes with ~$1,000 in starting capital.",
+      "date": "1933",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "blackenterprise.com (2026); firm history",
+      "type": "firm"
+    },
+    {
+      "date": "1934",
+      "description": "13 Black South Side leaders pool $7,000 to launch Illinois Federal Savings and Loan in a one-room office at 70 E. 47th Street.",
+      "entities": [
+        "ECON-W1-003"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Supreme Life president Harry H. Pace: Black insurers were organized 'largely in the beginning to furnish ... a place where they could go to get mortgage money.'",
+      "date": "1934",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Houchins, Negro Statistical Bulletin #15 (1937), quoted in Cambridge peer-reviewed article",
+      "type": "finance"
+    },
+    {
+      "claim": "Fuller opened his own factory on the South Side (address unverified).",
+      "date": "1939",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; FEE; Face2Face Africa",
+      "type": "expansion"
+    },
+    {
+      "claim": "Dickerson helps organize the NAACP Legal Defense Fund and becomes Chicago's first Black Democratic alderman (1939-1943).",
+      "date": "1939",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-013"
+      ],
+      "source": "NPS; Stanford King Institute",
+      "source_date": "2022; n.d.",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": ""
+    },
+    {
+      "claim": "Dickerson argues Hansberry v. Lee before the U.S. Supreme Court (decided on res judicata, not on the validity of restrictive covenants generally).",
+      "date": "1940",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-013"
+      ],
+      "source": "UChicago Library guide; UChicago News; CTL-DR-BVM-005",
+      "source_date": "n.d.; 2025; 2026-09-28",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "BVM-005's correction on the ruling's basis is preserved."
+    },
+    {
+      "claim": "HOLC grades the Black Belt corridor D ('hazardous') \u2014 area D74, 35th\u201367th, State to Cottage Grove \u2014 with explicitly racialized reasoning (cross-ref CTL-DR-BVM-005). Redlining constrains mortgage and business credit.",
+      "date": "1940",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Mapping Inequality (dsl.richmond.edu); CTL-DR-BVM-005",
+      "type": "policy"
+    },
+    {
+      "claim": "Johnson Publishing Company founded (1942); founder John H. Johnson had worked four years in Supreme Liberty Life's offices \u2014 the insurer\u2192entrepreneur pipeline.",
+      "date": "1942",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Congressional Record vol. 144",
+      "type": "firm"
+    },
+    {
+      "claim": "John H. Johnson founded Johnson Publishing Company (as Negro Digest Publishing Co.) with a $500 loan; first offices inside the Supreme Life Building, 3501 S. Parkway.",
+      "date": "1942-11",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-BPM-003; stephenhicks.org",
+      "type": "founding"
+    },
+    {
+      "claim": "JPC bought a building at 5619 S. State Street.",
+      "date": "1943",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia 'Johnson Publishing Company'",
+      "type": "real-estate"
+    },
+    {
+      "claim": "Mary T. Washington becomes the first Black woman CPA in the United States.",
+      "date": "1943",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-015"
+      ],
+      "source": "Northwestern Magazine; Black Enterprise",
+      "source_date": "2018; 2018",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": ""
+    },
+    {
+      "date": "1946",
+      "description": "Metropolitan reorganizes as the Metropolitan Mutual Assurance Company and expands from burial to life insurance.",
+      "entities": [
+        "ECON-W1-009"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "The Jones brothers stand at the top of Chicago's policy syndicate; Edward Jones is abducted this year amid mob pressure.",
+      "date": "1946",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa; bronzevillelife.com",
+      "type": "informal-economy"
+    },
+    {
+      "claim": "Anthony Overton died (July 2 per Wikipedia; July 3 per BVM-005).",
+      "date": "1946-07",
+      "date_alternatives": [
+        "1946-07-02",
+        "1946-07-03"
+      ],
+      "grade": "Disputed",
+      "source": "Wikipedia; CTL-DR-BVM-005",
+      "type": "biographical"
+    },
+    {
+      "claim": "Fuller secretly purchased his supplier Boyer International Laboratories to save it from bankruptcy; expanded into deodorant, hosiery, suits.",
+      "date": "1947",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; FEE; Face2Face Africa",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Fuller secretly purchases his supplier Boyer International Laboratories (backward integration).",
+      "date": "1947",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "face2faceafrica.com",
+      "type": "firm"
+    },
+    {
+      "date": "1948",
+      "description": "The National Negro Insurance Association renames itself the National Insurance Association; the National Negro Bankers Association renames itself the National Bankers Association.",
+      "entities": [
+        "ECON-W1-010",
+        "ECON-W1-011"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Lake Meadows clearance begins (1948\u20131954): New York Life invests ~$18M; 100+ acres cleared; thousands of Black residents and property owners displaced; Black-led conservation alternative (Barnett/Supreme Liberty Life) fails for lack of capital.",
+      "date": "1948",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Ellington Elite Realty history (2025); CTL-DR-BVM-005",
+      "type": "policy"
+    },
+    {
+      "claim": "JPC moved to 1820 S. Michigan Avenue (former funeral home); first major white advertiser Zenith (1947); Chrysler signed 1954.",
+      "date": "1949",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; stephenhicks.org",
+      "type": "relocation"
+    },
+    {
+      "claim": "Dempsey Travis founds the Travis Realty Company.",
+      "date": "1949",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-007"
+      ],
+      "source": "HistoryMakers finding aid; Wikipedia",
+      "source_date": "n.d. (interview 2000-01-11); n.d.",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Finding aid summarizes an oral history."
+    },
+    {
+      "claim": "Charlie Parker plays the Pershing Ballroom (Pershing Hotel complex, 63rd Street).",
+      "date": "1950",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-PLACE-001 research-brief.md",
+      "type": "commerce"
+    },
+    {
+      "claim": "White Citizens Councils organized a boycott of Fuller's Nadal product line after learning the company was Black-owned (1950s).",
+      "date": "1950s",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Wikipedia; Face2Face Africa",
+      "type": "attack"
+    },
+    {
+      "date": "1951",
+      "description": "Metropolitan Life sues Metropolitan Mutual over the name 'Metropolitan'; the Chicago company is forced to rename itself the Chicago Metropolitan Mutual Assurance Company.",
+      "entities": [
+        "ECON-W1-009"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Malone lost control of Poro to the U.S. government and creditors over tax debts.",
+      "date": "1951",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa; LA Sentinel",
+      "type": "closure"
+    },
+    {
+      "claim": "Poro Beauty Colleges still operate in 30+ cities, but Malone loses control of Poro to the government and creditors over tax debt.",
+      "date": "1951",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "San Diego Free Press; Face2Face Africa; Los Angeles Sentinel",
+      "type": "firm-loss"
+    },
+    {
+      "claim": "Theodore 'Teddy' Roe is shotgunned outside his home at 5239 S. Michigan Avenue after refusing the Chicago Outfit's policy takeover; his 81-car funeral procession is the largest for a Black Chicagoan since Jack Johnson in 1946.",
+      "date": "1952-08-04",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Wikipedia 'Theodore Roe'; Crime Magazine",
+      "type": "informal-economy"
+    },
+    {
+      "claim": "Dempsey Travis founds the Sivart Mortgage Company.",
+      "date": "1953",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-007"
+      ],
+      "source": "HistoryMakers finding aid; Wikipedia",
+      "source_date": "n.d. (interview 2000-01-11); n.d.",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": ""
+    },
+    {
+      "claim": "Johnson Products Company founded in Chicago by George E. and Joan Johnson ($250 loan, basement start).",
+      "date": "1954",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise; BET.com",
+      "type": "founding"
+    },
+    {
+      "claim": "George and Joan Johnson found Johnson Products in Chicago with a reported $250 loan.",
+      "date": "1954",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-009",
+        "ECON-W4-002"
+      ],
+      "source": "AP (Hamilton County Herald); v103",
+      "source_date": "2026-07",
+      "source_type": "secondary",
+      "type": "milestone",
+      "uncertainty": "Plant address not stated in sources found."
+    },
+    {
+      "date": "1956",
+      "description": "Chicago Metropolitan Mutual holds over $10 million in total admitted assets, operating across Illinois, Indiana, and Missouri.",
+      "entities": [
+        "ECON-W1-009"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Geraldine 'Mama Gerri' Oliver takes ownership of the Palm Tavern at 446 E. 47th Street.",
+      "date": "1956",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Daily Northwestern (2001-10-17)",
+      "type": "ownership"
+    },
+    {
+      "claim": "Annie Turnbo Malone died in Chicago, May 10, 1957; estate valued at $100,000.",
+      "date": "1957-05-10",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "SHSMO; LA Sentinel",
+      "type": "biographical"
+    },
+    {
+      "claim": "Annie Turnbo Malone dies in Chicago; her estate is valued at $100,000.",
+      "date": "1957-05-10",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Los Angeles Sentinel; DRLOIH Journal",
+      "type": "death"
+    },
+    {
+      "claim": "Ahmad Jamal's landmark 'But Not for Me' recordings are made at the Pershing Lounge (Budland), 63rd Street.",
+      "date": "1958",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-PLACE-001 research-brief.md",
+      "type": "commerce"
+    },
+    {
+      "claim": "Leak & Sons relocated to 78th & Cottage Grove (7838 S. Cottage Grove).",
+      "date": "1959",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "leakandsonsfuneralhomes.com",
+      "type": "relocation"
+    },
+    {
+      "claim": "Leak & Sons relocates to 7838 S. Cottage Grove, its long-term flagship location.",
+      "date": "1959",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Leak & Sons company site",
+      "type": "relocation"
+    },
+    {
+      "date": "1960",
+      "description": "Supreme Life ranks as the third-largest Black life insurance company in the nation.",
+      "entities": [
+        "ECON-W1-007"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "claim": "Travis founds the United Mortgage Bankers of America.",
+      "date": "1960",
+      "date_alternatives": "1961 (Wikipedia)",
+      "grade": "Disputed",
+      "related_entities": [
+        "ECON-W4-007"
+      ],
+      "source": "HistoryMakers finding aid; Wikipedia",
+      "source_date": "n.d. (crawled 2026-09-28)",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Founding year disputed between the two sources."
+    },
+    {
+      "date": "1961",
+      "description": "Illinois Service Federal breaks ground on its $1 million, 6,000-sq-ft building at 4619 S. King Drive, holding nearly $12 million in assets at 25 years.",
+      "entities": [
+        "ECON-W1-003"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "S.B. Fuller purchased the Regal Theater from the Englestein Company \u2014 first Black ownership (demolished 1973).",
+      "date": "1961",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "City of Chicago New Regal Theater report (1989)",
+      "type": "acquisition"
+    },
+    {
+      "claim": "S.B. Fuller purchases the Regal Theater \u2014 the first Black ownership of the 47th Street venue.",
+      "date": "1961",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-010",
+        "ECON-W4-005"
+      ],
+      "source": "CTL-DR-BVM-005 | CTL-DR-BVM-005 (City of Chicago 1989 landmark report)",
+      "source_date": "2026-09-28",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Inherited from BVM-005."
+    },
+    {
+      "claim": "Fuller was the first African American inducted into the National Association of Manufacturers; his 1963 remarks triggered anger among Black leaders and a boycott of Fuller Products.",
+      "date": "1963",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; Face2Face Africa",
+      "type": "controversy"
+    },
+    {
+      "claim": "Leonard & Phil Chess bought WHFC-AM 1450 and created WVON, 'The Voice of the Negro' (white-owned at founding).",
+      "date": "1963",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Congressional Record; Searcy (2012)",
+      "type": "founding"
+    },
+    {
+      "claim": "Fuller's controversial 1963 speeches (NAM; Baptist convention) trigger boycott calls from Black leaders and white-racist pressure; Fuller Products begins the decline that ends in bankruptcy.",
+      "date": "1963",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "hnn.us; face2faceafrica.com",
+      "type": "break"
+    },
+    {
+      "date": "1964",
+      "description": "Alvin Boutte co-founds Independence Bank of Chicago with $800,000 to serve the Chatham-Avalon community.",
+      "entities": [
+        "ECON-W1-005"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Soft Sheen Products, Inc. co-founded by Edward and Bettiann Gardner in their Chicago basement.",
+      "date": "1964",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "TheHistoryMakers.org",
+      "type": "founding"
+    },
+    {
+      "claim": "George E. Johnson founded Independence Bank in Chicago; it grew into the largest Black-owned bank in the U.S. in the 1980s (sold 1994) \u2014 provisional.",
+      "date": "1964",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa",
+      "type": "founding"
+    },
+    {
+      "claim": "Leak & Sons handles funeral services for Sam Cooke in Chicago; thousands gather before burial in Los Angeles.",
+      "date": "1964",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "TikTok @officialfuneralworld",
+      "type": "commerce"
+    },
+    {
+      "claim": "George E. Johnson co-founds Independence Bank at 79th & Cottage Grove.",
+      "date": "1964",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-002",
+        "ECON-W4-009"
+      ],
+      "source": "Newcity Design; AP via v103",
+      "source_date": "2015-11-19; 2026-07",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Building date (1964) from Newcity; charter records not checked."
+    },
+    {
+      "date": "1965",
+      "description": "Seaway National Bank is established at 8555 S. Cottage Grove to counter discriminatory lending on the South Side.",
+      "entities": [
+        "ECON-W1-004"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Seaway Bank and Trust Company founded (8555 S. Cottage Grove) to counter discriminatory South Side lending; $1M raised door-to-door.",
+      "date": "1965",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Banking Exchange; Black Enterprise; Citizen Newspaper Group",
+      "type": "founding"
+    },
+    {
+      "claim": "Pittsburgh Courier sold to John H. Sengstacke (Chicago Defender), 1965 \u2014 contradicts Fuller-ownership claims.",
+      "date": "1965",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "E&P (2017); Wikipedia 'Pittsburgh Courier'; Pitt Chronicle (2010)",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Chicago's Poro College building later purchased by St. James AME Church and demolished (1965) to build The James House \u2014 provisional.",
+      "date": "1965",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Face2Face Africa",
+      "type": "demolition"
+    },
+    {
+      "claim": "Civil-rights organizers picket white-owned Madison Street businesses for discriminatory hiring.",
+      "date": "1965",
+      "date_alternatives": [
+        "1965-1966"
+      ],
+      "grade": "Verified",
+      "source": "ProPublica",
+      "type": "protest"
+    },
+    {
+      "claim": "Seaway National Bank opens in Chicago.",
+      "date": "1965",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "IDFPR closing release (2017)",
+      "type": "finance"
+    },
+    {
+      "claim": "King and SCLC organizers picket white-owned Madison Street businesses (1965-1966) over Black employment and wages.",
+      "date": "1965-1966",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-001"
+      ],
+      "source": "ProPublica",
+      "source_date": "2020-11-11",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Single investigative source; SCLC/CFM archives not checked."
+    },
+    {
+      "claim": "Operation Breadbasket (SCLC Chicago, Jesse Jackson) launches; Easter-weekend boycott of Country Delight dairy ($500K+ company loss) wins 44 jobs; by July 22, 1966: 224 jobs / $1.8M annual payroll across five dairy settlements.",
+      "date": "1966",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Royal Holloway PhD thesis (2024, citing SCLC board records)",
+      "type": "campaign"
+    },
+    {
+      "claim": "Maxwell Street declared 'a slum and blighted'; UIC receives permission to exercise eminent domain (held off for years, depressing area property values).",
+      "date": "1966",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "chicago.citycast.fm",
+      "type": "policy"
+    },
+    {
+      "claim": "Seaway National assets grow $7.4M \u2192 $12.6M; president Howard Algar attributes ~10% of the $5.2M deposit increase to Breadbasket; Stevenson (Ill. Treasurer) deposits $300K state funds each in Seaway, Independence Bank, and three Black S&Ls.",
+      "date": "1967",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "JEST journal article (Beltramini, citing 1968\u201369 sources)",
+      "type": "reinvestment"
+    },
+    {
+      "claim": "Fuller lost the Regal Theater amid financial problems.",
+      "date": "1968",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "City of Chicago New Regal Theater report (1989)",
+      "type": "loss"
+    },
+    {
+      "claim": "Fuller sold unregistered promissory notes; pled guilty to federal securities violation; 5 years' probation; $1.6M repayment order.",
+      "date": "1968",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; Face2Face Africa",
+      "type": "legal"
+    },
+    {
+      "claim": "George Daniels starts managing a Black-owned wholesale record store on Michigan Avenue.",
+      "date": "1968",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "The HistoryMakers finding aid A2007_156",
+      "type": "employment"
+    },
+    {
+      "claim": "Fair Housing Act passes; with housing restrictions lifted, middle-class and wealthy Black Chicagoans leave Bronzeville 'in droves' \u2014 draining customers and capital from South Side business corridors.",
+      "date": "1968",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "voices.uchicago.edu (UChicago student research, 2019)",
+      "type": "break"
+    },
+    {
+      "claim": "Regal Theater closes (c.1968) \u2014 Fuller's recapture fails to hold; venue demolished 1973.",
+      "date": "1968",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-BVM-005",
+      "type": "break"
+    },
+    {
+      "claim": "After the April 1968 assassination of Martin Luther King Jr., riots destroy more than 100 businesses on Madison Street; rebuilding promises stall.",
+      "date": "1968-04",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "ProPublica",
+      "type": "destruction"
+    },
+    {
+      "claim": "The April 1968 uprising destroys more than 100 businesses on Madison Street; a 28-block stretch of W. Madison is consumed.",
+      "date": "1968-04",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-001"
+      ],
+      "source": "ProPublica; Wikipedia (1968 Chicago riots)",
+      "source_date": "2020-11-11; n.d.",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Exact counts differ across sources."
+    },
+    {
+      "claim": "Riots after MLK's assassination: 28-block stretch of West Madison Street consumed; 36 major fires in six hours (Apr 5); 200+ buildings damaged, damage up to $10M; Chicago Tribune (2012): 162 buildings destroyed by arson, vacant lots remained empty three decades later.",
+      "date": "1968-04-05",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia (King assassination riots); Chicago Tribune via usdeadlyevents.com (James Coates, 2012)",
+      "type": "break"
+    },
+    {
+      "claim": "George Daniels assumes ownership of the Michigan Avenue wholesale record store, renaming it George's Music Room.",
+      "date": "1969",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "The HistoryMakers finding aid A2007_156",
+      "type": "ownership"
+    },
+    {
+      "claim": "Fuller Products files for bankruptcy (year disputed 1969 vs 1971); company later owned by Dudley Products.",
+      "date": "1969",
+      "date_alternatives": [
+        "1971"
+      ],
+      "grade": "Disputed",
+      "source": "hnn.us (1969); face2faceafrica.com (1971)",
+      "type": "break"
+    },
+    {
+      "claim": "The Johnson Publishing Company Building (820 S. Michigan) is built to John Moutoussamy's design and dedicated on May 16, 1972.",
+      "date": "1969-1972",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-012"
+      ],
+      "source": "City of Chicago landmark designation report",
+      "source_date": "2017-10",
+      "source_type": "primary",
+      "type": "milestone",
+      "uncertainty": ""
+    },
+    {
+      "claim": "Fuller Products entered bankruptcy \u2014 1969 (HNN) vs 1971 (Wikipedia/Face2Face); reorganization 1972 reported $300K profit.",
+      "date": "1971",
+      "date_alternatives": [
+        "1969"
+      ],
+      "grade": "Disputed",
+      "source": "Wikipedia vs HNN (2005)",
+      "type": "bankruptcy"
+    },
+    {
+      "claim": "Johnson Products became the first Black-owned company traded on a U.S. stock exchange (AMEX per BE; NYSE per BET \u2014 exchange disputed) and began sponsoring Soul Train (first Black company to sponsor a national TV program).",
+      "date": "1971",
+      "date_alternatives": [],
+      "grade": "Disputed",
+      "source": "Black Enterprise; BET.com; Wikipedia",
+      "type": "milestone"
+    },
+    {
+      "claim": "Operation Breadbasket ends (December 1971); evolves into Operation PUSH. Claimed cumulative: 4,500 jobs, $57.5M annual South Side gains.",
+      "date": "1971",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Wikipedia; Deppe (via tertulia.com)",
+      "type": "campaign"
+    },
+    {
+      "claim": "JPC moved to 820 S. Michigan Avenue (Moutoussamy-designed HQ; land bought via white lawyer in trust for $250K cash).",
+      "date": "1971-12",
+      "date_alternatives": [
+        "1972"
+      ],
+      "grade": "Verified",
+      "source": "Wikipedia; Swann Galleries (2020); Succeeding Against the Odds (1989)",
+      "type": "real-estate"
+    },
+    {
+      "claim": "Moo & Oink renamed (from Calumet Meat Co., 1976); becomes South/West Side grocery-meat chain (4 stores, 200 employees).",
+      "date": "1976",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "en.wikipedia.org; drloihjournal.blogspot.com",
+      "type": "firm"
+    },
+    {
+      "date": "1977",
+      "description": "Rev. Shelvin Jerome Hall founds the Community Bank of Lawndale \u2014 the first Black-owned bank on Chicago's West Side \u2014 with $2 million in starting capital.",
+      "entities": [
+        "ECON-W1-006"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "claim": "Overton Hygienic Manufacturing Co. closes (end of the 1898\u20131983 run).",
+      "date": "1983",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "racked.com (2017)",
+      "type": "break"
+    },
+    {
+      "claim": "Joe Dudley brought to Chicago (1976) to run Fuller Products; Dudley purchased the company in 1984.",
+      "date": "1984",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Wikipedia; HNN (2005)",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Chicago enacts initial MWBE program guidelines (January 1984) and adopts its affirmative-action set-aside program (April 1985).",
+      "date": "1984-1985",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-019",
+        "ECON-W4-017"
+      ],
+      "source": "CaseMine (court opinions); Public Works",
+      "source_date": "2001-2003; 2004-02",
+      "source_type": "primary",
+      "uncertainty": "Executive-order vs ordinance nuance unresolved."
+    },
+    {
+      "claim": "A Gardner-headed group bought the shuttered Avalon Theater; reopened October 1987 as the New Regal Theater ($9.6M renovation).",
+      "date": "1987-10",
+      "date_alternatives": [
+        "1985"
+      ],
+      "grade": "Verified",
+      "source": "City of Chicago New Regal Theater report (1989)",
+      "type": "acquisition"
+    },
+    {
+      "date": "1988",
+      "description": "Indecorp buys the healthy white-owned Drexel National Bank \u2014 the first such acquisition by a Black-controlled financial institution.",
+      "entities": [
+        "ECON-W1-005"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "claim": "Soft Sheen merged with Carson Products to form SoftSheen-Carson (1988).",
+      "date": "1988",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "Black Enterprise",
+      "type": "merger"
+    },
+    {
+      "claim": "S.B. Fuller died October 24, 1988, Blue Island, IL.",
+      "date": "1988-10-24",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; Face2Face Africa (2020)",
+      "type": "biographical"
+    },
+    {
+      "claim": "Soft Sheen named Black Enterprise Company of the Year (1989); 1989 Johnson divorce reshaped Johnson Products control.",
+      "date": "1989",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise; Wikipedia",
+      "type": "milestone"
+    },
+    {
+      "claim": "Richmond v. J.A. Croson Co. (488 U.S. 469) tightens the legal standard for race-based set-asides; Chicago revises its program in July 1990.",
+      "date": "1989-1990",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-019"
+      ],
+      "source": "CaseMine (court opinions)",
+      "source_date": "2001-2003",
+      "source_type": "primary",
+      "type": "event",
+      "uncertainty": ""
+    },
+    {
+      "date": "1990s (mid)",
+      "description": "Indecorp sells Independence and Drexel (~$279M assets) to ShoreBank Corp.; the earlier sale to Black-owned OmniBanc collapses; Chicago Metropolitan becomes a division of Atlanta Life.",
+      "entities": [
+        "ECON-W1-005",
+        "ECON-W1-009"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Johnson Products sold to Ivax Corp (1993), ending Black control; Operation PUSH called for boycott.",
+      "date": "1993",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Wikipedia; Black Enterprise",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Over vendor and preservationist protests, the Maxwell Street Market is demolished for UIC campus expansion.",
+      "date": "1994",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "In These Times; Wikipedia 'Maxwell Street'",
+      "type": "destruction"
+    },
+    {
+      "claim": "The Maxwell Street Market is moved to Canal Street (1994) to accommodate UIC expansion; final buildings demolished 2002; vendors fall from 1,200+ at heyday to ~35 today.",
+      "date": "1994",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "chicago.gov; chicago.citycast.fm",
+      "type": "break"
+    },
+    {
+      "claim": "The Builders Association of Greater Chicago files suit against the city's MWBE program (96 C 1122).",
+      "date": "1996",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-019"
+      ],
+      "source": "CaseMine",
+      "source_date": "2001-2003 (opinions)",
+      "source_type": "primary",
+      "type": "event",
+      "uncertainty": ""
+    },
+    {
+      "claim": "L'Or\u00e9al of Paris acquired SoftSheen-Carson (1998).",
+      "date": "1998",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise; TheHistoryMakers.org",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Supreme Life taken over by the Illinois Department of Insurance (1999, insolvency) \u2014 provisional.",
+      "date": "1999",
+      "date_alternatives": [],
+      "grade": "Provisional",
+      "source": "answers.com",
+      "type": "closure"
+    },
+    {
+      "claim": "A Cook County 40% minority set-aside is struck down by a federal judge for lack of evidence of discrimination \u2014 a parallel documented exclusion case.",
+      "date": "2000",
+      "date_alternatives": "",
+      "grade": "Provisional",
+      "related_entities": [
+        "ECON-W4-019"
+      ],
+      "source": "Feminist Majority Foundation",
+      "source_date": "~2000",
+      "source_type": "secondary",
+      "type": "event",
+      "uncertainty": "Single chain; case citation not verified."
+    },
+    {
+      "claim": "The city wins eminent-domain proceedings and boards up Gerri's Palm Tavern at 446 E. 47th Street after a kitchen fire exposed code violations.",
+      "date": "2001",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Daily Northwestern (2001-10-17); MAS Context",
+      "type": "firm-loss"
+    },
+    {
+      "claim": "Nationally, African American minority depository institutions decline 48 (2001) \u2192 23 (2018); MDIs 2.5\u00d7 more likely to fail than non-MDI banks.",
+      "date": "2001",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "FDIC, Minority Depository Institutions: Structure, Performance, and Social Impact (2019)",
+      "type": "break"
+    },
+    {
+      "date": "2003",
+      "description": "The South Side Community Federal Credit Union is founded at 5401 S. Wentworth \u2014 Chicago's only Black-owned community credit union.",
+      "entities": [
+        "ECON-W1-014"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "claim": "P&G acquired Johnson Products (2003 via Wella; 2004 per cosmeticsbusiness).",
+      "date": "2003",
+      "date_alternatives": [
+        "2004"
+      ],
+      "grade": "Verified",
+      "source": "Black Enterprise; cosmeticsbusiness.com",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Judge James B. Moran rules Chicago's MBE/WBE program unconstitutional as not narrowly tailored, staying the order six months for a rewrite.",
+      "date": "2003-12-29",
+      "date_alternatives": "",
+      "grade": "Verified",
+      "related_entities": [
+        "ECON-W4-019"
+      ],
+      "source": "Public Works; CaseMine",
+      "source_date": "2004-02; 2003",
+      "source_type": "primary",
+      "type": "event",
+      "uncertainty": ""
+    },
+    {
+      "date": "2008",
+      "description": "Living Word Christian Center acquires Community Bank of Lawndale for $3 million from 3,000+ church-member investors and renames it Covenant Bank.",
+      "entities": [
+        "ECON-W1-006"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Black investor consortium (Eric Brown / Renee Cottrell-Brown) bought Johnson Products back from P&G, restoring Black ownership (2009).",
+      "date": "2009-03",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "BET.com (2009); Black Enterprise (2009)",
+      "type": "acquisition"
+    },
+    {
+      "claim": "Moo & Oink retail stores enter Chapter 7 bankruptcy (Sept 30, 2011); all four stores close; brand/IP sold at auction ($530,000, 2012) to Best Chicago Meat Co., the Black-owned supplier of 30 years \u2014 which rebuilds distribution to 300 stores in five states.",
+      "date": "2011",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "meatpoultry.com (2011); theshelbyreport.com (2026); activeboard.com (Meat & Poultry staff)",
+      "type": "break"
+    },
+    {
+      "claim": "JPC sold its HQ late 2010; transaction closed January 2011 (Columbia College Chicago).",
+      "date": "2011-01",
+      "date_alternatives": [
+        "2010"
+      ],
+      "grade": "Verified",
+      "source": "CTL-DR-BPM-003 red-team.md",
+      "type": "real-estate"
+    },
+    {
+      "date": "2013",
+      "description": "Covenant Bank is closed by regulators; Liberty Bank buys its assets for over $58 million.",
+      "entities": [
+        "ECON-W1-006"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "date": "2016",
+      "description": "Groupe Nduom (Ghanaian-American) acquires Illinois Service Federal via voluntary supervisory conversion, renaming it GN Bank.",
+      "entities": [
+        "ECON-W1-003"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Johnson Publishing sells Ebony/Jet to Clear View Group (2016); JPC liquidates in Chapter 7 (April 2019) \u2014 the ad-financed model ends without intergenerational transfer.",
+      "date": "2016",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "CTL-DR-BPM-003",
+      "type": "break"
+    },
+    {
+      "date": "2017",
+      "description": "Federal regulators shut Seaway National Bank ($547M assets, 11 branches); assets pass to Self-Help Federal Credit Union.",
+      "entities": [
+        "ECON-W1-004"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "Seaway National Bank closed by IDFPR/FDIC (Jan 27, 2017): poor corporate governance and risk management; $361M assets; $57.2M loss to the Deposit Insurance Fund; nine branches sold to Self-Help Federal Credit Union.",
+      "date": "2017",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "IDFPR release; FDIC OIG Material Loss Review",
+      "type": "break"
+    },
+    {
+      "claim": "Seaway failed; FDIC receiver appointed January 2017 \u2014 the largest recent loss of Black banking infrastructure in Chicago.",
+      "date": "2017-01",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Banking Exchange (2017)",
+      "type": "closure"
+    },
+    {
+      "claim": "Woodstock Institute 'Patterns of Disparity: Small Business Lending in Illinois': in the Chicago region, nonwhite census tracts (>40% nonwhite) would have received 28,000 more loans and $350M more (2015\u20132017) at parity \u2014 documented small-business credit gap.",
+      "date": "2019",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "WBEZ reporting of Woodstock Institute report; moguldom.com",
+      "type": "break"
+    },
+    {
+      "date": "2022",
+      "description": "Alpha Kappa Alpha receives a federal charter for the For Members Only Federal Credit Union, the first Black-owned, woman-led, sorority-based digital credit union.",
+      "entities": [
+        "ECON-W1-016"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication. SUPERLATIVE UNVERIFIED \u2014 do not render as fact."
+    },
+    {
+      "date": "2023",
+      "description": "The Leaders Network of Black pastors breaks ground on the Leaders Network Credit Union in Austin (opening projected February 2024; status unresolved).",
+      "entities": [
+        "ECON-W1-015"
+      ],
+      "grade": "Provisional",
+      "uncertainty": "Grade assigned at merge (Provisional default): source not captured in worker output \u2014 verify before publication."
+    },
+    {
+      "claim": "The 'six-hour dollar' claim is debunked as an urban myth by Howard University's TruthBeTold and economist William Spriggs; it traces to Brooke Stephens's 1996 book, which names no study.",
+      "date": "2023",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "moguldom.com (2023)",
+      "type": "disputed_claim"
+    },
+    {
+      "claim": "Bettiann Gardner (Soft Sheen co-founder) died December 19, 2023, age 93.",
+      "date": "2023-12-19",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise (2023)",
+      "type": "biographical"
+    },
+    {
+      "claim": "Spencer Leak Jr., third-generation leader of Leak & Sons, died May 31, 2026, age 56; firm continues under fourth-generation family leadership.",
+      "date": "2026-05-31",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise (2026)",
+      "type": "biographical"
+    },
+    {
+      "claim": "Spencer Leak Jr., third-generation vice president of Leak & Sons, dies at age 56.",
+      "date": "2026-05-31",
+      "date_alternatives": [],
+      "grade": "Verified",
+      "source": "Black Enterprise (2026-06-01)",
+      "type": "death"
+    }
+  ]
+}

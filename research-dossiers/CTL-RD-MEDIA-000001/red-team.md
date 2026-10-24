@@ -1,0 +1,24 @@
+# CTL-RD-MEDIA-000001 — Red Team
+
+Verdicts on the Appendix C checklist, recorded 2026-09-28 (v1.0).
+
+- [x] **Unsupported claims:** every §15 claim traces to §16 evidence — PASS. All 37 claims have per-claim records EF-C-001…EF-C-037 in CTL-EF-MEDIA-000001.
+- [x] **Circular sourcing:** no source corroborated only by its own repetitions — PASS, with one flagged risk. The Motown-first claim (EF-C-019) may rest on a single narrative thread (Davis 2013 + Danois 2013 possibly sharing a source) — flagged in the evidence file; claim kept SUPPORTED and attributed.
+- [x] **Myths repeated as facts:** §27 adjudicates every widely repeated claim — PASS. Five myths adjudicated: the 1983 talk-format anachronism (REFUTED), the Spann/South 1963 purchase (REFUTED), the 1989 talk-switch date (misattributed to WGCI-AM), the "Voice of the Nation" original-branding claim (UNRESOLVED rename date), the Motown arrangement (attributed).
+- [x] **Date conflicts:** checked against contradictions.json — PASS. `contradictions.json` was parsed for WVON entries (Rush 2022 tribute claim on Spann/South 1963 purchase vs. Chess-purchase record). Harmonization: the Chess-purchase record (contemporary 1963 trade press + 3 legislative sources) prevails; the 2022 passage is recorded as internally inconsistent and REFUTED in the evidence file. WNUS price conflict recorded as DISPUTED, not harmonized by fiat.
+- [x] **Name ambiguity:** §04 disambiguates; no two entities share an ID — PASS. WHFC/WEHS/WXOL/WCEV/WGCI/WVON call-sign and facility distinctions preserved; 39 entities, all IDs unique, validated.
+- [x] **Geographic errors:** addresses verified; community areas not collapsed — PASS. South Lawndale, Chatham, Ashburn, South Loop kept distinct; post-2007 street numbers withheld (undocumented).
+- [x] **Anachronisms:** every dated claim checked against the timeline — PASS. This dossier's core discipline: the full ownership/frequency timeline was established from primary evidence BEFORE any era role claim was written. The WVON/1983 lesson (BMI-002 red team) is explicitly applied in EF-C-016/EF-C-017 and §27 MYTH-001.
+- [x] **Causation without evidence:** no "led to"/"caused" without documented mechanism — PASS. The 1983 Washington support is specified via Palmer's organizing mechanism; the Motown "influenced other markets" claim is kept attributed to its sources; the 1984 call-restoration → +50% audience claim is single-source and graded SUPPORTED, not stated as proven causation.
+- [x] **Selection bias:** what survives vs. what existed — PASS, stated. Collector airchecks and trade-press traces are acknowledged as a partial record; internal station records, advertiser lists, and program logs are missing (dossier §28).
+- [x] **Celebrity bias:** ordinary people/workers included where documented — PARTIAL. Rank-and-file staff (engineers, producers) are thinly documented in the sources; Larry Langford (engineer) and Perri Small (producer) are named where found. The gap is recorded in §28 as a structural archival bias, not papered over.
+- [x] **Survivorship bias:** defunct subjects' thinner records acknowledged — N/A (station survives), but the WHFC pre-1963 record is acknowledged as thinner than the WVON record.
+- [x] **Missing women:** explicitly searched — PASS. Isabel Joseph Johnson, Bernadine C. Washington, Yvonne Daniels, and Melody Spann Cooper are all recorded; the absence of additional documented women on the 1960s–70s air staff is stated as a searched gap, not assumed.
+- [x] **Missing institutions:** institutional context mapped — PASS. Chess Records, Globetrotter, Combined/Gannett, Midway, iHeartMedia, Motown, Operation PUSH, Chicago Defender, Premiere Networks.
+- [x] **Duplicate entities:** checked against duplicates.json — PASS. Reuses canon-wvon, canon-chess-records, canon-wgci, canon-operation-push, canon-chicago-defender. (Note: b-wvon, PLACE-095, wvon remain in their BMI-002/PLACE-001/BCI-001 clusters per the audit; this dossier does not re-cluster them.)
+- [x] **Weak visual provenance:** every image/video has creator, date, source, rights — PASS (by default): zero images/videos cleared in v1.0; all candidates listed as UNCLEARED in visuals.md. Nothing published without clearance.
+- [x] **Copyright/rights:** §33 log complete; nothing reproduced without clearance — PASS. Trade-press excerpts are brief/descriptive; no aircheck audio hosted or embedded.
+- [x] **Privacy:** no private locations or sensitive personal information exposed — PASS. No private residences; post-2007 studio street numbers withheld.
+- [x] **Sensitive subjects:** dignity maintained — PASS. King-assassination material is evidence-first and unsensational.
+
+**Red-team disposition:** v1.0 clears with two standing cautions carried into the evidence file: (1) EF-C-019 (Motown-first) possible single-thread sourcing; (2) EF-C-011 (WNUS price) DISPUTED. Both are visible in the grades, not hidden.

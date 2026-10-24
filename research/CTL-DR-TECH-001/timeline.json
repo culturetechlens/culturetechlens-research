@@ -1,0 +1,1129 @@
+{
+  "project": "CTL-DR-TECH-001",
+  "count": 117,
+  "events": [
+    {
+      "event": "Pullman rolls out the first railroad dining car, the Delmonico, on the Chicago & Alton between Chicago and Springfield; dining cars are staffed by Black cooks and waiters.",
+      "evidence": "NYHistory: 'In 1868 George Pullman... rolled out the first railroad dining car. It was dubbed the Delmonico... ran on the Chicago and Alton Railroad between Chicago and Springfield, Illinois.'",
+      "source": "NYHistory, 'Dining in Transit'",
+      "verification": "Provisional",
+      "year": 1868,
+      "track": "b-labor",
+      "id": "TECH-T-001"
+    },
+    {
+      "event": "The first Black Pullman porter is hired, beginning the Black railroad service workforce.",
+      "evidence": "Durbin (1969): 'The first Negro porter was hired in 1870.'",
+      "source": "Durbin, Trains magazine (1969)",
+      "verification": "Provisional",
+      "year": 1870,
+      "track": "b-labor",
+      "id": "TECH-T-002"
+    },
+    {
+      "event": "Elijah McCoy patents the automatic steam-chest locomotive lubricator (U.S. Patent 129,843), born of his work as a fireman/oiler on the Michigan Central.",
+      "evidence": "The Engineer (Feb 2024).",
+      "source": "The Engineer",
+      "verification": "Verified",
+      "year": 1872,
+      "track": "b-labor",
+      "id": "TECH-T-003"
+    },
+    {
+      "event": "U.S. Steel's Gary Works begins producing steel; the integrated mill (coke ovens, blast furnaces, open-hearth furnaces, rolling mills) draws Black Great Migration labor.",
+      "evidence": "Gary Works production began 1908; Gary Black population 340 (1910) to 5,500 (1920).",
+      "source": "scholarworks.iu.edu; Gary Works histories",
+      "verification": "Provisional",
+      "year": 1908,
+      "track": "b-labor",
+      "id": "TECH-T-004"
+    },
+    {
+      "event": "Robert Crawford, 17, builds a fully functioning wireless station (homemade transmitter, receiver, telegraph key) while at Wendell Phillips High School; identified as the only Black member of Chicago's local Wireless Club",
+      "evidence": "Ryan Ellett, 'Destination: Radio' (OTRR)",
+      "source": "mail.otrr.org",
+      "verification": "Provisional",
+      "year": 1916,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-005"
+    },
+    {
+      "event": "1919 steel strike: companies bring 30,000-40,000 Black and Mexican American workers into the mills; in Chicago, the race riot engulfs the Stockyards district and Black packinghouse workers are escorted in by state militia on August 8.",
+      "evidence": "Wikipedia '1919 General Steel Strike'; Halpern (Cambridge) on Aug 8, 1919 militia escort.",
+      "source": "Wikipedia; Halpern (Cambridge)",
+      "verification": "Provisional",
+      "year": 1919,
+      "track": "b-labor",
+      "id": "TECH-T-006"
+    },
+    {
+      "event": "Sam Taylor founds Taylor Electric in Chicago, described as the first Black-owned construction company in the city.",
+      "evidence": "IBEW official post.",
+      "source": "IBEW",
+      "verification": "Provisional",
+      "year": 1922,
+      "track": "b-labor",
+      "id": "TECH-T-007"
+    },
+    {
+      "event": "Ford Chicago Assembly (Torrence Avenue) begins production with the Model T.",
+      "evidence": "Wikipedia, 'Chicago Assembly Plant.'",
+      "source": "Wikipedia",
+      "verification": "Provisional",
+      "year": 1924,
+      "track": "b-labor",
+      "id": "TECH-T-008"
+    },
+    {
+      "event": "Brotherhood of Sleeping Car Porters founded, August 25, under A. Philip Randolph.",
+      "evidence": "Labor Notes; Black Enterprise.",
+      "source": "Labor Notes; Black Enterprise",
+      "verification": "Verified",
+      "year": 1925,
+      "track": "b-labor",
+      "id": "TECH-T-009"
+    },
+    {
+      "event": "Steel Workers Organizing Committee (SWOC) Local 1010 formed at Inland Steel, Indiana Harbor; William Young among original members, elected vice-president of merged Lodge 1010 in January 1938.",
+      "evidence": "Wikipedia 'Inland Steel Company'; usw1010.org.",
+      "source": "Wikipedia; usw1010.org",
+      "verification": "Provisional",
+      "year": 1936,
+      "track": "b-labor",
+      "id": "TECH-T-010"
+    },
+    {
+      "event": "BSCP wins recognition from the Pullman Company, August 25 — first Black-led union contract with a major U.S. corporation; Memorial Day Massacre in South Chicago (10 killed) during the Little Steel strike.",
+      "evidence": "Black Enterprise; Wikipedia 'Inland Steel Company.'",
+      "source": "Black Enterprise; Wikipedia",
+      "verification": "Verified",
+      "year": 1937,
+      "track": "b-labor",
+      "id": "TECH-T-011"
+    },
+    {
+      "event": "Black electricians of IBEW Charter 9362 attain full membership in Chicago's IBEW Local 134.",
+      "evidence": "IBEW official post.",
+      "source": "IBEW",
+      "verification": "Provisional",
+      "year": 1942,
+      "track": "b-labor",
+      "id": "TECH-T-012"
+    },
+    {
+      "event": "NACA establishes the segregated West Area Computing unit at Langley; Dorothy Vaughan hired into it.",
+      "evidence": "Scientific American; National Geographic.",
+      "source": "Scientific American; National Geographic",
+      "verification": "Verified",
+      "year": 1943,
+      "track": "b-labor",
+      "id": "TECH-T-013"
+    },
+    {
+      "event": "Dorothy Vaughan becomes the first African-American supervisor at NACA, heading the West Area Computing unit.",
+      "evidence": "National Geographic.",
+      "source": "National Geographic",
+      "verification": "Verified",
+      "year": 1949,
+      "track": "b-labor",
+      "id": "TECH-T-014"
+    },
+    {
+      "event": "Katherine Johnson hired as a human 'computer' at NACA Langley, assigned to the West Area Computing section.",
+      "evidence": "NASA (2021).",
+      "source": "NASA",
+      "verification": "Verified",
+      "year": 1953,
+      "track": "b-labor",
+      "id": "TECH-T-015"
+    },
+    {
+      "event": "Bill Putnam's Universal Recording moves to 46 E. Walton St.; Malcolm Chisholm enters the industry under Putnam — the nursery for Chicago's blues-recording engineers",
+      "evidence": "Wikipedia 'Universal Recording Corporation'; Linden (2013)",
+      "source": "Wikipedia; MEIEA Journal",
+      "verification": "Provisional",
+      "year": 1955,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-016"
+    },
+    {
+      "event": "Universal releases half-speed-mastered discs on Mercury (1956); studio 'firsts' include tape repeat, the vocal booth, early 8-track, delay lines",
+      "evidence": "Wikipedia 'Universal Recording Corporation'",
+      "source": "Wikipedia",
+      "verification": "Provisional",
+      "year": 1956,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-017"
+    },
+    {
+      "event": "Chess moves to 2120 S. Michigan; studio designed by audio engineer Jack Weiner opens late 1957 as Sheldon Recording Studios",
+      "evidence": "Wikipedia 'Chess Records'",
+      "source": "Wikipedia",
+      "verification": "Provisional",
+      "year": 1957,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-018"
+    },
+    {
+      "event": "NACA becomes NASA; segregated facilities, including the West Computing office, are abolished.",
+      "evidence": "West Area Computers history.",
+      "source": "Wikipedia, 'West Area Computers'",
+      "verification": "Provisional",
+      "year": 1958,
+      "track": "b-labor",
+      "id": "TECH-T-019"
+    },
+    {
+      "event": "Chess takes control of the 2120 studio (Sheldon subsidiary) and hires Malcolm Chisholm from Universal Recording",
+      "evidence": "City of Chicago Chess landmark report",
+      "source": "Chicago landmark report",
+      "verification": "Verified",
+      "year": 1958,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-020"
+    },
+    {
+      "event": "Chisholm leaves for California; Ron Malo replaces him and builds dual echo chambers in the basement",
+      "evidence": "City of Chicago Chess landmark report",
+      "source": "Chicago landmark report",
+      "verification": "Verified",
+      "year": 1959,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-021"
+    },
+    {
+      "event": "NAACP report documents 'almost total exclusion' of Black workers from construction apprenticeships (60 of 9,360 electrician apprentices Black).",
+      "evidence": "ENR; reason.com.",
+      "source": "ENR; reason.com",
+      "verification": "Verified",
+      "year": 1960,
+      "track": "b-labor",
+      "id": "TECH-T-022"
+    },
+    {
+      "event": "John Glenn's orbital flight proceeds after Katherine Johnson hand-verifies the IBM 7090's computed trajectory.",
+      "evidence": "NASA; National Geographic.",
+      "source": "NASA; National Geographic",
+      "verification": "Verified",
+      "year": 1962,
+      "track": "b-labor",
+      "id": "TECH-T-023"
+    },
+    {
+      "event": "WVON launches on 1450 AM (1,000W day/250W night); a young Larry Langford serves as reporter/engineer",
+      "evidence": "Wikipedia 'WVON' (power specs); Alchetron/Wikipedia (Langford)",
+      "source": "Wikipedia; Alchetron",
+      "verification": "Provisional",
+      "year": 1963,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-024"
+    },
+    {
+      "event": "Chess buys the 8-story factory at 320 E. 21st St.; move completed late 1966/early 1967; becomes a vertically integrated record factory",
+      "evidence": "City of Chicago Chess landmark report",
+      "source": "Chicago landmark report",
+      "verification": "Verified",
+      "year": 1966,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-025"
+    },
+    {
+      "event": "Pullman Company ceases sleeping-car operation, December 31, 1968, ending the porter era.",
+      "evidence": "Durbin (1969); interestingengineering.",
+      "source": "Durbin; Interesting Engineering",
+      "verification": "Verified",
+      "year": 1968,
+      "track": "b-labor",
+      "id": "TECH-T-026"
+    },
+    {
+      "event": "Chicago Tribune (May 11) describes the 320 E. 21st St. plant: eight-track stereo tapes → vinyl master discs → nickel-plated stampers → records mass-produced, jacketed, packed, shipped in one building; 'performance to record shop in 24 hours'",
+      "evidence": "City of Chicago Chess landmark report quoting Chicago Tribune",
+      "source": "Chicago landmark report",
+      "verification": "Verified",
+      "year": 1969,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-027"
+    },
+    {
+      "event": "Mary Wallace becomes the first female CTA bus driver (State Street/36A route, July 9, 1974).",
+      "evidence": "Face2Face Africa; Connecting the Windy City (citing Chicago Tribune).",
+      "source": "Face2Face Africa; Connecting the Windy City",
+      "verification": "Verified",
+      "year": 1974,
+      "track": "b-labor",
+      "id": "TECH-T-028"
+    },
+    {
+      "event": "Ron Hardy starts DJing at Chicago gay club Den One with two turntables, a mixer, and a reel-to-reel tape deck",
+      "evidence": "Wikipedia 'Ron Hardy'",
+      "source": "Wikipedia",
+      "verification": "Provisional",
+      "year": 1974,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-029"
+    },
+    {
+      "event": "WVON moves 1450→1390 (5,000W ex-WNUS); Midway Broadcasting's WXOL launches on 1450 (1979)",
+      "evidence": "Sibling CTL-DR-BMI-002 (Congressional Record; station histories)",
+      "source": "CTL-DR-BMI-002 track C",
+      "verification": "Verified",
+      "year": 1975,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-030"
+    },
+    {
+      "event": "Black Data Processing Associates (BDPA) founded by Earl Pace (Philadelphia); becomes a key pipeline for Black computing careers",
+      "evidence": "Named in McIlwain's Black Software as a Black professional computing organization; founding year 1975 is widely cited but not re-verified from a primary source this pass",
+      "source": "Theory, Culture & Society review of Black Software",
+      "verification": "Provisional",
+      "year": 1975,
+      "track": "d-digital",
+      "id": "TECH-T-031"
+    },
+    {
+      "event": "Fairchild releases the Channel F, the first home video game console with interchangeable game cartridges; Jerry Lawson led the engineering team that adapted the prototype",
+      "evidence": "Google Arts & Culture / The Strong National Museum of Play; artifacts include 1975 prototype boards and 1976 Math Quiz cartridge",
+      "source": "Google Arts & Culture (The Strong)",
+      "verification": "Verified",
+      "year": 1976,
+      "track": "d-digital",
+      "id": "TECH-T-032"
+    },
+    {
+      "event": "Richard Long & Associates (Studio 54's system designer) installs the Warehouse sound system; Knuckles uses its crossover as a performance instrument",
+      "evidence": "Robert Williams interview, Chicago Magazine (2018-08); disco sound-system scholarship",
+      "source": "Chicago Magazine; are.na PDF",
+      "verification": "Verified",
+      "year": 1977,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-033"
+    },
+    {
+      "event": "Emmit McHenry founds Network Solutions, Inc.; the company becomes the first domain-name registrar, central to the development of the DNS",
+      "evidence": "Wikipedia (Emmit McHenry): founded 1979, first company to register domain names",
+      "source": "Wikipedia (Emmit McHenry)",
+      "verification": "Provisional",
+      "year": 1979,
+      "track": "d-digital",
+      "id": "TECH-T-034"
+    },
+    {
+      "event": "Jerry Lawson leaves Fairchild and founds Video Soft, one of the first Black-owned video game development companies, producing software for the Atari 2600",
+      "evidence": "Google Arts & Culture / The Strong: Video Soft founded 1982",
+      "source": "Google Arts & Culture (The Strong)",
+      "verification": "Verified",
+      "year": 1982,
+      "track": "d-digital",
+      "id": "TECH-T-035"
+    },
+    {
+      "event": "Larry Sherman buys the Music/Musical Products pressing plant in Bridgeport and begins pressing records",
+      "evidence": "Wikipedia 'Trax Records'; myhouseradio.fm",
+      "source": "Wikipedia; myhouseradio.fm",
+      "verification": "Verified",
+      "year": 1983,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-036"
+    },
+    {
+      "event": "Roland releases the TR-909 drum machine; after commercial failure and discontinuation (1985), it is adopted by Chicago house and Detroit techno producers as the genre-defining instrument",
+      "evidence": "Wikipedia (Roland TR-909); MusicRadar (Knuckles/May account)",
+      "source": "Wikipedia (Roland TR-909); MusicRadar",
+      "verification": "Verified",
+      "year": 1983,
+      "track": "d-digital",
+      "id": "TECH-T-037"
+    },
+    {
+      "event": "Jesse Saunders & Vince Lawrence record 'On and On' on a Tascam 4-track with TR-808 and Korg Poly 61; Sherman presses it at his plant; Trax founded",
+      "evidence": "MusicRadar; GO BANG! (Rachael Cain interview)",
+      "source": "MusicRadar; GO BANG!",
+      "verification": "Verified",
+      "year": 1984,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-038"
+    },
+    {
+      "event": "Marshall Jefferson buys his first rig (QX1, JX-8P, EX-800, TR-707, TR-808, Boss mixer, Tascam PortaOne 4-track, TB-303 for $150); Derrick May sells Frankie Knuckles a Roland TR-909, which Knuckles wires into the Power Plant club mixer",
+      "evidence": "Jefferson interview, MusicRadar; Knuckles interview, RBMA 1995",
+      "source": "MusicRadar; Red Bull Music Academy",
+      "verification": "Verified",
+      "year": 1984,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-039"
+    },
+    {
+      "event": "Phuture (DJ Pierre, Spanky, Herb J) buy a second-hand TB-303 for $40; Pierre's live knob-twisting jam becomes 'Acid Tracks'",
+      "evidence": "DJ Mag (DJ Pierre interviews)",
+      "source": "DJ Mag",
+      "verification": "Verified",
+      "year": 1985,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-040"
+    },
+    {
+      "event": "Mr. Fingers' 'Can You Feel It' cut by Larry Heard in one pass on Juno-60 + TR-909 bounced between two cassette decks (Trax); Jefferson's 'Move Your Body' piano laid at 40bpm, sped to 120bpm",
+      "evidence": "Heard 2017 Vice interview (via Wikipedia); MusicRadar",
+      "source": "Vice via Wikipedia; MusicRadar",
+      "verification": "Verified",
+      "year": 1986,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-041"
+    },
+    {
+      "event": "Phuture's 'Acid Tracks' released on Trax; given to Ron Hardy on cassette as 'In Your Mind' and broken at the Music Box",
+      "evidence": "DJ Mag; sibling CTL-DR-BMI-002",
+      "source": "DJ Mag",
+      "verification": "Verified",
+      "year": 1987,
+      "track": "c-broadcast-recording",
+      "id": "TECH-T-042"
+    },
+    {
+      "event": "Akai releases the MPC60, designed with Roger Linn; it becomes the standard beat-making instrument of hip-hop",
+      "evidence": "MusicRadar; Voices.no",
+      "source": "MusicRadar; Voices.no",
+      "verification": "Verified",
+      "year": 1988,
+      "track": "d-digital",
+      "id": "TECH-T-043"
+    },
+    {
+      "event": "AfroNet BBS active in the late 1980s, one of the earliest documented Black digital community networks",
+      "evidence": "McIlwain via Marketplace: 'a bulletin board group called the AfroNet that sprang up in the late '80s'",
+      "source": "Marketplace (2021 interview with McIlwain)",
+      "verification": "Provisional",
+      "year": 1988,
+      "track": "d-digital",
+      "id": "TECH-T-044"
+    },
+    {
+      "event": "NetNoir launches as an AOL channel for Afrocentric music, sports, education and business news, founded by E. David Ellington and Malcolm CasSelle",
+      "evidence": "Futurity: 'dreamed up NetNoir, a stylish portal... made available to AOL subscribers'; McIlwain marketplace interview places NetNoir among high-profile mid-90s Black web companies",
+      "source": "Futurity; Marketplace",
+      "verification": "Provisional",
+      "year": 1995,
+      "track": "d-digital",
+      "id": "TECH-T-045"
+    },
+    {
+      "event": "Farai Chideya launches Popandpolitics.com, 'one of the world's earliest blogs'",
+      "evidence": "Futurity",
+      "source": "Futurity",
+      "verification": "Provisional",
+      "year": 1995,
+      "track": "d-digital",
+      "id": "TECH-T-046"
+    },
+    {
+      "year": 1997,
+      "event": "Latanya Sweeney re-identifies Massachusetts Governor William Weld's 'anonymized' medical record, launching modern data-privacy research; leads to k-anonymity and changes to HIPAA-era de-identification practice.",
+      "evidence": "Harvard Magazine (Nov 2024) and Harvard Online accounts of the Weld experiment.",
+      "source": "https://harvardmagazine.com/2024/11/technology-election-impact-harvard-latanya-sweeney-research",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-047"
+    },
+    {
+      "event": "Ford and the EEOC sign a $7.75M settlement over sexual and racial harassment at the Chicago Assembly and Stamping plants.",
+      "evidence": "theautowire (2026).",
+      "source": "theautowire",
+      "verification": "Provisional",
+      "year": 1999,
+      "track": "b-labor",
+      "id": "TECH-T-048"
+    },
+    {
+      "event": "Omar Wasow founds BlackPlanet, one of the first large-scale identity-based social networks; Myspace's founders were later quoted in Businessweek as having studied BlackPlanet as their model",
+      "evidence": "NPR Tell Me More (2013)",
+      "source": "NPR (2013)",
+      "verification": "Verified",
+      "year": 1999,
+      "track": "d-digital",
+      "id": "TECH-T-049"
+    },
+    {
+      "event": "Kanye West produces the core of JAY-Z's The Blueprint on an Ensoniq ASR-10 sampler (with MPC 2000 and Roland VS-1880 in his home-studio workflow), defining the 'chipmunk soul' Chicago production era",
+      "evidence": "Just Blaze's Instagram post identifying the ASR-10 used during the Dynasty/Blueprint/BP2/Black Album sessions at Baseline (HotNewHipHop; Hypebeast, 2021)",
+      "source": "HotNewHipHop; Hypebeast",
+      "verification": "Verified",
+      "year": 2001,
+      "track": "d-digital",
+      "id": "TECH-T-050"
+    },
+    {
+      "event": "Pew Research Center's first study of Black Twitter overindexing: 26% of African Americans online used Twitter vs 19% of whites online",
+      "evidence": "Andscape: 'In October 2009, the Pew Research Center released the first study of black people overindexing on Twitter'",
+      "source": "Andscape",
+      "verification": "Verified",
+      "year": 2009,
+      "track": "d-digital",
+      "id": "TECH-T-051"
+    },
+    {
+      "year": 2016,
+      "event": "Timnit Gebru begins organizing what becomes Black in AI after counting few Black attendees at NeurIPS 2016; Joy Buolamwini founds the Algorithmic Justice League.",
+      "evidence": "The Gradient profile of Gebru; AJL founding reported in multiple biographies of Buolamwini.",
+      "source": "https://en.wikipedia.org/wiki/Black_in_AI",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-052"
+    },
+    {
+      "event": "EEOC announces up to $10.125M Ford settlement after finding cause on harassment of female and Black employees at the Chicago plants.",
+      "evidence": "theautowire (2026).",
+      "source": "theautowire",
+      "verification": "Provisional",
+      "year": 2017,
+      "track": "b-labor",
+      "id": "TECH-T-053"
+    },
+    {
+      "year": 2017,
+      "event": "First Black in AI workshop held at NeurIPS (Long Beach); Rediet Abebe and Timnit Gebru are the organization's founders; Data for Black Lives founded by Yeshimabeit Milner and Lucas Mason-Brown.",
+      "evidence": "Black in AI Wikipedia history; D4BL Wikipedia (formation November 2017).",
+      "source": "https://en.wikipedia.org/wiki/Black_in_AI",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-054"
+    },
+    {
+      "year": 2018,
+      "event": "Gender Shades published (Buolamwini & Gebru): commercial facial classification error rates of 0.8% for lighter-skinned men vs. up to 34.7% for darker-skinned women.",
+      "evidence": "MIT Technology Review Innovator profile of Buolamwini.",
+      "source": "https://www.technologyreview.com/innovator/joy-buolamwini/",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-055"
+    },
+    {
+      "year": 2019,
+      "event": "'Ghost Work' (Mary L. Gray & Siddharth Suri) documents the hidden human data-annotation and content-moderation labor behind AI; Ruha Benjamin publishes 'Race After Technology: Abolitionist Tools for the New Jim Code.'",
+      "evidence": "Publishers Weekly review of Ghost Work (2019); Princeton research news on Race After Technology (June 2019).",
+      "source": "https://research.princeton.edu/news/benjamins-race-after-technology-speaks-growing-concern-among-many-tech-bias",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-056"
+    },
+    {
+      "year": 2019,
+      "event": "Raji's audit of Amazon Rekognition documents gender and racial bias in the product, intensifying pressure on Amazon; Amazon was hostile to the findings.",
+      "evidence": "ZDNet interview with Raji; racismandtechnology.center summary.",
+      "source": "https://en.wikipedia.org/wiki/Deborah_Raji",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-057"
+    },
+    {
+      "year": 2020,
+      "event": "IBM and Amazon pause or restrict police sales of facial recognition amid the audit findings, employee activism, and racial-justice protests; 'Coded Bias' documentary (dir. Shalini Kantayya, featuring Buolamwini and Raji) premieres.",
+      "evidence": "Wikipedia (Deborah Raji) on IBM/Amazon decisions; documentary coverage.",
+      "source": "https://en.wikipedia.org/wiki/Deborah_Raji",
+      "verification": "Provisional",
+      "track": "e-ai",
+      "id": "TECH-T-058"
+    },
+    {
+      "year": 2020,
+      "event": "December 2, 2020: Timnit Gebru's exit from Google over the 'stochastic parrots' paper; ~2,700 Google employees and 4,300+ academics sign in support; Black in AI, Queer in AI, and Widening NLP refuse Google funding in protest (2021).",
+      "evidence": "thebluf.news account; Black in AI Wikipedia.",
+      "source": "https://www.thebluf.news/p/timnit-gebru-not-a-feeling-a-fact",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-059"
+    },
+    {
+      "event": "Jason Parham's Wired feature 'A People's History of Black Twitter' documents the community's origins (early hashtags #twitterafterdark, #youknowyoureblackwhen) and its role in memes and #BlackLivesMatter",
+      "evidence": "RogerEbert.com review summarizing the piece; Hulu 3-part adaptation (2024)",
+      "source": "RogerEbert.com",
+      "verification": "Verified",
+      "year": 2021,
+      "track": "d-digital",
+      "id": "TECH-T-060"
+    },
+    {
+      "event": "Klassen et al. publish 'More than a Modern Day Green Book' (CSCW), a peer-reviewed interview study framing Black Twitter as a modern Green Book",
+      "evidence": "ACM CSCW2, Article 458, October 2021",
+      "source": "NSF PAR / CSCW",
+      "verification": "Verified",
+      "year": 2021,
+      "track": "d-digital",
+      "id": "TECH-T-061"
+    },
+    {
+      "year": 2021,
+      "event": "December 2, 2021: Gebru founds the Distributed AI Research Institute (DAIR).",
+      "evidence": "Ford Foundation interview with Gebru; thebluf.news.",
+      "source": "http://www.jwbrineiiifoundation.org/index-482.html",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-062"
+    },
+    {
+      "year": 2022,
+      "event": "Marian Croak inducted into the National Inventors Hall of Fame (one of the first two Black women) for VoIP inventions.",
+      "evidence": "IEEE awards bio; Wikipedia.",
+      "source": "https://corporate-awards.ieee.org/speaker/marian-croak/",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-063"
+    },
+    {
+      "year": 2023,
+      "event": "Microsoft retires face-based gender classification in Azure Face API, acknowledging problems with inferring such attributes; Buolamwini publishes 'Unmasking AI.'",
+      "evidence": "Secondary summaries of Gender Shades industry impact.",
+      "source": "https://www.klover.ai/timnit-gebru/",
+      "verification": "Provisional",
+      "track": "e-ai",
+      "id": "TECH-T-064"
+    },
+    {
+      "year": 2024,
+      "event": "ChatBlackGPT launches on Juneteenth (June 19, 2024) as a culturally informed AI platform for Black and African American perspectives; Nvidia names its flagship AI-training GPU architecture 'Blackwell' after David Blackwell.",
+      "evidence": "CRN on ChatBlackGPT launch; eurweb on Nvidia naming.",
+      "source": "https://www.crn.com/columns/running-your-business/is-chatblackgpt-the-answer-to-genai-bias",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-065"
+    },
+    {
+      "year": 2026,
+      "event": "Marian Croak and Moustapha Cisse named to TIME's 100 Most Influential People in AI (2026).",
+      "evidence": "Google announcement (LinkedIn) and UrbanGeekz.",
+      "source": "https://www.urbangeekz.com/2026/09/meet-the-5-black-innovators-named-to-the-time100-ai-list/",
+      "verification": "Verified",
+      "track": "e-ai",
+      "id": "TECH-T-066"
+    },
+    {
+      "date": "1821-03-03",
+      "entity_ids": [
+        "thomas-jennings"
+      ],
+      "event": "Thomas Jennings granted US X3306 for 'dry scouring' — first US patent to an African American.",
+      "source": "src-smithsonian-jennings",
+      "track": "a-invention",
+      "id": "TECH-T-067",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1834-10-14",
+      "entity_ids": [
+        "henry-blair"
+      ],
+      "event": "Henry Blair granted US X8447 for a seed planter — second US patent to an African American.",
+      "source": "src-patent-usx8447",
+      "track": "a-invention",
+      "id": "TECH-T-068",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1846-12-10",
+      "entity_ids": [
+        "norbert-rillieux"
+      ],
+      "event": "Norbert Rillieux granted US 4879 for improvement in sugar-making (multiple-effect evaporator).",
+      "source": "src-acs-rillieux",
+      "track": "a-invention",
+      "id": "TECH-T-069",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1872-07-23",
+      "entity_ids": [
+        "elijah-mccoy"
+      ],
+      "event": "Elijah McCoy granted US 129843 for improvement in lubricators for steam engines.",
+      "source": "src-henryford-mccoy",
+      "track": "a-invention",
+      "id": "TECH-T-070",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1883-03-20",
+      "entity_ids": [
+        "jan-matzeliger"
+      ],
+      "event": "Jan Matzeliger granted US 274207 for a lasting machine.",
+      "source": "src-patent-us274207",
+      "track": "a-invention",
+      "id": "TECH-T-071",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1885-07-14",
+      "entity_ids": [
+        "sarah-goode"
+      ],
+      "event": "Sarah E. Goode granted US 322177 for a cabinet bed — first US patent to an African American woman.",
+      "source": "src-patent-us322177",
+      "track": "a-invention",
+      "id": "TECH-T-072",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1914",
+      "entity_ids": [
+        "garrett-morgan"
+      ],
+      "event": "Garrett Morgan granted US 1113675 for a breathing device / safety hood.",
+      "source": "src-patent-us1475024",
+      "track": "a-invention",
+      "id": "TECH-T-073",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1916",
+      "entity_ids": [
+        "garrett-morgan"
+      ],
+      "event": "Cleveland waterworks tunnel disaster rescue: Morgan's safety hoods used in the Lake Erie crib rescue (documented field use of the patented device).",
+      "source": "src-patent-us1475024",
+      "track": "a-invention",
+      "id": "TECH-T-074",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1923",
+      "entity_ids": [
+        "garrett-morgan"
+      ],
+      "event": "Garrett Morgan granted US 1475024 for a three-position traffic signal.",
+      "source": "src-patent-us1475024",
+      "track": "a-invention",
+      "id": "TECH-T-075",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1928",
+      "entity_ids": [
+        "marjorie-stewart-joyner"
+      ],
+      "event": "Marjorie Stewart Joyner granted US 1,683,530 for a permanent-wave machine (number Provisional — conflicting citations exist).",
+      "source": "src-bhu-joyner",
+      "track": "a-invention",
+      "id": "TECH-T-076",
+      "verification": "Provisional",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1935",
+      "entity_ids": [
+        "percy-julian"
+      ],
+      "event": "Percy Julian completes the first industrial-scale total synthesis of physostigmine.",
+      "source": "src-congress-julian",
+      "track": "a-invention",
+      "id": "TECH-T-077",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1949-07-12",
+      "entity_ids": [
+        "frederick-mckinley-jones"
+      ],
+      "event": "Frederick McKinley Jones granted US 2,475,841 for an automatic refrigeration system for long-haul trucks.",
+      "source": "src-patent-us2475841",
+      "track": "a-invention",
+      "id": "TECH-T-078",
+      "verification": "Provisional",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1951-04-24",
+      "entity_ids": [
+        "bessie-blount"
+      ],
+      "event": "Bessie Blount Griffin granted US 2,550,554 for a portable receptacle support.",
+      "source": "src-smithsonian-blount",
+      "track": "a-invention",
+      "id": "TECH-T-079",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1952",
+      "entity_ids": [
+        "bessie-blount"
+      ],
+      "event": "Blount grants rights to her self-feeding invention to the French government for military-hospital use after VA rejection.",
+      "source": "src-smithsonian-blount",
+      "track": "a-invention",
+      "id": "TECH-T-080",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1956",
+      "entity_ids": [
+        "gladys-west"
+      ],
+      "event": "Gladys West hired as a mathematician at the Naval Surface Warfare Center, Dahlgren Division.",
+      "source": "src-bigthink-west",
+      "track": "a-invention",
+      "id": "TECH-T-081",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1961-02-21",
+      "entity_ids": [
+        "otis-boykin"
+      ],
+      "event": "Otis Boykin granted US 2,972,726 for an electrical resistor.",
+      "source": "src-patent-us2972726",
+      "track": "a-invention",
+      "id": "TECH-T-082",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1964-01-14",
+      "entity_ids": [
+        "james-e-west"
+      ],
+      "event": "James E. West and Gerhard M. Sessler granted US 3,118,022 for an electroacoustic transducer (foil electret microphone).",
+      "source": "src-jhu-west",
+      "track": "a-invention",
+      "id": "TECH-T-083",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1969-11-11",
+      "entity_ids": [
+        "george-carruthers"
+      ],
+      "event": "George Carruthers granted US 3,478,216 for an image converter for detecting short-wavelength electromagnetic radiation.",
+      "source": "src-patent-us3478216",
+      "track": "a-invention",
+      "id": "TECH-T-084",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1971-07-06",
+      "entity_ids": [
+        "henry-t-sampson"
+      ],
+      "event": "Henry T. Sampson Jr. and George H. Miley awarded US 3,591,860 for the gamma-electric cell.",
+      "source": "src-latimes-sampson",
+      "track": "a-invention",
+      "id": "TECH-T-085",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1972",
+      "entity_ids": [
+        "george-carruthers"
+      ],
+      "event": "Apollo 16 deploys Carruthers's far-ultraviolet camera/spectrograph on the Moon — the first lunar-based observatory.",
+      "source": "src-nrl-carruthers",
+      "track": "a-invention",
+      "id": "TECH-T-086",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1976",
+      "entity_ids": [
+        "gerald-lawson"
+      ],
+      "event": "Fairchild Channel F released — the first programmable ROM-cartridge home video game console, developed by the team led by Gerald Lawson.",
+      "source": "src-strong-lawson",
+      "track": "a-invention",
+      "id": "TECH-T-087",
+      "verification": "Provisional",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1977-03-29",
+      "entity_ids": [
+        "emmett-chappelle"
+      ],
+      "event": "US 4,014,745 published: Chappelle et al.'s luciferase assay for ATP (NASA-CASE-GSC-12039-1).",
+      "source": "src-ntrs-chappelle",
+      "track": "a-invention",
+      "id": "TECH-T-088",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1980-10-21",
+      "entity_ids": [
+        "valerie-thomas"
+      ],
+      "event": "Valerie Thomas granted US 4,229,761 for an illusion transmitter.",
+      "source": "src-googlepatents-us4229761",
+      "track": "a-invention",
+      "id": "TECH-T-089",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1984-03-13",
+      "entity_ids": [
+        "mark-dean"
+      ],
+      "event": "Mark Dean granted US 4,437,092 (computer system innovation).",
+      "source": "src-patent-us4437092",
+      "track": "a-invention",
+      "id": "TECH-T-090",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1986-05-27",
+      "entity_ids": [
+        "lonnie-johnson"
+      ],
+      "event": "Lonnie Johnson granted US 4,591,071 for a squirt gun (Super Soaker).",
+      "source": "src-patent-us4591071",
+      "track": "a-invention",
+      "id": "TECH-T-091",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1988",
+      "entity_ids": [
+        "patricia-bath"
+      ],
+      "event": "Patricia Bath granted US 4,721,359 for the Laserphaco apparatus (date/title Provisional).",
+      "source": "src-congress-bath",
+      "track": "a-invention",
+      "id": "TECH-T-092",
+      "verification": "Provisional",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1988",
+      "entity_ids": [
+        "jesse-russell"
+      ],
+      "event": "Jesse Russell leads the first Bell Labs team to introduce digital cellular technology in the United States.",
+      "source": "src-face2face-russell",
+      "track": "a-invention",
+      "id": "TECH-T-093",
+      "verification": "Provisional",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "2007",
+      "entity_ids": [
+        "emmett-chappelle"
+      ],
+      "event": "Emmett Chappelle inducted into the National Inventors Hall of Fame for bioluminescence work.",
+      "source": "src-thoughtco-chappelle",
+      "track": "a-invention",
+      "id": "TECH-T-094",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "2018",
+      "entity_ids": [
+        "gladys-west"
+      ],
+      "event": "Gladys West inducted into the U.S. Air Force Space & Missile Pioneers Hall of Fame.",
+      "source": "src-bigthink-west",
+      "track": "a-invention",
+      "id": "TECH-T-095",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "2022",
+      "entity_ids": [
+        "marian-croak"
+      ],
+      "event": "Marian Croak inducted into the National Inventors Hall of Fame for VoIP-related inventions.",
+      "source": "src-ieee-croak",
+      "track": "a-invention",
+      "id": "TECH-T-096",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1929-11-03",
+      "title": "The All-Negro Hour premieres",
+      "description": "Jack L. Cooper premieres the first all-Black-cast radio program on WSBC Chicago.",
+      "track": "f-adaptation",
+      "id": "TECH-T-097",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1753",
+      "event": "Banneker completes wooden striking clock (modeled on borrowed watch)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-098",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1849",
+      "event": "Haslett US 6,529 respirator (gas-mask prior art)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-099",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1854",
+      "event": "Stenhouse respirator (gas-mask prior art)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-100",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1868",
+      "event": "Knight's gas-lit traffic signal, London (traffic-signal prior art)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-101",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1871",
+      "event": "Meucci telephone caveat (telephone prior art)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-102",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1872-07",
+      "event": "McCoy US 129,843 lubricator",
+      "track": "g-mythbusting",
+      "id": "TECH-T-103",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1876-02-14",
+      "event": "Bell telephone patent filed; Gray caveat same day; Latimer drew Bell's drawings",
+      "track": "g-mythbusting",
+      "id": "TECH-T-104",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1880-01",
+      "event": "Edison US 223,898 carbon-filament lamp",
+      "track": "g-mythbusting",
+      "id": "TECH-T-105",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1881/1882",
+      "event": "Latimer US 247,097; US 252,386 (manufacturing process)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-106",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1884",
+      "event": "Edson US 306,727 peanut paste",
+      "track": "g-mythbusting",
+      "id": "TECH-T-107",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1887-11",
+      "event": "Woods US 373,383 and US 373,915 railway telegraphy",
+      "track": "g-mythbusting",
+      "id": "TECH-T-108",
+      "verification": "Provisional",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1895",
+      "event": "Kellogg US 580,787 nutmeal process",
+      "track": "g-mythbusting",
+      "id": "TECH-T-109",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1908",
+      "event": "Walker opens Lelia College, Pittsburgh",
+      "track": "g-mythbusting",
+      "id": "TECH-T-110",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1914-03-24",
+      "event": "Morgan US 1,090,936 breathing device",
+      "track": "g-mythbusting",
+      "id": "TECH-T-111",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    },
+    {
+      "date": "1916",
+      "event": "Morgan's Lake Erie tunnel rescue with safety hood",
+      "track": "g-mythbusting",
+      "id": "TECH-T-112",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1923-11-20",
+      "event": "Morgan US 1,475,024 three-position traffic signal",
+      "track": "g-mythbusting",
+      "id": "TECH-T-113",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1959/1961",
+      "event": "Boykin heart-stimulator control unit; US 2,972,726 resistor",
+      "track": "g-mythbusting",
+      "id": "TECH-T-114",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1986-05-27",
+      "event": "Johnson US 4,591,071 squirt gun (Super Soaker)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-115",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "1989",
+      "event": "Emeagwali Gordon Bell Prize (price/performance, CM-2 oil modeling)",
+      "track": "g-mythbusting",
+      "id": "TECH-T-116",
+      "verification": "Verified",
+      "grade_note": "Adopted from matching graded entity claim via merge."
+    },
+    {
+      "date": "2010-11-07",
+      "event": "NEXT investigation debunks Emeagwali internet claims",
+      "track": "g-mythbusting",
+      "id": "TECH-T-117",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade for this event; defaulted to Provisional. Do not cite without review."
+    }
+  ]
+}

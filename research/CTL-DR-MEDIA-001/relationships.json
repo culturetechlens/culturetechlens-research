@@ -1,0 +1,708 @@
+{
+  "project": "CTL-DR-MEDIA-001",
+  "count": 78,
+  "relationships": [
+    {
+      "from": "MED-060",
+      "to": "MED-081",
+      "type": "founded",
+      "evidence": "Sengstacke organized the 1940 publishers' meeting that founded the NNPA.",
+      "source": "African American Registry",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-060",
+      "to": "MED-072",
+      "type": "founded",
+      "evidence": "Sengstacke founded the Michigan Chronicle in Detroit in 1936.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-098",
+      "to": "MED-082",
+      "type": "owns",
+      "evidence": "Real Times bought the New Pittsburgh Courier as part of the 2003 Sengstacke-chain purchase.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-098",
+      "to": "MED-072",
+      "type": "owns",
+      "evidence": "Real Times bought the Michigan Chronicle as part of the 2003 Sengstacke-chain purchase.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-098",
+      "to": "MED-011",
+      "type": "owns",
+      "evidence": "Real Times bought the Atlanta Daily World as part of the 2003 Sengstacke-chain purchase.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-093",
+      "to": "MED-082",
+      "type": "relaunched",
+      "evidence": "The New Pittsburgh Courier is the 1967 successor to the ceased Pittsburgh Courier.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-033",
+      "to": "MED-009",
+      "type": "founded",
+      "evidence": "Claude Barnett founded the Associated Negro Press in 1919.",
+      "source": "Wikipedia",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-009",
+      "to": "MED-093",
+      "type": "supplied",
+      "evidence": "The ANP supplied news content to the Pittsburgh Courier and ~150 Black papers; the Courier's Double V and other national coverage traveled the ANP network.",
+      "source": "Nieman Reports",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-075",
+      "to": "MED-117",
+      "type": "predecessor",
+      "evidence": "Muhammad Speaks (1961-75) is the predecessor lineage of The Final Call (1979).",
+      "source": "Final Call history; Black Archives of Mid-America",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-132",
+      "to": "MED-018",
+      "type": "founded",
+      "evidence": "W. Paul Coates founded Black Classic Press in 1978.",
+      "source": "Wikipedia; Publishers Weekly",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-037",
+      "to": "MED-019",
+      "type": "founded",
+      "evidence": "Earl G. Graves Sr. founded Black Enterprise in 1970.",
+      "source": "Wikipedia; BlackEnterprise.com",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-063",
+      "to": "MED-053",
+      "type": "leads",
+      "evidence": "Karen Carter Richards is the third-generation publisher/CEO of the Houston Forward Times (since 2010).",
+      "source": "365thingsinhouston.com; Post News Group",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-053",
+      "to": "MED-081",
+      "type": "leads",
+      "evidence": "Houston Forward Times publisher Karen Carter Richards was elected NNPA national chair in June 2019.",
+      "source": "Los Angeles Sentinel, 2019",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-081",
+      "to": "MED-053",
+      "type": "governed",
+      "evidence": "Reverse direction of the above chair relationship.",
+      "source": "Los Angeles Sentinel, 2019",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-059",
+      "to": "MED-038",
+      "type": "affiliated",
+      "evidence": "Jet and Ebony were co-owned by Johnson Publishing Company, sold together to Clear View Group in 2016.",
+      "source": "CJR; The Oklahoma Eagle",
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "from": "MED-058",
+      "to": "MED-137",
+      "type": "owns",
+      "evidence": "Blayton purchased WERD in 1949 for $50,000 and programmed it for Black audiences.",
+      "source": "en.wikipedia.org/wiki/WAEC_(AM)",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-077",
+      "to": "MED-136",
+      "type": "broadcast",
+      "evidence": "Williams hosted 'Tan Town Jubilee' on WDIA beginning October 25, 1948.",
+      "source": "en.wikipedia.org/wiki/WDIA",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-056",
+      "to": "MED-137",
+      "type": "broadcast",
+      "evidence": "Gibson was hired at WERD soon after Blayton's purchase and became its top DJ by 1951.",
+      "source": "en.wikipedia.org/wiki/WAEC_(AM)",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-108",
+      "to": "MED-076",
+      "type": "acquired",
+      "evidence": "Sheridan bought 49% of MBN in 1976 and the remaining 51% in 1979, renaming it the Sheridan Broadcasting Network.",
+      "source": "en.wikipedia.org/wiki/American_Urban_Radio_Networks",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-031",
+      "to": "MED-127",
+      "type": "founded",
+      "evidence": "Hughes founded Radio One in 1980 with the purchase of WOL-AM Washington, D.C.",
+      "source": "en.wikipedia.org/wiki/Urban_One",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-031",
+      "to": "MED-127",
+      "type": "owns",
+      "evidence": "Hughes purchased WOL-AM, the founding station of Radio One, in 1980.",
+      "source": "en.wikipedia.org/wiki/Urban_One",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-127",
+      "to": "MED-096",
+      "type": "acquired",
+      "evidence": "Radio One acquired 53% of Reach Media in November 2004 for $56.1 million.",
+      "source": "eurweb.com",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-123",
+      "to": "MED-096",
+      "type": "founded",
+      "evidence": "Joyner co-founded Reach Media in 2003 to own The Tom Joyner Morning Show.",
+      "source": "en.wikipedia.org/wiki/Tom_Joyner_Morning_Show",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-127",
+      "to": "MED-123",
+      "type": "broadcast",
+      "evidence": "Radio One/Urban One syndicated The Tom Joyner Morning Show after acquiring majority ownership of Reach Media in 2004.",
+      "source": "en.wikipedia.org/wiki/Tom_Joyner_Morning_Show",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-091",
+      "to": "MED-055",
+      "type": "founded",
+      "evidence": "Sutton founded Inner City Broadcasting Corporation in 1970 with Black shareholders.",
+      "source": "thehistorymakers.org A2013_314",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-055",
+      "to": "MED-135",
+      "type": "owns",
+      "evidence": "Inner City acquired WLIB-FM and renamed it WBLS; it was Inner City's flagship until the 2012 YMF sale.",
+      "source": "en.wikipedia.org/wiki/Inner_City_Broadcasting_Corporation",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-044",
+      "to": "MED-135",
+      "type": "operated",
+      "evidence": "Crocker was WBLS's program director when it pioneered the urban contemporary format.",
+      "source": "en.wikipedia.org/wiki/Inner_City_Broadcasting_Corporation",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-078",
+      "to": "MED-079",
+      "type": "founded",
+      "evidence": "NBN founder Eugene Jackson conceived and started NABOB in Atlanta in 1976.",
+      "source": "en.wikipedia.org/wiki/National_Black_Network",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-070",
+      "to": "MED-031",
+      "type": "operated",
+      "evidence": "WHUR station manager Cathy Hughes gave Lindsey his own show after his late-night fill-in drew positive response.",
+      "source": "en.wikipedia.org/wiki/Quiet_storm",
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "from": "MED-101",
+      "to": "MED-015",
+      "type": "founded",
+      "evidence": "Wikipedia: BET infobox lists Founder Robert L. Johnson (and Sheila Johnson); BlackPast: 'Its founder, Robert L. Johnson.'",
+      "source": "Wikipedia: BET; BlackPast.org",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-129",
+      "to": "MED-015",
+      "type": "acquired",
+      "evidence": "USA Today (2000): 'Viacom has agreed to buy BET Holdings Inc from founder Robert Johnson for $2.3 billion in stock and the assumption of $570 million in debt.' Deal closed 2001.",
+      "source": "USA Today via readabstracts.com",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-035",
+      "to": "MED-015",
+      "type": "operated",
+      "evidence": "TheWrap (2018): Lee served as chairman and CEO since 2005; Adweek (2021): Mills rejoined as president Dec 2017, elevated to CEO 2021.",
+      "source": "TheWrap; Adweek",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-106",
+      "to": "MED-015",
+      "type": "operated",
+      "evidence": "Adweek (2021): Mills rejoined BET as president December 2017, elevated to CEO.",
+      "source": "Adweek",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-127",
+      "to": "MED-125",
+      "type": "owns",
+      "evidence": "Wikipedia TV One: 'Originally launched as a joint venture with Comcast, Urban One would acquire the former's stake in 2015.' Current owner listed as Urban One.",
+      "source": "Wikipedia: TV One; TheWrap 2024",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-127",
+      "to": "MED-125",
+      "type": "founded",
+      "evidence": "Wikipedia: 'In January 2003, Radio One and Comcast announced an agreement to a joint venture to create a television network'; Comcast 2015 stake acquired by Urban One.",
+      "source": "Wikipedia: TV One",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-031",
+      "to": "MED-125",
+      "type": "founded",
+      "evidence": "Black Enterprise: 'In 2004, Hughes launched cable network TV One in partnership with mammoth cable operator Comcast.'",
+      "source": "Black Enterprise",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-087",
+      "to": "MED-088",
+      "type": "founded",
+      "evidence": "Wikipedia OWN: 'OWN is operated as a joint venture between Warner Bros. Discovery's networks division and Harpo Productions' — 50/50 at launch, now 95/5.",
+      "source": "Wikipedia: Oprah Winfrey Network; Discovery 8-K",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-026",
+      "to": "MED-026",
+      "type": "acquired",
+      "evidence": "Wikipedia Bounce TV: 'On August 1, 2017, E. W. Scripps announced the purchase of Bounce and Katz Broadcasting... for $292 million... completed on October 2, 2017.'",
+      "source": "Wikipedia: Bounce TV",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-026",
+      "to": "MED-026",
+      "type": "founded",
+      "evidence": "TheWrap/The Futon Critic (Apr 2011): Founders MLK III, Andrew Young, Bo Young III, Rob Hardy, Will Packer; execs Ryan Glover, Jonathan Katz.",
+      "source": "TheWrap; The Futon Critic",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-002",
+      "to": "MED-002",
+      "type": "owns",
+      "evidence": "AMG releases (2022-2026): 'Launched in 2012, the free-streaming service was purchased by Byron Allen in 2021 and is part of Allen Media Group.'",
+      "source": "AMG press releases",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-002",
+      "to": "MED-122",
+      "type": "owns",
+      "evidence": "Allen Media Group announcements (Dec 2020): 'Allen Media Group's multicast network TheGrio.TV will expand its distribution'; Light TV transition to TheGrio.TV.",
+      "source": "allenmedia.tv",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-028",
+      "to": "MED-002",
+      "type": "founded",
+      "evidence": "AMG releases (2026): founded 1993; headquarters LA.",
+      "source": "AMG releases",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-099",
+      "to": "MED-099",
+      "type": "founded",
+      "evidence": "Wikipedia Revolt: Revolt founded by Sean Combs; launched Oct 21, 2013.",
+      "source": "Wikipedia: Revolt",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-008",
+      "to": "MED-008",
+      "type": "founded",
+      "evidence": "ESPN/AP (Feb 2012): Magic Johnson launching Aspire; Comcast partnership.",
+      "source": "ESPN/AP; Comcast corporate",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-020",
+      "to": "MED-020",
+      "type": "succeeded",
+      "evidence": "Thirteen/WNET (2020): 'Historic Black Journal Streams for the First Time'; wearespeaking.net: Brown took it to commercial TV in 1977 renamed Tony Brown's Journal.",
+      "source": "Thirteen; wearespeaking.net",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-104",
+      "to": "MED-104",
+      "type": "succeeded",
+      "evidence": "AAPB: Say Brother (1968-1997) became Basic Black (1998-2024).",
+      "source": "AAPB (WGBH special collection)",
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "from": "MED-074",
+      "to": "MED-024",
+      "type": "founded",
+      "evidence": "Wikipedia and Black Enterprise list DeBaun as co-founder/CEO alongside Samuels, Jackson, and Nelson (2014).",
+      "source": "Wikipedia, 'Blavity'; Black Enterprise (2018)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-126",
+      "to": "MED-119",
+      "type": "acquired",
+      "evidence": "Adweek (2015): Univision acquired The Root from Graham Holdings' Slate Group; price undisclosed.",
+      "source": "Adweek, 'Univision Acquires The Root'",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-045",
+      "to": "MED-119",
+      "type": "owns",
+      "evidence": "Wikipedia: from April 2019 The Root was part of newly created G/O Media after Great Hill Partners' purchase; AV Club (2025): The Root was 'the last remaining outlet under G/O Media ownership.'",
+      "source": "Wikipedia, 'The Root (magazine)'; AV Club (2025)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-134",
+      "to": "MED-119",
+      "type": "acquired",
+      "evidence": "Black Enterprise (Oct 2, 2025): Allison 'purchased The Root' through Watering Hole Media.",
+      "source": "Black Enterprise (2025)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-048",
+      "to": "MED-119",
+      "type": "owns",
+      "evidence": "Journal-isms (2015): The Root launched under the Washington Post Company/Graham Holdings and was sold to Univision in 2015.",
+      "source": "Journal-isms, 'Univision Buys TheRoot.com'",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-002",
+      "to": "MED-121",
+      "type": "acquired",
+      "evidence": "Wikipedia: 'In June 2016, Byron Allen's Entertainment Studios acquired the site [TheGrio].'",
+      "source": "Wikipedia, 'TheGrio'",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-036",
+      "to": "MED-010",
+      "type": "operated",
+      "evidence": "Wikipedia lists Diamond Diaspora Media as Atlanta Black Star's owner; RocketReach lists its three digital properties.",
+      "source": "Wikipedia, 'Atlanta Black Star'; RocketReach",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-100",
+      "to": "MED-041",
+      "type": "founded",
+      "evidence": "Journal-isms (2018): 'Essence Ventures, created in 2017, is led by Richelieu Dennis.'",
+      "source": "Journal-isms, 'Essence Sold to Black-Owned Firm'",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-041",
+      "to": "MED-040",
+      "type": "acquired",
+      "evidence": "Journal-isms/Black Enterprise (Jan 2018): Essence Ventures acquired Essence Communications from Time Inc.",
+      "source": "Journal-isms; Black Enterprise (2018)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-065",
+      "to": "MED-029",
+      "type": "founded",
+      "evidence": "Digiday (2022): Williams and Ofori-Atta 'decided to leave their respective newsrooms to form their own, Capital B.'",
+      "source": "Digiday Podcast (2022)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-006",
+      "to": "MED-120",
+      "type": "founded",
+      "evidence": "Wikipedia: 'a media company, founded by Angelica Nwandu in March 2014.'",
+      "source": "Wikipedia, 'The Shade Room'",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-109",
+      "to": "MED-118",
+      "type": "founded",
+      "evidence": "Northwestern Garage/Medill: 'Sherrell is the founder and editor-in-chief of The Plug... Launched in 2016.'",
+      "source": "Northwestern Garage/Medill",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-032",
+      "to": "MED-115",
+      "type": "founded",
+      "evidence": "BusinessWire (2025): 'the historic joint venture, The Black Effect Podcast Network... Launched in 2020 and curated by Charlamagne himself.'",
+      "source": "BusinessWire (2025)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-115",
+      "to": "MED-002",
+      "type": "depends_on",
+      "evidence": "BusinessWire (2025): the network is a 'joint venture' with iHeartMedia; Charlamagne's renewed deal expands his control — distribution, ad sales, and platform infrastructure run through iHeart.",
+      "source": "BusinessWire (2025); BallerAlert (2025)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-102",
+      "to": "MED-022",
+      "type": "founded",
+      "evidence": "Final Call/NNPA (2021): Martin announced the Black Star Network on the third anniversary of his show.",
+      "source": "Final Call News (2021)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-100",
+      "to": "MED-049",
+      "type": "founded",
+      "evidence": "AfroTech: Group Black 'co-founded in June 2021 by Richelieu Dennis, Bonin Bough, and Travis Montaque.'",
+      "source": "AfroTech",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-124",
+      "to": "MED-049",
+      "type": "founded",
+      "evidence": "Wikipedia, 'Travis Montaque': 'CEO and Co-Founder of Group Black.'",
+      "source": "Wikipedia, 'Travis Montaque'",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-024",
+      "to": "MED-071",
+      "type": "depends_on",
+      "evidence": "TechCrunch (2020) DeBaun interview: Blavity's Facebook page was blocked over 'violent' flags; the company diversified revenue partly to reduce dependence on Facebook-mediated news distribution.",
+      "source": "TechCrunch (2020)",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-120",
+      "to": "MED-071",
+      "type": "depends_on",
+      "evidence": "Wikipedia/Africa Summit: The Shade Room was founded as Instagram-only because Nwandu 'could not build a website'; all distribution flows through Meta's Instagram.",
+      "source": "Wikipedia, 'The Shade Room'; Africa Summit bio",
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "from": "MED-002",
+      "to": "MED-028",
+      "type": "distributed",
+      "evidence": "Comcast's 2020 settlement with Allen included carriage of Comedy.TV, Recipe.TV and JusticeCentral.TV on Xfinity; Charter also settled in 2021.",
+      "source": "Reuters via hi99.com; blackenterprise.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-041",
+      "to": "MED-019",
+      "type": "owns",
+      "evidence": "Essence Ventures acquired Essence Communications Inc. from Time Inc. in January 2018; portfolio listings confirm ongoing ownership.",
+      "source": "blackenterprise.com; businesswire.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-027",
+      "to": "MED-027",
+      "type": "acquired",
+      "evidence": "Burrell Communications acquired Atlanta agency Fitzco in April 2025 as the first step in building BCG Worldwide.",
+      "source": "adweek.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-139",
+      "to": "MED-128",
+      "type": "owns",
+      "evidence": "WPP acquired 49% of UniWorld Group in June 2000; WPP still lists UWG as a strategic partner company in 2026.",
+      "source": "wpp.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-089",
+      "to": "MED-015",
+      "type": "owns",
+      "evidence": "BET Media Group sits within Paramount Skydance's portfolio; CEO David Ellison confirmed in August 2025 the company will keep it.",
+      "source": "thewrap.com; blackenterprise.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-069",
+      "to": "MED-084",
+      "type": "measured",
+      "evidence": "MRC audited Nielsen's national TV service (November 2022 audit) and accredited the Big Data + Panel solution in January 2025.",
+      "source": "advanced-television.com; adtechradar.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-119",
+      "to": "MED-045",
+      "type": "acquired",
+      "evidence": "Ashley Allison's Watering Hole Media acquired The Root from G/O Media in October 2025; The Root was G/O Media's last remaining outlet.",
+      "source": "blackenterprise.com; avclub.com",
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "from": "MED-110",
+      "to": "MED-062",
+      "type": "holds_archives_of",
+      "evidence": "Pulitzer.org (2019) and The Art Newspaper (2022): consortium purchase then formal transfer of joint ownership to NMAAHC and Getty Research Institute.",
+      "source": "",
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "from": "MED-046",
+      "to": "MED-062",
+      "type": "holds_archives_of",
+      "evidence": "Pulitzer.org (2019) and The Art Newspaper (2022): consortium purchase then formal transfer of joint ownership to NMAAHC and Getty Research Institute.",
+      "source": "",
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "from": "MED-061",
+      "to": "MED-038",
+      "type": "founded",
+      "evidence": "Ebony.com history (2021): Johnson founded JPC in 1942, launched Ebony in 1945 and Jet in 1951.",
+      "source": "",
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "from": "MED-061",
+      "to": "MED-059",
+      "type": "founded",
+      "evidence": "Ebony.com history (2021): Johnson founded JPC in 1942, launched Ebony in 1945 and Jet in 1951.",
+      "source": "",
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "from": "MED-081",
+      "to": "MED-021",
+      "type": "co_founded",
+      "evidence": "Howard MSRC: 'The Black Press Archives began as a joint project of Howard University and the National Newspapers Publishers Association (NNPA) in 1973.'",
+      "source": "",
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "from": "MED-015",
+      "to": "MED-111",
+      "type": "acquired",
+      "evidence": "BET.com acquisition announcement (2016-04-04): BET Networks acquired the Soul Train brand and library from InterMedia/Yucaipa.",
+      "source": "",
+      "status": "Verified",
+      "source_track": "archives"
+    }
+  ]
+}

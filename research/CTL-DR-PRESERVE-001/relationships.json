@@ -1,0 +1,630 @@
+{
+  "project": "CTL-DR-PRESERVE-001",
+  "relationships": [
+    {
+      "id": "CTL-PRESERVE-R-001",
+      "subject": "CTL-PRESERVE-E-015",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-055",
+      "evidence": "NMAAHC/Getty press releases, 2022; Hyperallergic, 2024",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-002",
+      "subject": "CTL-PRESERVE-E-015",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-056",
+      "evidence": "NMAAHC/Getty press releases, 2022; Hyperallergic, 2024",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-003",
+      "subject": "CTL-PRESERVE-E-018",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-057",
+      "evidence": "Chicago Public Library; CPL blog, 2025",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-004",
+      "subject": "CTL-PRESERVE-E-020",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-058",
+      "evidence": "thedig.howard.edu, 2026-09",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-005",
+      "subject": "CTL-PRESERVE-E-029",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-059",
+      "evidence": "Carnegie Museum of Art",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-006",
+      "subject": "CTL-PRESERVE-E-023",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-067",
+      "evidence": "JBHE, 2014",
+      "verification_status": "Provisional",
+      "grade_note": "Red-team 2026-09-28: evidence was a citation stub (\"JBHE, 2014\"); inherits E-067 single-source limitation."
+    },
+    {
+      "id": "CTL-PRESERVE-R-007",
+      "subject": "CTL-PRESERVE-E-041",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-065",
+      "evidence": "UH Libraries finding aid 2010-023",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-008",
+      "subject": "CTL-PRESERVE-E-042",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-064",
+      "evidence": "The Christian Post, 2021-02-11",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-009",
+      "subject": "CTL-PRESERVE-E-052",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-061",
+      "evidence": "Indiana Landmarks, 2024-09",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-010",
+      "subject": "CTL-PRESERVE-E-053",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-057",
+      "evidence": "Illinois Office of Comptroller, 2022-10-04",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-011",
+      "subject": "CTL-PRESERVE-E-054",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-060",
+      "evidence": "Hyperallergic, 2025",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-012",
+      "subject": "CTL-PRESERVE-E-047",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-068",
+      "evidence": "Mellon Foundation, 2022",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-013",
+      "subject": "CTL-PRESERVE-E-035",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-066",
+      "evidence": "Black Archives of Mid-America finding aid AC58",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-014",
+      "subject": "CTL-PRESERVE-E-051",
+      "predicate": "held_by",
+      "object": "CTL-PRESERVE-E-063",
+      "evidence": "Center for Southeast Louisiana Studies",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-015",
+      "subject": "CTL-PRESERVE-E-001",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-016",
+      "evidence": "Emory conservation blog (mold, African American Collection); Defender vinegar syndrome (NPCA)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-016",
+      "subject": "CTL-PRESERVE-E-001",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-026",
+      "evidence": "2006 fire destroyed the archive (Religion News Service, 2006-01-12)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-017",
+      "subject": "CTL-PRESERVE-E-001",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-051",
+      "evidence": "Katrina waterlogged negatives (National Geographic, 2021)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-018",
+      "subject": "CTL-PRESERVE-E-001",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-031",
+      "evidence": "garage fire destroyed negatives (Hyperallergic, 2025)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-019",
+      "subject": "CTL-PRESERVE-E-002",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-020",
+      "evidence": "MSRC staffing collapse (Inside Higher Ed, 2009-11)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-020",
+      "subject": "CTL-PRESERVE-E-002",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-046",
+      "evidence": "CBMR defunding threat (JBHE, 2012)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-021",
+      "subject": "CTL-PRESERVE-E-002",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-039",
+      "evidence": "Knoxville College closed 2017; 2024 fire; records custody undocumented (WVLT)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-022",
+      "subject": "CTL-PRESERVE-E-004",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-015",
+      "evidence": "JPC Chapter 7 bankruptcy, April 2019 (The Art Newspaper)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-023",
+      "subject": "CTL-PRESERVE-E-004",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-048",
+      "evidence": "BET deletion Sept 2026 under Paramount; MTV News wipe 2024 (Black Enterprise; Variety)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-024",
+      "subject": "CTL-PRESERVE-E-004",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-028",
+      "evidence": "Vee-Jay 1966 bankruptcy; masters custody undocumented",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-025",
+      "subject": "CTL-PRESERVE-E-005",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-033",
+      "evidence": "WVON airchecks on reel-to-reel (Internet Archive)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-026",
+      "subject": "CTL-PRESERVE-E-005",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-045",
+      "evidence": "HBCU radio tape \"past repair\" (NPR, 2020; NEDCC, 2026)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-027",
+      "subject": "CTL-PRESERVE-E-006",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-048",
+      "evidence": "BET.com digital article wipe, Sept 2026 (Black Enterprise)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-028",
+      "subject": "CTL-PRESERVE-E-008",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-048",
+      "evidence": "MySpace loss 2019; Vine shutdown 2017; Tumblr purge 2018",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-029",
+      "subject": "CTL-PRESERVE-E-008",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-049",
+      "evidence": "Black Archives Co lives on Instagram with no documented institutional backup",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-030",
+      "subject": "CTL-PRESERVE-E-009",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-034",
+      "evidence": "AFRO archive ~5% processed since Oct 2022 (Baltimore Banner)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-031",
+      "subject": "CTL-PRESERVE-E-009",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-043",
+      "evidence": "Baltimore Collection orphan photographs (UD Library)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-032",
+      "subject": "CTL-PRESERVE-E-009",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-025",
+      "evidence": "BMRC 2009-2011 survey: systemic underprocessing",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-033",
+      "subject": "CTL-PRESERVE-E-010",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-043",
+      "evidence": "Baltimore Collection: no photographers, sitters, dates, provenance (UD Library)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-034",
+      "subject": "CTL-PRESERVE-E-010",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-029",
+      "evidence": "Teenie Harris negatives arrived untitled/undated (CMOA)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-035",
+      "subject": "CTL-PRESERVE-E-011",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-040",
+      "evidence": "Micheaux orphan films; murky rights; scattered holdings",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-036",
+      "subject": "CTL-PRESERVE-E-012",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-018",
+      "evidence": "Harsh in-person-only until Mellon $2M digitization grant, Feb 2024",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-037",
+      "subject": "CTL-PRESERVE-E-012",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-032",
+      "evidence": "Ovie Carter and Bob Black personal negative archives (no transfer documented)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-038",
+      "subject": "CTL-PRESERVE-E-013",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-031",
+      "evidence": "John Simmons negatives destroyed in collector's lifetime (Hyperallergic, 2025)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-039",
+      "subject": "CTL-PRESERVE-E-013",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-049",
+      "evidence": "Black Archives Co: single creator, platform-hosted",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-040",
+      "subject": "CTL-PRESERVE-E-014",
+      "predicate": "threatens",
+      "object": "CTL-PRESERVE-E-044",
+      "evidence": "Black Panther Party records seized in 1968-1970 raids; no centralized archive (Ward Churchill, academic)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-041",
+      "subject": "CTL-PRESERVE-E-077",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-015",
+      "evidence": "JPC bankruptcy auction -> consortium purchase of the archive",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-042",
+      "subject": "CTL-PRESERVE-E-077",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-096",
+      "evidence": "JPC bankruptcy (2019) -> archive transfer completed (2022)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-043",
+      "subject": "CTL-PRESERVE-E-080",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-069",
+      "evidence": "BET deletion (2026) -> Internet Archive rescue of 199,000+ articles",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-044",
+      "subject": "CTL-PRESERVE-E-082",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-105",
+      "evidence": "platform-shutdown cluster: MySpace 2019; Tumblr purge 2018",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-045",
+      "subject": "CTL-PRESERVE-E-083",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-082",
+      "evidence": "platform-shutdown cluster: Vine 2017; MySpace 2019",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-046",
+      "subject": "CTL-PRESERVE-E-086",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-085",
+      "evidence": "#BLM tweet decay (Pew 2023) follows API paywall restriction (2023)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-047",
+      "subject": "CTL-PRESERVE-E-084",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-011",
+      "evidence": "Eyes on the Prize blackout is a copyright-uncertainty case",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-048",
+      "subject": "CTL-PRESERVE-E-081",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-080",
+      "evidence": "MTV News wipe (2024) and BET wipe (2026): corporate-owned digital news erased",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-049",
+      "subject": "CTL-PRESERVE-E-102",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-109",
+      "evidence": "Till monument (2023) and Roberts Temple endangered listing (2020)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-050",
+      "subject": "CTL-PRESERVE-E-089",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-029",
+      "evidence": "Teenie Harris death/acquisition -> CMOA custody",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-051",
+      "subject": "CTL-PRESERVE-E-087",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-051",
+      "evidence": "Katrina flooding -> Calhoun-McCormick salvage",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-052",
+      "subject": "CTL-PRESERVE-E-095",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-039",
+      "evidence": "Knoxville College fire (2024) -> records risk",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-053",
+      "subject": "CTL-PRESERVE-E-093",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-101",
+      "evidence": "MSRC closure scare (2009) -> Mellon rescue grant (2026)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-054",
+      "subject": "CTL-PRESERVE-E-094",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-046",
+      "evidence": "CBMR defunding threat (2012)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-055",
+      "subject": "CTL-PRESERVE-E-100",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-018",
+      "evidence": "Mellon $2M digitization grant (2024) -> Harsh",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-056",
+      "subject": "CTL-PRESERVE-E-101",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-020",
+      "evidence": "Mellon $2M grant (2026) -> Moorland-Spingarn",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-057",
+      "subject": "CTL-PRESERVE-E-108",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-054",
+      "evidence": "Separate Cinema acquired by Lucas Museum (2025)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-058",
+      "subject": "CTL-PRESERVE-E-097",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-067",
+      "evidence": "HistoryMakers acquired by Library of Congress (2014)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-059",
+      "subject": "CTL-PRESERVE-E-098",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-050",
+      "evidence": "Freedmen's Bureau Project launch (2015) -> NARA RG 105 records",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-060",
+      "subject": "CTL-PRESERVE-E-103",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-014",
+      "evidence": "Tulsa Massacre as erasure origin for lost-organizational-records risk",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-061",
+      "subject": "CTL-PRESERVE-E-088",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-031",
+      "evidence": "John Simmons garage fire -> negatives lost",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-062",
+      "subject": "CTL-PRESERVE-E-072",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-071",
+      "evidence": "Angela Ford founded Obsidian (2017)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-063",
+      "subject": "CTL-PRESERVE-E-073",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-023",
+      "evidence": "Julieanna Richardson founded The HistoryMakers (1999)",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-064",
+      "subject": "CTL-PRESERVE-E-074",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-068",
+      "evidence": "Theaster Gates founded Rebuild Foundation",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-065",
+      "subject": "CTL-PRESERVE-E-075",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-054",
+      "evidence": "John Duke Kisch collected Separate Cinema Archive",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-066",
+      "subject": "CTL-PRESERVE-E-076",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-053",
+      "evidence": "Sherry Williams / Bronzeville Historical Society processed burial records",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-067",
+      "subject": "CTL-PRESERVE-E-070",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-025",
+      "evidence": "BMRC operates the Archives Portal",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-068",
+      "subject": "CTL-PRESERVE-E-071",
+      "predicate": "related",
+      "object": "CTL-PRESERVE-E-016",
+      "evidence": "Obsidian digitizes the Defender photo morgue",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-069",
+      "subject": "CTL-PRESERVE-E-078",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-026",
+      "evidence": "2006 fire destroyed the archive",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-070",
+      "subject": "CTL-PRESERVE-E-079",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-027",
+      "evidence": "2008 fire destroyed the masters",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-071",
+      "subject": "CTL-PRESERVE-E-080",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-048",
+      "evidence": "2026 wipe erased the written archive",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-072",
+      "subject": "CTL-PRESERVE-E-087",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-051",
+      "evidence": "Katrina waterlogged the negatives",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-073",
+      "subject": "CTL-PRESERVE-E-088",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-031",
+      "evidence": "garage fire destroyed the negatives",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-074",
+      "subject": "CTL-PRESERVE-E-095",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-039",
+      "evidence": "2024 fire on campus; records custody undocumented",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-075",
+      "subject": "CTL-PRESERVE-E-084",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-040",
+      "evidence": "rights blackout withdrew the series",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-076",
+      "subject": "CTL-PRESERVE-E-082",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-048",
+      "evidence": "MySpace loss destroyed 2003-2015 uploads",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-077",
+      "subject": "CTL-PRESERVE-E-077",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-015",
+      "evidence": "bankruptcy put the archive at auction",
+      "verification_status": "Verified"
+    },
+    {
+      "id": "CTL-PRESERVE-R-078",
+      "subject": "CTL-PRESERVE-E-094",
+      "predicate": "affected",
+      "object": "CTL-PRESERVE-E-046",
+      "evidence": "defunding threat targeted the Center",
+      "verification_status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,3076 @@
+{
+  "project": "CTL-DR-MEDIA-001",
+  "count": 255,
+  "events": [
+    {
+      "date": "1827",
+      "event": "First Black newspaper founded — Freedom's Journal founded in New York City — the first African American newspaper; the start of the archiveable Black press.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1884-11-27",
+      "event": "Philadelphia Tribune founded — Christopher James Perry Sr. founds the Philadelphia Tribune; it becomes the oldest continuously published African-American newspaper in the US.",
+      "entities": [
+        "MED-092"
+      ],
+      "sources": [
+        "Wikipedia (Philadelphia Tribune)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1892-08-13",
+      "event": "Baltimore Afro-American begins — The Home Protector becomes the Afro-American; in 1897 John H. Murphy Sr. buys the press with $200 borrowed from his wife Martha, founding the Murphy family ownership line.",
+      "entities": [
+        "MED-013"
+      ],
+      "sources": [
+        "Wikipedia (Baltimore Afro-American); nnpa.org"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1909-12-04",
+      "event": "New York Amsterdam News founded — James Henry Anderson founds the Amsterdam News in San Juan Hill, Harlem, with $10 and a hand-written six-page first edition; one of ~50 Black-owned papers in the US.",
+      "entities": [
+        "MED-083"
+      ],
+      "sources": [
+        "Wikipedia; Moguldom"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1910-05-10",
+      "event": "Pittsburgh Courier founded — The Pittsburgh Courier is founded; under Robert L. Vann it becomes the most influential Black paper of the mid-20th century.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1910-11-01",
+      "event": "First issue of The Crisis — The NAACP's official magazine debuts with W. E. B. Du Bois as founding editor; it will become a central venue of the Harlem Renaissance.",
+      "entities": [
+        "MED-116"
+      ],
+      "sources": [
+        "African American Registry"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1919-03-02",
+      "event": "Associated Negro Press founded — Claude Barnett founds the ANP in Chicago - the first national news service for African-American newspapers, twice-weekly packets to ~150 US and ~100 African papers.",
+      "entities": [
+        "MED-009",
+        "MED-033"
+      ],
+      "sources": [
+        "Wikipedia (Associated Negro Press)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1923",
+      "event": "Opportunity: A Journal of Negro Life begins — The National Urban League launches Opportunity under editor Charles S. Johnson; its 1924-27 literary contests will discover Hughes, Hurston, Cullen and others.",
+      "entities": [
+        "MED-086"
+      ],
+      "sources": [
+        "Wikipedia (Opportunity); Lehigh University"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1926",
+      "event": "Sadie Warren buys the Amsterdam News — Anderson sells the Amsterdam News to Sadie Warren; it will be resold to physicians Powell and Savory around 1935-36.",
+      "entities": [
+        "MED-083"
+      ],
+      "sources": [
+        "African American Registry"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1926",
+      "event": "Schomburg collection joins NYPL — Arturo Schomburg's personal collection is added to NYPL's 135th Street Branch, winning the collection international acclaim.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1928-03-17",
+      "event": "St. Louis American founded — First issue appears; founded by Judge Nathan B. Young Jr. and Black businessmen including Homer G. Phillips as an eight-page paid tabloid (~2,000 circulation).",
+      "entities": [
+        "MED-112"
+      ],
+      "sources": [
+        "Word In Black; Decoding STL"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1928-08-05",
+      "event": "Atlanta Daily World founded (weekly) — William Alexander Scott II, 26, founds the Atlanta World as a weekly; it becomes a daily in 1931-32 - the first successful African-American daily.",
+      "entities": [
+        "MED-011"
+      ],
+      "sources": [
+        "BlackPast; BET; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1929-11-03",
+      "event": "Jack L. Cooper's 'The All-Negro Hour' premieres on Chicago's WSBC, the first radio program with an all-Black cast (precedence for absolute 'first' is disputed by 1927-1928 series documented by OTRR researcher Ryan Ellett).",
+      "entities": [
+        "MED-057"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/The_All-Negro_Hour",
+        "mail.otrr.org (Ellett)"
+      ],
+      "status": "Disputed",
+      "source_track": "radio"
+    },
+    {
+      "date": "1930",
+      "event": "Houston Defender founded — Clifton F. Richardson Sr. (earlier founder of the Houston Informer, 1919) founds the Houston Defender weekly.",
+      "entities": [
+        "MED-052"
+      ],
+      "sources": [
+        "Congressional Record, 2024-09-25"
+      ],
+      "status": "Provisional",
+      "source_track": "print"
+    },
+    {
+      "date": "1933-05-17",
+      "event": "Los Angeles Sentinel founded — Leon H. Washington Jr. publishes the first issue of the Sentinel (begun as the Eastside Shopper); it becomes the largest paid Black-owned weekly in the West.",
+      "entities": [
+        "MED-067"
+      ],
+      "sources": [
+        "Wikipedia; African American Registry"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1934",
+      "event": "William Alexander Scott II assassinated — Scott is shot and killed outside his home at age 32; the murder is never solved.",
+      "entities": [
+        "MED-011"
+      ],
+      "sources": [
+        "BlackPast"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1935",
+      "event": "Garland begins at Pittsburgh Courier; ANP peaks — Hazel B. Garland joins the Courier as a freelancer; the ANP serves ~225 subscribers at its peak mid-1930s strength.",
+      "entities": [
+        "MED-051",
+        "MED-009"
+      ],
+      "sources": [
+        "Wikipedia; America Comes Alive"
+      ],
+      "status": "Provisional",
+      "source_track": "print"
+    },
+    {
+      "date": "1936",
+      "event": "Michigan Chronicle founded — John H. Sengstacke founds the Detroit paper with Louis E. Martin as first editor; Martin arrives June 6, 1936 with a $5 raise and a one-way bus ticket.",
+      "entities": [
+        "MED-072",
+        "MED-060"
+      ],
+      "sources": [
+        "Wikipedia (Michigan Chronicle)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1940",
+      "event": "NNPA founded — Sengstacke organizes Black publishers to found the National Negro Publishers Association (renamed NNPA in 1956) to harmonize \"Negro journalism.\"",
+      "entities": [
+        "MED-081",
+        "MED-060"
+      ],
+      "sources": [
+        "African American Registry; Savannah Tribune"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1940-02-29",
+      "event": "NNPA founded in Chicago — Twenty publishers led by John H. Sengstacke meet in Chicago and found the National Negro Publishers Association (renamed NNPA in 1956).",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1942",
+      "event": "Double V campaign launched — The Pittsburgh Courier launches the Double V campaign - victory against fascism abroad and racism at home - adopted across the Black press.",
+      "entities": [
+        "MED-093"
+      ],
+      "sources": [
+        "Nieman Reports"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1942",
+      "event": "Johnson Publishing Company founded — John H. Johnson founds the Johnson Publishing Company, seeding the largest Black print empire of the 20th century.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1944",
+      "event": "First Black reporter at a presidential press conference — Atlanta Daily World reporter Harry McAlpin becomes the first Black reporter to cover a presidential press conference (Roosevelt, then Truman).",
+      "entities": [
+        "MED-011"
+      ],
+      "sources": [
+        "Nieman Reports"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1945-11-01",
+      "event": "Ebony debuts — John H. Johnson's Ebony publishes its first issue with a 25,000-copy press run that sells out; named by his wife Eunice Walker Johnson.",
+      "entities": [
+        "MED-038"
+      ],
+      "sources": [
+        "Wikipedia (Ebony); CJR"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1945-11-01",
+      "event": "Ebony's first issue — First issue of Ebony, dated November 1, 1945, reaches 25,000 readers.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1947",
+      "event": "Ebony first Black magazine audited by ABC; Courier peaks — Ebony becomes the first Black magazine tracked by the Audit Bureau of Circulations (309,715); the Pittsburgh Courier's circulation peaks (~357,000-400,000).",
+      "entities": [
+        "MED-038",
+        "MED-093"
+      ],
+      "sources": [
+        "Forbes via stephenhicks.org; Wikipedia"
+      ],
+      "status": "Provisional",
+      "source_track": "print"
+    },
+    {
+      "date": "1947",
+      "event": "LOC microfilms 150+ Black newspapers — The Library of Congress and the ACLS microfilm 150+ African American newspapers (12 reels) — the first large-scale preservation of the Black press.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1947-06-07",
+      "event": "WDIA Memphis signs on as a white-owned station airing country, light pop, and block programming.",
+      "entities": [
+        "MED-136"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/WDIA"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1948-10-25",
+      "event": "Nat D. Williams launches 'Tan Town Jubilee' on WDIA, among the first US radio programs designed for a Black audience; the first publicly recognized Black DJ in the segregated South.",
+      "entities": [
+        "MED-077",
+        "MED-136"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/WDIA",
+        "capitol.tn.gov HJR0641"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1949",
+      "event": "Opportunity ceases — Opportunity publishes quarterly from 1942 and ceases in 1949 after 26 years as the Urban League's journal.",
+      "entities": [
+        "MED-086"
+      ],
+      "sources": [
+        "Wikipedia; UPenn Online Books"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1949",
+      "event": "Jesse B. Blayton Sr. buys WERD Atlanta for $50,000, making it the first radio station both owned and programmed by African Americans; 'Jockey Jack' Gibson becomes its star DJ.",
+      "entities": [
+        "MED-058",
+        "MED-137",
+        "MED-056"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/WAEC_(AM)",
+        "en.wikipedia.org/wiki/Jesse_B._Blayton"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1950",
+      "event": "Andrew 'Skip' Carter founds KPRS in Kansas City (founding year variously reported as 1949, 1950, or 1952); it becomes the oldest continuously Black-owned radio station in America.",
+      "entities": [
+        "MED-030"
+      ],
+      "sources": [
+        "congress.gov Congressional Record vol. 146"
+      ],
+      "status": "Disputed",
+      "source_track": "radio"
+    },
+    {
+      "date": "1951",
+      "event": "Jet founded — JPC launches Jet, the weekly digest of Black news.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1951-11-01",
+      "event": "Jet founded — John H. Johnson launches Jet as \"The Weekly Negro News Magazine,\" a digest-size Black newsweekly.",
+      "entities": [
+        "MED-059"
+      ],
+      "sources": [
+        "Wikipedia (Jet)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1953",
+      "event": "Robert C. Meeker buys KCOH Houston, establishing the first Black-owned station in Texas with all-Negro programming on the Gulf Coast.",
+      "entities": [
+        "MED-064"
+      ],
+      "sources": [
+        "blackenterprise.com/kcoh-historic-black-radio-station/"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1954-01-20",
+      "event": "The National Negro Network, founded by W. Leonard Evans Jr., launches as the first Black-owned radio network (up to 45 affiliates); it collapses within a year for lack of capital.",
+      "entities": [
+        "MED-080"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/National_Negro_Network"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1954-06",
+      "event": "WDIA is licensed for 50,000 watts and moves to 1070 kHz; its signal reportedly reached ~10% of the US African-American population.",
+      "entities": [
+        "MED-136"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/WDIA"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1955",
+      "event": "Jet publishes Emmett Till open-casket photos — At Mamie Till Bradley's request, Jet publishes photos of her son's open casket - a landmark act of civil-rights photojournalism.",
+      "entities": [
+        "MED-059"
+      ],
+      "sources": [
+        "NPR via KSUT; The Oklahoma Eagle"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1956",
+      "event": "NNPA renamed; Chicago Defender goes daily — The National Negro Publishers Association is renamed the National Newspaper Publishers Association; Sengstacke converts the Chicago Defender from weekly to daily.",
+      "entities": [
+        "MED-081",
+        "MED-060"
+      ],
+      "sources": [
+        "Alchetron; Wikipedia (Sengstacke)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1960-01",
+      "event": "Houston Forward Times founded — Julius P. Carter founds the Houston Forward Times to unite Black Houston; his wife Lenora \"Doll\" Carter and daughter Karen Carter Richards will continue it.",
+      "entities": [
+        "MED-053"
+      ],
+      "sources": [
+        "365thingsinhouston.com; Congressional Record"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1961",
+      "event": "Muhammad Speaks first edition — The Nation of Islam newspaper Muhammad Speaks publishes its first edition under Elijah Muhammad; it will reach ~850,000-950,000 circulation per edition in the early 1970s.",
+      "entities": [
+        "MED-075"
+      ],
+      "sources": [
+        "Final Call history; Black Archives of Mid-America"
+      ],
+      "status": "Provisional",
+      "source_track": "print"
+    },
+    {
+      "date": "1964",
+      "event": "ANP ceases (disputed); Washington Informer founded — The Associated Negro Press is listed as defunct in 1964 (one source says it continued until Barnett's 1967 death); Calvin W. Rolark founds the Washington Informer with $500.",
+      "entities": [
+        "MED-009",
+        "MED-133"
+      ],
+      "sources": [
+        "Wikipedia; African American Registry; DC Preservation"
+      ],
+      "status": "Disputed",
+      "source_track": "print"
+    },
+    {
+      "date": "1965",
+      "event": "Muhammad Speaks goes weekly — Muhammad Speaks moves from monthly to weekly on February 12, 1965.",
+      "entities": [
+        "MED-075"
+      ],
+      "sources": [
+        "Final Call history"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1965",
+      "event": "Sengstacke buys the Pittsburgh Courier (year disputed) — Sengstacke purchases the declining Pittsburgh Courier (reported as 1965 or 1966); it ceases Oct 22, 1966 and is relaunched as the New Pittsburgh Courier in 1967.",
+      "entities": [
+        "MED-093",
+        "MED-082",
+        "MED-060"
+      ],
+      "sources": [
+        "Wikipedia; African American Registry"
+      ],
+      "status": "Provisional",
+      "source_track": "print"
+    },
+    {
+      "date": "1965",
+      "event": "Pittsburgh Courier financial collapse — The Pittsburgh Courier collapses financially under owner John H. Sengstacke.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1966-10-22",
+      "event": "Pittsburgh Courier ceases; relaunched 1967 — The Pittsburgh Courier ceases publication; Sengstacke buys and relaunches it as the New Pittsburgh Courier in 1967.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1968",
+      "event": "Blayton retires and sells WERD (call sign becomes WXAP in 1972).",
+      "entities": [
+        "MED-058",
+        "MED-137"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Jesse_B._Blayton"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1968",
+      "event": "WGBH Boston launches Say Brother, three months after MLK's assassination — a weekly public-affairs program produced by, for, and about the Black community.",
+      "entities": [
+        "MED-104"
+      ],
+      "sources": [
+        "AAPB (WGBH special collection)"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1968-06",
+      "event": "Under executive producer William Greaves, Black Journal launches; it wins an Emmy in 1969.",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "wearespeaking.net"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1968-06-12",
+      "event": "Black Journal premieres on NET as a monthly public-affairs series 'for blacks, about blacks'; first episode includes Coretta Scott King speaking at Harvard.",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "THIRTEEN/WNET"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1969",
+      "event": "Byron Lewis founds UniWorld Group, the longest-standing Black-owned multicultural ad agency.",
+      "entities": [
+        "MED-128"
+      ],
+      "sources": [
+        "en.wikipedia.org (UWG Inc.)",
+        "wpp.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "1970",
+      "event": "Percy Sutton and Black shareholders found Inner City Broadcasting Corporation in New York; its first purchase is WLIB (AM).",
+      "entities": [
+        "MED-091",
+        "MED-055"
+      ],
+      "sources": [
+        "thehistorymakers.org A2013_314",
+        "adweek.com"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1970",
+      "event": "Inner City Broadcasting Corporation founded by Percy Sutton, Clarence Jones and 50+ Black shareholders — anchor of Black-owned radio.",
+      "entities": [
+        "MED-055"
+      ],
+      "sources": [
+        "en.wikipedia.org (Inner City Broadcasting Corporation)"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "1970-05",
+      "event": "Essence and Black Enterprise debut — Essence's first issue appears (April/May 1970; initial circulation ~50,000); Black Enterprise's first issue (August 1970) features Charles Evers on the cover.",
+      "entities": [
+        "MED-039",
+        "MED-019",
+        "MED-037"
+      ],
+      "sources": [
+        "Wikipedia; BlackEnterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1970-08",
+      "event": "Black Enterprise founded by Earl G. Graves Sr.; hit newsstands August 1970.",
+      "entities": [
+        "MED-019"
+      ],
+      "sources": [
+        "Wikipedia, 'Black Enterprise'",
+        "Black Enterprise 55th anniversary"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "1970-08",
+      "event": "Earl G. Graves Sr. launches Black Enterprise magazine.",
+      "entities": [
+        "MED-019"
+      ],
+      "sources": [
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "1971",
+      "event": "Sutton/Jones group buys the Amsterdam News — Percy E. Sutton and Clarence B. Jones lead an all-Black group purchasing the Amsterdam News from Dr. Clilan B. Powell.",
+      "entities": [
+        "MED-083"
+      ],
+      "sources": [
+        "African American Registry; Moguldom"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1971",
+      "event": "WBLS hits New York airwaves as the only Black-owned FM station in the city's history; the WBLS acquisition year is also reported as 1972/1974.",
+      "entities": [
+        "MED-135",
+        "MED-055"
+      ],
+      "sources": [
+        "finalcall.com",
+        "en.wikipedia.org/wiki/Inner_City_Broadcasting_Corporation"
+      ],
+      "status": "Disputed",
+      "source_track": "radio"
+    },
+    {
+      "date": "1971",
+      "event": "Tony Brown takes over leadership of Black Journal as executive producer and frequent host.",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "wearespeaking.net; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1971",
+      "event": "Tom Burrell founds Burrell Communications Group in Chicago.",
+      "entities": [
+        "MED-027"
+      ],
+      "sources": [
+        "blackenterprise.com",
+        "essence.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "1972",
+      "event": "The Mutual Broadcasting System founds the Mutual Black Network, the first national full-service news network aimed at African Americans (98 affiliates).",
+      "entities": [
+        "MED-076"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Mutual_Black_Network"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1972",
+      "event": "Ronald and Judith Davenport found Sheridan Broadcasting Corporation in Pittsburgh with four stations.",
+      "entities": [
+        "MED-108"
+      ],
+      "sources": [
+        "rbr.com",
+        "thehistorymakers.org A2004_136"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1972",
+      "event": "Inner City Broadcasting acquires WLIB, its first station, programmed to New York's Black community.",
+      "entities": [
+        "MED-055"
+      ],
+      "sources": [
+        "en.wikipedia.org (Inner City Broadcasting Corporation)"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "1973",
+      "event": "Black Press Archives founded at Howard — The Black Press Archives is founded as a joint Howard University/NNPA project at the Moorland-Spingarn Research Center.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1973-07-02",
+      "event": "The National Black Network launches in New York with 25 affiliates, the first coast-to-coast Black-owned radio network.",
+      "entities": [
+        "MED-079"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/National_Black_Network",
+        "blackamericaweb.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1974",
+      "event": "Hazel B. Garland named editor of New Pittsburgh Courier — Sengstacke appoints Garland editor-in-chief - the first African-American woman to edit a national newspaper; the paper wins the 1976 Russwurm Award.",
+      "entities": [
+        "MED-051",
+        "MED-082"
+      ],
+      "sources": [
+        "Wikipedia (New Pittsburgh Courier)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1975",
+      "event": "NOI transition; Muhammad Speaks renamed — After Elijah Muhammad's death, W. D. Muhammad takes over the Nation and the newspaper is renamed (Bilalian News, later The Muslim Journal).",
+      "entities": [
+        "MED-075"
+      ],
+      "sources": [
+        "Black Archives of Mid-America"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1976",
+      "event": "NABOB (National Association of Black Owned Broadcasters) is organized in Atlanta, the first trade association for Black broadcast owners.",
+      "entities": [
+        "MED-078",
+        "MED-079"
+      ],
+      "sources": [
+        "bmi.com",
+        "businesswire.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1976",
+      "event": "Melvin Lindsey brings 'The Quiet Storm' to WHUR-FM's late-night lineup at Howard University; the format spreads to nearly every urban station's night slot.",
+      "entities": [
+        "MED-070",
+        "MED-031"
+      ],
+      "sources": [
+        "radiohalloffame.com",
+        "en.wikipedia.org/wiki/Quiet_storm"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1976",
+      "event": "Sheridan Broadcasting buys 49% of the Mutual Black Network.",
+      "entities": [
+        "MED-108",
+        "MED-076"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/American_Urban_Radio_Networks"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1977",
+      "event": "Black Journal leaves public TV for commercial television with Pepsi sponsorship, renamed Tony Brown's Journal.",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "wearespeaking.net; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1978",
+      "event": "Black Classic Press founded — W. Paul Coates founds Black Classic Press in Baltimore to republish out-of-print works by and about people of African descent.",
+      "entities": [
+        "MED-018",
+        "MED-132"
+      ],
+      "sources": [
+        "Wikipedia; Publishers Weekly"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1978",
+      "event": "The FCC creates the Minority Tax Certificate Program, incentivizing station sales to minorities; it drives the main wave of Black broadcast ownership.",
+      "entities": [
+        "MED-042"
+      ],
+      "sources": [
+        "news.radio-online.com",
+        "congress.gov Congressional Record"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1979",
+      "event": "The Final Call founded — Louis Farrakhan launches The Final Call in the basement of his home as the Nation of Islam's official newspaper.",
+      "entities": [
+        "MED-117"
+      ],
+      "sources": [
+        "Final Call 40th anniversary; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1979-08-29",
+      "event": "Sheridan Broadcasting buys the rest of the Mutual Black Network and renames it the Sheridan Broadcasting Network.",
+      "entities": [
+        "MED-108",
+        "MED-076"
+      ],
+      "sources": [
+        "bet.com",
+        "en.wikipedia.org/wiki/Mutual_Black_Network"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1980",
+      "event": "Cathy Hughes buys WOL-AM Washington, D.C. for ~$995,000 after 33 loan rejections, founding Radio One with an urban talk format.",
+      "entities": [
+        "MED-031",
+        "MED-127"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Urban_One",
+        "tvone.tv"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1980",
+      "event": "Robert L. Johnson launches BET, a cable channel for Black audiences.",
+      "entities": [
+        "MED-015"
+      ],
+      "sources": [
+        "thewrap.com",
+        "eurweb.com",
+        "blksociety.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "1980",
+      "event": "BET launched; Radio One founded — BET hits the air as the first Black-owned cable network; Cathy Hughes buys WOL-AM, founding Radio One.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1980-01-25",
+      "event": "BET launches as a two-hour weekly block on the Madison Square Garden Sports Network, founded by Robert L. Johnson ($15K loan + $500K from John Malone); logo designed by Cheryl D. Miller.",
+      "entities": [
+        "MED-015",
+        "MED-101"
+      ],
+      "sources": [
+        "Wikipedia: BET; BlackPast; aaregistry.org"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1981",
+      "event": "Suggs buys the St. Louis American — Donald Suggs and investors buy majority shares (Suggs majority stockholder/publisher in 1984) and convert the paper from paid limited circulation to a free weekly.",
+      "entities": [
+        "MED-112"
+      ],
+      "sources": [
+        "Wikipedia; Word In Black"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1981",
+      "event": "WLIB becomes the second station in the nation with a Black news-talk format (after WOL).",
+      "entities": [
+        "MED-055"
+      ],
+      "sources": [
+        "journal-isms.com"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "1982",
+      "event": "Tony Brown's Journal returns to public television (PBS).",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "wearespeaking.net; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1982-09",
+      "event": "BET becomes a full-time standalone cable channel (some sources say 1983).",
+      "entities": [
+        "MED-015"
+      ],
+      "sources": [
+        "Wikipedia: BET; aaregistry.org"
+      ],
+      "status": "Disputed",
+      "source_track": "tv"
+    },
+    {
+      "date": "1983",
+      "event": "Thomas family buys the LA Sentinel — Kenneth R. Thomas and Jennifer Thomas purchase the Los Angeles Sentinel from the Washington estate.",
+      "entities": [
+        "MED-067"
+      ],
+      "sources": [
+        "lasentinel.net/about"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1985",
+      "event": "Tom Joyner begins his eight-year 'Fly Jock' double-shift: mornings at KKDA-FM Dallas, afternoons at WGCI-FM Chicago.",
+      "entities": [
+        "MED-123"
+      ],
+      "sources": [
+        "livinglegendsfoundation.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1988",
+      "event": "BET News launches with Ed Gordon anchoring the first half-hour news program directed at a Black audience.",
+      "entities": [
+        "MED-015"
+      ],
+      "sources": [
+        "BlackPast.org"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1990",
+      "event": "Ruth Washington dies — Ruth Washington - who led the Sentinel after her husband's 1974 death - dies; the Thomas era continues under Jennifer Thomas from 1997.",
+      "entities": [
+        "MED-067"
+      ],
+      "sources": [
+        "lasentinel.net/about; BlackAmericaWeb"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1991",
+      "event": "The Sheridan Broadcasting Network merges with the National Black Network to form American Urban Radio Networks (some sources date the completed merger to 1995).",
+      "entities": [
+        "MED-003",
+        "MED-076",
+        "MED-079"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/American_Urban_Radio_Networks"
+      ],
+      "status": "Disputed",
+      "source_track": "radio"
+    },
+    {
+      "date": "1991",
+      "event": "BET becomes the first Black-controlled company on the New York Stock Exchange.",
+      "entities": [
+        "MED-015"
+      ],
+      "sources": [
+        "liquisearch; Black Enterprise"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1991",
+      "event": "BET becomes the first Black-owned company listed on the NYSE.",
+      "entities": [
+        "MED-015"
+      ],
+      "sources": [
+        "blksociety.com"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "1991",
+      "event": "BET IPO — BET's IPO makes it the first Black-controlled company listed on the NYSE.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1993",
+      "event": "Byron Allen founds Entertainment Studios (later Allen Media Group).",
+      "entities": [
+        "MED-028",
+        "MED-002"
+      ],
+      "sources": [
+        "Allen Media Group releases"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1993",
+      "event": "Byron Allen founds Allen Media Group (as Entertainment Studios).",
+      "entities": [
+        "MED-002",
+        "MED-028"
+      ],
+      "sources": [
+        "Allen Media Group press materials via PR Newswire"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "1994-01-03",
+      "event": "The Tom Joyner Morning Show premieres in national syndication on ABC Radio Networks; it peaks at 120+ markets and 15+ million daily listeners.",
+      "entities": [
+        "MED-123"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Tom_Joyner_Morning_Show"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1995",
+      "event": "Essence Music Festival launches; BCP Digital Printing founded — Essence launches the Essence Music Festival for its 25th anniversary; W. Paul Coates launches BCP Digital Printing, which will account for ~85% of BCP revenue.",
+      "entities": [
+        "MED-039",
+        "MED-018"
+      ],
+      "sources": [
+        "BlackEnterprise.com; Publishers Weekly"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1995",
+      "event": "Congress repeals the Minority Tax Certificate Program; minority broadcast ownership begins a long decline.",
+      "entities": [
+        "MED-042",
+        "MED-114"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/1978_Broadcast_Policy_Statement_on_minority_ownership",
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1995",
+      "event": "Minority Tax Certificate repealed — Congress repeals the Minority Tax Certificate, removing the key incentive for selling broadcast stations to minority owners.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1996",
+      "event": "Telecommunications Act of 1996 — The Telecommunications Act abolishes broadcast ownership limits, triggering consolidation that decimates Black station ownership.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "1996-02-08",
+      "event": "The Telecommunications Act of 1996 is signed, lifting radio ownership caps and triggering consolidation: Clear Channel grows from ~86 to ~1,200 stations; Black-owned station counts fall.",
+      "entities": [
+        "MED-114"
+      ],
+      "sources": [
+        "congress.gov",
+        "blackenterprise.com/battle-for-the-airwaves/"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1997",
+      "event": "Sengstacke dies; chain enters family trust — John H. Sengstacke dies; his four-paper chain is held in a family trust.",
+      "entities": [
+        "MED-060",
+        "MED-082",
+        "MED-072",
+        "MED-011"
+      ],
+      "sources": [
+        "Wikipedia (New Pittsburgh Courier)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "1998",
+      "event": "Say Brother becomes Basic Black (producer Cynthia Johnson: title more inclusive of women).",
+      "entities": [
+        "MED-104"
+      ],
+      "sources": [
+        "AAPB (WGBH)"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "1999-05-06",
+      "event": "Radio One goes public (6.5M shares at $24), making Cathy Hughes the first African American woman to chair a publicly held company.",
+      "entities": [
+        "MED-031",
+        "MED-127"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Urban_One"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "1999-06",
+      "event": "Publicis takes a 49% stake in Burrell Communications — one of a wave of mainstream-agency alliances with Black agencies.",
+      "entities": [
+        "MED-027"
+      ],
+      "sources": [
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2000",
+      "event": "Time Inc. buys 49% of Essence; NNPA Media Services launches — Time Inc. purchases 49% of Essence Communications; the NNPA launches Media Services for print/web ad placement.",
+      "entities": [
+        "MED-039",
+        "MED-081"
+      ],
+      "sources": [
+        "Wikipedia (Essence); Alchetron"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2000",
+      "event": "Viacom acquires BET, ending its run as a Black-owned company (deal value disputed: $2.3B vs ~$3B).",
+      "entities": [
+        "MED-015"
+      ],
+      "sources": [
+        "eurweb.com",
+        "blksociety.com"
+      ],
+      "status": "Disputed",
+      "source_track": "economics"
+    },
+    {
+      "date": "2000-06",
+      "event": "WPP acquires a 49% stake in UniWorld Group; Byron Lewis calls it 'a matter of survival' against mainstream agencies chasing Black-consumer budgets.",
+      "entities": [
+        "MED-128",
+        "MED-139"
+      ],
+      "sources": [
+        "wpp.com",
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2000-11",
+      "event": "Viacom agrees to buy BET Holdings Inc. for $2.3B in stock plus $570M in assumed debt (figures vary $2.3B-$3B across sources); announced late 2000.",
+      "entities": [
+        "MED-129",
+        "MED-101"
+      ],
+      "sources": [
+        "USA Today via readabstracts; Wikipedia: BET Media Group"
+      ],
+      "status": "Disputed",
+      "source_track": "tv"
+    },
+    {
+      "date": "2001",
+      "event": "Walter P. Lomax Jr. purchases WURD 900 AM Philadelphia (year also reported as 2003), creating Pennsylvania's only Black-owned talk station.",
+      "entities": [
+        "MED-140"
+      ],
+      "sources": [
+        "podcastguru.io",
+        "en.wikipedia.org/wiki/Sara_Lomax-Reese"
+      ],
+      "status": "Disputed",
+      "source_track": "radio"
+    },
+    {
+      "date": "2001",
+      "event": "Viacom-BET deal closes; BET networks join MTV Networks. BET is no longer Black-owned.",
+      "entities": [
+        "MED-129"
+      ],
+      "sources": [
+        "Wikipedia: BET Media Group"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2001",
+      "event": "BET sold to Viacom (~$3B) — Viacom acquires BET Holdings for ~$3 billion, ending Black ownership of the network; Robert L. Johnson becomes the first Black billionaire.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2003",
+      "event": "Real Times buys the Sengstacke chain — Detroit-based Real Times buys the four-paper chain (New Pittsburgh Courier, Michigan Chronicle, Atlanta Daily World, Tri-State Defender) for nearly $12 million.",
+      "entities": [
+        "MED-098",
+        "MED-082",
+        "MED-072",
+        "MED-011"
+      ],
+      "sources": [
+        "Wikipedia (New Pittsburgh Courier)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2003",
+      "event": "Tom Joyner co-founds Reach Media to gain ownership of his syndicated show.",
+      "entities": [
+        "MED-123",
+        "MED-096"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Tom_Joyner_Morning_Show"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2003",
+      "event": "Sengstacke chain sold to Real Times — The Sengstacke newspaper chain is sold to Real Times for ~$12M, consolidating remaining Black papers.",
+      "entities": [],
+      "sources": [],
+      "status": "Provisional",
+      "source_track": "archives"
+    },
+    {
+      "date": "2003-01",
+      "event": "Radio One and Comcast announce a joint venture to create a TV network for African Americans 25-54.",
+      "entities": [
+        "MED-125"
+      ],
+      "sources": [
+        "Wikipedia: TV One"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2004",
+      "event": "TV One launched — Urban One launches TV One in partnership with Comcast, extending the Radio One survival model into cable.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2004-01-19",
+      "event": "TV One launches on MLK Day with Comcast carriage in Atlanta, Detroit, Washington, Baltimore; Johnathan Rodgers president/CEO.",
+      "entities": [
+        "MED-125",
+        "MED-031"
+      ],
+      "sources": [
+        "Wikipedia: TV One; Comcast announcement"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2004-03",
+      "event": "Bakewell buys the LA Sentinel — Danny Bakewell purchases the Los Angeles Sentinel from Jennifer Thomas, becoming executive publisher/chairman/CEO.",
+      "entities": [
+        "MED-067"
+      ],
+      "sources": [
+        "lasentinel.net/about; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2004-11",
+      "event": "Radio One acquires 53% of Reach Media for $56.1 million, taking over syndication of the Tom Joyner Morning Show.",
+      "entities": [
+        "MED-127",
+        "MED-096"
+      ],
+      "sources": [
+        "eurweb.com",
+        "thejasminebrand.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2005",
+      "event": "Time Inc. completes Essence takeover; Johnson dies — Time Inc. buys the remaining 51% of Essence, ending Black ownership; John H. Johnson dies August 8, 2005.",
+      "entities": [],
+      "sources": [
+        "Wikipedia (Essence); Daily Reporter obit"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2005",
+      "event": "John H. Johnson dies; JPC begins its terminal decline.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2005-06",
+      "event": "Robert Johnson retires; Debra L. Lee becomes BET CEO (some sources say 2006).",
+      "entities": [
+        "MED-035",
+        "MED-101"
+      ],
+      "sources": [
+        "Wikipedia: BET; Black Enterprise"
+      ],
+      "status": "Disputed",
+      "source_track": "tv"
+    },
+    {
+      "date": "2005-09",
+      "event": "Steve Harvey launches The Steve Harvey Morning Show on Premiere Radio Networks (iHeart), becoming Joyner's direct competitor on non-Black-owned syndication.",
+      "entities": [
+        "MED-123"
+      ],
+      "sources": [
+        "thejasminebrand.com"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "2007",
+      "event": "Rev. Delman Coates leads 'Enough is Enough' protests — 500 protesters at Debra Lee's DC home — over BET's stereotypical content; campaign meets with BET leadership.",
+      "entities": [
+        "MED-016"
+      ],
+      "sources": [
+        "Refinery29; Essence"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2007-11",
+      "event": "Mellon grant: AFRO archives project — A Mellon Foundation grant funds Johns Hopkins/Morgan State students to inventory the AFRO archives at the newspaper's headquarters.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2008",
+      "event": "The Boondocks airs episode satirizing BET executives Lee and Reginald Hudlin over reality-TV programming.",
+      "entities": [
+        "MED-016"
+      ],
+      "sources": [
+        "press/livejournal coverage"
+      ],
+      "status": "Provisional",
+      "source_track": "tv"
+    },
+    {
+      "date": "2008",
+      "event": "Tony Brown's Journal ends on PBS after 26 years there (40 years total lineage).",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "wearespeaking.net; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2008",
+      "event": "The Root founded by Henry Louis Gates Jr. and Donald E. Graham as a digital Black newspaper.",
+      "entities": [
+        "MED-119"
+      ],
+      "sources": [
+        "blackenterprise.com",
+        "eurweb.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2008-01-28",
+      "event": "The Root launches, co-founded by Henry Louis Gates Jr. and Donald E. Graham under the Washington Post Company (Slate Group).",
+      "entities": [
+        "MED-119",
+        "MED-048"
+      ],
+      "sources": [
+        "Wikipedia, 'The Root (magazine)'",
+        "Journal-isms (2015)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2008-07",
+      "event": "TV One president Johnathan Rodgers announces extensive Democratic National Convention coverage.",
+      "entities": [
+        "MED-125"
+      ],
+      "sources": [
+        "Wikipedia: TV One"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2008-07-29",
+      "event": "Sirius and XM merge into SiriusXM, consolidating Black-formatted satellite channels (Heart & Soul, The Heat, etc.) under one corporate owner.",
+      "entities": [
+        "MED-103"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/List_of_SiriusXM_Radio_channels"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2009-06",
+      "event": "TheGrio launches as a division of NBC News, founded by the team behind the documentary 'Meeting David Wilson.'",
+      "entities": [
+        "MED-121"
+      ],
+      "sources": [
+        "Wikipedia, 'TheGrio'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2011-01-01",
+      "event": "OWN: Oprah Winfrey Network launches, replacing Discovery Health, as a 50/50 Discovery/Harpo joint venture.",
+      "entities": [
+        "MED-088",
+        "MED-087"
+      ],
+      "sources": [
+        "Wikipedia: OWN; Discovery 8-K (2010)"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2011-04",
+      "event": "Comcast solicits 100+ proposals for minority-owned independent networks under NBCUniversal merger commitments.",
+      "entities": [
+        "MED-034"
+      ],
+      "sources": [
+        "Comcast corporate; Wikipedia: Revolt"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2011-04-04",
+      "event": "Bounce TV announced as the first 24/7 over-the-air Black broadcast network; founders include MLK III and Andrew Young.",
+      "entities": [
+        "MED-026"
+      ],
+      "sources": [
+        "TheWrap; The Futon Critic"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2011-08-22",
+      "event": "Creditors force Inner City Broadcasting's subsidiary into Chapter 11 bankruptcy on $254 million in debt.",
+      "entities": [
+        "MED-055"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Inner_City_Broadcasting_Corporation",
+        "adweek.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2011-09-26",
+      "event": "Bounce TV launches at noon ET as a digital-subchannel broadcast network.",
+      "entities": [
+        "MED-026"
+      ],
+      "sources": [
+        "TV Technology"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2011-09-26",
+      "event": "Bounce TV launched — Bounce TV launches as the first 24/7 digital multicast network targeting African Americans.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2012",
+      "event": "Atlanta Black Star founded by Neil 'Jelani' Nelson, Tracy Dornelly, and Andre Moore (Diamond Diaspora Media).",
+      "entities": [
+        "MED-010",
+        "MED-036"
+      ],
+      "sources": [
+        "Wikipedia, 'Atlanta Black Star'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2012",
+      "event": "Byron Lewis retires and sells his remaining UniWorld stake to Monique Nelson and family; firm later rebrands as UWG (2014).",
+      "entities": [
+        "MED-128"
+      ],
+      "sources": [
+        "en.wikipedia.org (Byron Lewis; UWG Inc.)"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2012-02",
+      "event": "Comcast announces distribution deals for four minority-owned networks, including Aspire (Magic Johnson/GMC) and Revolt (Sean Combs).",
+      "entities": [
+        "MED-008",
+        "MED-034"
+      ],
+      "sources": [
+        "Comcast corporate"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2012-06-27",
+      "event": "Aspire TV launches (some sources say June 30, 2012) targeting positive images of African Americans.",
+      "entities": [
+        "MED-008"
+      ],
+      "sources": [
+        "Wikipedia: Aspire TV; ESPN/AP"
+      ],
+      "status": "Disputed",
+      "source_track": "tv"
+    },
+    {
+      "date": "2012-07-10",
+      "event": "Viacom pulls 26 channels including BET from DirecTV (~20M homes) in carriage-fee fight; blackout lasts until July 20.",
+      "entities": [
+        "MED-130",
+        "MED-015"
+      ],
+      "sources": [
+        "VentureBeat; Engadget"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2012-10-19",
+      "event": "YMF Media LLC (Ron Burkle + Magic Johnson) buys 15 Inner City stations for $180 million, then breaks up the group in 2013-2014 sales.",
+      "entities": [
+        "MED-055",
+        "MED-135"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Inner_City_Broadcasting_Corporation"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2012-11",
+      "event": "KCOH sells its 1430 Houston signal to the La Promesa Foundation for $2.14 million, ending 59 years as a Black-owned station.",
+      "entities": [
+        "MED-064"
+      ],
+      "sources": [
+        "radioinsight.com",
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2013",
+      "event": "REVOLT Media & TV founded by Sean 'Diddy' Combs (with Andy Schuon).",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "AfroTech",
+        "Black Enterprise"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2013-10-21",
+      "event": "Revolt launches in New York City, Los Angeles, and Chicago.",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "Wikipedia: Revolt"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2013-12",
+      "event": "Roberts Broadcasting sells its last three full-power stations to Ion Media; zero Black-owned and operated full-power TV stations remain in the US.",
+      "entities": [
+        "MED-023"
+      ],
+      "sources": [
+        "TVNewsCheck; LA Sentinel"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2014",
+      "event": "Blavity founded by Morgan DeBaun, Aaron Samuels, Jonathan Jackson, and Jeff Nelson, targeting Black millennials.",
+      "entities": [
+        "MED-024",
+        "MED-074"
+      ],
+      "sources": [
+        "Wikipedia, 'Blavity'",
+        "Black Enterprise (2018)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2014",
+      "event": "Jet ends print publication, going digital-only, as print advertising collapses.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2014-03",
+      "event": "Angelica Nwandu founds The Shade Room as an Instagram-based media company.",
+      "entities": [
+        "MED-120",
+        "MED-006"
+      ],
+      "sources": [
+        "Wikipedia, 'The Shade Room'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2014-06",
+      "event": "Jet ends print — Jet ends regular print publication (720,000 circulation) and converts to a digital magazine app in July 2014; JPC sells Ebony/Jet to Clear View Group in 2016.",
+      "entities": [
+        "MED-059",
+        "MED-038"
+      ],
+      "sources": [
+        "Associated Press; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2015",
+      "event": "Urban One acquires Comcast's stake in TV One, taking full control.",
+      "entities": [
+        "MED-125"
+      ],
+      "sources": [
+        "Wikipedia: TV One"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2015-02",
+      "event": "Byron Allen files $20B racial-discrimination suit against Comcast under Section 1981 over refusal to carry his channels.",
+      "entities": [
+        "MED-002",
+        "MED-028"
+      ],
+      "sources": [
+        "Wikipedia: Comcast v. NAAOM"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2015-02",
+      "event": "Byron Allen sues Comcast ($20B) and Charter ($10B) under Section 1981 of the Civil Rights Act of 1866 over refusal to carry his channels.",
+      "entities": [
+        "MED-028",
+        "MED-002"
+      ],
+      "sources": [
+        "en.wikipedia.org (Comcast v. NAAOM)",
+        "moguldom.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2015-05",
+      "event": "Univision Communications acquires The Root from Graham Holdings (price undisclosed; ~5M monthly uniques per comScore).",
+      "entities": [
+        "MED-119",
+        "MED-126"
+      ],
+      "sources": [
+        "Adweek, 'Univision Acquires The Root'",
+        "Journal-isms (2015)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2016",
+      "event": "Sherrell Dorsey founds The Plug, a daily tech newsletter covering Black founders and the innovation economy.",
+      "entities": [
+        "MED-118",
+        "MED-109"
+      ],
+      "sources": [
+        "Northwestern Garage/Medill",
+        "AllAmericanSpeakers bio"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2016",
+      "event": "JPC sells Ebony/Jet to Clear View — JPC sells Ebony and Jet to Clear View Group; the magazines' final corporate chapter under Johnson ownership ends.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2016-04-04",
+      "event": "BET acquires Soul Train library — BET acquires the Soul Train brand and library (1,100+ episodes, 40 specials) from InterMedia/Yucaipa.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2016-05",
+      "event": "Access.1 Communications takes 100% ownership of AURN, forcing out Sheridan's 51%; Sheridan later goes out of business. AURN's effective Black ownership becomes contested (Access.1 reported controlled by Guggenheim Capital Partners).",
+      "entities": [
+        "MED-003",
+        "MED-108"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/American_Urban_Radio_Networks",
+        "rbr.com"
+      ],
+      "status": "Disputed",
+      "source_track": "radio"
+    },
+    {
+      "date": "2016-06",
+      "event": "Johnson Publishing sells Ebony and Jet to Clear View Group, a Black-owned private equity firm.",
+      "entities": [
+        "MED-038"
+      ],
+      "sources": [
+        "CJR, 'Rebrand'",
+        "Moguldom"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2016-06",
+      "event": "Byron Allen's Entertainment Studios (Allen Media Group) acquires TheGrio.",
+      "entities": [
+        "MED-121",
+        "MED-002",
+        "MED-028"
+      ],
+      "sources": [
+        "Wikipedia, 'TheGrio'",
+        "Congress.gov Congressional Record"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2016-06-14",
+      "event": "Allen acquires TheGrio — Byron Allen's Entertainment Studios acquires TheGrio, keeping it 100% Black-owned.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2016-09",
+      "event": "Blavity closes a $1M seed round led by 500 Startups (followed by ~$1.8M in additional seed funding).",
+      "entities": [
+        "MED-024"
+      ],
+      "sources": [
+        "Wikipedia, 'Blavity'",
+        "Moguldom"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2017",
+      "event": "Radio One is renamed Urban One; WURD expands to 96.1 FM.",
+      "entities": [
+        "MED-127",
+        "MED-140"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Urban_One",
+        "ona21.journalists.org"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2017",
+      "event": "Discovery increases its OWN stake from 50% to 73%.",
+      "entities": [
+        "MED-088"
+      ],
+      "sources": [
+        "Wikipedia: OWN"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2017",
+      "event": "Blavity launches 21Ninety and acquires Shadow and Act and Travel Noire.",
+      "entities": [
+        "MED-024"
+      ],
+      "sources": [
+        "Wikipedia, 'Blavity'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2017",
+      "event": "Scripps acquires Bounce TV (Katz) — E.W. Scripps acquires the Katz networks including Bounce TV, taking Black-targeted OTA TV into general-market ownership.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2017-08-01",
+      "event": "E.W. Scripps announces purchase of Bounce (and Katz Broadcasting) for $292M; deal closes Oct 2, 2017.",
+      "entities": [
+        "MED-026"
+      ],
+      "sources": [
+        "Wikipedia: Bounce TV"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2018",
+      "event": "Allen Media Group acquires The Weather Channel.",
+      "entities": [
+        "MED-002"
+      ],
+      "sources": [
+        "Deadline via indiaforums.com"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2018-01",
+      "event": "Essence returns to Black ownership — Richelieu Dennis's Essence Ventures LLC acquires Essence from Time Inc., restoring fully Black-owned status.",
+      "entities": [
+        "MED-039"
+      ],
+      "sources": [
+        "Wikipedia (Essence); Face2Face Africa"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2018-01",
+      "event": "Scott Mills becomes BET president as Debra Lee cedes day-to-day duties; Lee steps down May 28, 2018 after 32 years.",
+      "entities": [
+        "MED-106",
+        "MED-035"
+      ],
+      "sources": [
+        "TheWrap; Black Enterprise"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2018-01",
+      "event": "Facebook rolls out the 'meaningful interactions' News Feed algorithm shift; Chartbeat measures publisher referral declines; LittleThings shuts down in February after ~70% Facebook traffic loss.",
+      "entities": [
+        "MED-071"
+      ],
+      "sources": [
+        "Digiday (Feb 2018)",
+        "Adweek",
+        "CJR"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2018-01",
+      "event": "Essence Ventures acquires Essence Communications from Time Inc.; Essence returns to 100% Black ownership.",
+      "entities": [
+        "MED-041"
+      ],
+      "sources": [
+        "blackenterprise.com",
+        "essence.com",
+        "okayplayer.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2018-01",
+      "event": "Essence returns to Black ownership — Essence Ventures acquires Essence from Time Inc., returning the brand to 100% Black ownership.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2018-01-03",
+      "event": "Essence Ventures (Richelieu Dennis) acquires Essence Communications from Time Inc.; brand returns to 100% Black ownership with equity for the all-Black female executive team.",
+      "entities": [
+        "MED-040",
+        "MED-041",
+        "MED-100"
+      ],
+      "sources": [
+        "Journal-isms (2018)",
+        "Black Enterprise (2018)",
+        "Colorlines (2018)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2018-03",
+      "event": "Byron Allen acquires The Weather Channel (~$300M) from NBCUniversal/Bain Capital.",
+      "entities": [
+        "MED-002"
+      ],
+      "sources": [
+        "press reporting"
+      ],
+      "status": "Provisional",
+      "source_track": "tv"
+    },
+    {
+      "date": "2018-07",
+      "event": "Blavity raises $6.5M Series A led by GV (Comcast Ventures, Plexo Capital, Baron Davis Enterprises participate).",
+      "entities": [
+        "MED-024",
+        "MED-074"
+      ],
+      "sources": [
+        "Black Enterprise (2018)",
+        "TechCrunch (2018, via Black Enterprise)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2019",
+      "event": "BET+ streaming service launches with Tyler Perry as a minority investor (reported 25%).",
+      "entities": [
+        "MED-106"
+      ],
+      "sources": [
+        "Adweek; popculture.com"
+      ],
+      "status": "Provisional",
+      "source_track": "tv"
+    },
+    {
+      "date": "2019",
+      "event": "G/O Media formed by Great Hill Partners from Univision's Gizmodo Media Group + The Onion; The Root folded into the portfolio.",
+      "entities": [
+        "MED-045",
+        "MED-119"
+      ],
+      "sources": [
+        "en.wikipedia.org (G/O Media)"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2019-01",
+      "event": "Cleo TV, TV One's sister network for millennial/Gen Z Black women, launches.",
+      "entities": [
+        "MED-125"
+      ],
+      "sources": [
+        "Wikipedia: Urban One"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2019-04",
+      "event": "Great Hill Partners buys Gizmodo Media Group from Univision; The Root becomes part of the newly created G/O Media.",
+      "entities": [
+        "MED-119",
+        "MED-045"
+      ],
+      "sources": [
+        "Wikipedia, 'The Root (magazine)'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2019-04",
+      "event": "JPC files Chapter 7 bankruptcy — Johnson Publishing Company files for Chapter 7 bankruptcy; its archive goes to auction.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2019-06",
+      "event": "Karen Carter Richards elected NNPA chair — The Houston Forward Times publisher is elected national chair of the NNPA, succeeding Dorothy Leavell.",
+      "entities": [
+        "MED-053",
+        "MED-063",
+        "MED-081"
+      ],
+      "sources": [
+        "Los Angeles Sentinel"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2019-07-25",
+      "event": "Foundation consortium buys JPC archive ($30M) — A four-foundation consortium buys the JPC archive for $30M, rescuing 3-4 million images and A/V from the bankruptcy.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2019-08",
+      "event": "ANA/AIMM's U.S. Multicultural Media Forecast (PQ Media) published: multicultural ~40% of population but only 5.2% of ad/marketing spend; African-American media $7.2B.",
+      "entities": [
+        "MED-005"
+      ],
+      "sources": [
+        "produ.com",
+        "anaaimm.net"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2019-12-13",
+      "event": "The final live Tom Joyner Morning Show airs, ending a 25-year syndication run; affiliates move to the Rickey Smiley Morning Show.",
+      "entities": [
+        "MED-123"
+      ],
+      "sources": [
+        "en.wikipedia.org/wiki/Tom_Joyner_Morning_Show"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2020",
+      "event": "59 digitized Black Journal episodes (1968-1977) released to stream free via the American Archive of Public Broadcasting.",
+      "entities": [
+        "MED-020"
+      ],
+      "sources": [
+        "infoDOCKET"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2020",
+      "event": "Charlamagne Tha God launches the Black Effect Podcast Network as a joint venture with iHeartMedia.",
+      "entities": [
+        "MED-115",
+        "MED-032"
+      ],
+      "sources": [
+        "BusinessWire (2025)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2020-03",
+      "event": "Supreme Court rules 9-0 against Allen in Comcast case (but-for causation standard); parties settle in June 2020 with Comcast carrying Comedy.TV, Recipe.TV, JusticeCentral.TV.",
+      "entities": [
+        "MED-002"
+      ],
+      "sources": [
+        "Wikipedia; Moguldom/Black Enterprise"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2020-03",
+      "event": "Supreme Court rules unanimously in Comcast v. NAAOM that Section 1981 plaintiffs must prove race was the but-for cause of the refusal to contract.",
+      "entities": [
+        "MED-028"
+      ],
+      "sources": [
+        "en.wikipedia.org (Comcast v. NAAOM)"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2020-04",
+      "event": "Earl G. Graves Sr., founder of Black Enterprise, dies at 85; son Earl 'Butch' Graves Jr. continues leading the company.",
+      "entities": [
+        "MED-019"
+      ],
+      "sources": [
+        "hiphopwired.com"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2020-06",
+      "event": "On Juneteenth, BET launches $25M 'Content for Change' social-justice initiative (adopted company-wide by ViacomCBS).",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "Adweek"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2020-06",
+      "event": "Allen settles with Comcast: carriage of Comedy.TV, Recipe.TV, JusticeCentral.TV on Xfinity plus amended Weather Channel terms.",
+      "entities": [
+        "MED-028",
+        "MED-002"
+      ],
+      "sources": [
+        "Reuters via hi99.com",
+        "eurweb.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2020-06",
+      "event": "BOMESI launched — BOMESI launches around Juneteenth as a network of 300+ Black-owned publishers to confront the <2% ad-spend inequity.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2020-06-15",
+      "event": "NABOB states Black people own fewer than 180 of 11,000+ US commercial radio stations (~1.6%), 52 years after the Kerner Commission.",
+      "entities": [
+        "MED-078",
+        "MED-114"
+      ],
+      "sources": [
+        "radioink.com WORDS-ARE-NOT-ENOUGH.pdf"
+      ],
+      "status": "Provisional",
+      "source_track": "radio"
+    },
+    {
+      "date": "2020-07",
+      "event": "Ebony forced into bankruptcy by creditors amid unpaid debts and freelancer lawsuits.",
+      "entities": [
+        "MED-038"
+      ],
+      "sources": [
+        "ndinsider (2020)",
+        "CJR, 'Rebrand'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2020-09-30",
+      "event": "Essence furloughs staff amid COVID-19 losses, paying salaries through the week and benefits through the furlough.",
+      "entities": [
+        "MED-040"
+      ],
+      "sources": [
+        "Essence.com COVID-19 statement",
+        "EURweb (2020)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2020-12",
+      "event": "Bridgeman buys Ebony for $14 million — After bankruptcy, Ebony is purchased by Bridgeman Sports and Media and relaunches March 1, 2021 as a digital-first brand, \"Moving Black Forward.\"",
+      "entities": [
+        "MED-038"
+      ],
+      "sources": [
+        "1956magazine.ua.edu; Wikipedia (Ebony)"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2020-12",
+      "event": "Discovery increases OWN ownership from 73% to 95%; Harpo remains minority stakeholder.",
+      "entities": [
+        "MED-088"
+      ],
+      "sources": [
+        "Wikipedia: OWN"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2020-12",
+      "event": "Junior Bridgeman's Bridgeman Sports and Media wins Ebony's assets out of bankruptcy for $14M; brand goes digital-first.",
+      "entities": [
+        "MED-038"
+      ],
+      "sources": [
+        "ndinsider (2020)",
+        "The Oklahoma Eagle"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2020-12",
+      "event": "Bridgeman buys Ebony/Jet ($14M) — Bridgeman Sports and Media buys Ebony and Jet out of bankruptcy for $14M.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2021",
+      "event": "Allen Media Group acquires HBCU GO (launched 2012) and BET Studios launches under BET CEO Scott Mills with equity for Black creators.",
+      "entities": [
+        "MED-002"
+      ],
+      "sources": [
+        "AMG releases; Adweek"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2021",
+      "event": "iONE Digital (Urban One) acquires Bossip, MadameNoire, and HipHopWired from Moguldom Media Group.",
+      "entities": [
+        "MED-127",
+        "MED-073"
+      ],
+      "sources": [
+        "Black Enterprise, 'iONE Digital Acquires...'"
+      ],
+      "status": "Provisional",
+      "source_track": "digital"
+    },
+    {
+      "date": "2021-01-15",
+      "event": "TheGrio.TV launches (rebranded from MGM's Light TV) on MLK weekend with Fox O&Os as launch group, reaching 100M+ households.",
+      "entities": [
+        "MED-122",
+        "MED-002"
+      ],
+      "sources": [
+        "allenmedia.tv"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2021-02",
+      "event": "Allen settles the $10B racial-discrimination suit against Charter Communications.",
+      "entities": [
+        "MED-028"
+      ],
+      "sources": [
+        "moguldom.com",
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2021-03-01",
+      "event": "Ebony digital relaunch — Ebony relaunches as a digital publication under Bridgeman ownership.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2021-04",
+      "event": "15 of 16 full-time The Root staffers resign amid conflict with G/O Media leadership; EIC Danielle Belton departs for HuffPost.",
+      "entities": [
+        "MED-119"
+      ],
+      "sources": [
+        "Wikipedia, 'The Root (magazine)'"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2021-04",
+      "event": "Apple rolls out App Tracking Transparency (iOS 14.5), curtailing cross-app ad tracking — a flagged but unverified risk for ad-dependent Black publishers.",
+      "entities": [
+        "MED-007"
+      ],
+      "sources": [
+        "Unverified in this research pass"
+      ],
+      "status": "Provisional",
+      "source_track": "digital"
+    },
+    {
+      "date": "2021-06",
+      "event": "Group Black launches (Dennis, Bough, Montaque) with a $75M GroupM commitment toward a stated $500M goal for Black-owned media.",
+      "entities": [
+        "MED-049",
+        "MED-100",
+        "MED-124"
+      ],
+      "sources": [
+        "Adweek (2021)",
+        "AfroTech"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2021-06-07",
+      "event": "Word In Black founded (soft-launched May 2021): ten Black newspapers launch a shared national digital platform via the Fund for Black Journalism.",
+      "entities": [
+        "MED-138"
+      ],
+      "sources": [
+        "Editor & Publisher",
+        "Black Enterprise (2021)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2021-06-07",
+      "event": "Word In Black founded — Ten legacy Black newspapers launch Word In Black, incubated by the Local Media Foundation.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2021-09",
+      "event": "MRC suspends Nielsen's national and local TV ratings accreditation after pandemic-era undercounting; VAB had petitioned citing undercounting of Black, Hispanic and young viewers.",
+      "entities": [
+        "MED-069",
+        "MED-084",
+        "MED-131"
+      ],
+      "sources": [
+        "newslab.org",
+        "martech.org",
+        "thewrap.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2021-09-02",
+      "event": "Roland Martin launches the Black Star Network, a free, ad-supported, Black-owned OTT network.",
+      "entities": [
+        "MED-022",
+        "MED-102"
+      ],
+      "sources": [
+        "Final Call News (2021)",
+        "AfroTech (2021)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2022",
+      "event": "VAB publishes research asserting 30 billion ad impressions went uncounted by Nielsen, including 7 billion Black and 5.5 billion Hispanic impressions (seller-side advocacy study).",
+      "entities": [
+        "MED-131",
+        "MED-084"
+      ],
+      "sources": [
+        "hispanicad.com"
+      ],
+      "status": "Disputed",
+      "source_track": "economics"
+    },
+    {
+      "date": "2022-01-31",
+      "event": "Capital B launches as a nonprofit news organization (national + Capital B Atlanta), co-founded by Lauren Williams and Akoto Ofori-Atta.",
+      "entities": [
+        "MED-029",
+        "MED-065"
+      ],
+      "sources": [
+        "Digiday Podcast (2022)",
+        "NPR (2022)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2022-01-31",
+      "event": "Capital B launched — Capital B launches as a nonprofit, donor-funded news organization for Black audiences.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2022-02",
+      "event": "Black Press Archives digitization funded; LOC adds titles — Howard's MSRC receives a $2M Jonathan Logan Family Foundation grant to digitize the Black Press Archives; LOC adds 1,224 pages from 103 Black titles to Chronicling America.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2022-02-23",
+      "event": "Knight Foundation announces $4M+ three-year investment in publishers of color, including Capital B and URL Media.",
+      "entities": [
+        "MED-029"
+      ],
+      "sources": [
+        "Talking Biz News (2022)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2022-06-06",
+      "event": "NABOB and BIA Advisory Services release the first authoritative 'Black Owned Radio Stations Ownership & Revenue Report.'",
+      "entities": [
+        "MED-078"
+      ],
+      "sources": [
+        "businesswire.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2022-07-28",
+      "event": "JPC archive transferred to NMAAHC/Getty — The JPC archive's ownership is formally transferred to the NMAAHC and the Getty Research Institute; Getty commits $30M to digitization.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2023-01",
+      "event": "Blavity launches Home & Texture and restructures into Blavity Media Group + DEI Solutions Group after doubling 2022 ad revenue.",
+      "entities": [
+        "MED-024"
+      ],
+      "sources": [
+        "Wikipedia, 'Blavity'",
+        "Adweek (2023)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2023-03",
+      "event": "Paramount Global explores selling majority stake in BET Media Group; bidders include Tyler Perry, Byron Allen, Diddy, Group Black, 50 Cent, Kenya Barris.",
+      "entities": [
+        "MED-017"
+      ],
+      "sources": [
+        "TheWrap; WSJ"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2023-04",
+      "event": "MRC restores accreditation of Nielsen's national TV ratings after 19-month suspension; local ratings remain unaccredited.",
+      "entities": [
+        "MED-069",
+        "MED-084"
+      ],
+      "sources": [
+        "advanced-television.com",
+        "newslab.org"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2023-08",
+      "event": "Paramount backs off talks to sell majority stake in BET after interest from Tyler Perry, Byron Allen and Group Black; Perry later calls the process 'disrespectful.'",
+      "entities": [
+        "MED-015",
+        "MED-089"
+      ],
+      "sources": [
+        "thewrap.com",
+        "eurweb.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2023-08",
+      "event": "Paramount ends BET sale process — Paramount ends its process to sell BET Media Group; BET stays in corporate hands despite bids from Black owners.",
+      "entities": [],
+      "sources": [],
+      "status": "Provisional",
+      "source_track": "archives"
+    },
+    {
+      "date": "2023-08-16",
+      "event": "Paramount cancels BET sale ('wouldn't result in any meaningful deleveraging'); Perry calls process 'disrespectful.'",
+      "entities": [
+        "MED-017"
+      ],
+      "sources": [
+        "WSJ via TheWrap/Essence; Moguldom"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2023-09",
+      "event": "Google's Helpful Content Update rolls out; independent publishers report steep search-traffic losses (self-reported 40–90%).",
+      "entities": [
+        "MED-047"
+      ],
+      "sources": [
+        "ppc.land (2025)"
+      ],
+      "status": "Provisional",
+      "source_track": "digital"
+    },
+    {
+      "date": "2023-10",
+      "event": "Burrell Communications acquired by FVLCRUM Funds-led consortium; Tara DeVeaux named CEO; MBE designation maintained.",
+      "entities": [
+        "MED-027"
+      ],
+      "sources": [
+        "essence.com",
+        "adweek.com",
+        "blackenterprise.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2023-11",
+      "event": "Sean Combs steps down as REVOLT chairman amid sexual-assault lawsuits.",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "Black Enterprise (2024)",
+        "Moguldom (2024)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2023-11-28",
+      "event": "Sean Combs takes leave from Revolt amid sexual-assault lawsuits; sells stake March 2024.",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "Wikipedia: Revolt; AP"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2024",
+      "event": "Coates receives Literarian Award; AFRO at 132 years — W. Paul Coates receives the National Book Foundation's 2024 Literarian Award; the Baltimore AFRO marks 132 years under Murphy-family leadership (Dr. Frances \"Toni\" Draper).",
+      "entities": [
+        "MED-132",
+        "MED-013"
+      ],
+      "sources": [
+        "Publishers Weekly; nnpa.org"
+      ],
+      "status": "Verified",
+      "source_track": "print"
+    },
+    {
+      "date": "2024",
+      "event": "860 AM Atlanta (the original WERD frequency, as WAEC) goes dark after 76 years when Beasley Media sells the tower site.",
+      "entities": [
+        "MED-137",
+        "MED-058"
+      ],
+      "sources": [
+        "ajc-ajc-prod.cdn.arcpublishing.com"
+      ],
+      "status": "Verified",
+      "source_track": "radio"
+    },
+    {
+      "date": "2024",
+      "event": "AIMM reports diverse-owned media drew 2.5% ($1.9B) of the largest media holding companies' spend in 2023, up from 2.2% in 2022 — far below population-representative levels.",
+      "entities": [
+        "MED-005"
+      ],
+      "sources": [
+        "gracenote.com 2024 Inclusive Ad Spend report"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Word In Black converts from a Local Media Foundation-incubated project to an independent public benefit corporation.",
+      "entities": [
+        "MED-138"
+      ],
+      "sources": [
+        "Editor & Publisher (2024)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Word In Black becomes a public benefit corporation — the first national Black-news collaboration with that structure.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2024-02-29",
+      "event": "Meta announces deprecation of the Facebook News tab in the US and Australia (effective April 2024); no new commercial news deals.",
+      "entities": [
+        "MED-071"
+      ],
+      "sources": [
+        "TechCrunch (2024)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2024-06",
+      "event": "REVOLT announces employees are now its largest shareholder group after Combs' shares are fully redeemed and retired.",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "AfroTech (citing NYT, 2024)"
+      ],
+      "status": "Provisional",
+      "source_track": "digital"
+    },
+    {
+      "date": "2024-06-04",
+      "event": "Revolt announces employee-majority ownership (Combs shares redeemed/retired), keeping the company Black-owned under CEO Detavio Samuels.",
+      "entities": [
+        "MED-099"
+      ],
+      "sources": [
+        "AP; Black Enterprise; Wikipedia"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2024-07",
+      "event": "Skydance/Paramount $8.4B merger approved; reported $1.6-1.7B sale talks for BET with BET CEO Scott Mills' investor group; BET suspends Hip Hop Awards and Soul Train Music Awards indefinitely.",
+      "entities": [
+        "MED-089",
+        "MED-015"
+      ],
+      "sources": [
+        "blackenterprise.com",
+        "hot97.com",
+        "en.wikipedia.org (BET Networks)"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2024-11",
+      "event": "Wilmington Journal building demolished — The Wilmington Journal building (a Black press building) is demolished in North Carolina — a documented physical loss of Black media heritage.",
+      "entities": [],
+      "sources": [],
+      "status": "Verified",
+      "source_track": "archives"
+    },
+    {
+      "date": "2025-01",
+      "event": "Nielsen's Big Data + Panel national TV measurement receives MRC accreditation; endorsed as upfront currency for 2025.",
+      "entities": [
+        "MED-084",
+        "MED-069"
+      ],
+      "sources": [
+        "adtechradar.com",
+        "videoweek.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2025-04",
+      "event": "Burrell acquires Atlanta agency Fitzco, launching BCG Worldwide as a Black-owned agency network.",
+      "entities": [
+        "MED-027"
+      ],
+      "sources": [
+        "adweek.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2025-04-29",
+      "event": "TheGrio carries out sweeping layoffs (managing editor, podcast/video teams) as part of Allen Media Group-wide cuts.",
+      "entities": [
+        "MED-121",
+        "MED-002"
+      ],
+      "sources": [
+        "UrbanHollywood411 (citing TheWrap)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2025-05",
+      "event": "Essence Communications sues Group Black over alleged unpaid bills ($7M); Group Black countersues in June, claiming a debt-to-equity deal.",
+      "entities": [
+        "MED-040",
+        "MED-049"
+      ],
+      "sources": [
+        "AfroTech (2025)",
+        "Adweek (2025)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2025-08",
+      "event": "New Paramount Skydance CEO David Ellison confirms BET is NOT for sale and will anchor the company's streaming strategy; Black-led acquisition bids (Perry, Allen, Mills-led group) end.",
+      "entities": [
+        "MED-089",
+        "MED-015"
+      ],
+      "sources": [
+        "thewrap.com",
+        "blackenterprise.com",
+        "hot97.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2025-09",
+      "event": "BET publishes 'When Google AI Summarizes, Black Websites Pay the Price,' warning AI Overviews threaten Black-owned sites (The Grio, Blavity, Okayplayer, AfroTech).",
+      "entities": [
+        "MED-047"
+      ],
+      "sources": [
+        "BET (2025)"
+      ],
+      "status": "Provisional",
+      "source_track": "digital"
+    },
+    {
+      "date": "2025-10",
+      "event": "Ashley Allison's Watering Hole Media acquires The Root — G/O Media's last remaining outlet — returning it to Black ownership.",
+      "entities": [
+        "MED-119",
+        "MED-045"
+      ],
+      "sources": [
+        "blackenterprise.com",
+        "avclub.com",
+        "eurweb.com"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2025-10-02",
+      "event": "Ashley Allison's Watering Hole Media acquires The Root from G/O Media, returning it to Black ownership.",
+      "entities": [
+        "MED-119",
+        "MED-134"
+      ],
+      "sources": [
+        "Black Enterprise (2025)",
+        "AV Club (2025)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2025-12-19",
+      "event": "iHeartMedia extends Charlamagne Tha God's deal (reported $200M, five years), continuing the Black Effect Podcast Network joint venture (60+ shows, 11M monthly downloads claimed).",
+      "entities": [
+        "MED-115",
+        "MED-032"
+      ],
+      "sources": [
+        "BusinessWire (2025)",
+        "BallerAlert (2025)"
+      ],
+      "status": "Verified",
+      "source_track": "digital"
+    },
+    {
+      "date": "2026-02",
+      "event": "Two legacy Black papers close (Portland Skanner, Richmond); Onyx Impact commits $500,000 to Black-owned media including NNPA.",
+      "entities": [
+        "MED-081",
+        "MED-094"
+      ],
+      "sources": [
+        "c.nastvafrica.com",
+        "journal-isms.com"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2026-03",
+      "event": "FCC approves DuJuan McCoy's Circle City Broadcasting acquisition of Indianapolis ABC affiliate from Scripps ($83M) — rare expansion of Black broadcast ownership.",
+      "entities": [
+        "MED-023"
+      ],
+      "sources": [
+        "Editor & Publisher (Broadband Breakfast)"
+      ],
+      "status": "Verified",
+      "source_track": "tv"
+    },
+    {
+      "date": "2026-05",
+      "event": "Allen Media Group renews long-term portfolio carriage with YouTube TV (Weather Channel, Comedy.TV, Recipe.TV, JusticeCentral, Local Now); Allen's family office takes majority stake in BuzzFeed, Inc.",
+      "entities": [
+        "MED-002",
+        "MED-028"
+      ],
+      "sources": [
+        "einpresswire.com",
+        "BuzzFeed investor announcement"
+      ],
+      "status": "Verified",
+      "source_track": "economics"
+    },
+    {
+      "date": "2026-05",
+      "event": "Urban One Q1 2026: revenue decline but narrowed net loss ($3.1M), $60.2M debt reduction, and portfolio moves — acquiring KKDA/KRNB (Dallas) for $22M from Black-owned Service Broadcasting.",
+      "entities": [
+        "MED-127",
+        "MED-107"
+      ],
+      "sources": [
+        "Medium (Kevin Ross), 2026-05",
+        "prnewswire.com"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    },
+    {
+      "date": "2026-08",
+      "event": "Amistad lays off half its staff — The Amistad Research Center lays off half its staff after federal funding cuts, showing the fragility of Black archival infrastructure itself.",
+      "entities": [],
+      "sources": [],
+      "status": "Provisional",
+      "source_track": "archives"
+    },
+    {
+      "date": "2026-09",
+      "event": "Essence Ventures acquires Beautycon Media, consolidating another Black-founded beauty/festival brand under Richelieu Dennis's holding company.",
+      "entities": [
+        "MED-041"
+      ],
+      "sources": [
+        "everything-pr.com"
+      ],
+      "status": "Provisional",
+      "source_track": "economics"
+    }
+  ]
+}

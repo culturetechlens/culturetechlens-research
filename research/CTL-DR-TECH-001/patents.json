@@ -1,0 +1,601 @@
+{
+  "project": "CTL-DR-TECH-001",
+  "count": 41,
+  "patents": [
+    {
+      "grant_date": "1821-03-03",
+      "inventor_ids": [
+        "thomas-jennings"
+      ],
+      "inventor_names": [
+        "Thomas L. Jennings"
+      ],
+      "notes": "Original destroyed in the 1836 Patent Office fire; survives via patent lists.",
+      "number": "US X3306",
+      "source": "src-smithsonian-jennings",
+      "title": "Dry scouring",
+      "track": "a-invention",
+      "id": "TECH-P-001",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1834-10-14",
+      "inventor_ids": [
+        "henry-blair"
+      ],
+      "inventor_names": [
+        "Henry Blair"
+      ],
+      "notes": "X-patent; record destroyed in 1836 fire.",
+      "number": "US X8447",
+      "source": "src-patent-usx8447",
+      "title": "Seed planter",
+      "track": "a-invention",
+      "id": "TECH-P-002",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1846-12-10",
+      "inventor_ids": [
+        "norbert-rillieux"
+      ],
+      "inventor_names": [
+        "Norbert Rillieux"
+      ],
+      "notes": "",
+      "number": "US 4879",
+      "source": "src-acs-rillieux",
+      "title": "Improvement in sugar-making (multiple-effect evaporator)",
+      "track": "a-invention",
+      "id": "TECH-P-003",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1872-07-23",
+      "inventor_ids": [
+        "elijah-mccoy"
+      ],
+      "inventor_names": [
+        "Elijah McCoy"
+      ],
+      "notes": "",
+      "number": "US 129843",
+      "source": "src-henryford-mccoy",
+      "title": "Improvement in lubricators for steam-engines",
+      "track": "a-invention",
+      "id": "TECH-P-004",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1883-03-20",
+      "inventor_ids": [
+        "jan-matzeliger"
+      ],
+      "inventor_names": [
+        "Jan E. Matzeliger"
+      ],
+      "notes": "",
+      "number": "US 274207",
+      "source": "src-patent-us274207",
+      "title": "Lasting machine",
+      "track": "a-invention",
+      "id": "TECH-P-005",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1881",
+      "inventor_ids": [
+        "lewis-latimer"
+      ],
+      "inventor_names": [
+        "Lewis H. Latimer"
+      ],
+      "notes": "",
+      "number": "US 247097",
+      "source": "src-patent-us252386",
+      "title": "Electric lamp",
+      "track": "a-invention",
+      "id": "TECH-P-006",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1882",
+      "inventor_ids": [
+        "lewis-latimer"
+      ],
+      "inventor_names": [
+        "Lewis H. Latimer"
+      ],
+      "notes": "",
+      "number": "US 252386",
+      "source": "src-patent-us252386",
+      "title": "Process of manufacturing carbons",
+      "track": "a-invention",
+      "id": "TECH-P-007",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1882",
+      "inventor_ids": [
+        "lewis-latimer"
+      ],
+      "inventor_names": [
+        "Lewis H. Latimer"
+      ],
+      "notes": "",
+      "number": "US 255212",
+      "source": "src-patent-us252386",
+      "title": "Globe supporter for electric lamps",
+      "track": "a-invention",
+      "id": "TECH-P-008",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1885-07-14",
+      "inventor_ids": [
+        "sarah-goode"
+      ],
+      "inventor_names": [
+        "Sarah E. Goode"
+      ],
+      "notes": "",
+      "number": "US 322177",
+      "source": "src-patent-us322177",
+      "title": "Cabinet bed",
+      "track": "a-invention",
+      "id": "TECH-P-009",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1914",
+      "inventor_ids": [
+        "garrett-morgan"
+      ],
+      "inventor_names": [
+        "Garrett A. Morgan"
+      ],
+      "notes": "Exact grant day not re-verified this session.",
+      "number": "US 1113675",
+      "source": "src-patent-us1475024",
+      "title": "Breathing device (safety hood)",
+      "track": "a-invention",
+      "id": "TECH-P-010",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1923",
+      "inventor_ids": [
+        "garrett-morgan"
+      ],
+      "inventor_names": [
+        "Garrett A. Morgan"
+      ],
+      "notes": "Exact grant day not re-verified this session.",
+      "number": "US 1475024",
+      "source": "src-patent-us1475024",
+      "title": "Traffic signal (three-position)",
+      "track": "a-invention",
+      "id": "TECH-P-011",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1928",
+      "inventor_ids": [
+        "marjorie-stewart-joyner"
+      ],
+      "inventor_names": [
+        "Marjorie Stewart Joyner"
+      ],
+      "notes": "Conflicting citations (US 1693880, US 1683515) exist; confirm against USPTO record.",
+      "number": "US 1683530",
+      "source": "src-bhu-joyner",
+      "title": "Permanent-wave machine",
+      "track": "a-invention",
+      "id": "TECH-P-012",
+      "verification": "Provisional"
+    },
+    {
+      "grant_date": null,
+      "inventor_ids": [
+        "frederick-mckinley-jones"
+      ],
+      "inventor_names": [
+        "Frederick M. Jones"
+      ],
+      "notes": "Discovery sources conflict on dates and which patent is the breakthrough.",
+      "number": "US 2303857",
+      "source": "src-patent-us2475841",
+      "title": "Mobile refrigeration system (early)",
+      "track": "a-invention",
+      "id": "TECH-P-013",
+      "verification": "Provisional"
+    },
+    {
+      "grant_date": "1949-07-12",
+      "inventor_ids": [
+        "frederick-mckinley-jones"
+      ],
+      "inventor_names": [
+        "Frederick M. Jones"
+      ],
+      "notes": "Discovery sources conflict on which Jones patent represents the breakthrough.",
+      "number": "US 2475841",
+      "source": "src-patent-us2475841",
+      "title": "Automatic refrigeration system for long-haul trucks",
+      "track": "a-invention",
+      "id": "TECH-P-014",
+      "verification": "Provisional"
+    },
+    {
+      "grant_date": null,
+      "inventor_ids": [
+        "percy-julian"
+      ],
+      "inventor_names": [
+        "Percy L. Julian"
+      ],
+      "notes": "Grant date not re-verified this session.",
+      "number": "US 2752339",
+      "source": "src-patent-us2752339",
+      "title": "Preparation of cortisone",
+      "track": "a-invention",
+      "id": "TECH-P-015",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1961-02-21",
+      "inventor_ids": [
+        "otis-boykin"
+      ],
+      "inventor_names": [
+        "Otis Boykin"
+      ],
+      "notes": "",
+      "number": "US 2972726",
+      "source": "src-patent-us2972726",
+      "title": "Electrical resistor",
+      "track": "a-invention",
+      "id": "TECH-P-016",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1964-01-14",
+      "inventor_ids": [
+        "james-e-west"
+      ],
+      "inventor_names": [
+        "James E. West",
+        "Gerhard M. Sessler"
+      ],
+      "notes": "",
+      "number": "US 3118022",
+      "source": "src-jhu-west",
+      "title": "Electroacoustic transducer (foil electret microphone)",
+      "track": "a-invention",
+      "id": "TECH-P-017",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1969-11-11",
+      "inventor_ids": [
+        "george-carruthers"
+      ],
+      "inventor_names": [
+        "George R. Carruthers"
+      ],
+      "notes": "",
+      "number": "US 3478216",
+      "source": "src-patent-us3478216",
+      "title": "Image converter for detecting short-wavelength electromagnetic radiation",
+      "track": "a-invention",
+      "id": "TECH-P-018",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1971-07-06",
+      "inventor_ids": [
+        "henry-t-sampson"
+      ],
+      "inventor_names": [
+        "Henry T. Sampson Jr.",
+        "George H. Miley"
+      ],
+      "notes": "Unrelated to telecommunications; Sampson denied the 'invented the cell phone' claim.",
+      "number": "US 3591860",
+      "source": "src-latimes-sampson",
+      "title": "Gamma-electric cell",
+      "track": "a-invention",
+      "id": "TECH-P-019",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": null,
+      "inventor_ids": [
+        "emmett-chappelle"
+      ],
+      "inventor_names": [
+        "Emmett W. Chappelle",
+        "G. L. Picciolo",
+        "et al."
+      ],
+      "notes": "NASA-CASE-GSC-12039-1; published 1977-03-29.",
+      "number": "US 4014745",
+      "source": "src-ntrs-chappelle",
+      "title": "Luciferase assay for ATP (application of luciferase assay for ATP to antimicrobial drug susceptibility)",
+      "track": "a-invention",
+      "id": "TECH-P-020",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1980-10-21",
+      "inventor_ids": [
+        "valerie-thomas"
+      ],
+      "inventor_names": [
+        "Valerie L. Thomas"
+      ],
+      "notes": "Filed 1978-12-28; concave-mirror 3D projection device, not holography.",
+      "number": "US 4229761",
+      "source": "src-googlepatents-us4229761",
+      "title": "Illusion transmitter",
+      "track": "a-invention",
+      "id": "TECH-P-021",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1984-03-13",
+      "inventor_ids": [
+        "mark-dean"
+      ],
+      "inventor_names": [
+        "Mark E. Dean"
+      ],
+      "notes": "",
+      "number": "US 4437092",
+      "source": "src-patent-us4437092",
+      "title": "Computer system innovation (IBM)",
+      "track": "a-invention",
+      "id": "TECH-P-022",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": "1986-05-27",
+      "inventor_ids": [
+        "lonnie-johnson"
+      ],
+      "inventor_names": [
+        "Lonnie G. Johnson"
+      ],
+      "notes": "",
+      "number": "US 4591071",
+      "source": "src-patent-us4591071",
+      "title": "Squirt gun (Super Soaker)",
+      "track": "a-invention",
+      "id": "TECH-P-023",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": null,
+      "inventor_ids": [
+        "lonnie-johnson"
+      ],
+      "inventor_names": [
+        "Lonnie G. Johnson"
+      ],
+      "notes": "Associated with later Super Soaker design; not individually confirmed this session.",
+      "number": "US 5074437",
+      "source": "src-patent-us4591071",
+      "title": "Squirt gun design (Super Soaker, later)",
+      "track": "a-invention",
+      "id": "TECH-P-024",
+      "verification": "Provisional"
+    },
+    {
+      "grant_date": "1988",
+      "inventor_ids": [
+        "patricia-bath"
+      ],
+      "inventor_names": [
+        "Patricia E. Bath"
+      ],
+      "notes": "Exact date/title need direct patent-record confirmation.",
+      "number": "US 4721359",
+      "source": "src-congress-bath",
+      "title": "Laserphaco apparatus",
+      "track": "a-invention",
+      "id": "TECH-P-025",
+      "verification": "Provisional"
+    },
+    {
+      "grant_date": "1951-04-24",
+      "inventor_ids": [
+        "bessie-blount"
+      ],
+      "inventor_names": [
+        "Bessie Blount Griffin"
+      ],
+      "notes": "USPTO citation quoted verbatim in Smithsonian profile.",
+      "number": "US 2550554",
+      "source": "src-smithsonian-blount",
+      "title": "Portable receptacle support",
+      "track": "a-invention",
+      "id": "TECH-P-026",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": null,
+      "inventor_ids": [
+        "marian-croak"
+      ],
+      "inventor_names": [
+        "Marian Croak"
+      ],
+      "notes": "Title/date/co-inventors not re-verified against the patent record this session.",
+      "number": "US 7599359",
+      "source": "src-ieee-croak",
+      "title": "Voice-over-IP related patent",
+      "track": "a-invention",
+      "id": "TECH-P-027",
+      "verification": "Verified"
+    },
+    {
+      "grant_date": null,
+      "inventor_ids": [
+        "marian-croak"
+      ],
+      "inventor_names": [
+        "Marian Croak"
+      ],
+      "notes": "Secondary-source association only; needs patent-record confirmation.",
+      "number": "US 7715368",
+      "source": "src-ieee-croak",
+      "title": "Text-to-donate related patent",
+      "track": "a-invention",
+      "id": "TECH-P-028",
+      "verification": "Provisional"
+    },
+    {
+      "holder": "Marian Croak",
+      "number": "US 7,599,359",
+      "title": "VoIP-related patent recognized in her National Inventors Hall of Fame induction",
+      "evidence": "Cited in Ada Lovelace Day profile of Croak.",
+      "source": "https://adalovelaceday.substack.com/p/dr-marian-croak-engineer",
+      "track": "e-ai",
+      "id": "TECH-P-029",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "holder": "Marian Croak",
+      "number": "US 7,715,368",
+      "title": "Text-to-donate technology (co-invented with Hossein Eslambolchi), filed 2005, issued 2010",
+      "evidence": "Cited in Ada Lovelace Day profile; raised ~$130,000 for Hurricane Katrina relief (2005) and tens of millions for Haiti earthquake relief (2010).",
+      "source": "https://adalovelaceday.substack.com/p/dr-marian-croak-engineer",
+      "track": "e-ai",
+      "id": "TECH-P-030",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1914-03-24",
+      "holder": "Garrett Morgan",
+      "number": "US 1,090,936",
+      "title": "Breathing device",
+      "track": "g-mythbusting",
+      "id": "TECH-P-031",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1925-01-06",
+      "holder": "George Washington Carver",
+      "number": "US 1,522,176",
+      "title": "Cosmetic and process of producing the same (peanut-based)",
+      "track": "g-mythbusting",
+      "id": "TECH-P-032",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1925",
+      "holder": "George Washington Carver",
+      "number": "US 1,541,478",
+      "title": "Paints and stains (clays) [grant date provisional]",
+      "track": "g-mythbusting",
+      "id": "TECH-P-033",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": "CTS Corp.",
+      "date": "1961-02-21",
+      "holder": "Otis Boykin",
+      "number": "US 2,972,726",
+      "title": "Electrical (precision wire) resistor",
+      "track": "g-mythbusting",
+      "id": "TECH-P-034",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1953-04-07",
+      "holder": "Otis Boykin",
+      "number": "US 2,634,352",
+      "title": "Wire precision resistor",
+      "track": "g-mythbusting",
+      "id": "TECH-P-035",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1887-11-15",
+      "holder": "Granville Woods",
+      "number": "US 373,383",
+      "title": "Railway telegraphy",
+      "track": "g-mythbusting",
+      "id": "TECH-P-036",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1887-11-29",
+      "holder": "Granville Woods",
+      "number": "US 373,915",
+      "title": "Induction telegraph system",
+      "track": "g-mythbusting",
+      "id": "TECH-P-037",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1884",
+      "holder": "Marcellus Gilmore Edson",
+      "number": "US 306,727",
+      "title": "Peanut paste (prior art vs. Carver myth)",
+      "track": "g-mythbusting",
+      "id": "TECH-P-038",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1895",
+      "holder": "John Harvey Kellogg",
+      "number": "US 580,787",
+      "title": "Process of preparing nutmeal (prior art vs. Carver myth)",
+      "track": "g-mythbusting",
+      "id": "TECH-P-039",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1880-01-27",
+      "holder": "Thomas Edison",
+      "number": "US 223,898",
+      "title": "Electric-lamp (prior art vs. Latimer myth)",
+      "track": "g-mythbusting",
+      "id": "TECH-P-040",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    },
+    {
+      "assignee": null,
+      "date": "1918",
+      "holder": "James Hoge",
+      "number": "US 1,251,666",
+      "title": "Electric traffic signal (prior art vs. Morgan myth)",
+      "track": "g-mythbusting",
+      "id": "TECH-P-041",
+      "verification": "Provisional",
+      "grade_note": "Worker supplied no grade or inventor attribution; defaulted to Provisional. Verify against patent record before citation."
+    }
+  ]
+}

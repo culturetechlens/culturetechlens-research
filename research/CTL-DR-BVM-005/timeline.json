@@ -1,0 +1,806 @@
+{
+  "disputed_date_policy": "When credible sources conflict on a date, all competing dates are preserved in 'date_alternatives' with their sources. No single date is selected. The 'date' field gives the preferred or range form only when the conflict is immaterial or resolved.",
+  "events": [
+    {
+      "claim": "Quinn Chapel AME congregation formed (1844 as nondenominational prayer group; organized as AME 1847).",
+      "date": "1844",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Congregation history / landmark records",
+      "type": "institutional"
+    },
+    {
+      "claim": "Olivet Baptist Church formed by merger of Zoar Baptist and Zion Baptist churches.",
+      "date": "1861-12-22",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Wikipedia (Olivet Baptist Church) citing church histories",
+      "type": "institutional"
+    },
+    {
+      "claim": "Pekin Theatre opens at 2700 S. State (Robert T. Motts) — first Black-owned stock theater in the U.S. (opening year disputed: 1904 vs. June 18, 1905 first all-Black show).",
+      "date": "1904",
+      "date_alternatives": [
+        "1904 (theater opening)",
+        "1905-06-18 (first all-Black show)"
+      ],
+      "grade": "Disputed",
+      "source": "Illinois Humanities; NPS nomination; Wikipedia",
+      "type": "venue"
+    },
+    {
+      "claim": "Chicago Defender founded by Robert S. Abbott (May 5, 1905).",
+      "date": "1905-05-05",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "ILGA House Resolution HR0406 (2003)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Binga Bank founded at 3633 S. State (Jesse Binga).",
+      "date": "1908",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS Black Metropolis Thematic Nomination (1985)",
+      "type": "economic"
+    },
+    {
+      "claim": "Anthony Overton moves to Chicago; Overton Hygienic relocated to Bronzeville.",
+      "date": "1911",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "IIT Bronzeville History Booklet (2024)",
+      "type": "economic"
+    },
+    {
+      "claim": "Jack Johnson opens the Cafe de Champion on the Stroll.",
+      "date": "1912",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "IIT Bronzeville History Booklet (2024)",
+      "type": "venue"
+    },
+    {
+      "claim": "NAACP adds its Chicago branch, among its first branches.",
+      "date": "1912",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Wikipedia (NAACP)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Wabash Avenue YMCA built (community fundraising + Julius Rosenwald philanthropy).",
+      "date": "1913",
+      "date_alternatives": [
+        "1913 (completed; CHM)",
+        "1914 (opened; Track D)"
+      ],
+      "grade": "Verified",
+      "source": "Chicago History Museum (2023)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Dreamland Cafe opens (address disputed: 3520 vs. 3618 S. State).",
+      "date": "1914",
+      "date_alternatives": [
+        "1914 (UChicago exhibit)",
+        "Address 3520 S. State (UChicago)",
+        "Address 3618 S. State (NPS)"
+      ],
+      "grade": "Disputed",
+      "source": "UChicago Library exhibition text (1996-97); NPS nomination (1985)",
+      "type": "venue"
+    },
+    {
+      "claim": "Oscar De Priest elected Chicago's first Black alderman (2nd Ward).",
+      "date": "1915",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS National Register nomination (De Priest apartment building)",
+      "type": "political"
+    },
+    {
+      "claim": "Carter G. Woodson convenes the founding meeting of the ASNLH at the Wabash Avenue YMCA.",
+      "date": "1915-09",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago History Museum (2023)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Monogram Theatre opens at 3436-3440 S. State.",
+      "date": "1916",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012)",
+      "type": "venue"
+    },
+    {
+      "claim": "Pilgrim Baptist Church founded out of the Union Grove Prayer Meeting Club. (congregation's claim; NMAAHC catalogs 1922)",
+      "date": "1916-09",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Congressional Record (2013-09-10)",
+      "type": "institutional",
+      "red_team_notes": [
+        "Cross-project audit harmonization 2026-09-28. H3: 1916 event qualified."
+      ]
+    },
+    {
+      "claim": "Chicago Urban League founded; T. Arnold Hill first director.",
+      "date": "1916",
+      "date_alternatives": [
+        "1916 (preponderance; Strickland's scholarly history)",
+        "1917 (Middlebury College site)"
+      ],
+      "grade": "Verified",
+      "source": "thefreelibrary.com (academic article)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Anthony Overton establishes Half-Century Magazine.",
+      "date": "1916",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "English Wikipedia (Anthony Overton)",
+      "type": "economic"
+    },
+    {
+      "claim": "Metropolitan Theater opens (ca. 1917). Oscar De Priest establishes the People's Movement Club at Unity Hall (3140 S. Indiana).",
+      "date": "1917",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012)",
+      "type": "venue"
+    },
+    {
+      "claim": "The Olive Leaf Club (Bertie Boone and Maggie Walker) forms at 3732 S. Federal St.; becomes Liberty Baptist Church.",
+      "date": "1917",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "libertybaptistchurchchicago.org; Lynn Becker",
+      "type": "institutional"
+    },
+    {
+      "claim": "Royal Gardens ownership listed as Louis B. Anderson, William Bottoms, Virgil Williams (459 E. 31st).",
+      "date": "1918",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012)",
+      "type": "venue"
+    },
+    {
+      "claim": "Pekin Theatre reopens as a dance hall.",
+      "date": "1918",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012)",
+      "type": "venue"
+    },
+    {
+      "claim": "Vendome Theater opens (3143-3149 S. State). Frank L. Gillespie founds Liberty Life Insurance Company (later Supreme Life).",
+      "date": "1919",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Bo Lindstrom (2012); Chicago Landmarks designation",
+      "type": "mixed"
+    },
+    {
+      "claim": "Chicago race riot (Red Summer); Binga's home bombed amid white resistance to Black residence outside the Black Belt (bombing count 5 vs. 6 — disputed).",
+      "date": "1919",
+      "date_alternatives": [
+        "5 bombings (BlackPast)",
+        "6 on home + 2 on businesses (blackentrepreneurhistory.com)"
+      ],
+      "grade": "Verified",
+      "source": "BlackPast",
+      "type": "policy"
+    },
+    {
+      "claim": "Sunset Cafe opens August 3 (315-317 E. 35th). Royal Gardens becomes Lincoln Gardens (owner Florence Majors). Binga's private bank receives state charter as Binga State Bank. Supreme Life building built (Albert Anis).",
+      "date": "1921",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Bo Lindstrom (2012); NPS nomination; Chicago Landmarks",
+      "type": "mixed"
+    },
+    {
+      "claim": "Overton commissions the Overton Hygienic Building (3619-27 S. State; architect Z. Erol Smith). Douglass National Bank opens (founding year disputed: 1921 vs. 1922 vs. 1923).",
+      "date": "1922",
+      "date_alternatives": [
+        "1921 (Wikipedia/Anthony Overton)",
+        "1922 (Kansas City Fed)",
+        "1923 (Wikipedia/Douglass National)"
+      ],
+      "grade": "Disputed",
+      "source": "NPS nomination; Federal Reserve Bank of Kansas City (2019)",
+      "type": "economic"
+    },
+    {
+      "claim": "Pilgrim Baptist purchases the former Kehilath Anshe Ma'ariv synagogue (3301 S. Indiana).",
+      "date": "1922",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Congressional Record (2013-09-10)",
+      "type": "institutional"
+    },
+    {
+      "claim": "King Oliver's Creole Jazz Band at Lincoln Gardens.",
+      "date": "1923-1924",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012)",
+      "type": "venue"
+    },
+    {
+      "claim": "Plantation Cafe opens (338 E. 35th). Supreme Life buys 3501 S. King Drive outright. Binga State Bank/Binga Arcade buildings (1924/1929). Lincoln Gardens fire, Christmas Eve.",
+      "date": "1924",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012); NPS nomination",
+      "type": "mixed"
+    },
+    {
+      "claim": "Louis Armstrong with Erskine Tate at the Vendome Theater.",
+      "date": "1925",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Bo Lindstrom (2012); UChicago Library exhibition text",
+      "type": "venue"
+    },
+    {
+      "claim": "Anthony Overton founds the Chicago Bee (founding year disputed: 1925 vs. 1926).",
+      "date": "1925",
+      "date_alternatives": [
+        "1925 (Wikipedia; Next City)",
+        "1926 (Clio; Chicago Literary Hall of Fame)"
+      ],
+      "grade": "Disputed",
+      "source": "Next City (2019); Clio",
+      "type": "economic"
+    },
+    {
+      "claim": "Negro History Week organized at the Wabash YMCA (Feb 7) — origin of Black History Month. Apex Club era begins at 330 E. 35th. Savoy construction plans announced (Englestein syndicate).",
+      "date": "1926",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago History Museum (2023); Bo Lindstrom (2012); Jazz Age Chicago",
+      "type": "mixed"
+    },
+    {
+      "claim": "Savoy Ballroom opens November (4733 S. Parkway). Plantation Cafe bombed/burned (spring). Victory Monument erected at 35th & King Drive (8th Regiment). Overton receives NAACP Spingarn Medal. Racially restrictive covenant signed, Washington Park Subdivision, Woodlawn.",
+      "date": "1927",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Jazz Age Chicago; Bo Lindstrom (2012); VT/Roanoke Times (1996); WikiLawSchool brief",
+      "type": "mixed"
+    },
+    {
+      "claim": "Regal Theater opens February 4 (4719-27 S. Parkway; $1.5M; National Theater Corp.). Oscar De Priest elected to Congress (seated April 15, 1929).",
+      "date": "1928-02-04",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "City of Chicago New Regal Theater report (1989); NPS nomination",
+      "type": "mixed"
+    },
+    {
+      "claim": "Chicago Bee Building commissioned; Binga opens the Arcade Building (35th & State); Supreme Life merger ($27M, reported). Ken Blewett starts at Regal as usher.",
+      "date": "1929",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Chicago Literary Hall of Fame; BlackPast; City report",
+      "type": "mixed"
+    },
+    {
+      "claim": "James J. Gentry (Chicago Bee theater editor) coins 'Bronzeville'; the Bee sponsors an unsuccessful Mayor of Bronzeville contest.",
+      "date": "1930",
+      "date_alternatives": [
+        "1930 (Encyclopedia of Chicago: Gentry coined the word; Bee contest)",
+        "'The 1930s' (Chicago Race Riot commemoration)",
+        "'Sometime in the 1930s or 40s' (NAR/Realtor 2026)"
+      ],
+      "grade": "Disputed",
+      "source": "Encyclopedia of Chicago",
+      "type": "institutional"
+    },
+    {
+      "claim": "Binga State Bank collapses (June).",
+      "date": "1930-06",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS Black Metropolis Thematic Nomination (1985)",
+      "type": "economic"
+    },
+    {
+      "claim": "National Theater Corp. sells the Regal to Balaban & Katz. Chicago Bee Building completed (3647-55 S. State). Ida B. Wells-Barnett dies. Gentry carries the 'Bronzeville' idea to the Defender's Robert Abbott; Charles Browning develops it into the Defender's 'second most profitable promotion'.",
+      "date": "1931",
+      "date_alternatives": null,
+      "grade": "Disputed",
+      "source": "City of Chicago New Regal Theater report (1989); Encyclopedia of Chicago",
+      "type": "mixed",
+      "red_team_notes": [
+        "Cross-project audit harmonization 2026-09-28. H5: 1931 Gentry event downgraded with the coinage claim; origin is disputed."
+      ]
+    },
+    {
+      "claim": "Douglass National Bank fails — the last Black bank in Chicago of the era. Sunset Cafe renamed New Sunset Cafe (October).",
+      "date": "1932",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Academic article (National Negro Bankers Association); Bo Lindstrom (2012)",
+      "type": "mixed"
+    },
+    {
+      "claim": "Palm Tavern opens (446 E. 47th).",
+      "date": "1933",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "MAS Context",
+      "type": "venue"
+    },
+    {
+      "claim": "Burke v. Kleiman — Illinois class action upholds the Washington Park Subdivision covenant.",
+      "date": "1934",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Wikipedia ('Hansberry v. Lee')",
+      "type": "policy"
+    },
+    {
+      "claim": "DuSable High School opens (February); Arthur Mitchell defeats De Priest for Congress (first Black Democrat in Congress, serves 1935-1943).",
+      "date": "1935",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "City landmark records; govinfo.gov (H.Doc. 108-224)",
+      "type": "mixed"
+    },
+    {
+      "claim": "Carl Hansberry buys 6140 S. Rhodes; Anna M. Lee sues to enforce the covenant.",
+      "date": "1937",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Mapping Inequality (dsl.richmond.edu); Wikipedia",
+      "type": "policy"
+    },
+    {
+      "claim": "Ida B. Wells Homes constructed (PWA; dedicated Oct 27, 1940; first occupancy Jan 18, 1941). Ken Blewett becomes Regal manager — first Black B&K manager.",
+      "date": "1939",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago Daily Tribune (1940-10-28); City report",
+      "type": "mixed"
+    },
+    {
+      "claim": "HOLC Residential Security map of Chicago: Black Belt/Bronzeville core graded D ('hazardous') — area D74 (35th-67th, State-Cottage Grove).",
+      "date": "1940",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Mapping Inequality (dsl.richmond.edu)",
+      "type": "policy"
+    },
+    {
+      "claim": "Hansberry v. Lee, 311 U.S. 32, decided: res judicata cannot bind inadequately represented class; covenant enforceability not reached on the merits. Exact decision day disputed (Nov 12, Nov 13, or Dec 12, 1940).",
+      "date": "1940-11",
+      "date_alternatives": [
+        "1940-11-12",
+        "1940-11-13",
+        "1940-12-12"
+      ],
+      "grade": "Disputed",
+      "source": "aggregatelitigation.com (opinion text); Wikipedia",
+      "type": "policy"
+    },
+    {
+      "claim": "South Side Community Art Center founded (WPA Federal Art Project; dedicated by Eleanor Roosevelt 1941).",
+      "date": "1940",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS nomination summary",
+      "type": "institutional"
+    },
+    {
+      "claim": "Mitchell v. United States decided for Mitchell (Jim Crow rail cars).",
+      "date": "1941",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "BET; H.Doc. 108-224",
+      "type": "political"
+    },
+    {
+      "claim": "William L. Dawson elected to Congress (serves to 1970).",
+      "date": "1942",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Congressional Research Service",
+      "type": "political"
+    },
+    {
+      "claim": "Drake & Cayton publish 'Black Metropolis' (Harcourt, Brace). Gwendolyn Brooks publishes 'A Street in Bronzeville'.",
+      "date": "1945",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Publisher copy (Google Books)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Overton dies (July 3); Chicago Bee folds 1947. Savoy Ballroom closes (year disputed: 1948 vs. 1954).",
+      "date": "1946",
+      "date_alternatives": [
+        "1948 (UChicago Library jazz exhibit)",
+        "1954 (Jazz Age Chicago; Lindstrom)"
+      ],
+      "grade": "Disputed",
+      "source": "Clio; UChicago Library; Jazz Age Chicago",
+      "type": "mixed"
+    },
+    {
+      "claim": "Inception of the IIT/Mercy Hospital/Lake Meadows-Prairie Shores urban-renewal project — the city's largest at the time.",
+      "date": "1946",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Wikipedia ('Douglas, Chicago')",
+      "type": "policy"
+    },
+    {
+      "claim": "Shelley v. Kraemer renders restrictive covenants unenforceable; NY Life commits $18M to Lake Meadows; clearance of 100+ acres begins.",
+      "date": "1948",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "ellingtoneliterealty.com (2025)",
+      "type": "policy"
+    },
+    {
+      "claim": "Vendome Theater demolished. Title I, Housing Act of 1949 (federal urban-renewal funding; $6.2M for the IIT/Mercy/Lake Meadows project). William L. Dawson becomes first African American to chair a standing House committee.",
+      "date": "1949",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Bo Lindstrom (2012); Wikipedia",
+      "type": "mixed"
+    },
+    {
+      "claim": "Douglas + Grand Boulevard population peaks at 193,302.",
+      "date": "1950",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Rob Paral ('Chicago Community Areas Historical Data') via Wikipedia",
+      "type": "demographic"
+    },
+    {
+      "claim": "De Priest dies (May) at Provident Hospital. Gwendolyn Brooks wins the Pulitzer Prize for Poetry ('Annie Allen') — first African American Pulitzer winner. Jesse Binga dies (June 13).",
+      "date": "1950",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS nomination; publisher copy",
+      "type": "mixed"
+    },
+    {
+      "claim": "Lake Meadows completed (~1,640 units; final 1,040 announced July 7, 1954).",
+      "date": "1954",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "connectingthewindycity.com (2019)",
+      "type": "policy"
+    },
+    {
+      "claim": "Dan Ryan Expressway right-of-way clearance (1957-58); construction begins 1958.",
+      "date": "1957",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "UIC oral history (Marshall Suloway); chicagoroads.com",
+      "type": "policy"
+    },
+    {
+      "claim": "Hansberry's 'A Raisin in the Sun' premieres (Bronzeville-family story).",
+      "date": "1959",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "windycitytimes.com (2010)",
+      "type": "institutional"
+    },
+    {
+      "claim": "First Dan Ryan segment opens (95th-71st), December 12, 1961; Clarence Darrow Homes built; S. B. Fuller buys the Regal from the Englestein Co. — first Black ownership.",
+      "date": "1961",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "chicagoroads.com; Wikipedia; City report",
+      "type": "mixed"
+    },
+    {
+      "claim": "Robert Taylor Homes opens March 5 (28 towers, 39th-54th, State St.). Prairie Shores erected (5 bldgs, 1,677 units). Dan Ryan fully opens December 15 ($300M).",
+      "date": "1962",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Encyclopedia of Chicago; chicagoroads.com",
+      "type": "mixed"
+    },
+    {
+      "claim": "Fuller loses the Regal (financial problems); the Regal closes (1968).",
+      "date": "1968",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "City of Chicago New Regal Theater report (1989)",
+      "type": "venue"
+    },
+    {
+      "claim": "CTA Dan Ryan branch (Red Line) opens in the expressway median, September 28.",
+      "date": "1969-09-28",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "Wikipedia ('Dan Ryan Expressway')",
+      "type": "policy"
+    },
+    {
+      "claim": "Madden Park Homes built — last CHA high-rise.",
+      "date": "1970",
+      "date_alternatives": null,
+      "grade": "Provisional",
+      "source": "aaregistry.org; Wikipedia",
+      "type": "policy"
+    },
+    {
+      "claim": "Metropolitan Theater demolished; Regal and Savoy demolished (1973).",
+      "date": "1972",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "MAS Context; City report",
+      "type": "venue"
+    },
+    {
+      "claim": "Commission on Chicago Landmarks considers, then rejects, a Black Metropolis Historic District.",
+      "date": "1984",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Roanoke Times (June 23, 1996)",
+      "type": "preservation"
+    },
+    {
+      "claim": "Six Black Metropolis properties individually listed on the NRHP April 30, 1986 (Thematic Resource multiple-property submission).",
+      "date": "1986-04-30",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS NRHP nomination (Form 10-900)",
+      "type": "preservation"
+    },
+    {
+      "claim": "Eighth Regiment Armory renovation complete; reopens as the Chicago Military Academy (Bronzeville). ~$9M Wabash YMCA renovation by the Renaissance Collaborative.",
+      "date": "1999",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "DVIDS (2019); Wikipedia",
+      "type": "preservation"
+    },
+    {
+      "claim": "Black Metropolis-Bronzeville District designated a Chicago Landmark (9 structures), September 9, 1998.",
+      "date": "1998-09-09",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "City of Chicago landmark address list",
+      "type": "preservation"
+    },
+    {
+      "claim": "Advocacy campaign: designate 8 Bronzeville structures as city landmarks (Roanoke Times); Chicago Bee Branch CPL opens; Sun-Times reports Supreme Life Building saved from demolition.",
+      "date": "1996",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Roanoke Times (1996); Chicago Sun-Times (1996)",
+      "type": "preservation"
+    },
+    {
+      "claim": "Michigan Boulevard Garden Apartments (Rosenwald Courts) closed by CHA.",
+      "date": "2000",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "moderncities.com (2022)",
+      "type": "housing"
+    },
+    {
+      "claim": "CHA 'Plan for Transformation' launched (HOPE VI). Palm Tavern locked/closed.",
+      "date": "2000",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Wikipedia; MAS Context",
+      "type": "policy"
+    },
+    {
+      "claim": "Rosenwald Courts: Landmarks Illinois Most Endangered (2002); National Trust 11 Most Endangered (2003).",
+      "date": "2002",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Landmarks Illinois; National Trust",
+      "type": "preservation"
+    },
+    {
+      "claim": "Ida B. Wells Homes (incl. Darrow, Madden Park) demolished 2002-11; Oakwood Shores redevelopment.",
+      "date": "2002",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Wikipedia; blackfacts.com",
+      "type": "housing"
+    },
+    {
+      "claim": "Quad Communities Development Corporation formed (LISC + Ald. Preckwinkle). Urban Juncture founded by Bernard Loyd.",
+      "date": "2003",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "qcdc.org; MIT Technology Review (2020)",
+      "type": "institutional"
+    },
+    {
+      "claim": "Supreme Life Building rehab complete — Bronzeville Visitor Information Center opens.",
+      "date": "2005",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Wikipedia (citing Sun-Times)",
+      "type": "preservation"
+    },
+    {
+      "claim": "Pilgrim Baptist Church gutted by fire (January 6); only walls remain.",
+      "date": "2006-01-06",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Preservation Chicago",
+      "type": "preservation"
+    },
+    {
+      "claim": "Overton Hygienic Building $8M renovation (Davis Group) — spared from demolition. Robert Taylor Homes demolition complete (1998-2007; last tower 2007).",
+      "date": "2007",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NextCity (~2019); Encyclopedia of Chicago",
+      "type": "preservation"
+    },
+    {
+      "claim": "Rep. Bobby Rush introduces Black Metropolis National Heritage Area Study Act (never enacted); housing crash stalls Bronzeville redevelopment.",
+      "date": "2008",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NextCity",
+      "type": "institutional"
+    },
+    {
+      "claim": "City buys Michael Reese Hospital site ($91M, Olympic bid); hospital demolished (Singer Pavilion remains).",
+      "date": "2009",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago YIMBY",
+      "type": "development"
+    },
+    {
+      "claim": "Urban Juncture buys The Forum, saving it from demolition. Ida B. Wells Homes demolition complete.",
+      "date": "2011",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "City Bureau (2022)",
+      "type": "preservation"
+    },
+    {
+      "claim": "WBEZ: Unity Hall 'in jeopardy,' vacant, most-endangered.",
+      "date": "2012",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "WBEZ (2012)",
+      "type": "preservation"
+    },
+    {
+      "claim": "CPS closes 50 schools incl. Anthony Overton Elementary.",
+      "date": "2013",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS nomination summary",
+      "type": "institutional"
+    },
+    {
+      "claim": "Shops and Lofts at 47 opens ($46M; Walmart anchor; 96 mixed-income units) — first Bronzeville mixed-use in 50+ years.",
+      "date": "2014",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "moderncities.com; NextCity (2015)",
+      "type": "development"
+    },
+    {
+      "claim": "Washington Park Development Group buys Overton Elementary ($325,000, November 6).",
+      "date": "2015",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "creativegrounds.org",
+      "type": "preservation"
+    },
+    {
+      "claim": "Rosenwald Courts reopens as $132M mixed-use affordable housing. Sen. Durbin first introduces Bronzeville-Black Metropolis National Heritage Area Act. Anthony Overton Elementary listed on the NRHP (September 6).",
+      "date": "2016",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "moderncities.com (2022); NPS nomination",
+      "type": "mixed"
+    },
+    {
+      "claim": "Boxville opens (51st St. container marketplace). SSCAC named National Trust 'National Treasure.' Meyers Ace Hardware (Sunset Cafe building) closes. GRIT Chicago acquires Michael Reese site (June).",
+      "date": "2017",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "MIT Technology Review (2020); Chicago YIMBY",
+      "type": "mixed"
+    },
+    {
+      "claim": "The Forum on Landmarks Illinois Most Endangered list. South Side Community Art Center listed on the NRHP (September 13). Chicago Bee Branch CPL reopens after $2.32M CHA-funded renovation (December).",
+      "date": "2018",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Landmarks Illinois; NPS NRHP table; Citizen Newspaper Group (2018)",
+      "type": "preservation"
+    },
+    {
+      "claim": "The Forum listed on the NRHP (April 16). Victory Monument rededicated after $62K renovation (July 5).",
+      "date": "2019",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Wikipedia (citing NPS); DVIDS (2019)",
+      "type": "preservation"
+    },
+    {
+      "claim": "August storm collapses Pilgrim Baptist's south wall.",
+      "date": "2020",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Preservation Chicago",
+      "type": "preservation"
+    },
+    {
+      "claim": "Commission on Chicago Landmarks approves $200K+ Adopt-A-Landmark grant for Pilgrim Baptist stabilization (January). Bronzeville Lakefront approvals: Plan Commission (Feb), CDC $96.9M sale (May), City Council (July). 'The Light of Truth' Ida B. Wells National Monument unveiled (June 30). City Council backs The Forum rehab ($250K state grant, November). ~$2.1M state grant secured for National Museum of Gospel Music at Pilgrim Baptist site.",
+      "date": "2021",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago YIMBY (2021); AP (2021); City Bureau",
+      "type": "mixed"
+    },
+    {
+      "claim": "National Heritage Area Act passes Congress (December 2022); signed by President Biden January 5, 2023 (Public Law 117-339): Bronzeville-Black Metropolis National Heritage Area established.",
+      "date": "2023-01-05",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago Reporter (2022-12-26); duckworth.senate.gov",
+      "source_date": "2023-01-05",
+      "source_type": "primary",
+      "type": "preservation"
+    },
+    {
+      "claim": "Site prep begins at Bronzeville Lakefront (May).",
+      "date": "2023-05",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "Chicago YIMBY (2023)",
+      "type": "development"
+    },
+    {
+      "claim": "City Bureau: Bronzeville home prices +~$200K (2018-22); gentrification debate feature (April).",
+      "date": "2024-04",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "City Bureau (2024-04)",
+      "source_date": "2024-04",
+      "source_type": "secondary",
+      "type": "development"
+    },
+    {
+      "claim": "Groundbreaking: BSCP Ladies Auxiliary Women's History Museum (Pullman Porter Museum expansion), March 29. Permits issued for SSCAC's $15M renovation (April), completion expected summer 2026.",
+      "date": "2025",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "NPS; Preservation Chicago (2025)",
+      "type": "mixed"
+    },
+    {
+      "claim": "Mayor proposes $5M Neighborhood Opportunity Fund grant for SSCAC expansion (April). Bronzeville Black Metropolis National Heritage Area + Renaissance Collaborative announce Wabash YMCA exhibition (February). Douglas + Grand Boulevard combined population 44,880 (2020 census, up from 40,167 in 2010).",
+      "date": "2026",
+      "date_alternatives": null,
+      "grade": "Verified",
+      "source": "chicago.gov (2026); EIN Presswire (2026); U.S. Census 2020 via Wikipedia",
+      "source_date": "2026",
+      "source_type": "primary",
+      "type": "mixed"
+    }
+  ],
+  "generated": "2026-09-28",
+  "project": "CTL-DR-BVM-005",
+  "title": "Bronzeville: Black Metropolis — The Rise, Fall, and Remaking of a Neighborhood"
+}

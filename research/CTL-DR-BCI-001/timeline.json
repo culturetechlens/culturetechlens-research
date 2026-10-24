@@ -1,0 +1,1052 @@
+{
+  "brand": {
+    "project": "CultureTechLens",
+    "wordmark": "CULTURETECHLENS",
+    "slogan": "Culture, Clearly Seen.",
+    "descriptor": "Black Cultural Intelligence",
+    "research_id": "CTL-DR-BCI-001",
+    "title": "The Infrastructure of Black Chicago: The Institutions, Places, Networks and People That Built a Cultural Metropolis",
+    "version": "0.1-red-team-reviewed",
+    "date": "2026-09-28"
+  },
+  "count": 86,
+  "events": [
+    {
+      "date": "1844–1847",
+      "event": "Seven individuals begin meeting as a nondenominational prayer group in the home of John Day; the group is recognized July 22, 1847 as an official congregation of the African Methodist Episcopal Church, taking the name Quinn Chapel for Bishop William Paul Quinn.",
+      "entities": [
+        "b-quinn"
+      ],
+      "sources": [
+        "quinnchicago.org/history/; Congressional Record vol. 143 (1997)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1861-12",
+      "event": "Zoar and Mount Zion Baptist churches unite as Olivet Baptist Church at the Edina Place Baptist Church (per Fisher 1922; church's own 1952 materials imply an 1850 origin — disputed).",
+      "entities": [
+        "b-olivet"
+      ],
+      "sources": [
+        "Miles Mark Fisher, The History of the Olivet Baptist Church of Chicago (1922); Encyclopedia of Chicago ICHi-37946"
+      ],
+      "verification_status": "Disputed"
+    },
+    {
+      "date": "1867-09-02",
+      "event": "Chicago State University founded as the Cook County Normal School, a teacher-training school opening in a railroad freight car in Blue Island, Illinois.",
+      "entities": [
+        "b-csu"
+      ],
+      "sources": [
+        "CSU catalog institutional history; Wikipedia"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1891",
+      "event": "Daniel Hale Williams founds Provident Hospital in Chicago to train Black nurses and expand hospital access for Black patients.",
+      "entities": [
+        "provident-hospital",
+        "daniel-hale-williams"
+      ],
+      "sources": [
+        "Institutional histories of Provident Hospital"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1892",
+      "event": "Quinn Chapel's present building at 2401 S. Wabash Avenue is built (architect Henry F. Starbuck).",
+      "entities": [
+        "b-quinn"
+      ],
+      "sources": [
+        "NPS NRIS (ref 79000827); quinnchicago.org"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1893",
+      "event": "St. Mark Methodist Episcopal Church is founded on Chicago's South Side, beginning in a storefront on State Street in Bronzeville.",
+      "entities": [
+        "b-stmark"
+      ],
+      "sources": [
+        "stmarkumcchicago.org; Daniel T. Parker, St. Mark United Methodist Church (Arcadia, 2019)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1893",
+      "event": "Williams operates on stabbing victim James Cornish, opening the chest and suturing the pericardium — a landmark early successful pericardial operation. (The 'first successful open-heart surgery' superlative is disputed.)",
+      "entities": [
+        "daniel-hale-williams"
+      ],
+      "sources": [
+        "Medical-historical sources"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1898-11-17",
+      "event": "The Improved Benevolent and Protective Order of Elks of the World (the Black Elks) is founded in Cincinnati, Ohio by B. F. Howard and Pullman porter Arthur J. Riggs.",
+      "entities": [
+        "ibpoew"
+      ],
+      "sources": [
+        "EsperStamps.org — IBPOEW history"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1904-09",
+      "event": "Wendell Phillips Academy High School opens (Sept 4/5, 1904), named for abolitionist Wendell Phillips; by 1920 it is Chicago's first predominantly African-American high school.",
+      "entities": [
+        "b-phillips"
+      ],
+      "sources": [
+        "City of Chicago landmark designation report (2002); Wikipedia"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1905-05-05",
+      "event": "Robert S. Abbott founds the Chicago Defender (300-copy first issue); it becomes the most influential Black newspaper in America and a catalyst of the Great Migration. (BlackPast gives May 6.)",
+      "entities": [
+        "chicago-defender",
+        "robert-s-abbott"
+      ],
+      "sources": [
+        "BlackPast.org; Zinn Education Project; Congressional Record vol. 151 (2005)"
+      ],
+      "verification_status": "Verified",
+      "red_team_notes": [
+        "Cross-project audit harmonization 2026-09-28. H2: duplicate 1905-05-06 event removed; May-6 dissent footnoted here."
+      ]
+    },
+    {
+      "date": "1908",
+      "event": "Jesse Binga founds a private bank in Chicago — the city's first Black-owned bank.",
+      "entities": [
+        "jesse-binga",
+        "binga-bank"
+      ],
+      "sources": [
+        "Northwestern University Press — 'Binga' (Don Hayner)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1912",
+      "event": "Chicago becomes one of the NAACP's first branches. (Exact founding date and founders still need stronger sourcing; one brief asserted 1913 without support.)",
+      "entities": [
+        "naacp-chicago"
+      ],
+      "sources": [
+        "Wikipedia — 'NAACP'"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1916",
+      "entities": [
+        "great-migration",
+        "bronzeville",
+        "robert-s-abbott"
+      ],
+      "event": "First wave of the Great Migration accelerates; Black Southerners begin arriving on Chicago's South Side in large numbers, settling the area that becomes Bronzeville. Chicago's Black population will grow 148% by 1920 (44,000 to 109,000+).",
+      "sources": [
+        "NPR/WCMU (2022)",
+        "Britannica — 'Chicago Race Riot of 1919'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1916",
+      "event": "The Chicago Urban League is established to assist Great Migration arrivals with employment, housing, and urban adjustment. (One source gives 1917.)",
+      "entities": [
+        "chicago-urban-league"
+      ],
+      "sources": [
+        "Chicago Urban League — 'CULtivate Part 1' (2019)"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1916",
+      "entities": [
+        "bronzeville"
+      ],
+      "event": "The Great Migration begins: tens of thousands of Black Southerners arrive in Chicago (largely via the Illinois Central Railroad), swelling the Black Belt on the South Side. Chicago's Black population was 44,103 in 1910 (~2% of the city) and rose to 109,408 by 1920.",
+      "sources": [
+        "Illinois Institute of Technology, 'History of Bronzeville'; Encyclopedia of Chicago (via struggle-la-lucha.org, citing U.S. Census)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1919",
+      "event": "Supreme Life Insurance Company is incorporated in Chicago (as Liberty Life), with Frank L. Gillespie heading the founding investment group.",
+      "entities": [
+        "supreme-life",
+        "frank-gillespie"
+      ],
+      "sources": [
+        "Business History Review — 'Supreme Life'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1919",
+      "entities": [
+        "bronzeville",
+        "d-washington-park"
+      ],
+      "event": "Chicago Race Riot (July 27-31, 1919), sparked at the 27th Street beach; five days of rioting harden segregation. A city Landmarks report notes 38 African-American Chicagoans killed and over 300 wounded; in October, ~1,200 white protesters gather in Washington Park under the slogan 'They Shall Not Pass.'",
+      "sources": [
+        "City of Chicago Commission on Chicago Landmarks, 'Chicago Black Renaissance Literary Movement' report"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1919-03-02",
+      "event": "Claude Albert Barnett founds the Associated Negro Press in Chicago (312 S. Clark St.), the first national news wire service for African-American newspapers.",
+      "entities": [
+        "b-anp",
+        "b-barnett"
+      ],
+      "sources": [
+        "Wikipedia; Stanford King Institute; Nieman Reports"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1919-07-27",
+      "entities": [
+        "great-migration",
+        "martin-luther-king-jr"
+      ],
+      "event": "The Chicago Race Riot of 1919 begins after Black teenager Eugene Williams is stoned and drowns at a segregated Lake Michigan beach; it lasts 13 days, leaving 38 dead (23 Black, 15 white), 537 injured, and about 1,000 Black families homeless — the worst riot of the Red Summer of 1919.",
+      "sources": [
+        "Britannica — 'Chicago Race Riot of 1919'",
+        "NPS — 'Carl Sandburg and the Chicago Race Riots 1919'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1921",
+      "event": "Binga's private bank receives a state charter as Binga State Bank.",
+      "entities": [
+        "binga-bank",
+        "jesse-binga"
+      ],
+      "sources": [
+        "Northwestern University Press — 'Binga' (Don Hayner)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1922",
+      "event": "Anthony Overton opens Douglass National Bank in Chicago, reported as the second nationally chartered Black-owned bank in the U.S. (Sources split between 1922 and 1923; a claimed 1916 date is unsupported.)",
+      "entities": [
+        "douglass-national-bank",
+        "anthony-overton"
+      ],
+      "sources": [
+        "Federal Reserve Bank of Kansas City — 'Let Us Put Our Money Together' (2019); BlackPast.org"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1928",
+      "entities": [
+        "woodlawn-poa",
+        "hansberry-carl",
+        "woodlawn"
+      ],
+      "event": "The Woodlawn Property Owners Association organizes a racially restrictive covenant for the South Park subdivision, barring Black occupancy — part of the citywide covenant system that confined Black Chicagoans to the Black Belt.",
+      "sources": [
+        "Capital University Law Review (c. 2017)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1928",
+      "event": "Oscar De Priest is elected to the U.S. House of Representatives — the first Black member of Congress from a Northern state and the first of the twentieth century.",
+      "entities": [
+        "oscar-de-priest"
+      ],
+      "sources": [
+        "National Park Service — NRHP documentation"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1928-02-04",
+      "event": "The Regal Theater opens at 4719 S. Parkway (47th Street), a 3,000-seat movie-and-stage palace and the centerpiece of Black Chicago entertainment.",
+      "entities": [
+        "b-regal"
+      ],
+      "sources": [
+        "City of Chicago landmark report; Encyclopedia of Chicago"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1929",
+      "event": "The Bud Billiken Parade and Picnic begins through the Chicago Defender's Bud Billiken organization (attribution varies between Robert S. Abbott alone and Abbott with David Kellum).",
+      "entities": [
+        "bronzeville"
+      ],
+      "sources": [
+        "wordinblack.com; CTU Local 1"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1935",
+      "event": "DuSable High School opens as the first Chicago high school built to serve an exclusively African American student body; Woodrow Wilson Junior College (later Kennedy-King) is founded the same year.",
+      "entities": [
+        "b-dusable",
+        "b-kennedy"
+      ],
+      "sources": [
+        "City of Chicago landmark report; Wikipedia (Kennedy–King College)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1937",
+      "entities": [
+        "cha",
+        "hansberry-carl"
+      ],
+      "event": "The Chicago Housing Authority is created. The same year, Carl A. Hansberry buys a house in the covenanted South Park subdivision in defiance of the 1928 covenant.",
+      "sources": [
+        "Wikipedia — 'Chicago Housing Authority'",
+        "Capital University Law Review (c. 2017)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1939",
+      "entities": [
+        "wells-homes",
+        "cha",
+        "bronzeville"
+      ],
+      "event": "Construction of the Ida B. Wells Homes begins in Bronzeville (completed 1941), built as CHA public housing for African American tenants.",
+      "sources": [
+        "Wikipedia — 'Ida B. Wells Homes'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1940",
+      "entities": [
+        "hansberry-carl",
+        "woodlawn-poa"
+      ],
+      "event": "The U.S. Supreme Court decides Hansberry v. Lee (311 U.S. 32), reversing the Illinois courts on procedural grounds but leaving racially restrictive covenants legally intact.",
+      "sources": [
+        "Capital University Law Review (c. 2017)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1940",
+      "event": "The South Side Community Art Center is founded/opened with WPA Federal Art Project support (formally dedicated 1941).",
+      "entities": [
+        "south-side-community-art-center"
+      ],
+      "sources": [
+        "South Side Community Art Center — institutional history"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1940",
+      "entities": [
+        "south-side-community-art-center",
+        "d-burroughs"
+      ],
+      "event": "South Side Community Art Center opens at 3831 S. Michigan Avenue with WPA Federal Art Project support (dedicated by First Lady Eleanor Roosevelt in 1941), becoming the oldest continuously operating Black art center in the U.S.",
+      "sources": [
+        "sscartcenter.org official press release (Oct 2025); Newcity (2026)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1941",
+      "event": "Rev. Joseph Harrison Jackson begins his pastorate at Olivet Baptist Church (through 1990); the original Club DeLisa burns down and is rebuilt as the New Club DeLisa.",
+      "entities": [
+        "b-jackson",
+        "b-olivet",
+        "b-delisa"
+      ],
+      "sources": [
+        "Encyclopedia of Chicago ICHi-37946; mikesavad.com (Russell Lee photo caption)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1942",
+      "entities": [
+        "cabrini-green",
+        "cha"
+      ],
+      "event": "The Frances Cabrini Homes — the first part of the Cabrini-Green complex — are completed on the Near North Side for war-industry workers and returning veterans.",
+      "sources": [
+        "Britannica — 'Chicago Housing Authority'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1942",
+      "event": "John H. Johnson founds the Johnson Publishing Company and launches Negro Digest.",
+      "entities": [
+        "b-jpc",
+        "b-johnson"
+      ],
+      "sources": [
+        "Chicago Architecture Center; Smithsonian NMAAHC; Wikipedia (Rhumboogie Café)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1942",
+      "event": "The Congress of Racial Equality (CORE) is founded in Chicago by an interracial group tied to the University of Chicago and the Fellowship of Reconciliation.",
+      "entities": [
+        "core"
+      ],
+      "sources": [
+        "VCU Social Welfare History Project"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1944",
+      "entities": [
+        "d-roseland"
+      ],
+      "event": "Princeton Park built in northwest Roseland — housing marketed exclusively to African Americans, the first established Black community in Roseland — preceding the blockbusting-driven racial turnover of the 1960s-70s.",
+      "sources": [
+        "Wikipedia, 'Roseland, Chicago'"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1945",
+      "entities": [
+        "bronzeville"
+      ],
+      "event": "St. Clair Drake and Horace R. Cayton Jr. publish 'Black Metropolis: A Study of Negro Life in a Northern City' (Harcourt, Brace; 809 pp; introduction by Richard Wright), based on WPA field research of late 1930s — the foundational sociological study of Black Chicago.",
+      "sources": [
+        "Wikipedia, 'Black Metropolis'; DePaul University Pressbooks, Back of the Yards histories"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1945–1951",
+      "event": "Johnson Publishing Company launches Ebony magazine (1945) and Jet magazine (1951).",
+      "entities": [
+        "b-jpc"
+      ],
+      "sources": [
+        "Chicago Architecture Center; Encyclopedia.com"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1946-11-09",
+      "event": "The Links, Incorporated is founded by Margaret Rosell Hawkins, Sarah Strickland Scott, and seven other women.",
+      "entities": [
+        "links-chicago"
+      ],
+      "sources": [
+        "U.S. Congress — H.Res.725 (2021)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1946-1954",
+      "entities": [
+        "north-lawndale"
+      ],
+      "event": "North Lawndale undergoes one of the fastest racial successions in U.S. urban history: all-white in 1946, an all-Negro community by 1954 (Rosenthal study); white share fell from ~87% to under 9% in about a decade.",
+      "sources": [
+        "Rosenthal 1960 study; Wikipedia, 'North Lawndale'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1948",
+      "entities": [
+        "hansberry-carl",
+        "woodlawn-poa"
+      ],
+      "event": "Shelley v. Kraemer (334 U.S. 1): the U.S. Supreme Court rules courts cannot enforce racially restrictive covenants; private covenants and other discriminatory practices (blockbusting, redlining) continue.",
+      "sources": [
+        "Capital University Law Review (c. 2017)",
+        "Fourteen East (2023)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1950",
+      "entities": [
+        "cha",
+        "taylor-robert-r"
+      ],
+      "event": "In the fight over new public-housing sites, the city council rejects CHA's scattered-site proposals and insists on building high-rises on cleared slums in Black neighborhoods; CHA board member Robert R. Taylor resigns in protest.",
+      "sources": [
+        "Britannica — 'Chicago Housing Authority'",
+        "Encyclopedia of Chicago — 'Robert Taylor Homes'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1950",
+      "event": "Chess Records is established in Chicago by Leonard and Phil Chess (successor to Aristocrat Records, 1947).",
+      "entities": [
+        "b-chess-records"
+      ],
+      "sources": [
+        "Wikipedia (Chess Records); GlobeSt (2005)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1950",
+      "event": "The Chicago (IL) Chapter of The Links, Incorporated is founded. (Single-source; chapter's own site.)",
+      "entities": [
+        "links-chicago"
+      ],
+      "sources": [
+        "Chicago (IL) Chapter of The Links — official website"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1953",
+      "event": "Vee-Jay Records is founded in Gary, Indiana by Vivian Carter and Jimmy Bracken — one of the first major Black-owned independent U.S. record labels.",
+      "entities": [
+        "b-veejay"
+      ],
+      "sources": [
+        "Cook County Board Resolution 19-1958 (2019); Indiana History Blog"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1956",
+      "entities": [
+        "daley",
+        "bronzeville"
+      ],
+      "event": "The planned Dan Ryan Expressway route is shifted west, arguably to isolate the growing Black community on the South Side; the expressway will cut through the 'Black Bottom' section of the Maxwell Street area (opened 1962). Eisenhower Expressway construction (late 1950s) slices through Near West Side neighborhoods, destroying the southern 9 acres of Columbus Park in Austin.",
+      "sources": [
+        "Graduate Institute (2025)",
+        "UWM — 'The Urban Renewal Blues' (2012)",
+        "Metropolitan Planning Council (2023)"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1958",
+      "entities": [
+        "uchicago",
+        "hyde-park"
+      ],
+      "event": "The city approves the University of Chicago–sponsored Hyde Park–Kenwood Urban Renewal Plan: 856 acres, 638 buildings demolished, 4,000 families displaced. The Defender, initially supportive, withdraws support and denounces the plan's racial design (March 10, 1958 column).",
+      "sources": [
+        "AAIHS (c. 2021)",
+        "UChicago capstone (2024)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1961",
+      "event": "The Ebony Museum of Negro History and Art — later the DuSable Museum of African American History — is founded by Margaret Taylor-Burroughs, Charles Burroughs, and others.",
+      "entities": [
+        "dusable-museum"
+      ],
+      "sources": [
+        "Smithsonian Magazine"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1961-02-16",
+      "entities": [
+        "dusable-museum",
+        "d-burroughs",
+        "bronzeville"
+      ],
+      "event": "The Ebony Museum of Negro History and Art (now the DuSable) is founded by Margaret Taylor-Burroughs, Charles Burroughs, and others in their Bronzeville home at 3806 S. Michigan Avenue — the nation's first independent museum dedicated to African American history and culture.",
+      "sources": [
+        "Wikipedia, 'DuSable Black History Museum'; margaretburroughs.com"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1962",
+      "entities": [
+        "robert-taylor-homes",
+        "cha"
+      ],
+      "event": "The Robert Taylor Homes are completed along State Street (39th–54th): 28 sixteen-story buildings, ~4,300 apartments, ~27,000 people — the largest public housing project in the United States, named for the activist who resigned over its segregated siting.",
+      "sources": [
+        "Encyclopedia of Chicago — 'Robert Taylor Homes'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1963-04-01",
+      "event": "WVON ('Voice of the Negro') debuts after Leonard and Phil Chess buy WHFC-1450 AM for $1 million; Don Cornelius starts there as a newsreader and backup DJ.",
+      "entities": [
+        "b-wvon",
+        "b-cornelius"
+      ],
+      "sources": [
+        "Congressional Record vol. 159 (2013); Illinois House HR0201 (2013)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1965",
+      "event": "Seaway National Bank is founded to counter discriminatory lending on Chicago's South Side.",
+      "entities": [
+        "seaway-national-bank"
+      ],
+      "sources": [
+        "Citizen Newspaper Group (2015)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1966",
+      "entities": [
+        "gautreaux",
+        "cha"
+      ],
+      "event": "Dorothy Gautreaux and others file the class action Gautreaux v. CHA, charging the authority with intentionally maintaining racial segregation through site selection and tenant assignment.",
+      "sources": [
+        "Justia — 178 F.3d 951 (1999)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1966-01-26",
+      "entities": [
+        "martin-luther-king-jr",
+        "north-lawndale",
+        "chicago-freedom-movement"
+      ],
+      "event": "Martin Luther King Jr. moves into a tenement apartment at 1550 S. Hamlin in North Lawndale, launching the direct-action phase of the Chicago Freedom Movement.",
+      "sources": [
+        "The Citizen Newspaper Group (2013)",
+        "Middlebury (2013)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1966-01-26",
+      "entities": [
+        "martin-luther-king-jr",
+        "north-lawndale",
+        "d-mlk-hamlin-residence"
+      ],
+      "event": "Martin Luther King Jr. and Coretta Scott King move into a $90/month tenement at 1550 S. Hamlin Avenue, North Lawndale, anchoring the Chicago Freedom Movement's campaign against slums and housing segregation (Soldier Field rally July 10; open-housing agreement with Mayor Daley August 28).",
+      "sources": [
+        "Chicago Tribune (via johnpwalshblog.com); Middlebury College Chicago Freedom Movement Sites; Citizen Newspaper Group; connectingthewindycity.com"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1966-07-10",
+      "entities": [
+        "chicago-freedom-movement",
+        "martin-luther-king-jr"
+      ],
+      "event": "King officially launches the open-housing campaign at a Soldier Field rally (30,000+ attendees), followed by marches into all-white neighborhoods.",
+      "sources": [
+        "Middlebury (2013)",
+        "CounterPunch (2025)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1966-08",
+      "entities": [
+        "chicago-freedom-movement",
+        "fair-housing-act"
+      ],
+      "event": "The August 1966 Summit Agreement between the Chicago Freedom Movement and the Chicago Real Estate Board ends the summer marches with open-housing commitments; its effectiveness remains debated.",
+      "sources": [
+        "The Chicago Reporter — fair lending (c. 2016)"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1966-08-05",
+      "entities": [
+        "chicago-freedom-movement",
+        "martin-luther-king-jr",
+        "marquette-park"
+      ],
+      "event": "King leads ~700 marchers through Marquette Park and Gage Park; white counter-protesters hurl bricks and bottles and King is struck in the head by a rock; 30+ injured, 40+ arrested. King: 'I have never seen — even in Mississippi and Alabama — mobs as hostile and as hate-filled as I've seen here in Chicago.'",
+      "sources": [
+        "Wikipedia — 'Marquette Park rallies'",
+        "The Citizen Newspaper Group (2013)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1968-01",
+      "entities": [
+        "cbl",
+        "clyde-ross",
+        "north-lawndale"
+      ],
+      "event": "First community meeting of contract buyers is held in Lawndale; residents form the Contract Buyers (later Contract Buyers League) to fight predatory contract selling, later launching pickets, a payment strike, and federal lawsuits with help from Jesuit seminarian Jack Macnamara and Msgr. John Egan's team.",
+      "sources": [
+        "The Chicago Reporter — CBL (c. 2016)",
+        "Chicago Catholic (2017)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1968-04-04",
+      "entities": [
+        "martin-luther-king-jr",
+        "north-lawndale",
+        "woodlawn",
+        "daley"
+      ],
+      "event": "Martin Luther King Jr. is assassinated in Memphis. On April 5, riots erupt on Chicago's West Side, consuming a 28-block stretch of West Madison Street; North Lawndale, East Garfield Park, and Woodlawn suffer the worst destruction. By April 7: 11 dead, 500 injured, 2,150 arrested, 200+ buildings damaged (~$10M). Mayor Daley orders a curfew and 'shoot to kill' authority against arsonists.",
+      "sources": [
+        "Wikipedia — 'King assassination riots'",
+        "Heritage Auctions (contemporaneous press photographs, 1968-04-05/06)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1968-04-11",
+      "entities": [
+        "fair-housing-act"
+      ],
+      "event": "President Lyndon B. Johnson signs the Fair Housing Act (Title VIII of the Civil Rights Act of 1968), the first federal law prohibiting discrimination in housing sale, rental, and financing.",
+      "sources": [
+        "The Chicago Reporter — fair lending (c. 2016)",
+        "Face2Face Africa"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1969",
+      "entities": [
+        "gautreaux",
+        "cha"
+      ],
+      "event": "The federal district court rules in Gautreaux v. CHA (296 F.Supp. 907) that the authority's segregated site selection violated the Fourteenth Amendment and enters a remedial decree (304 F.Supp. 736) — beginning decades of court supervision.",
+      "sources": [
+        "Justia — 178 F.3d 951 (1999)",
+        "vLex — 4 F.Supp.2d 757 (1998)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1969-07",
+      "event": "Woodrow Wilson Junior College is renamed Kennedy-King College in honor of Robert F. Kennedy and Martin Luther King Jr.",
+      "entities": [
+        "b-kennedy"
+      ],
+      "sources": [
+        "Wikipedia (Kennedy–King College); City Colleges of Chicago Special Collections"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1969-1971",
+      "entities": [
+        "d-eta",
+        "d-greater-grand-crossing"
+      ],
+      "event": "eta Creative Arts Foundation founded (1969) by Abena Joan Brown and Okoro Harold Johnson as a Black talent agency, branching into theater training in 1971 and incorporating as a nonprofit in April 1971.",
+      "sources": [
+        "Chicago Public Library, 'eta Creative Arts Foundation Records'; BroadwayWorld"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1970",
+      "entities": [
+        "d-englewood",
+        "d-east-garfield-park",
+        "d-west-garfield-park",
+        "d-chatham"
+      ],
+      "event": "1970 census: Chicago's Black population reaches 1,102,620 (32.75% of the city) — the city's Black population would peak in 1980 at 1,187,905. Community-area peaks: Englewood (86,503), East Garfield Park (51,128), West Garfield Park (48,947); Chatham is 98% Black.",
+      "sources": [
+        "Wikipedia, 'Demographics of Chicago' (1970 census table); UIC Great Cities Institute; Chicago Urban League CULtivate"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1970-08-17",
+      "event": "Soul Train premieres on WCIU-TV (Channel 26), created by Don Cornelius; it enters national syndication in 1971.",
+      "entities": [
+        "b-soultrain",
+        "b-cornelius"
+      ],
+      "sources": [
+        "Wikipedia (Soul Train); Chicago City Council proclamation (2025)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1971-12",
+      "event": "Jesse Jackson founds Operation PUSH in Chicago.",
+      "entities": [
+        "operation-push"
+      ],
+      "sources": [
+        "Leaders Magazine (2010)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1972",
+      "event": "The Checkerboard Lounge is established at 423 E. 43rd St. by Buddy Guy and L.C. Thurman.",
+      "entities": [
+        "b-checkerboard"
+      ],
+      "sources": [
+        "Wikipedia (Checkerboard Lounge)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1973",
+      "entities": [
+        "dusable-museum",
+        "d-washington-park"
+      ],
+      "event": "The DuSable Museum relocates from the Burroughs home to 740 E. 56th Place in Washington Park (Daniel Burnham-designed former park administration building).",
+      "sources": [
+        "October Gallery; Wikipedia, 'DuSable Black History Museum'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1975",
+      "event": "Globetrotter Communications buys WNUS-AM-FM; 107.5 becomes WGCI with an urban contemporary/disco format, and WVON moves to the 5,000-watt 1390 AM signal.",
+      "entities": [
+        "b-wgci",
+        "b-wvon"
+      ],
+      "sources": [
+        "Wikipedia (WGCI-FM); Wikipedia (WGRB)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1975-12-19",
+      "event": "The Carter G. Woodson Regional Library opens; Vivian G. Harsh's Special Negro Collection is transferred there and renamed the Vivian G. Harsh Research Collection.",
+      "entities": [
+        "woodson-library",
+        "harsh-collection"
+      ],
+      "sources": [
+        "UChicago BMRC exhibit text; Chicago Public Library archives blog"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1983-04",
+      "event": "Harold Washington is elected Chicago's first African American mayor.",
+      "entities": [
+        "harold-washington"
+      ],
+      "sources": [
+        "Illinois Secretary of State — State Archives"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1983-04-12",
+      "entities": [
+        "harold-washington",
+        "bronzeville"
+      ],
+      "event": "Harold Washington, raised in Bronzeville, is elected Chicago's first Black mayor; he takes office April 29, 1983. His first term is dominated by the racially polarized 'Council Wars.'",
+      "sources": [
+        "Wikipedia — 'Harold Washington'",
+        "IL Secretary of State (1988)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1986-04-30",
+      "entities": [
+        "d-eighth-regiment-armory",
+        "d-victory-monument"
+      ],
+      "event": "The Eighth Regiment Armory (3533 S. Giles) and the Victory Monument (35th & King Drive) are listed on the National Register of Historic Places.",
+      "sources": [
+        "Wikipedia, 'Eighth Regiment Armory (Chicago)'; Wikipedia, 'Victory Monument (Chicago)'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1987-11-25",
+      "entities": [
+        "harold-washington"
+      ],
+      "event": "Mayor Harold Washington, reelected earlier in 1987 with a supportive council majority, dies of a heart attack in his City Hall office.",
+      "sources": [
+        "IL Secretary of State (1988)",
+        "Wikipedia — 'Harold Washington'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1994",
+      "entities": [
+        "d-migration-monument",
+        "south-side-community-art-center"
+      ],
+      "event": "Two Bronzeville milestones: Alison Saar's 'Monument to the Great Northern Migration' (15-ft bronze) is dedicated at 2600 S. King Drive, the historic entrance to Bronzeville; the South Side Community Art Center is designated a Chicago Landmark.",
+      "sources": [
+        "Duke Migration Memorials database; sscartcenter.org"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1996",
+      "entities": [
+        "cabrini-green",
+        "cha",
+        "robert-taylor-homes",
+        "stateway",
+        "wells-homes"
+      ],
+      "event": "Demolition begins at Cabrini-Green, opening the era of the CHA's Plan for Transformation (formally approved 2000): Robert Taylor Homes demolition follows in 1997, Stateway Gardens in 2001, and Ida B. Wells in 2002; the last buildings fall by 2011.",
+      "sources": [
+        "Wikipedia — 'Stateway Gardens'",
+        "Britannica — 'Chicago Housing Authority'"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1996",
+      "entities": [
+        "d-walk-of-fame"
+      ],
+      "event": "The 91 bronze plaques of the Bronzeville Walk of Fame (designed by Geraldine McCullough) are reported placed along King Drive between 25th and 35th Streets.",
+      "sources": [
+        "leonardobonomo.it travel page (single source); designer corroborated by travelerlifes.com and Wikipedia 'Geraldine McCullough'"
+      ],
+      "verification_status": "Provisional"
+    },
+    {
+      "date": "1998",
+      "entities": [
+        "d-bronzeville-childrens-museum"
+      ],
+      "event": "Bronzeville Children's Museum founded by Peggy A. Montes (opened Feb 21, 1998 in Evergreen Plaza) — the first and only African American children's museum in the U.S.",
+      "sources": [
+        "Chicago City Council resolution (2023); ChicagoTalks"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "1998-09-09",
+      "entities": [
+        "d-eighth-regiment-armory",
+        "d-victory-monument",
+        "d-chicago-defender-building"
+      ],
+      "event": "The Eighth Regiment Armory, Victory Monument, and Chicago Defender Building are all designated Chicago Landmarks as part of the Black Metropolis-Bronzeville District (nine structures).",
+      "sources": [
+        "Wikipedia entries for each; ConnectCRE"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "2007",
+      "entities": [
+        "d-bronzeville-childrens-museum"
+      ],
+      "event": "The Bronzeville Children's Museum moves to its standalone 10,000 sq ft home at 9301 S. Stony Island Avenue, Calumet Heights (8th Ward).",
+      "sources": [
+        "Black Enterprise (2025); Chicago City Council resolution (2023)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "2010",
+      "entities": [
+        "cha"
+      ],
+      "event": "Federal receivership of the Chicago Housing Authority ends (per Crain's Chicago Business), after more than two decades of court/HUD control following Gautreaux.",
+      "sources": [
+        "Wikipedia — 'Chicago Housing Authority'",
+        "Crain's Chicago Business (2010-05-20)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "2011",
+      "entities": [
+        "d-mlk-hamlin-residence",
+        "north-lawndale"
+      ],
+      "event": "The Dr. King Legacy Apartments (45 affordable homes) open at 1550 S. Hamlin Avenue in North Lawndale, the site of MLK's 1966 residence.",
+      "sources": [
+        "Chicago Magazine (March 2011)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "2013-05-22",
+      "entities": [
+        "cps",
+        "emanuel"
+      ],
+      "event": "The Chicago Board of Education votes to close 50 schools (49 elementary, 1 high school) — the largest mass school closing in U.S. history; the final day of classes is June 19, 2013, displacing 13,600–17,000 students and 1,500 staff. Critics charge the closures fell almost entirely on Black and Brown neighborhoods.",
+      "sources": [
+        "Chalkbeat (2023)",
+        "EmpathyEducates/NBC (2013)",
+        "CTU (c. 2026)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "2020",
+      "entities": [
+        "d-austin"
+      ],
+      "event": "2020 census: Chicago's Black (non-Hispanic) population is 787,551 (28.68% of 2,746,388) — a loss of ~85,000 Black residents since 2010, the largest absolute decline after Detroit, alongside continued Black suburbanization.",
+      "sources": [
+        "Wikipedia, 'Demographics of Chicago' (2020 census table); Wirepoints/WGN-TV (2022)"
+      ],
+      "verification_status": "Verified"
+    },
+    {
+      "date": "2026",
+      "entities": [
+        "dusable-museum",
+        "d-eta",
+        "south-side-community-art-center"
+      ],
+      "event": "Contemporary status: the DuSable marks its 65th anniversary ('Paris in Black' exhibition; $1.6M Illinois grant, Feb 2026); eta Creative Arts Foundation's season runs Aug-Nov 2026; SSCAC operates interim offices on the DuSable campus during renovation planning.",
+      "sources": [
+        "sscartcenter.org (Oct 2025); usa-newnews.com (Feb 2026); BroadwayWorld (2026 listings)"
+      ],
+      "verification_status": "Verified"
+    }
+  ]
+}

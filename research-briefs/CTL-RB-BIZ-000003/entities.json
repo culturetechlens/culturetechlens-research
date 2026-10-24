@@ -1,0 +1,420 @@
+{
+  "brief_id": "CTL-RB-BIZ-000003",
+  "entities": [
+    {
+      "entity_id": "E01",
+      "name": "Marjorie Stewart Joyner",
+      "type": "person",
+      "description": "Chicago beautician, salon owner, Madam C. J. Walker Company executive (national supervisor of ~200 beauty schools, later vice president), inventor of the permanent wave machine (U.S. Patent 1,693,515, 1928); co-founder, United Beauty School Owners and Teachers Association (1945); drafter of Illinois cosmetology law.",
+      "claim_refs": [
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12",
+        "C42",
+        "C44",
+        "C45",
+        "C48"
+      ]
+    },
+    {
+      "entity_id": "E02",
+      "name": "Annie Turnbo Malone",
+      "type": "person",
+      "description": "Founder of the Poro system (Poro College, St. Louis, 1918); moved Chicago headquarters to the 'Poro Block,' 4415 S. Parkway, c. 1930.",
+      "claim_refs": [
+        "C13",
+        "C14",
+        "C15"
+      ]
+    },
+    {
+      "entity_id": "E03",
+      "name": "Anthony Overton",
+      "type": "person",
+      "description": "Lawyer-turned-manufacturer; founder of Overton Hygienic (1898); moved company to Chicago 1911; builder of the Overton Hygienic Building; also a banker and newspaper publisher.",
+      "claim_refs": [
+        "C16",
+        "C17",
+        "C18",
+        "C19"
+      ]
+    },
+    {
+      "entity_id": "E04",
+      "name": "George E. Johnson",
+      "type": "person",
+      "description": "Co-founder of Johnson Products Company (Chicago, 1954); first Black-owned American Stock Exchange listing (1971); died July 6, 2026.",
+      "claim_refs": [
+        "C20",
+        "C22",
+        "C23",
+        "C24",
+        "C25",
+        "C26"
+      ]
+    },
+    {
+      "entity_id": "E05",
+      "name": "Joan Henderson Johnson",
+      "type": "person",
+      "description": "Co-founder of Johnson Products Company (1954); worked in the plant and offices through its growth.",
+      "claim_refs": [
+        "C20",
+        "C25"
+      ]
+    },
+    {
+      "entity_id": "E06",
+      "name": "Edward Gardner",
+      "type": "person",
+      "description": "Co-founder of Soft Sheen Products (Chicago, 1964); salon-first distribution; led 1983 voter-registration drive for Harold Washington.",
+      "claim_refs": [
+        "C27",
+        "C28",
+        "C29",
+        "C30",
+        "C31"
+      ]
+    },
+    {
+      "entity_id": "E07",
+      "name": "Bettiann Gardner",
+      "type": "person",
+      "description": "Co-founder of Soft Sheen Products (1964); led manufacturing and operations.",
+      "claim_refs": [
+        "C27",
+        "C30"
+      ]
+    },
+    {
+      "entity_id": "E08",
+      "name": "Madam C. J. Walker",
+      "type": "person",
+      "description": "Founder of the Madam C. J. Walker Manufacturing Company; employer of Joyner; architect of the agent-school system that Joyner supervised.",
+      "claim_refs": [
+        "C04",
+        "C06",
+        "C48"
+      ]
+    },
+    {
+      "entity_id": "E09",
+      "name": "Oscar J. Freeman",
+      "type": "person",
+      "description": "Chicago barber; owner of the Metropolitan Barber Shop, 4654 South Parkway; documented by the FSA-OWI in 1942 (14 years in business).",
+      "claim_refs": [
+        "C36"
+      ]
+    },
+    {
+      "entity_id": "E10",
+      "name": "Quincy T. Mills",
+      "type": "scholar",
+      "description": "Historian; author of Cutting Along the Color Line: Black Barbers and Barber Shops in America (UPenn Press, 2013).",
+      "claim_refs": [
+        "C34"
+      ]
+    },
+    {
+      "entity_id": "E11",
+      "name": "Tiffany Gill",
+      "type": "scholar",
+      "description": "Historian; author of Beauty Shop Politics; 'Civic Beauty,' Enterprise & Society.",
+      "claim_refs": [
+        "C33",
+        "C35"
+      ]
+    },
+    {
+      "entity_id": "E12",
+      "name": "Z. Erol Smith",
+      "type": "person",
+      "description": "Black architect of the Overton Hygienic Building (1922).",
+      "claim_refs": [
+        "C18"
+      ]
+    },
+    {
+      "entity_id": "E13",
+      "name": "Madam C. J. Walker Manufacturing Company",
+      "type": "organization",
+      "description": "Black-owned cosmetics manufacturer; beauty schools, agent network, conventions; patent-holder of Joyner's wave machine.",
+      "claim_refs": [
+        "C04",
+        "C06"
+      ]
+    },
+    {
+      "entity_id": "E14",
+      "name": "Poro College / Poro Company",
+      "type": "organization",
+      "description": "Annie Malone's cosmetology school, manufacturer, and franchise-agent network; Chicago HQ from c. 1930.",
+      "claim_refs": [
+        "C13",
+        "C14",
+        "C15"
+      ]
+    },
+    {
+      "entity_id": "E15",
+      "name": "Overton Hygienic Manufacturing Company",
+      "type": "organization",
+      "description": "Black-owned cosmetics manufacturer (High-Brown products); Chicago from 1911; in business until early 1980s.",
+      "claim_refs": [
+        "C16",
+        "C17",
+        "C18",
+        "C19"
+      ]
+    },
+    {
+      "entity_id": "E16",
+      "name": "Johnson Products Company",
+      "type": "organization",
+      "description": "Black-owned hair-care manufacturer, Chicago (1954–1993); Ultra Sheen, Afro Sheen; first Black-owned AMEX listing; Soul Train sponsor; sold to IVAX 1993.",
+      "claim_refs": [
+        "C20",
+        "C21",
+        "C22",
+        "C23",
+        "C24",
+        "C25",
+        "C40",
+        "C41"
+      ]
+    },
+    {
+      "entity_id": "E17",
+      "name": "Soft Sheen Products, Inc.",
+      "type": "organization",
+      "description": "Black-owned hair-care manufacturer, Chicago (1964–1998); Care Free Curl, Optimum; salon-professional distribution; merged with Carson (1988), sold to L'Oréal (1998).",
+      "claim_refs": [
+        "C27",
+        "C28",
+        "C29",
+        "C30"
+      ]
+    },
+    {
+      "entity_id": "E18",
+      "name": "S. B. Fuller Products",
+      "type": "organization",
+      "description": "Black-owned cosmetics company; George E. Johnson's employer and training ground before 1954.",
+      "claim_refs": [
+        "C20"
+      ]
+    },
+    {
+      "entity_id": "E19",
+      "name": "National Beauty Culturists' League (NBCL)",
+      "type": "organization",
+      "description": "Black beauticians' trade organization; originated 1919, chartered 1940; standards, education, legislation; addressed by MLK in 1957.",
+      "claim_refs": [
+        "C32",
+        "C33",
+        "C43"
+      ]
+    },
+    {
+      "entity_id": "E20",
+      "name": "United Beauty School Owners and Teachers Association",
+      "type": "organization",
+      "description": "Trade association founded 1945 by Marjorie Joyner and Mary McLeod Bethune.",
+      "claim_refs": [
+        "C09"
+      ]
+    },
+    {
+      "entity_id": "E21",
+      "name": "Metropolitan Barber Shop",
+      "type": "organization",
+      "description": "Barbershop at 4654 South Parkway, Chicago; owned by Oscar J. Freeman; documented 1942.",
+      "claim_refs": [
+        "C36"
+      ]
+    },
+    {
+      "entity_id": "E22",
+      "name": "Douglass National Bank",
+      "type": "organization",
+      "description": "Overton enterprise; tenant/shareholder of the Overton Hygienic Building (cross-ref CTL-RB-BIZ-000002).",
+      "claim_refs": [
+        "C18"
+      ]
+    },
+    {
+      "entity_id": "E23",
+      "name": "Overton Hygienic Building",
+      "type": "place",
+      "description": "3619–3627 S. State Street, Chicago (1922); housed cosmetics manufacturing, bank, insurance, professional offices; Black Metropolis–Bronzeville Historic District.",
+      "claim_refs": [
+        "C18"
+      ]
+    },
+    {
+      "entity_id": "E24",
+      "name": "Poro Block",
+      "type": "place",
+      "description": "4415 S. Parkway (now King Drive), Chicago; Poro Company Chicago headquarters from c. 1930.",
+      "claim_refs": [
+        "C15"
+      ]
+    },
+    {
+      "entity_id": "E25",
+      "name": "Joyner's salon (South State Street)",
+      "type": "place",
+      "description": "Beauty salon opened by Marjorie Joyner c. 1916 on South State Street, Chicago; served clients of all races; exact address unrecovered.",
+      "claim_refs": [
+        "C03",
+        "C11"
+      ]
+    },
+    {
+      "entity_id": "E26",
+      "name": "Metropolitan Barber Shop site",
+      "type": "place",
+      "description": "4654 South Parkway (now King Drive), Chicago; Oscar J. Freeman's shop, documented 1942.",
+      "claim_refs": [
+        "C36"
+      ]
+    },
+    {
+      "entity_id": "E27",
+      "name": "Binga Block barber shop",
+      "type": "place",
+      "description": "Unnamed barber shop in the Binga Block, State Street between 47th and 48th, Chicago; documented in the IIT Bronzeville booklet.",
+      "claim_refs": [
+        "C49"
+      ]
+    },
+    {
+      "entity_id": "E28",
+      "name": "63rd Street corridor",
+      "type": "place",
+      "description": "South Side commercial corridor; Harrison's Barber Shop listed as provisional in CTL-DR-PLACE-001.",
+      "claim_refs": [
+        "C39"
+      ]
+    },
+    {
+      "entity_id": "E29",
+      "name": "Harrison's Barber Shop",
+      "type": "organization",
+      "description": "Barbershop on the 63rd Street corridor; named in CTL-DR-PLACE-001 but provisional pending directory work.",
+      "claim_refs": [
+        "C39"
+      ]
+    },
+    {
+      "entity_id": "E30",
+      "name": "Permanent wave machine",
+      "type": "object",
+      "description": "Joyner's 1928 invention: 16 rods inside a drying hood; scalp protector added; rights held by the Walker Company; exhibited by the Smithsonian (1987).",
+      "claim_refs": [
+        "C05",
+        "C06",
+        "C45",
+        "C48"
+      ]
+    },
+    {
+      "entity_id": "E31",
+      "name": "Ultra Sheen",
+      "type": "object",
+      "description": "Johnson Products hair straightener; marketed to reduce hot-comb use and beauty-shop visits.",
+      "claim_refs": [
+        "C21"
+      ]
+    },
+    {
+      "entity_id": "E32",
+      "name": "Afro Sheen",
+      "type": "object",
+      "description": "Johnson Products line marketed with 'Black is beautiful' messaging ('soul food for the natural').",
+      "claim_refs": [
+        "C41"
+      ]
+    },
+    {
+      "entity_id": "E33",
+      "name": "Care Free Curl",
+      "type": "object",
+      "description": "Soft Sheen's Jheri Curl product (1981); sold only through professional cosmetologists.",
+      "claim_refs": [
+        "C28"
+      ]
+    },
+    {
+      "entity_id": "E34",
+      "name": "High-Brown face powder",
+      "type": "object",
+      "description": "Overton Hygienic's early-1900s shade-range cosmetics line for Black women.",
+      "claim_refs": [
+        "C17"
+      ]
+    },
+    {
+      "entity_id": "E35",
+      "name": "Soul Train",
+      "type": "organization",
+      "description": "Television show; exclusive sponsor Johnson Products from 1971 (cross-ref CTL-DR-BMI-002 / CTL-DR-MUSIC-001).",
+      "claim_refs": [
+        "C24"
+      ]
+    },
+    {
+      "entity_id": "E36",
+      "name": "L'Oréal",
+      "type": "organization",
+      "description": "Acquirer of Soft Sheen (1998); endpoint of the Chicago Black-owned manufacturer consolidation arc.",
+      "claim_refs": [
+        "C30"
+      ]
+    },
+    {
+      "entity_id": "E37",
+      "name": "IVAX Corporation",
+      "type": "organization",
+      "description": "Pharmaceutical firm; acquirer of Johnson Products (1993) for ~$67M.",
+      "claim_refs": [
+        "C25"
+      ]
+    },
+    {
+      "entity_id": "E38",
+      "name": "Vivian G. Harsh Research Collection (Chicago Public Library)",
+      "type": "organization",
+      "description": "Reported holder of Marjorie Joyner's papers (lead; not verified).",
+      "claim_refs": [
+        "C42"
+      ]
+    },
+    {
+      "entity_id": "E39",
+      "name": "Illinois cosmetology licensing regime",
+      "type": "institution",
+      "description": "State licensing framework Joyner helped draft (date disputed); professionalization-as-uplift and as barrier to home-shop practitioners.",
+      "claim_refs": [
+        "C08",
+        "C35"
+      ]
+    }
+  ],
+  "counts": {
+    "people_and_scholars": 12,
+    "organizations": 17,
+    "places": 7,
+    "objects": 5,
+    "total": 39
+  }
+}

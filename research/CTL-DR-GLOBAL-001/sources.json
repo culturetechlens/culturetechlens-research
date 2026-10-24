@@ -1,0 +1,1861 @@
+{
+ "project": "CTL-DR-GLOBAL-001",
+ "source_count": 265,
+ "sources": [
+  {
+   "citation": "Robert Sengstacke Abbott (1870-1940) — George Tamblyn — BlackPast",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Five Things to Know About Pullman Porters — Smithsonian Magazine — smithsonianmag.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "The Warmth of Other Suns — Isabel Wilkerson — Random House",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Muddy Waters (biography) — Encyclopaedia Britannica — britannica.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Howlin' Wolf (biography) — AllMusic — allmusic.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Thomas A. Dorsey (thesis, citing Harris and Levine) — Florida State University repository — FSU DigiNole",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Mahalia Jackson (biographical coverage) — Louisiana Weekly — louisianaweekly.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Sam Cooke (biography) — Delta Blues Museum / BlackPast — deltabluesmuseum.org; blackpast.org",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Nat King Cole (biography) — Encyclopedia of Alabama — encyclopediaofalabama.org",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Dinah Washington (biography) — University of Alabama / EBSCO — ua.edu; ebsco.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Pops Staples: Masters of Traditional Arts — National Endowment for the Arts — arts.gov",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Sun Ra's Chicago — William Sites — urban-studies research",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "John H. Johnson / Jet / Ebony histories — Ebony — ebony.com",
+   "url": "https://www.ebony.com/taking-a-look-back-at-emmett-tills-brutal-murder-on-the-anniversary-of-the-historic-jet-cover/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Crusade for Justice: The Autobiography of Ida B. Wells — Ida B. Wells (ed. Alfreda Duster) — University of Chicago Press",
+   "url": "",
+   "type": "primary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Emmett Till case overview — U.S. Department of Justice — justice.gov",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Giving Up the Ghost of National Myth and Dangerous Fictions — Dr. Samuel K. Roberts — Emmett Till Project",
+   "url": "https://www.emmetttillproject.com/samuel-k-roberts",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Remembering Emmett Till's Brutal Murder — Ebony — ebony.com",
+   "url": "https://www.ebony.com/taking-a-look-back-at-emmett-tills-brutal-murder-on-the-anniversary-of-the-historic-jet-cover/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Elijah Muhammad (Research Starters) — EBSCO — ebsco.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "The Collected Works / Simple column scholarship — University of Missouri Press; OpenEdition — MUP; openedition.org",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Brotherhood of Sleeping Car Porters histories — DC Historic Sites; DePaul Pressbooks — various",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Chicago Freedom Movement history — Chicago Housing Authority — CHA historical PDF",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Jesse Jackson timeline — CNN — cnn.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "The Staple Singers (artist biography) — Rob Bowman — believersportal.com",
+   "url": "https://believersportal.com/staple-singers-gospel-artist-group/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Black Boy and American Hunger (Research Starters) — EBSCO — ebsco.com",
+   "url": "https://www.ebsco.com/research-starters/literature-and-writing/black-boy-and-american-hunger-richard-wright",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Chess Records: From Muddy to 'Maybellene' — Charlie Gillett — Britannica Money",
+   "url": "https://www.britannica.com/money/Chess-Records-From-Muddy-to-Maybellene-1688337",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Willie Dixon - Vicksburg (Blues Trail marker) — Mississippi Blues Trail — msbluestrail.org",
+   "url": "https://msbluestrail.org/blues-trail-markers/willie-dixon",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Birth of Rock & Roll Music Project: 1955: Chuck Berry: Maybellene — Alabama Record Collectors Association — alabamarecordcollectors.org",
+   "url": "https://alabamarecordcollectors.org/2020/01/birth-of-rock-roll-music-project-1954-1959-no-23-1955-chuck-berry-maybellene.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Illinois Central Railroad: Map, Logo, History — American-Rails.com — american-rails.com",
+   "url": "https://www.american-rails.com/illinois.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Illinois Central Railroad: A history — Trains — trains.com",
+   "url": "https://www.trains.com/ctr/railroads/fallen-flags/illinois-central-railroad-a-history/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Chicago Urban League (register entry) — Docomomo-US — docomomo-us.org",
+   "url": "https://www.docomomo-us.org/register/chicago-urban-league",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "To Claude Barnett (King Papers) — Stanford King Institute — kinginstitute.stanford.edu",
+   "url": "http://kinginstitute.stanford.edu/king-papers/documents/claude-barnett",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Timeline: Milestones of the Black Press in the U.S. — Nieman Reports — niemanreports.org",
+   "url": "https://niemanreports.org/timeline-of-the-black-press/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Chicago, Garveyism, and the history of the diasporic Midwest — Erik S. McDuffie — UIUC African American Studies/History",
+   "url": "https://crossculturalsolidarity.com/wp-content/uploads/2021/04/Garveyism-the-Midwest.pdf",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Black Metropolis (eHRAF World Cultures entry) — Yale HRAF — ehrafworldcultures.yale.edu",
+   "url": "https://ehrafworldcultures.yale.edu/cultures/nk04/documents/023",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "The Roots and Routes of 'Imperium in Imperio': St. Clair Drake, The Formative Years — Andrew J. Rosa — University of Kansas journals",
+   "url": "https://journals.ku.edu/amsj/article/download/4127/4143/6928",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "The Black Record Label That Introduced the Beatles to America — Bryan Greene — Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com/history/the-black-record-label-that-introduced-the-beatles-to-america-180979606/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Margaret Walker biography (Appendix H) — Jackson State University — dev.jsums.edu (Margaret Walker Center)",
+   "url": "http://dev.jsums.edu/margaretwalkercenter/wp-content/blogs.dir/341/files/2013/09/Appendix-H-MW-bio.pdf",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Margaret Walker Center centennial — JSU Newsroom — jsumsnews.com",
+   "url": "https://www.jsumsnews.com/margaret-walker-center-to-celebrate-100th-birthday-of-margaret-walker-alexander/",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "The New Great Migration: Black Americans' Return to the South, 1965-2000 — William H. Frey — Brookings Institution",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Call to Home: African Americans Reclaim the Rural South — Carol Stack — Basic Books",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "Chicago Defender / Pullman porter distribution accounts — George Tamblyn (BlackPast); Smithsonian Magazine — blackpast.org; smithsonianmag.com",
+   "url": "",
+   "type": "secondary",
+   "notes": "",
+   "track": "a"
+  },
+  {
+   "citation": "TCR Talks: Chicago scholar, former ANC liaison: 'Mandela was a revolutionary'",
+   "url": "http://www.chicagoreporter.com/tcr-talks-chicago-scholar-former-anc-liaison-mandela-was-a-revolutionary/",
+   "type": "primary",
+   "notes": "Primary testimony; sole source for several ANC-Midwest details.",
+   "track": "b"
+  },
+  {
+   "citation": "Nelson Mandela visits Chicago",
+   "url": "https://news.northwestern.edu/stories/2021/02/nelson-mandela-visits-chicago",
+   "type": "secondary",
+   "notes": "Confirms the 1993 visit and the Free South Africa Movement's role.",
+   "track": "b"
+  },
+  {
+   "citation": "Resolution Condemning Apartheid (Danny K. Davis)",
+   "url": "https://digitalcommons.colum.edu/cjocidsa/3/",
+   "type": "primary",
+   "notes": "Primary archival government document.",
+   "track": "b"
+  },
+  {
+   "citation": "Chicago Youth Say No to Apartheid and Racism! (flyer)",
+   "url": "https://digitalcommons.colum.edu/fsa/7/",
+   "type": "primary",
+   "notes": "Primary archival movement flyer.",
+   "track": "b"
+  },
+  {
+   "citation": "Anti-Apartheid Newsletter",
+   "url": "https://africanactivist.msu.edu/recordFiles/210-849-20808/AFSCAAnewsWint9073-81opt.pdf",
+   "type": "primary",
+   "notes": "Contemporaneous movement press; ordinance dates.",
+   "track": "b"
+  },
+  {
+   "citation": "The Making of a Movement",
+   "url": "https://www.thecrimson.com/article/1983/9/12/the-making-of-a-movement-pblast/",
+   "type": "secondary",
+   "notes": "Contemporaneous student-press account of the 1983 Krugerrand campaign.",
+   "track": "b"
+  },
+  {
+   "citation": "History: Disrupting Peace (UChicago divestment retrospective)",
+   "url": "https://chicagomaroon.com/22421/grey-city/history-disrupting-peace/",
+   "type": "secondary",
+   "notes": "Retrospective on UChicago divestment; Sahotra Sarkar identified as a leader.",
+   "track": "b"
+  },
+  {
+   "citation": "Africobra and the Negotiation of Visual Afrocentrisms",
+   "url": "https://journals.openedition.org/civilisations/1890?lang=en",
+   "type": "secondary",
+   "notes": "Peer-reviewed; core source for AfriCOBRA at FESTAC '77.",
+   "track": "b"
+  },
+  {
+   "citation": "Jeff Donaldson papers",
+   "url": "https://www.aaa.si.edu/exhibitions/expanding-the-legacy-new-collections-on-african-american-art/jeff-donaldson-papers",
+   "type": "primary",
+   "notes": "Archival; AfriCOBRA founded Chicago 1968.",
+   "track": "b"
+  },
+  {
+   "citation": "Picturing FESTAC 77: PW Talks with Marilyn Nance",
+   "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/90508-picturing-festac-77-pw-talks-with-marilyn-nance.html",
+   "type": "primary",
+   "notes": "Official FESTAC photographer's testimony; names Chicago-linked participants.",
+   "track": "b"
+  },
+  {
+   "citation": "FESTAC 77 (Oxford Research Encyclopedia)",
+   "url": "https://history.ucla.edu/wp-content/uploads/2023/09/Apter_Festac_77_ore.pdf",
+   "type": "secondary",
+   "notes": "Contextual scale figures for FESTAC '77.",
+   "track": "b"
+  },
+  {
+   "citation": "The intellectual warfare of Dr. Jacob H. Carruthers and the battle...",
+   "url": "http://www.thefreelibrary.com/The+intellectual+warfare+of+Dr.+Jacob+H.+Carruthers+and+the+battle+...-a0306357761",
+   "type": "primary",
+   "notes": "Participant account; core source for the 1977 study tour and Kemetic Institute founding.",
+   "track": "b"
+  },
+  {
+   "citation": "The Rise and Fall of the Associated Negro Press",
+   "url": "https://uk.bookshop.org/p/books/the-rise-and-fall-of-the-associated-negro-press-claude-barnett-s-pan-african-news-and-the-jim-crow-paradox-gerald-horne/8ffb0617d7d41fc3?ean=9780252041198",
+   "type": "secondary",
+   "notes": "Scholarly monograph on the ANP.",
+   "track": "b"
+  },
+  {
+   "citation": "LOC newsreel inventory mbrs01841243",
+   "url": "https://www.youtube.com/watch?v=vU_d8QfwPsU",
+   "type": "primary",
+   "notes": "LOC inventory identifies ANP Chicago HQ and correspondent Timothy with Nkrumah.",
+   "track": "b"
+  },
+  {
+   "citation": "Claude Albert Barnett (biographical page)",
+   "url": "https://originalpeople.org/claude-albert-barnett/",
+   "type": "secondary",
+   "notes": "Weak biographical site; provisional claims only.",
+   "track": "b"
+  },
+  {
+   "citation": "Era Thompson helped shape Ebony magazine",
+   "url": "https://aaregistry.org/story/era-thompson-helped-shape-ebony-magazine/",
+   "type": "secondary",
+   "notes": "Biographical; Thompson's Africa travel.",
+   "track": "b"
+  },
+  {
+   "citation": "Rutgers dissertation on Era Bell Thompson",
+   "url": "https://rucore.libraries.rutgers.edu/rutgers-lib/27272/",
+   "type": "secondary",
+   "notes": "Dissertation abstract; corroborates Thompson's foreign-correspondent role and Harsh Collection papers.",
+   "track": "b"
+  },
+  {
+   "citation": "Georgetown thesis on the Chicago Defender and apartheid",
+   "url": "https://repository.digital.georgetown.edu/downloads/9d78155d-7375-4a25-8244-521afeaeedd3",
+   "type": "secondary",
+   "notes": "Quotes the Defender's March 24, 1960 Sharpeville editorial.",
+   "track": "b"
+  },
+  {
+   "citation": "Global Histories article on African American press and Ethiopia",
+   "url": "https://www.globalhistories.com/index.php/GHSJ/article/download/609/276/3161",
+   "type": "secondary",
+   "notes": "Student journal; Defender Ethiopia coverage; disputed Rogers-correspondent claim.",
+   "track": "b"
+  },
+  {
+   "citation": "Black Religion and Black Power: The Nation of Islam's Internationalism",
+   "url": "https://www.mdpi.com/2313-5778/3/3/34?type=check_update&version=1",
+   "type": "secondary",
+   "notes": "Core source for NOI internationalism: Elijah Muhammad 1959-60 tour; Malcolm X 1959 emissary travel.",
+   "track": "b"
+  },
+  {
+   "citation": "Farrakhan/Gaddafi accounts; Congressional Record Vol. 142, Issue 28",
+   "url": "https://www.congress.gov/congressional-record/volume-142/issue-28/house-section/article/H1700-7",
+   "type": "secondary",
+   "notes": "Loan/satellite-address claims are provisional (partisan/secondary sources); Congressional Record corroborates the ongoing Libya link.",
+   "track": "b"
+  },
+  {
+   "citation": "Congressional Record, Vol. 168, Issue 138 (Extensions of Remarks)",
+   "url": "https://www.congress.gov/congressional-record/volume-168/issue-138/extensions-of-remarks-section/article/E872-2",
+   "type": "primary",
+   "notes": "Primary government record; Woodtor biography and Africa International House founding.",
+   "track": "b"
+  },
+  {
+   "citation": "About Us (ecachicago.org)",
+   "url": "https://ecachicago.org/about-us/",
+   "type": "primary",
+   "notes": "Organizational history; founded 1984.",
+   "track": "b"
+  },
+  {
+   "citation": "Migration Letters article on African migrant associations in Chicago",
+   "url": "https://migrationletters.com/index.php/ml/article/download/345/338/348",
+   "type": "secondary",
+   "notes": "Core source for ECAC (1984), GNC/Ghana Students' Union, and UAO (2005).",
+   "track": "b"
+  },
+  {
+   "citation": "Chicago Department of Aviation and Ethiopian Airlines announce Chicago-Addis Ababa service",
+   "url": "https://www.chicago.gov/content/city/en/depts/doa/provdrs/flight/news/2018/february/chicago-department-of-aviation-and-ethiopian-airlines-announce-f.html",
+   "type": "primary",
+   "notes": "Primary government announcement; June 9, 2018 launch.",
+   "track": "b"
+  },
+  {
+   "citation": "1983 consular letter (Minnesota Legislative Reference Library archive)",
+   "url": "https://www.lrl.mn.gov/archive/sos/film/pdf/34921.pdf",
+   "type": "primary",
+   "notes": "Primary government document; consulate established 1977, 12-state jurisdiction.",
+   "track": "b"
+  },
+  {
+   "citation": "Type of Exchange: Chicago-Casablanca",
+   "url": "http://www.chicagosistercities.com/wp-content/uploads/2018/01/Casablanca-2016.pdf",
+   "type": "primary",
+   "notes": "Organizational record; documented Chicago-Casablanca exchanges.",
+   "track": "b"
+  },
+  {
+   "citation": "Chicago Sister Cities International named Best Overall",
+   "url": "https://thearabdailynews.com/2014/08/19/chicago-sister-cities-international-named-best-overall-program/",
+   "type": "primary",
+   "notes": "Organizational announcement; sister-city years for Accra (1989), Casablanca (1982), Durban (1997).",
+   "track": "b"
+  },
+  {
+   "citation": "DuSable Museum",
+   "url": "https://www.britannica.com/topic/DuSable-Museum?oasmId=181355",
+   "type": "secondary",
+   "notes": "Tertiary reference; Burroughs's African collecting.",
+   "track": "b"
+  },
+  {
+   "citation": "Ghanafest (encyclopedia entry)",
+   "url": "https://encyclopedia2.thefreedictionary.com/Ghanafest",
+   "type": "secondary",
+   "notes": "Encyclopedia entry; GhanaFest origins and program.",
+   "track": "b"
+  },
+  {
+   "citation": "GN Bank supports Chicago Ghanafest",
+   "url": "https://www.todaygh.com/gn-bank-supports-chicago-ghanafest/",
+   "type": "secondary",
+   "notes": "Contemporary press; 37th Annual GhanaFest, July 25, 2026.",
+   "track": "b"
+  },
+  {
+   "citation": "History - Third World Press Foundation",
+   "url": "https://thirdworldpressfoundation.org/pages/about",
+   "type": "primary",
+   "notes": "Publisher's own roster; Armah and Kgositsile.",
+   "track": "b"
+  },
+  {
+   "citation": "Third World Press's 50 Years of Black Literature and Politics",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industrynews/publisher-news/article/74931-third-world-press-s-50-years-of-black-literature-and-politics.html",
+   "type": "secondary",
+   "notes": "Trade press; TWP history and Armah.",
+   "track": "b"
+  },
+  {
+   "citation": "Obama Makes Family Pilgrimage to Kenya",
+   "url": "https://www.wcbe.org/npr-news/2006-08-24/obama-makes-family-pilgrimage-to-kenya",
+   "type": "primary",
+   "notes": "Contemporaneous news; Obama's August 2006 Kenya visit.",
+   "track": "b"
+  },
+  {
+   "citation": "Obama Receives Hero's Welcome at His Family's Village",
+   "url": "https://www.tingroom.com/voastandard/2006/8/34158.html",
+   "type": "primary",
+   "notes": "Contemporaneous; Kogelo homecoming speech and HIV test.",
+   "track": "b"
+  },
+  {
+   "citation": "Jesse Jackson profiles and obituary",
+   "url": "https://thepoint.gm/africa/gambia/article/who-is-rev-jesse-jackson-sr",
+   "type": "secondary",
+   "notes": "Biographical/news sources for Jackson's 1979 South Africa visit and PUSH HQ/Tambo photo caption.",
+   "track": "b"
+  },
+  {
+   "citation": "J.A. Rogers biography and Ethiopia-correspondent accounts",
+   "url": "https://aalbc.com/authors/home.php?author_name=J.+A.+Rogers",
+   "type": "secondary",
+   "notes": "J.A. Rogers biography, 1935 Ethiopia assignment, Defender writing.",
+   "track": "b"
+  },
+  {
+   "citation": "Muhammad Speaks coverage analyses",
+   "url": "https://hal.science/tel-05037227v1/file/Th%C3%A8se%20Nour%20El%20Houda%20Laib%20.pdf",
+   "type": "secondary",
+   "notes": "Muhammad Speaks' African liberation coverage and global reach.",
+   "track": "b"
+  },
+  {
+   "citation": "Haile Selassie's Impact on American Views (academic text)",
+   "url": "https://www.scribd.com/document/636853358/Untitled",
+   "type": "secondary",
+   "notes": "Academic content but accessed via Scribd copy; itinerary needs newspaper/archival corroboration.",
+   "track": "b"
+  },
+  {
+   "citation": "Ronald Angelo Johnson, 'Frederick Douglass and a Diplomacy of Blackness'",
+   "url": "https://www.aaihs.org/frederick-douglass-and-a-diplomacy-of-blackness/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Frederick Douglass PDF record",
+   "url": "https://transatlantic-cultures.org/en/pdf/record/frederick-douglass.pdf",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Haitians in Chicago",
+   "url": "https://www.arcadiapublishing.com/products/haitians-in-chicago-9781467162005",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Haitian American Museum of Chicago page",
+   "url": "https://railslibraries.org/node/106174",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "IMLS project proposal MH-251592-OMS-22 (sample application)",
+   "url": "https://www.imls.gov/sites/default/files/project-proposals/MH-251592-OMS-22_Sample_Application.pdf",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Bob Marley & The Wailers 1978-05-27 Uptown Theatre Chicago recording card",
+   "url": "http://tela.sugarmegs.org/_asxtela/asxcards/BobMarleyAndTheWailers1978-05-27UptownTheatreChicagoIL.html",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Bob Marley tour dates compilation",
+   "url": "http://previewnet.com/reggae/artists/bob_marley/tourdates.htm",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Bob Marley & The Wailers Uptown Theater Chicago 1978 setlist",
+   "url": "https://www.setlist.fm/setlist/bob-marley-and-the-wailers/1978/uptown-theater-chicago-il-23d9986b.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Ephraim Malachi Martin official biography",
+   "url": "https://www.internationalfestivaloflife.com/_files/ugd/2886ea_9d3b2b401c4f42bb94747aa689f23d61.pdf",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "International Festival of Life festival history",
+   "url": "https://jamsat.com/festivals/international-festival-of-life/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "African/Caribbean International Festival of Life reference entry",
+   "url": "https://encyclopedia2.thefreedictionary.com/African/Caribbean+International+Festival+of+Life",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "JSVFest Jerk Seafood Vegan Festival 2018 listing",
+   "url": "https://www.eventbrite.com/e/jsvfest-jerk-seafood-vegan-festival-tickets-48136431362",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Jump Up Records label profile",
+   "url": "https://dyingscene.com/label/jump-up-records/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Do312 event page (DJ Chuck Wren / Jump Up Records)",
+   "url": "https://do312.com/events/2022/4/16/the-freecoasters-soul-radics-detroit-riddim-crew-dj-chuck-wren-jump-up-records-tickets",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'One Love: Wild Hare'",
+   "url": "https://www.beachwoodreporter.com/music/one_love_wild_hare/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Chicago Concerned Jamaicans Continue to Support Education'",
+   "url": "https://jis.gov.jm/chicago-concerned-jamaicans-continue-to-support-education/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Jamaicans Honoured in Chicago'",
+   "url": "https://jis.gov.jm/jamaicans-honoured-in-chicago/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Jamaican Honorary Consuls' (revised March 2024)",
+   "url": "https://mfaft.gov.jm/site/wp-content/uploads/2019/03/Jamaican-Honorary-Consuls-Rev.-March-2024.pdf",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Honorary Consuls of Jamaica in the U.S.A.",
+   "url": "https://www.EmbassyofJamaica.org/ja_citizens/honorary_consul_usa.pdf",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Garveyism' entry",
+   "url": "http://www.encyclopedia.chicagohistory.org/pages/502.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Garveyism and the Midwest'",
+   "url": "https://crossculturalsolidarity.com/wp-content/uploads/2021/04/Garveyism-the-Midwest.pdf",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Belizeans' entry",
+   "url": "http://encyclopedia.chicagohistory.org:80/pages/127.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "1900 W. Greenleaf Avenue / Rogers Park Baptist Church pages",
+   "url": "https://www.rpwrhs.org/w/index.php?title=1900_W._Greenleaf_Avenue",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Kwame Raoul biography",
+   "url": "https://www.naag.org/attorney-general/kwame-raoul/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Kwame Raoul witness biography (House hearing)",
+   "url": "https://www.congress.gov/116/meeting/house/109282/witnesses/HHRG-116-AP07-Bio-RaoulK-20190409.pdf",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Congressional Record tribute to the Chicago Daily Defender (names Metz T.P. Lochard)",
+   "url": "https://www.congress.gov/congressional-record/volume-146/issue-54/house-section/article/H2601-1",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'The Chicago Defender: Filling in the Gaps for The Office of Civilian Defense, 1941-1945'",
+   "url": "https://www.thefreelibrary.com/The+Chicago+Defender%3A+Filling+in+the+Gaps+for+The+Office+of+Civilian...-a055553513",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Master C&J featuring Liz Torres 'Can't Get Enough' review",
+   "url": "https://www.popmatters.com/master_cj_featuring_liz_torres_cant_get_enough-2495674643.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'CaribFest Celebrates Caribbean Culture with Speakers, Music'",
+   "url": "https://dailynorthwestern.com/2002/05/27/archive-manual/caribfest-celebrates-caribbean-culture-with-speakers-music/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'CaribFest Jams On with Jerk Chicken, Island Culture'",
+   "url": "https://dailynorthwestern.com/2003/05/26/archive-manual/caribfest-jams-on-with-jerk-chicken-island-culture/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Caribbean music history newsletter (calypso craze / Blue Angel)",
+   "url": "https://hisam.commons.gc.cuny.edu/wp-content/blogs.dir/28472/files/2023/06/NewsS04.pdf",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Everybody's Going to Be Living in Fear': Chicago's Haitian Community Reacts to TPS Decision",
+   "url": "https://thetriibe.com/2026/06/everybodys-going-to-be-living-in-fear-chicagos-haitian-community-reacts-to-tps-decision/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Doctoral dissertation on Haitians in Chicago (1934–1956 exchanges; DuSable; Magloire visit)",
+   "url": "https://core.ac.uk/download/158322418.pdf",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'The Genealogy of Trap Dancehall'",
+   "url": "https://www.dancehallmag.com/2021/04/23/features/the-genealogy-of-trap-dancehall.html",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Clifton Dillon profile",
+   "url": "https://jamadio.co/clifton-dillon/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Melida Harris Barrow oral-history video summary",
+   "url": "https://www.summarize.tech/www.youtube.com/watch?v=wOfpB1I0yR0",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'MCA Chicago show explores the power of Dancehall and Reggaeton'",
+   "url": "https://onmilwaukee.com/articles/dancing-the-revolution-mca",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Dancing the Revolution: From Dancehall to Reggaetón'",
+   "url": "http://mcachicago.org/stories/editorial/dancing-the-revolution-from-dancehall-to-reggaeton/",
+   "type": "primary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Dancing the Revolution: From Dancehall to Reggaetón' exhibition listing",
+   "url": "https://repeatingislands.com/2026/04/13/exhibition-dancing-the-revolution-from-dancehall-to-reggaeton/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "'Jean Baptiste Pointe DuSable, the Founder of Chicago' (cites Meehan 1963)",
+   "url": "https://www.unsunghistorypodcast.com/videos/jean-baptiste-pointe-dusable-the-founder-of-chicago-unsung-history/",
+   "type": "secondary",
+   "notes": "",
+   "track": "c"
+  },
+  {
+   "citation": "Dance Research Journal article on Katherine Dunham's repertory and the performance of African-diasporic imagination (Bahiana/Batucada).",
+   "url": "https://www.cambridge.org/core/journals/dance-research-journal/article/tidalectic-unmapping-and-the-performance-of-african-diasporic-imagination-in-the-repertory-of-katherine-dunham/FF60EE11FEE0C30B1B0907381314AB3A",
+   "type": "unknown",
+   "notes": "Basis for Bahiana (1939)/Batucada (1940) and the 'not yet visited Brazil' finding.",
+   "track": "d"
+  },
+  {
+   "citation": "Anapuena Chaves, 'Katherine Dunham e a origem da primeira lei brasileira contra o preconceito racial,' Academia Brasileira de História e Literatura.",
+   "url": "https://academiaabhl.org/api/artigo-pdf/katherine-dunham-e-a-origem-da-primeira-lei-brasileira-contra-o-preconceito-racial",
+   "type": "unknown",
+   "notes": "Analyzes the July 1950 Hotel Esplanada episode from periodicals and legislative records.",
+   "track": "d"
+  },
+  {
+   "citation": "Lulu Garcia-Navarro, 'Since Established In The 1950s, Brazilians Say Anti-Racism Laws Aren't Enough,' NPR.",
+   "url": "https://www.kwit.org/2016-12-18/since-established-in-the-1950s-brazilians-say-anti-racism-laws-arent-enough?_amp=true",
+   "type": "unknown",
+   "notes": "Corroborates the 1950 São Paulo episode and the link to the 1951 law.",
+   "track": "d"
+  },
+  {
+   "citation": "'Katherine Dunham and the Origins of Brazil's First Law Against Racial Prejudice,' American Society of History, Arts and Letters.",
+   "url": "https://www.theamericanshal.org/api/artigo-pdf/katherine-dunham-and-the-origins-of-brazil-s-first-law-against-racial-prejudice",
+   "type": "unknown",
+   "notes": "Cites Correio Paulistano, July 11 and 13, 1950. [Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "d"
+  },
+  {
+   "citation": "Lícia do Prado Valladares, 'A visita do Robert Park ao Brasil...,' Caderno CRH.",
+   "url": "https://pdfs.semanticscholar.org/3daa/0de9853e0e60c0daef2bd944f8eea994d1aa.pdf",
+   "type": "unknown",
+   "notes": "Park's 1937 six-week Brazil visit; Pierson's 1935–37 Salvador fieldwork.",
+   "track": "d"
+  },
+  {
+   "citation": "Bérose — Encyclopédie internationale des histoires de l'anthropologie, Donald Pierson entry.",
+   "url": "",
+   "type": "unknown",
+   "notes": "Pierson's UChicago doctorate, Negroes in Brazil (1942), Anisfield Award.",
+   "track": "d"
+  },
+  {
+   "citation": "Livio Sansone, article on Herskovits in Bahia, Vibrant (via SciELO).",
+   "url": "https://www.scielo.br/j/vb/a/7VrXyNz5tH34XM4dZcN3KdC/?format=pdf&lang=en",
+   "type": "unknown",
+   "notes": "1941–42 Rockefeller-funded Bahia fieldwork; Gantois.",
+   "track": "d"
+  },
+  {
+   "citation": "Cahiers des Amériques latines article on the Herskovitses in Bahia (via OpenEdition).",
+   "url": "https://journals.openedition.org/cal/14976?lang=es",
+   "type": "unknown",
+   "notes": "Corroborates the 1941–42 Bahia fieldwork.",
+   "track": "d"
+  },
+  {
+   "citation": "2019 article on the Arthur Ramos–Melville Herskovits relationship, Brasiliana (tidsskrift.dk).",
+   "url": "https://tidsskrift.dk/bras/article/download/114694/165979",
+   "type": "unknown",
+   "notes": "Exchange of works; reciprocal 1941 honorary titles.",
+   "track": "d"
+  },
+  {
+   "citation": "Howard S. Becker interview, Estudos Históricos (2022), via SciELO.",
+   "url": "",
+   "type": "unknown",
+   "notes": "Becker recalls Gilberto Freyre's visit to Chicago. [Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "d"
+  },
+  {
+   "citation": "Nicolás Guillén profile, Academy of American Poets (poets.org).",
+   "url": "https://poets.org/poet/nicolas-guillen",
+   "type": "unknown",
+   "notes": "Cuba Libre (1948) first English translations by Hughes and Carruthers.",
+   "track": "d"
+  },
+  {
+   "citation": "Ned Sublette, 'Diddley's Beat Ba-bomps Into the 21st Century,' WCMU/NPR.",
+   "url": "https://www.wcmu.org/music/2008-06-03/diddleys-beat-ba-bomps-into-the-21st-century",
+   "type": "unknown",
+   "notes": "Clave-synthesis interpretation of the Bo Diddley beat.",
+   "track": "d"
+  },
+  {
+   "citation": "Alabama Record Collectors Association, Birth of Rock & Roll Music Project: Bo Diddley, Checker 814.",
+   "url": "https://alabamarecordcollectors.org/2019/12/birth-of-rock-roll-music-project-1954-1959-no-18-electric-guitar-ellas-otha-bates-a-k-a-ellas-mcdaniel-a-k-a-bo-diddley.html",
+   "type": "unknown",
+   "notes": "March 2, 1955 session at Universal Recording Studio, 46 E. Walton St., Chicago.",
+   "track": "d"
+  },
+  {
+   "citation": "Big Wheel Blues Festival news page on Bo Diddley's 50th anniversary.",
+   "url": "http://www.bigwheelblues.com/2006/News_Bo_Diddley.html",
+   "type": "unknown",
+   "notes": "Corroborates session date, venue, and March 1955 Checker 814 release.",
+   "track": "d"
+  },
+  {
+   "citation": "Audience recording description: Dizzy Gillespie Big Band with Miles Davis & Charlie Parker, Pershing Ballroom, Chicago, Autumn 1948.",
+   "url": "https://www.youtube.com/watch?v=JSnQWFD4SUs",
+   "type": "unknown",
+   "notes": "Single informal source; date marked 'possibly September 26.'",
+   "track": "d"
+  },
+  {
+   "citation": "First-person essay on Celia Cruz, NPR affiliate (WPR).",
+   "url": "https://www.wprl.org/npr-music/2019-09-17/celia-cruz-the-voice-of-experience",
+   "type": "unknown",
+   "notes": "Spring 1995 Aragon Ballroom performance.",
+   "track": "d"
+  },
+  {
+   "citation": "Chicago Symphony Orchestra artist page: Chucho Valdés.",
+   "url": "https://chicagosymphony.org/about/performers/visiting-artists/keyboard/chucho-valdes/",
+   "type": "unknown",
+   "notes": "La Creación commission; Miami premiere November 5, 2021.",
+   "track": "d"
+  },
+  {
+   "citation": "'Chicago Philharmonic And Puerto Rican Arts Alliance Present Music Of Renowned Puerto Rican Composers,' BroadwayWorld Chicago.",
+   "url": "https://www.broadwayworld.com/chicago/article/Chicago-Philharmonic-And-Puerto-Rican-Arts-Alliance-Present-Music-Of-Renowned-Puerto-Rican-Composers-20210622",
+   "type": "unknown",
+   "notes": "San Juan to Chicago: Un Puente Musical.",
+   "track": "d"
+  },
+  {
+   "citation": "32nd Fiesta Boricua (2025), Puerto Rican Cultural Center.",
+   "url": "https://prcc-chgo.org/fiesta-boricua-2025-2/",
+   "type": "unknown",
+   "notes": "'Since 1993'; performer roster incl. Willie Colón, Eddie Palmieri, Andy Montañez, Tego Calderón.",
+   "track": "d"
+  },
+  {
+   "citation": "Chicago Music Guide, Labor Day weekend festivals roundup (Fiesta Boricua 33rd annual).",
+   "url": "https://chicagomusicguide.com/chicago-labor-day-weekend-festivals-beaches-summer-end/",
+   "type": "unknown",
+   "notes": "33rd annual in 2026 — conflicts with 'since 1993' dating.",
+   "track": "d"
+  },
+  {
+   "citation": "PRCC page on Bomba con Buya.",
+   "url": "https://prcc-chgo.org?p=837",
+   "type": "unknown",
+   "notes": "Ensemble mission and island dialogue.",
+   "track": "d"
+  },
+  {
+   "citation": "'Bomba As We Know It: Buya Live,' La Voz del Paseo Boricua.",
+   "url": "https://lavozdelpaseoboricua.org/bomba-as-we-know-it-buya-live/",
+   "type": "unknown",
+   "notes": "Cross-diaspora Chicago collaborations.",
+   "track": "d"
+  },
+  {
+   "citation": "Jazz Institute of Chicago Jazzgram, July 2016.",
+   "url": "https://static1.squarespace.com/static/5f7f6de8d87aba48d39af26d/t/607377071fa31b07e8bb65d9/1618179849458/JIC_Jazzgram_July2016_web-final.pdf",
+   "type": "unknown",
+   "notes": "Cuban music-history programming at SRBCC.",
+   "track": "d"
+  },
+  {
+   "citation": "Jazz Institute of Chicago Jazzgram, July 2018.",
+   "url": "https://static1.squarespace.com/static/5f7f6de8d87aba48d39af26d/t/60734d68316f9960ca9620c5/1618169193015/7_JIC_jazzgram_July2018-web_FINAL2.pdf",
+   "type": "unknown",
+   "notes": "Chuchito Valdés with Chicago Latin Jazz Collaborative.",
+   "track": "d"
+  },
+  {
+   "citation": "MacArthur Foundation grantee profile: Puerto Rican Cultural Center.",
+   "url": "https://www.macfound.org/grantee/puerto-rican-cultural-centervidasida-32475/",
+   "type": "unknown",
+   "notes": "1973 founding.",
+   "track": "d"
+  },
+  {
+   "citation": "University of Illinois IDHH highlights: Juan Antonio Corretjer Puerto Rican Cultural Center.",
+   "url": "https://publish.illinois.edu/idhh-highlights/index.php/tag/juan-antonio-corretjer-puerto-rican-cultural-center/",
+   "type": "unknown",
+   "notes": "Corroborates PRCC history.",
+   "track": "d"
+  },
+  {
+   "citation": "Goodman Theatre artist profile: Segundo Ruiz Belvis Cultural Center.",
+   "url": "https://www.goodmantheatre.org/artists/segundo-ruiz-belvis-cultural-center-srbcc/",
+   "type": "unknown",
+   "notes": "1971 founding; longest-running Latino/Latine cultural center.",
+   "track": "d"
+  },
+  {
+   "citation": "MacArthur Foundation grantee profile: Segundo Ruiz Belvis Cultural Center.",
+   "url": "http://www.macfound.org/grantee/segundo-ruiz-belvis-cultural-center-10093081/",
+   "type": "unknown",
+   "notes": "African-heritage emphasis.",
+   "track": "d"
+  },
+  {
+   "citation": "Illinois House Resolution HR0375 (104th General Assembly) honoring Carlos Hernández Falcón.",
+   "url": "https://lig.ilga.gov/legislation/104/HR/PDF/10400HR0375.pdf",
+   "type": "unknown",
+   "notes": "PRAA founded 1996 in Hernández Falcón's basement.",
+   "track": "d"
+  },
+  {
+   "citation": "ChicagoTalks account of PRAA history.",
+   "url": "",
+   "type": "unknown",
+   "notes": "Gives 1998 founding — contradicts HR0375.",
+   "track": "d"
+  },
+  {
+   "citation": "Marc Vitali, WTTW Chicago virtual tour of the National Museum of Puerto Rican Arts & Culture (via Preservation Chicago).",
+   "url": "https://www.preservationchicago.org/watch-a-virtual-tour-of-the-national-museum-of-puerto-rican-arts-culture-in-the-humboldt-park-stables/",
+   "type": "unknown",
+   "notes": "Museum opened 2014 in the stables; '25 years' of the Paseo flags.",
+   "track": "d"
+  },
+  {
+   "citation": "Clio entry: National Museum of Puerto Rican Arts & Culture.",
+   "url": "https://theclio.com/entry/15367",
+   "type": "unknown",
+   "notes": "Founded 2001 by community members.",
+   "track": "d"
+  },
+  {
+   "citation": "Goodman Theatre artist bio: The Chicago Latino Theater Alliance (CLATA).",
+   "url": "https://www.goodmantheatre.org/artists/the-chicago-latino-theater-alliance-clata/",
+   "type": "unknown",
+   "notes": "Destinos ninth year; US and Latin America productions.",
+   "track": "d"
+  },
+  {
+   "citation": "Illinois Humanities grantee spotlight: Chicago Latino Theater Alliance.",
+   "url": "https://old.ilhumanities.org/app/uploads/2020/08/Illinois-Humanities-Grantee-Spotlight-Chicago-Latino-Theater-Alliance-August2020.pdf",
+   "type": "unknown",
+   "notes": "Founded 2016 via NMMexArt, ILCC, PRAA collaboration.",
+   "track": "d"
+  },
+  {
+   "citation": "Choose Chicago event listing: Chicago Latino Dance Festival at Humboldt (Oct 11, 2026).",
+   "url": "https://www.choosechicago.com/event/chicago-latino-dance-festival-at-humboldt/",
+   "type": "unknown",
+   "notes": "Fourth annual; city's only Pan-Latino dance festival; Afro-Latin programming.",
+   "track": "d"
+  },
+  {
+   "citation": "International Latino Cultural Center event pages (Afrobeat / Chicago Latino Dance Festival).",
+   "url": "https://latinoculturalcenter.org/event_tags/afrobeat",
+   "type": "unknown",
+   "notes": "Corroborates ILCC production of the festival.",
+   "track": "d"
+  },
+  {
+   "citation": "Chicago Sister Cities International, Mexico City Committee 2016 report.",
+   "url": "http://www.chicagosistercities.com/wp-content/uploads/2018/01/Mexico-City-2016.pdf",
+   "type": "unknown",
+   "notes": "25th anniversary marked in 2016 → relationship est. 1991.",
+   "track": "d"
+  },
+  {
+   "citation": "Chicago Sister Cities International, Bogotá Committee 2016 report.",
+   "url": "http://www.chicagosistercities.com/wp-content/uploads/2018/01/Bogota-2016.pdf",
+   "type": "unknown",
+   "notes": "Joint Bogotá/Mexico City screening of 'Gabo'.",
+   "track": "d"
+  },
+  {
+   "citation": "City of Chicago, Mayor Richard M. Daley, Executive Order 1990-90-1.",
+   "url": "https://chicityclerk.s3.us-west-2.amazonaws.com/s3fs-public-1/reports/Executive%20Order%201990-90-1_1.pdf",
+   "type": "primary",
+   "notes": "Created the citywide sister-cities program.",
+   "track": "d"
+  },
+  {
+   "citation": "São Paulo municipal legislature, parecer documents on PL 041/05 (sister-city declaration with Chicago).",
+   "url": "https://www.saopaulo.sp.leg.br/iah/fulltext/parecer/EDUC0874-2005.pdf",
+   "type": "unknown",
+   "notes": "Law 14.112 of December 20, 2005 declared Chicago and São Paulo 'Cidades Irmãs.'",
+   "track": "d"
+  },
+  {
+   "citation": "Newberry Library blog: 'Forming Chicago's First Rainbow Coalition.'",
+   "url": "https://www.newberry.org/blog/forming-chicagos-first-rainbow-coalition",
+   "type": "unknown",
+   "notes": "1969 coalition: IL Black Panther Party, Young Lords, Young Patriots.",
+   "track": "d"
+  },
+  {
+   "citation": "UIC Great Cities Institute, Puerto Rico Town Databook (v14).",
+   "url": "https://static1.squarespace.com/static/5ada4708cc8fed32bd40cda6/t/6477c3dceb44f962e12f1f73/1685570533901/Puerto+Rico+Town+Databook+v14.pdf",
+   "type": "unknown",
+   "notes": "Humboldt Park settlement since the 1960s; displacement from lakefront neighborhoods; flags January 1995.",
+   "track": "d"
+  },
+  {
+   "citation": "CENTRO Journal article on Paseo Boricua (DePaul-hosted PDF).",
+   "url": "https://condor.depaul.edu/dmakagon/student/community/Flores-Gonzalez_Paseo.pdf",
+   "type": "unknown",
+   "notes": "Division Street as community center by early 1960s; institutions listed.",
+   "track": "d"
+  },
+  {
+   "citation": "Zócalo Public Square, 'How Chicago's Division Street Rebellion Brought Latinos Together.'",
+   "url": "https://www.zocalopublicsquare.org/how-chicago-division-street-rebellion-brought-latinos-together/",
+   "type": "unknown",
+   "notes": "June 12–14, 1966 uprising after police shot Arcelis Cruz.",
+   "track": "d"
+  },
+  {
+   "citation": "El Nuevo Día (via La Voz del Paseo Boricua), 'The uprisings that led to Chicago's Puerto Rican Day Parade.'",
+   "url": "https://lavozdelpaseoboricua.org/wp-content/uploads/2023/06/The-uprisings-that-led-to-Chicagos-Puerto-Rican-Day-Parade-El-Nuevo-Dia.pdf",
+   "type": "unknown",
+   "notes": "First parade June 11, 1966; uprising June 12–14.",
+   "track": "d"
+  },
+  {
+   "citation": "Unsung History podcast, Division Street uprising episode page.",
+   "url": "https://www.unsunghistorypodcast.com/division-street-uprising/",
+   "type": "unknown",
+   "notes": "Weak lead only: cites ~32,000 Puerto Ricans in Chicago by 1960; requires verification.",
+   "track": "d"
+  },
+  {
+   "citation": "Clio entry: Langston Hughes Boyhood Home.",
+   "url": "https://theclio.com/entry/166027",
+   "type": "unknown",
+   "notes": "Weekly Chicago Defender column, 1942–1962.",
+   "track": "d"
+  },
+  {
+   "citation": "NAACP (Berkshires), Langston Hughes biography.",
+   "url": "https://www.naacpberkshires.org/desegregating-american-history/langston-hughes/",
+   "type": "unknown",
+   "notes": "Defender column begun 1942, ran twenty years.",
+   "track": "d"
+  },
+  {
+   "citation": "LibraryThing record: 'Langston Hughes and the Chicago Defender: Essays on Race, Politics, and Culture, 1942–62' (University of Illinois Press, 1995).",
+   "url": "https://www.librarything.com/work/7851582/t/Langston-Hughes-and-the-%2AChicago-Defender%2A-Essays-on-Race-Politics-and-Culture-1942-62",
+   "type": "unknown",
+   "notes": "Corroborates the 1942–62 column run.",
+   "track": "d"
+  },
+  {
+   "citation": "Black Music Research Journal / BMIT article on Samuel A. Floyd and the CBMR.",
+   "url": "https://journals.publishing.umich.edu/bmit/article/7500/galley/4872/download/",
+   "type": "unknown",
+   "notes": "CBMR founded 1983 at Columbia College Chicago; Black music worldwide mission.",
+   "track": "d"
+  },
+  {
+   "citation": "Journal of Blacks in Higher Education, 'Center for Black Music Research May Be on the Chopping Block.'",
+   "url": "https://jbhe.com/2012/05/center-for-black-music-research-may-be-on-the-chopping-block/",
+   "type": "unknown",
+   "notes": "Corroborates CBMR history and mission.",
+   "track": "d"
+  },
+  {
+   "citation": "The TRiiBE, 'African Festival of the Arts leans on community...' (2026).",
+   "url": "https://thetriibe.com/2026/07/african-festival-of-the-arts-leans-on-community-as-fears-of-immigration-enforcement-reshape-chicagos-festival-season/",
+   "type": "unknown",
+   "notes": "Organizer states intent to bring South American performers to the Washington Park festival — avenue for future verification, not a documented exchange.",
+   "track": "d"
+  },
+  {
+   "citation": "BYG Records, 'Message to Our Folks' release page (bygrecords.bandcamp.com)",
+   "url": "",
+   "type": "primary",
+   "notes": "Label's own page; undated. States Studio Saravah, Paris, August 1969 recording and the ensemble's Paris relocation.",
+   "track": "e"
+  },
+  {
+   "citation": "Organissimo forum, 'Art Ensemble Live in Paris – is it actually Paris?' (organissimo.org)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Fan discographic discussion citing France Musique; undated. Documents the Châteauvallon 13 August 1970 correction.",
+   "track": "e"
+  },
+  {
+   "citation": "Soundohm, Sun Ra Arkestra artist page (soundohm.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Retailer copy; undated. Repeats label liner-note history including the 1971 BYG/Actuel releases.",
+   "track": "e"
+  },
+  {
+   "citation": "Strut Records, 'Egypt 1971' liner notes (sunrastrut.bandcamp.com), released 2020-11-13",
+   "url": "",
+   "type": "secondary",
+   "notes": "Label-produced liner notes (K7 Music, Berlin/London). Documents first non-US concerts (France, Germany, UK, late summer/autumn 1970) and the late-1971 second tour.",
+   "track": "e"
+  },
+  {
+   "citation": "HHV Records, Sun Ra Arkestra catalog page (hhv.de)",
+   "url": "",
+   "type": "secondary",
+   "notes": "German retailer; undated. Corroborates the 1970/1971 European tour history.",
+   "track": "e"
+  },
+  {
+   "citation": "Memphis Slim liner notes, Internet Archive (archive.org)",
+   "url": "",
+   "type": "primary",
+   "notes": "Album liner notes; undated. Documents the 1962 permanent move to Paris and death in Paris 24 February 1988.",
+   "track": "e"
+  },
+  {
+   "citation": "BD Music, 'Memphis Slim' (bdmusic.fr)",
+   "url": "",
+   "type": "secondary",
+   "notes": "French label; undated. Corroborates the Paris base and European career.",
+   "track": "e"
+  },
+  {
+   "citation": "Encyclopedia of Arkansas, 'Broonzy, Big Bill' (encyclopediaofarkansas.net), updated 2026-09-25",
+   "url": "",
+   "type": "secondary",
+   "notes": "State encyclopedia. Documents the 1951, 1955, and 1957 European tours and the 1955 autobiography with Yannick Bruynoghe.",
+   "track": "e"
+  },
+  {
+   "citation": "Nottingham Music Archive, 'Big Bill Broonzy live at a private party, Nottingham 1955' (nottsmusicarchive.com)",
+   "url": "",
+   "type": "primary",
+   "notes": "Local archive; undated. Documents 1955 Nottingham performance and the recorded 1957 Dancing Slipper gig.",
+   "track": "e"
+  },
+  {
+   "citation": "Blues Chronicles, 'Big Bill Broonzy: The Fearless Life That Sparked New Blues' (blueschronicles.com), 2026-08",
+   "url": "",
+   "type": "secondary",
+   "notes": "Music blog. Names Hugues Panassié's 1951 invitation and venues; single source for those details.",
+   "track": "e"
+  },
+  {
+   "citation": "NTS, 'Big Bill Broonzy' artist page (nts.live)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. Source for the Pim van Isveldt relationship and Amsterdam-based child.",
+   "track": "e"
+  },
+  {
+   "citation": "uDiscover Music (udiscovermusic.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. Single source for the 1958 Muddy Waters UK tour with Chris Barber; needs corroboration.",
+   "track": "e"
+  },
+  {
+   "citation": "Louder, 'First American Folk Blues Festival 1962 story' (loudersound.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. Documents Lippmann/Rau founding, the 1962 routing (Paris Olympia 20 Oct, Manchester Free Trade Hall 21 Oct), and Dixon's role.",
+   "track": "e"
+  },
+  {
+   "citation": "Bear Family, American Folk Blues Festival documentation (bear-family.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "German reissue label; undated. Corroborates 1962 founding and annual touring format.",
+   "track": "e"
+  },
+  {
+   "citation": "University of Mississippi eGrove exhibits (egrove.olemiss.edu)",
+   "url": "",
+   "type": "primary",
+   "notes": "University archive; undated. Holds digitized programs, tickets, and posters; identifies Chicago-linked participants.",
+   "track": "e"
+  },
+  {
+   "citation": "Discogs release pages (discogs.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "User-submitted discographic data; undated. Used for London Howlin' Wolf Sessions, Blues Jam at Chess session, and Roy Davis Jr. releases. Always flagged Provisional.",
+   "track": "e"
+  },
+  {
+   "citation": "Facility Fun, 'When The Rolling Stones Ruled The Roost' (facilityfun.com), 2024-09-02",
+   "url": "",
+   "type": "secondary",
+   "notes": "Music-history blog. Documents 'Little Red Rooster' authorship, 13 Nov 1964 UK release, December 1964 No. 1, and Regent Sound recording.",
+   "track": "e"
+  },
+  {
+   "citation": "Men's Journal, '62 Years Ago Today' (mensjournal.com), 2026-09-02",
+   "url": "",
+   "type": "secondary",
+   "notes": "Cites uDiscover Music. Corroborates the September 1964 recording and December 1964 UK No. 1.",
+   "track": "e"
+  },
+  {
+   "citation": "Elsewhere, 'The Rolling Stones: Empty Heart (1964)' (elsewhere.co.nz)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. Quotes Wyman and Watts on the 10–11 June 1964 Chess Studios session.",
+   "track": "e"
+  },
+  {
+   "citation": "MixesDB, '1992 – Frankie Knuckles @ Ministry Of Sound, London' (mixesdb.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Fan DJ-set catalog; undated. Tracklist-complete entry for the 1992 set.",
+   "track": "e"
+  },
+  {
+   "citation": "KTTZ / public radio, 'Where Love Lives: Frankie Knuckles And The Dance Floor' (radio.kttz.org), 2014-04-02",
+   "url": "",
+   "type": "secondary",
+   "notes": "Public-radio documentary. Reports 'The Whistle Song' UK No. 17, the Virgin signing, and the final Ministry of Sound gig via manager Judy Weinstein.",
+   "track": "e"
+  },
+  {
+   "citation": "Jahsonic, 'Trax records 1983–1989' (jahsonic.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated discography. Lists TX117 Marshall Jefferson 'Move Your Body/House Music Nat'l Anthem'.",
+   "track": "e"
+  },
+  {
+   "citation": "HipHopElectronic, 'Move Your Body by Marshall Jefferson' (hiphopelectronic.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Enthusiast site; c. 2023. Single source for UK No. 7 and the five-club anthem claim.",
+   "track": "e"
+  },
+  {
+   "citation": "Plain and Simple, 'Haçienda 30' listing (plainandsimple.tv), 2012-11-05",
+   "url": "",
+   "type": "secondary",
+   "notes": "Event listing. Names Marshall Jefferson on the 15 December 2012 KOKO bill.",
+   "track": "e"
+  },
+  {
+   "citation": "MusicVF (musicvf.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Chart-data aggregator; undated. Documents 'Love Can't Turn Around' UK No. 10 (1986) and 'French Kiss' UK No. 2 (1989).",
+   "track": "e"
+  },
+  {
+   "citation": "YouTube, 'The Late 80s: Chicago, New York, and UK House Music Grows Up' (youtube.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated video essay. Independently describes 'Love Can't Turn Around' as an early UK-charting house record at No. 10.",
+   "track": "e"
+  },
+  {
+   "citation": "True House Stories, 'Steve Silk Hurley' (truehousestories.com)",
+   "url": "",
+   "type": "primary",
+   "notes": "Artist interview/profile; undated. States 'Jack Your Body' was UK No. 1 for two weeks from 18 January 1987.",
+   "track": "e"
+  },
+  {
+   "citation": "YouTube, 'House Sound of Chicago DJ International 1986' (youtube.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Fan upload; c. 2021. Discographic note on the 1986 DJ International release, UK availability via London Records, and tracklist.",
+   "track": "e"
+  },
+  {
+   "citation": "MusicGateway, 'Pete Tong' profile (musicgateway.com)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Commercial biography; undated. Credits Tong/London Records with the 1986 compilation; conflicts with DJ International origin evidence.",
+   "track": "e"
+  },
+  {
+   "citation": "Wikipedia, 'The Haçienda' (en.wikipedia.org)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. Documents the 1986 house-music shift and Nude night; corroborated by the Decoded memoir review, not used alone.",
+   "track": "e"
+  },
+  {
+   "citation": "Decoded Magazine, 'Book of the Month: Manchester must dance' (decodedmagazine.com), 2026",
+   "url": "",
+   "type": "secondary",
+   "notes": "Review of Mike Pickering's memoir (Manchester University Press, April 2026). Corroborates Nude's role in importing Chicago house records.",
+   "track": "e"
+  },
+  {
+   "citation": "Tanzgemeinschaft, 'DJ Rush Shares His Thoughts On His Love for Techno' (tanzgemeinschaft.com)",
+   "url": "",
+   "type": "primary",
+   "notes": "Artist interview; undated. Rush describes the Chicago-to-Berlin move, living in Berlin, and European festival tents.",
+   "track": "e"
+  },
+  {
+   "citation": "Wikipedia, 'DJ Rush' (en.wikipedia.org)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. Sole source for the 1996 Berlin move date, Kne'Deep, 1998 breakthrough, and 2001 Groove poll; flagged Provisional.",
+   "track": "e"
+  },
+  {
+   "citation": "Notion, 'Honey Dijon: I Am a Proponent of Joy' (notion.online), 2022",
+   "url": "",
+   "type": "primary",
+   "notes": "Artist interview. Documents Chicago upbringing, Derrick Carter mentorship, and Berlin clubs (Berghain, Panorama Bar).",
+   "track": "e"
+  },
+  {
+   "citation": "Interview Magazine, 'Kim Jones and Honey Dijon' (interviewmagazine.com), 2020",
+   "url": "",
+   "type": "secondary",
+   "notes": "States Dijon splits her time between New York and Berlin.",
+   "track": "e"
+  },
+  {
+   "citation": "Planet Mu release pages (planetmu.bandcamp.com)",
+   "url": "",
+   "type": "primary",
+   "notes": "Label's own pages; undated. Document Bangs & Works Vol. 1 (6 Dec 2010) roster and the Vol. 2-enabled UK/European tour.",
+   "track": "e"
+  },
+  {
+   "citation": "Electronic Beats, 'Planet Mu 25th Anniversary: Mike Paradinas Conversation' (electronicbeats.net)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated. RP Boo credits Planet Mu with helping him reach new audiences.",
+   "track": "e"
+  },
+  {
+   "citation": "NME, '30 Years: Full Story of Ride on Time' (nme.com), 2019",
+   "url": "",
+   "type": "secondary",
+   "notes": "Established music press. Documents Black Box's unlicensed sampling of Loleatta Holloway's 'Love Sensation' and her lawsuit.",
+   "track": "e"
+  },
+  {
+   "citation": "Tommie Shelby, 'Richard Wright: Realizing the Promise of the West' (tommieshelby.com), 2021",
+   "url": "",
+   "type": "secondary",
+   "notes": "Scholarly chapter citing the University of Chicago Press biography. Documents the 1947 permanent move to France.",
+   "track": "e"
+  },
+  {
+   "citation": "'A Richard Wright Chronology' (maps-legacy.org)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Enthusiast chronology; undated. Documents the May 1946 visit, 1947 expatriation, and 28 November 1960 death in Paris.",
+   "track": "e"
+  },
+  {
+   "citation": "Nasher Museum of Art, 'Archibald Motley: Jazz Age Modernist' (nasher.duke.edu)",
+   "url": "",
+   "type": "secondary",
+   "notes": "University museum; undated. Documents the 1929 Guggenheim Fellowship and Paris stay.",
+   "track": "e"
+  },
+  {
+   "citation": "Whitney Museum publication (whitney.org)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Museum publication; undated. Corroborates Motley's Paris period and the painting of Blues.",
+   "track": "e"
+  },
+  {
+   "citation": "Harvard DASH repository document (dash.harvard.edu)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated scholarly document. Documents Dunham's 1938 Chicago start and 1948 first European tour.",
+   "track": "e"
+  },
+  {
+   "citation": "Humanists UK, 'A Raisin in the Sun' (heritage.humanists.uk)",
+   "url": "",
+   "type": "secondary",
+   "notes": "UK heritage site; undated. Documents Hansberry's Chicago birth and the 20 July 1959 Bristol European premiere.",
+   "track": "e"
+  },
+  {
+   "citation": "Nonsite, 'Theaster Gates: Social Formations' (nonsite.org)",
+   "url": "",
+   "type": "secondary",
+   "notes": "Undated essay. Documents 12 Ballads for Huguenot House at dOCUMENTA 13 and the 6901 South Dorchester materials.",
+   "track": "e"
+  },
+  {
+   "citation": "Wallpaper, 'At Home with Theaster Gates' interview (wallpaper.com)",
+   "url": "",
+   "type": "primary",
+   "notes": "Artist interview; undated. Corroborates the Kassel dOCUMENTA 13 project in Gates's own words.",
+   "track": "e"
+  },
+  {
+   "citation": "Illinois House Resolution 93-HR0406 (Chicago Defender centennial)",
+   "url": "https://ilga.gov/documents/legislation/93/HR/PDF/09300HR0406.pdf",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Congressional Record, Centennial of the Chicago Defender (H2948)",
+   "url": "https://www.congress.gov/congressional-record/volume-151/issue-57/house-section/article/H2948-4",
+   "type": "unknown",
+   "notes": "[Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "f"
+  },
+  {
+   "citation": "Congressional Record, 95th Anniversary of the Chicago Daily Defender (H2600)",
+   "url": "https://www.congress.gov/congressional-record/volume-146/issue-54/house-section/article/H2600-1",
+   "type": "unknown",
+   "notes": "[Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "f"
+  },
+  {
+   "citation": "Congressional Record, Tribute to John Sengstacke (H3248)",
+   "url": "https://www.congress.gov/congressional-record/volume-143/issue-74/house-section/article/H3248-2",
+   "type": "unknown",
+   "notes": "[Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "f"
+  },
+  {
+   "citation": "Congressional Record, Emmett Till / Jet tribute (H8133)",
+   "url": "https://www.congress.gov/congressional-record/volume-151/issue-118/house-section/article/H8133-2",
+   "type": "unknown",
+   "notes": "[Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "f"
+  },
+  {
+   "citation": "Congressional Record, Thomas Dorsey tribute (E1274)",
+   "url": "https://www.congress.gov/congressional-record/volume-159/issue-118/extensions-of-remarks-section/article/E1274-2",
+   "type": "unknown",
+   "notes": "[Type unconfirmed at merge; heuristic suggested primary.]",
+   "track": "f"
+  },
+  {
+   "citation": "Smithsonian Magazine, 'Five Things to Know About Pullman Porters'",
+   "url": "https://www.smithsonianmag.com/smart-news/five-things-know-about-pullman-porters-180959663/",
+   "type": "secondary",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Stanford King Institute, 'To Claude Barnett'",
+   "url": "http://kinginstitute.stanford.edu/king-papers/documents/claude-barnett",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Library of Congress, 'One Tenth of a Nation – The Press' (1953 newsreel inventory)",
+   "url": "https://www.loc.gov/item/mbrs01841243/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "LOC newsreel summary (YouTube)",
+   "url": "https://www.youtube.com/watch?v=vU_d8QfwPsU",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "African Activist Archive, All-African People's Conference 1958 record",
+   "url": "https://africanactivist.msu.edu/record/210-849-30086/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Gerald Horne, 'The Rise and Fall of the Associated Negro Press' (Univ. of Illinois Press, 2017) — publisher synopsis",
+   "url": "https://www.abebooks.com/9780252082733/Rise-Fall-Associated-Negro-Press-0252082737/plp",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "NNPA, 'Alice Allison Dunnigan: The pioneering White House correspondent'",
+   "url": "https://nnpa.org/alice-allison-dunnigan-the-pioneering-white-house-correspondent/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "University of Kentucky, 'UK Celebrates Civil Rights, Journalism Pioneer Alice Allison Dunnigan'",
+   "url": "https://uknow.uky.edu/campus-news/uk-celebrates-civil-rights-journalism-pioneer-alice-allison-dunnigan",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "JSTOR Daily, 'Occasion Reveals: Muhammad Speaks'",
+   "url": "http://daily.jstor.org/occ-reveal-digital-muhammad-speaks/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Utah state history, 'The Broad Ax'",
+   "url": "https://historytogo.utah.gov/post/broad-ax/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Salt Lake history, 'The Broad Ax' (citing Michael S. Sweeney)",
+   "url": "http://www.slchistory.org/2020/07/the-broad-ax.html",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Swann Galleries, Chicago issue of The Broad Ax (Dec 30, 1905)",
+   "url": "https://www.swanngalleries.com/auction-lot/periodicals-issue-of-the-broad-ax-a-controversial_74F4273910",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "EBSCO Research Starter, 'Noble Drew Ali'",
+   "url": "https://www.ebsco.com/research-starters/history/noble-drew-ali",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "CSU master's thesis on the Moorish Science Temple",
+   "url": "https://scholarworks.calstate.edu/concern/theses/k643b529j",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Encyclopedia.com, 'Elijah Muhammad' biography",
+   "url": "https://www.encyclopedia.com/people/philosophy-and-religion/islam-biographies/elijah-muhammad",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "AJIS peer-reviewed article on the Nation of Islam (1985)",
+   "url": "https://www.ajis.org/index.php/ajiss/article/download/2918/2618",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Smithsonian, Form letter: National Baptist Convention, Chicago (1943)",
+   "url": "https://www.si.edu/object/form-letter-national-baptist-convention-chicago%3Anmaahc_2017.14.9",
+   "type": "primary",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Preservation Chicago, 'Olivet Baptist Church'",
+   "url": "https://www.preservationchicago.org/olivet-baptist-church/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "NMAAHC, Thomas Dorsey object record",
+   "url": "https://nmaahc.si.edu/object/nmaahc_2015.134.1a-g",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Colored Conventions Project, NACW 1899 convention minutes (Omeka 558)",
+   "url": "https://www.omeka.coloredconventions.org/items/show/558",
+   "type": "primary",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Chicago Public Library, Quinn Chapel A.M.E. Church archives",
+   "url": "https://www.chipublib.org/fa-quinn-chapel-a-m-e-church-archives/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Federal Register, Emmett Till national monument designation (2023)",
+   "url": "https://www.federalregister.gov/documents/full_text/html/2023/07/28/2023-16211.html",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "U.S. Senate (Duckworth), Emmett Till National Monument / Roberts Temple",
+   "url": "http://www.duckworth.senate.gov/news/in-the-news/emmett-till-national-monument-will-include-chicago-church-that-hosted-teens-funeral",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Illinois Prince Hall Masonic journal (2017 special issue)",
+   "url": "https://storage.googleapis.com/production-ipower-v1-0-9/499/1028499/TPgDVf7C/8723651ec4a342b49442818d09ac3bd8?fileName=27_2017Special85.pdf",
+   "type": "primary",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "ASALH, Carter G. Woodson timeline",
+   "url": "https://asalh.org/carter-g-woodson-timeline/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "PFA Foundation, 'Origins of Black History Month' (Wabash YMCA)",
+   "url": "http://www.pfafoundation.org/origins-of-black-history-month-2/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "British Newspaper Archive, 'Ida B. Wells Speaking Tour to Britain 1893–1894'",
+   "url": "https://blog.britishnewspaperarchive.co.uk/2021/03/24/ida-b-wells-speaking-tour-to-britain-1893-1894/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "National Press Club, Ethel Payne coverage",
+   "url": "https://www.press.org/newsroom/book-rap-highlights-triumph-black-female-journalists-over-discrimination",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Encyclopedia of Chicago, 'Garveyism'",
+   "url": "http://www.encyclopedia.chicagohistory.org/pages/502.html",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Cross-Cultural Solidarity, 'Garveyism in the Midwest' (working paper)",
+   "url": "https://crossculturalsolidarity.com/wp-content/uploads/2021/04/Garveyism-the-Midwest.pdf",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Tennessee Encyclopedia, 'Church of God in Christ (COGIC)'",
+   "url": "https://tennesseeencyclopedia.net/entries/church-of-god-in-christ-cogic/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "PNBC, 64th Annual Session member program update (2025)",
+   "url": "https://pnbc.org/wp-content/uploads/2025/07/Member-Program-Update.pdf",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Religion News Service, 'Progressive National Baptists pan big ugly bill' (2025)",
+   "url": "https://religionnews.com/2025/07/24/progressive-national-baptists-pan-big-ugly-bill-strategize-to-help-communities/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Chicago History Museum, 'Provident Hospital'",
+   "url": "https://www.chicagohistory.org/provident-hospital/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Northwestern Galter Library, 'Who was Austin Curtis, MD'",
+   "url": "https://www.galter.northwestern.edu/news/who-was-austin-curtis-md",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "HABS IL-1204, Quinn Chapel A.M.E. Church (via Library of Congress)",
+   "url": "https://jenikirbyhistory.getarchive.net/amp/media/quinn-chapel-ame-church-2401-south-wabash-avenue-chicago-cook-county-il-7",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Preservation Chicago, 'Quinn Chapel AME Church: History & Preservation' (2023)",
+   "url": "https://www.preservationchicago.org/glessner-house-presents-quinn-chapel-ame-church-history-preservation-february-26-2023/",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "NPS, African American Civil Rights Movement in Ohio MPS (IBPOEW history)",
+   "url": "https://npgallery.nps.gov/GetAsset/efb4185d-b1d7-44bf-851b-a690c3f933bd",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "University of Arkansas, 'Women's History Month: Ida B. Wells'",
+   "url": "https://news.uark.edu/articles/59367/women-s-history-month-ida-b-wells",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "USC Scalar, 'Biography of Ida B. Wells' (Willard and Wells project)",
+   "url": "https://scalar.usc.edu/works/willard-and-wells/biography-of-ida-b-wells",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  },
+  {
+   "citation": "Tennessee State Museum, 'First of Many: Ida B. Wells Part III'",
+   "url": "https://tnmuseum.org/junior-curators/posts/first-of-many-ida-b-wells-part-iii",
+   "type": "unknown",
+   "notes": "",
+   "track": "f"
+  }
+ ]
+}

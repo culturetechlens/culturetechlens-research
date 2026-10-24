@@ -1,0 +1,461 @@
+{
+  "brief_id": "CTL-RB-TECH-000001",
+  "counts": {
+    "VERIFIED": 16,
+    "SUPPORTED": 16,
+    "PROVISIONAL": 4,
+    "DISPUTED": 3,
+    "UNRESOLVED": 5
+  },
+  "evidence_blocks_reference": "Sections 08 (E1-E14) of brief.md",
+  "generated": "2026-09-28",
+  "grade_definitions": {
+    "DISPUTED": "Evidence conflicts materially; conflicting versions are recorded, not resolved.",
+    "PROVISIONAL": "Single weak source, or a detail (e.g. model name, exact figure) that cannot be corroborated; usable only with visible flag.",
+    "SUPPORTED": "Credible single source or consistent secondary accounts; corroboration incomplete.",
+    "UNRESOLVED": "No evidence found; recorded as a gap, not filled.",
+    "VERIFIED": "Multiple corroborating sources, or a direct practitioner quote / institutional record."
+  },
+  "source_ids_reference": "sources.md",
+  "title": "Claim Ledger — The Technology Behind Chicago House",
+  "version": "v0.1",
+  "claims": [
+    {
+      "claim": "Roland Corporation (founder Ikutaro Kakehashi; engineers Tadao Kikumoto, Makoto Muroi, Hiro Nakamura, Hisanori Matsuoka) invented the TR-808, TB-303, and TR-909 for other purposes; Chicago's Black producers and DJs culturally transformed them — they did not invent them.",
+      "evidence_block": "E1-E4, E14",
+      "grade": "VERIFIED",
+      "id": "C-001",
+      "notes": "Load-bearing thesis; exact formulation required by brief standards.",
+      "sources": [
+        "S-03",
+        "S-05",
+        "S-08",
+        "S-32",
+        "S-33"
+      ]
+    },
+    {
+      "claim": "The Roland TR-808 Rhythm Composer (1980-1983) was fully analog, one of the first programmable drum machines (step sequencing, accents, DIN sync); list price US$1,195; fewer than 12,000 units sold; a commercial failure against the sample-based Linn LM-1.",
+      "evidence_block": "E1",
+      "grade": "VERIFIED",
+      "id": "C-002",
+      "sources": [
+        "S-03",
+        "S-02",
+        "S-31"
+      ]
+    },
+    {
+      "claim": "The TR-808 design team was led by chief engineer Tadao Kikumoto; Makoto Muroi was a chief engineer; Hiro Nakamura designed the voice circuits; Hisanori Matsuoka developed the software and hardware.",
+      "evidence_block": "E1",
+      "grade": "VERIFIED",
+      "id": "C-003",
+      "sources": [
+        "S-03"
+      ]
+    },
+    {
+      "claim": "The Roland TB-303 Bass Line (1981-1984) was designed by Tadao Kikumoto, marketed as a 'computerised bass machine' to replace the bass guitar; it was monophonic analog subtractive with a 24 dB/octave resonant low-pass filter and built-in step sequencer; it failed commercially and was discontinued after a small production run.",
+      "evidence_block": "E2",
+      "grade": "VERIFIED",
+      "id": "C-004",
+      "sources": [
+        "S-05",
+        "S-07",
+        "S-39"
+      ]
+    },
+    {
+      "claim": "The Roland TR-909 Rhythm Composer (1983) was designed by Tadao Kikumoto; it combined analog drum voices (kick, snare, toms, clap) with digitally sampled cymbals and hi-hats, and was Roland's first MIDI-equipped drum machine; it was a commercial failure (~10,000 units, production ended after about a year) as buyers preferred fully sample-based machines.",
+      "evidence_block": "E3",
+      "grade": "VERIFIED",
+      "id": "C-005",
+      "sources": [
+        "S-08",
+        "S-09"
+      ]
+    },
+    {
+      "claim": "The Technics SL-1200 direct-drive turntable was released in October 1972 by Matsushita Electric under the Technics brand, developed in 1971 by a team led by engineer Shuichi Obata; high-torque direct drive enabled slip-cueing and backward cueing impossible on belt drives; more than 3 million units were sold; an SL-1210MK2 is displayed at the London Science Museum as a world-changing technology.",
+      "evidence_block": "E4",
+      "grade": "VERIFIED",
+      "id": "C-006",
+      "sources": [
+        "S-10",
+        "S-01"
+      ]
+    },
+    {
+      "claim": "Phuture created 'Acid Tracks' in 1985 around a secondhand Roland TB-303; Ron Hardy club-tested it from cassette at the Music Box in 1985; it was officially pressed on Trax Records in 1987. First-created 1985; first-club-tested 1985; first-pressed 1987.",
+      "evidence_block": "E5",
+      "grade": "VERIFIED",
+      "id": "C-007",
+      "notes": "Chronology corroborated across MusicRadar, Roland articles, and Wikipedia. Real-time filter-knob manipulation while patterns ran is the documented technique.",
+      "sources": [
+        "S-06",
+        "S-07",
+        "S-27"
+      ]
+    },
+    {
+      "claim": "'On & On' (Jesse Saunders, written/produced with Vince Lawrence) was recorded in 1983 on a Tascam 4-track using a Roland TR-808, Korg Poly-61, and Roland TB-303, and released on Jes Say Records in early 1984; it is defensible only as the first house track committed to vinyl.",
+      "evidence_block": "E6",
+      "grade": "VERIFIED",
+      "id": "C-008",
+      "notes": "Qualified 'first' per CTL-DR-MUSIC-001 standing rule.",
+      "sources": [
+        "S-14",
+        "S-15"
+      ]
+    },
+    {
+      "claim": "Before producing original tracks, Frankie Knuckles cut and spliced disco and pop records on a quarter-inch Pioneer reel-to-reel machine (late 1970s/early 1980s); he described reassembling tape fragments 'no more than half a second of sound' with millisecond-level rhythmic precision, citing his edit of Michael Jackson's 'Thriller'.",
+      "evidence_block": "E7",
+      "grade": "VERIFIED",
+      "id": "C-009",
+      "notes": "Direct practitioner quotes from the 2012 MusicRadar interview.",
+      "sources": [
+        "S-12"
+      ]
+    },
+    {
+      "claim": "In the mid-1980s at the Power Plant, Frankie Knuckles wired the Roland TR-909 he obtained from Derrick May directly into his DJ mixer and ran it underneath every record that night: 'every record I played that night had a 909 running underneath it'.",
+      "evidence_block": "E8",
+      "grade": "VERIFIED",
+      "id": "C-010",
+      "notes": "Direct quotes from Knuckles (2012 MusicRadar interview).",
+      "sources": [
+        "S-12",
+        "S-13"
+      ]
+    },
+    {
+      "claim": "Larry Heard identified a Roland Jupiter-6 as the instrument for the 'Can You Feel It' bassline and chords: 'it's not like a stock sound... it was more a case of experimenting and turning the knobs when everything was running'.",
+      "evidence_block": "E10",
+      "grade": "VERIFIED",
+      "id": "C-011",
+      "notes": "Direct practitioner quote, Deep House Amsterdam interview.",
+      "sources": [
+        "S-18"
+      ]
+    },
+    {
+      "claim": "Larry Sherman, a vintage-jukebox collector, bought the Musical Products pressing plant in Chicago's Bridgeport neighborhood in 1983 and began pressing records; Trax Records was launched from that plant base in 1984-85 and released 'No Way Back' (1986), 'Can You Feel It' (1986), 'Your Love' (1988), 'Move Your Body' (1986), and 'Acid Tracks' (1987); in 1991 Trax declared bankruptcy when distributors owing it $4.5 million went out of business.",
+      "evidence_block": "E11",
+      "grade": "VERIFIED",
+      "id": "C-012",
+      "sources": [
+        "S-21"
+      ]
+    },
+    {
+      "claim": "The Hot Mix 5 (Farley Keith, Mickey Oliver, Ralphi Rosario, Kenny Jason, Scott Silz) were assembled by WBMX program director Lee Michaels in 1981 for 'Saturday Night Live, Ain't No Jive' on 102.7 FM; the show reached #1 in Chicago radio ratings with over 2 million listeners.",
+      "evidence_block": "E12",
+      "grade": "VERIFIED",
+      "id": "C-013",
+      "sources": [
+        "S-23",
+        "S-24"
+      ]
+    },
+    {
+      "claim": "Ikutaro Kakehashi founded the Roland Corporation in Osaka in 1972 and won a Technical Grammy for MIDI development in 2013.",
+      "evidence_block": "E14",
+      "grade": "VERIFIED",
+      "id": "C-014",
+      "sources": [
+        "S-33",
+        "S-34"
+      ]
+    },
+    {
+      "claim": "Marshall Jefferson recorded piano and bass parts for 'Move Your Body' slowly and sped the tape up to final tempo (speed manipulation as a production technique).",
+      "evidence_block": "E9",
+      "grade": "VERIFIED",
+      "id": "C-015",
+      "notes": "Technique is corroborated; exact tempo figures are PROVISIONAL (C-034).",
+      "sources": [
+        "S-29",
+        "S-20"
+      ]
+    },
+    {
+      "claim": "DJ Pierre bought his TB-303 secondhand for about $40: 'somebody took it to a secondhand store, and they put a $40 price tag on it'.",
+      "evidence_block": "E5",
+      "grade": "VERIFIED",
+      "id": "C-016",
+      "notes": "The quote is VERIFIED; the price as a market fact is SUPPORTED (single-source quote).",
+      "sources": [
+        "S-06"
+      ]
+    },
+    {
+      "claim": "Jesse Saunders used the Roland TR-808 on 'On & On' 'simply because it was the only drum machine [he] had access to'.",
+      "evidence_block": "E6",
+      "grade": "SUPPORTED",
+      "id": "C-017",
+      "sources": [
+        "S-15"
+      ]
+    },
+    {
+      "claim": "By the mid-1980s, used TR-808s could sell for around US$100 as the failed machines flooded the secondhand market.",
+      "evidence_block": "E1",
+      "grade": "SUPPORTED",
+      "id": "C-018",
+      "sources": [
+        "S-02",
+        "S-31"
+      ]
+    },
+    {
+      "claim": "TR-808 production ended in 1983 in part because faulty transistors essential to its noise circuit could no longer be restocked after semiconductor improvements; Roland had deliberately bought faulty transistors for their sizzle.",
+      "evidence_block": "E1",
+      "grade": "SUPPORTED",
+      "id": "C-019",
+      "notes": "Engineering-history account (EEJournal), consistent with Wikipedia; single detailed source.",
+      "sources": [
+        "S-04"
+      ]
+    },
+    {
+      "claim": "Marshall Jefferson, then doing A&R at Trax, agreed to mix 'Acid Tracks' and had Phuture slow it from ~130 BPM to ~120 BPM before the 1987 pressing.",
+      "evidence_block": "E5",
+      "grade": "SUPPORTED",
+      "id": "C-020",
+      "sources": [
+        "S-27"
+      ]
+    },
+    {
+      "claim": "Ron Hardy first played Phuture's 'Acid Tracks' cassette at the Music Box in 1985; the floor emptied on first play and the track won the crowd over after repeated plays the same night; it was then bootlegged on microcassette and sometimes misattributed to Hardy himself.",
+      "evidence_block": "E5",
+      "grade": "SUPPORTED",
+      "id": "C-021",
+      "notes": "Roland's article is the detailed source; promotional interest noted.",
+      "sources": [
+        "S-07"
+      ]
+    },
+    {
+      "claim": "Ron Hardy's early DJ setup (Den One, 1974) centered on two turntables, a mixer, and a reel-to-reel tape deck.",
+      "evidence_block": "E7",
+      "grade": "SUPPORTED",
+      "id": "C-022",
+      "sources": [
+        "S-25"
+      ]
+    },
+    {
+      "claim": "Jose 'Louie' Gomez recorded the original vocal-dub of Jamie Principle's 'Your Love' to reel-to-reel tape; Frankie Knuckles played that tape for a year before re-recording it for vinyl release in 1987.",
+      "evidence_block": "E7",
+      "grade": "SUPPORTED",
+      "id": "C-023",
+      "sources": [
+        "S-27"
+      ]
+    },
+    {
+      "claim": "DJ Eddie Fowlkes (2005 Pitchfork interview) said Derrick May sold his TR-909 to Frankie Knuckles in Chicago because he couldn't pay his rent: 'Derrick went and gave away the fucking sound!'",
+      "evidence_block": "E8",
+      "grade": "SUPPORTED",
+      "id": "C-024",
+      "notes": "Secondhand quote; the sale-vs-gift framing is DISPUTED (C-D2).",
+      "sources": [
+        "S-13"
+      ]
+    },
+    {
+      "claim": "In 1985 Marshall Jefferson bought a sequencer plus a keyboard, drum machine, and mixer for around $9,000 on credit from his post-office job, and wrote his first song two days later; that rig was used to make 'Move Your Body'.",
+      "evidence_block": "E9",
+      "grade": "SUPPORTED",
+      "id": "C-025",
+      "notes": "Model name 'Yamaha 284' is PROVISIONAL (C-033); the credit-financed purchase is consistently reported.",
+      "sources": [
+        "S-40"
+      ]
+    },
+    {
+      "claim": "In a 2023 IMS masterclass breakdown, Marshall Jefferson specified the 'Move Your Body' equipment as Roland JX-8P (bass), Roland TR-707 (drums), and Sequential Prophet 2000 (the distinctive piano sound).",
+      "evidence_block": "E9",
+      "grade": "SUPPORTED",
+      "id": "C-026",
+      "notes": "Secondhand report of Jefferson's own masterclass (Magnetic Magazine); reconciles partially with C-025 (C-D3).",
+      "sources": [
+        "S-19"
+      ]
+    },
+    {
+      "claim": "The day Larry Heard bought his first drum machine and synthesizers in 1984, he wrote and recorded prototype versions of 'Mystery of Love' and 'Can You Feel It'; he cut three acetates of 'Mystery of Love' — one for Frankie Knuckles, one for Ron Hardy, one for himself; in 1985 he launched his own label and sold early pressings from the trunk of his car.",
+      "evidence_block": "E10",
+      "grade": "SUPPORTED",
+      "id": "C-027",
+      "notes": "Direct practitioner account via the Electronic Beats interview.",
+      "sources": [
+        "S-17"
+      ]
+    },
+    {
+      "claim": "In the mid-1980s, Chicago producers including Marshall Jefferson, Larry Heard, Adonis, DJ Pierre, and Chip E debuted compositions by pressing acetates or reel-to-reel copies for Ron Hardy to play at the Music Box — the club-test circuit.",
+      "evidence_block": "E13",
+      "grade": "SUPPORTED",
+      "id": "C-028",
+      "sources": [
+        "S-26"
+      ]
+    },
+    {
+      "claim": "Trax Records was criticized for poor-quality vinyl pressings and missed royalty payments (Guardian 2011 reporting).",
+      "evidence_block": "E11",
+      "grade": "SUPPORTED",
+      "id": "C-029",
+      "notes": "Reported via obituary coverage; artists' accounts consistent.",
+      "sources": [
+        "S-22"
+      ]
+    },
+    {
+      "claim": "DJ Pierre owned a Roland Juno-106, which he prized for bass: 'it has so much bass... you can hear that thing on some of my records'.",
+      "evidence_block": "E5",
+      "grade": "SUPPORTED",
+      "id": "C-030",
+      "sources": [
+        "S-36"
+      ]
+    },
+    {
+      "claim": "The Technics SL-1200MK2 (1979) was the first turntable explicitly designed for disco use; Technics engineers observed club environments in Chicago and New York; its linear pitch slider replaced rotary controls.",
+      "evidence_block": "E4",
+      "grade": "SUPPORTED",
+      "id": "C-031",
+      "notes": "Single music-press source (Decoded Magazine) for the Chicago-observation detail.",
+      "sources": [
+        "S-11"
+      ]
+    },
+    {
+      "claim": "'On & On' was pressed at the Chicago pressing operation run by Larry Sherman (per Bidder 2001).",
+      "evidence_block": "E6",
+      "grade": "SUPPORTED",
+      "id": "C-032",
+      "sources": [
+        "S-16"
+      ]
+    },
+    {
+      "claim": "The sequencer Marshall Jefferson bought in 1985 was a 'Yamaha 284'.",
+      "evidence_block": "E9",
+      "grade": "PROVISIONAL",
+      "id": "C-033",
+      "notes": "Appears only in Wikipedia-derived sources; does not correspond to a well-known Yamaha product. Flagged — do not repeat without flag.",
+      "sources": [
+        "S-40"
+      ]
+    },
+    {
+      "claim": "Jefferson recorded 'Move Your Body' piano parts at 40 BPM and sped the recording to 122 BPM.",
+      "evidence_block": "E9",
+      "grade": "PROVISIONAL",
+      "id": "C-034",
+      "notes": "Exact figures from a single secondary source (hiphopelectronic); the speed-manipulation technique itself is VERIFIED (C-015).",
+      "sources": [
+        "S-20"
+      ]
+    },
+    {
+      "claim": "Exact upload date and transcript-verified content of the two cataloged YouTube videos beyond title/channel/description metadata.",
+      "evidence_block": "17",
+      "grade": "PROVISIONAL",
+      "id": "C-035",
+      "notes": "oEmbed-verified existence, title, and channel; embed re-check required at publication.",
+      "sources": [
+        "S-42",
+        "S-43"
+      ]
+    },
+    {
+      "claim": "Whether the TB-303's 'squelch' was discovered by Phuture entirely by accident or through deliberate experimentation from the first session.",
+      "evidence_block": "E5",
+      "grade": "PROVISIONAL",
+      "id": "C-036",
+      "notes": "Accounts agree on serendipitous first encounter ('crazy sounds') followed by deliberate manipulation; the brief treats the practice as skilled experimentation.",
+      "sources": [
+        "S-06"
+      ]
+    },
+    {
+      "claim": "Total TB-303 production: ~10,000 units (MusicRadar; Cambridge UP article citing Raval 2020) vs ~20,000 units (fan archive).",
+      "evidence_block": "E2",
+      "grade": "DISPUTED",
+      "id": "C-D1",
+      "notes": "VERIFIED on 'small run, commercial failure, discontinued 1984'; UNRESOLVED on exact figure. Use a range, never one number.",
+      "sources": [
+        "S-35",
+        "S-37",
+        "S-38"
+      ]
+    },
+    {
+      "claim": "The May-to-Knuckles TR-909 transfer: Eddie Fowlkes frames it as a distress sale ('couldn't pay his rent and sold his 909'); Knuckles' own account frames it as a gift ('This is a Roland 909... it's going to take us to the future').",
+      "evidence_block": "E8",
+      "grade": "DISPUTED",
+      "id": "C-D2",
+      "notes": "Transfer itself is VERIFIED; transaction terms are DISPUTED. Both framings are recorded.",
+      "sources": [
+        "S-12",
+        "S-13"
+      ]
+    },
+    {
+      "claim": "The 'Move Your Body' equipment list: 1985 accounts describe a 'Yamaha 284' sequencer + keyboard + drum machine + mixer rig (PROVISIONAL model name), while Jefferson's 2023 masterclass specifies JX-8P / TR-707 / Prophet 2000.",
+      "evidence_block": "E9",
+      "grade": "DISPUTED",
+      "id": "C-D3",
+      "notes": "Reconcilable if the 1985 rig description and the 2023 session breakdown cover different sessions or describe the same rig in different terms; not resolved from current sources.",
+      "sources": [
+        "S-40",
+        "S-19"
+      ]
+    },
+    {
+      "claim": "Specific mixer models installed in the Warehouse, Power Plant, and Music Box DJ booths.",
+      "evidence_block": "15",
+      "grade": "UNRESOLVED",
+      "id": "C-U1",
+      "notes": "No source found documents them. Do not infer from photographs without provenance.",
+      "sources": []
+    },
+    {
+      "claim": "Complete equipment inventories for any single 1983-87 Chicago house session beyond the track-level attributions in Section 15.",
+      "evidence_block": "15",
+      "grade": "UNRESOLVED",
+      "id": "C-U2",
+      "notes": "Largest structural gap in the brief.",
+      "sources": []
+    },
+    {
+      "claim": "Detailed economics of Black-owned studios in 1980s Chicago: who owned multitrack setups, what studio time cost, how costs were shared.",
+      "evidence_block": "22",
+      "grade": "UNRESOLVED",
+      "id": "C-U3",
+      "notes": "Scoped for CTL-DR-TECH-001.",
+      "sources": []
+    },
+    {
+      "claim": "Women operators and workers in the 1980s Chicago gear economy (engineers, studio assistants, pressing-plant workers, label staff).",
+      "evidence_block": "20",
+      "grade": "UNRESOLVED",
+      "id": "C-U4",
+      "notes": "Source gap, not evidence of absence. Flagged for targeted oral-history research.",
+      "sources": []
+    },
+    {
+      "claim": "Exact dates of: 'On & On' first club play at the Playground; 'Acid Tracks' first Music Box play; the Power Plant 909 night.",
+      "evidence_block": "20",
+      "grade": "UNRESOLVED",
+      "id": "C-U5",
+      "notes": "Month/year-level precision only.",
+      "sources": []
+    }
+  ]
+}

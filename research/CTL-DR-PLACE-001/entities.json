@@ -1,0 +1,4637 @@
+[
+  {
+    "id": "PLACE-001",
+    "name": "63rd Street (Chicago)",
+    "type": "street/corridor",
+    "addresses": [
+      "6300 South, Chicago, IL — from Lake Michigan westward through Woodlawn, Englewood, West Englewood, Chicago Lawn",
+      "South Side of Chicago, IL (east-west, ~Lake Michigan to the west city line)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "pre-1861",
+        "status": "township farmland",
+        "note": "Land within Hyde Park Township and Lake Township survey grids; Dutch/German/Swedish farmers.",
+        "from": "w1"
+      },
+      {
+        "period": "1861-1889",
+        "status": "township road",
+        "note": "Interior road of Hyde Park Township and Lake Township; no platting date found.",
+        "from": "w1"
+      },
+      {
+        "period": "1889-1950s",
+        "status": "commercial corridor",
+        "note": "Streetcar and elevated lines drive commercial strips; peak retail era.",
+        "from": "w1"
+      },
+      {
+        "period": "1950s-2000s",
+        "status": "declining corridor",
+        "note": "White flight, Black succession, disinvestment, partial demolition of L.",
+        "from": "w1"
+      },
+      {
+        "period": "2010s-present",
+        "status": "contested redevelopment",
+        "note": "Obama Presidential Center, Woodlawn Central, Englewood Square; transit-restoration advocacy.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": "Central research entity: major east-west corridor through Woodlawn, Englewood, West Englewood, and Chicago Lawn. Site of the Black entertainment 'stroll' (mid-century Woodlawn), the 63rd/Halsted shopping district, CTA elevated and bus service, and successive waves of disinvestment and redevelopment.",
+    "claims": [
+      {
+        "claim": "63rd Street is numbered 6300 South in Chicago's grid, about 7 miles south of Madison Street.",
+        "evidence": "Grid reference tabulation lists '63rd Street 6300S (7 Miles)'.",
+        "source": "mrstreit.com Chicago grid system PDF",
+        "source_type": "secondary",
+        "published": "2023",
+        "status": "Provisional",
+        "uncertainty": "Hobbyist grid reference; arithmetically consistent with 800-per-mile numbering.",
+        "from": "w1"
+      },
+      {
+        "claim": "No specific date for when 63rd Street was laid out or platted was found in consulted sources.",
+        "evidence": "Multiple targeted searches (township road history, section-line surveys) returned no platting date.",
+        "source": "Negative finding of this worker",
+        "source_type": "secondary",
+        "published": "2026-09-28",
+        "status": "Unresolved",
+        "uncertainty": "Likely traceable via Cook County subdivision plats or township road records; not yet consulted.",
+        "from": "w1"
+      },
+      {
+        "claim": "Between 1920 and 1930, 63rd Street formed the southern boundary of Chicago's Black Belt residential blocks (LaSalle west, 31st north, lake east).",
+        "evidence": "CULtivate report reproduces UIC Geography maps of Chicago racial composition 1920 and 1930 based on U.S. Census data.",
+        "source": "Chicago Urban League, CULtivate Part 1 (2019)",
+        "source_type": "secondary",
+        "published": "2019",
+        "status": "Verified",
+        "uncertainty": "Map resolution is block-level; corridor-specific reading is interpretive.",
+        "from": "w1"
+      },
+      {
+        "claim": "Central research entity: major east-west corridor through Woodlawn, Englewood, West Englewood, and Chicago Lawn. Site of the Black entertainment 'stroll' (mid-century Woodlawn), the 63rd/Halsted shopping district, CTA elevated and bus service, and successive waves of disinvestment and redevelopment.",
+        "source": "findings.md Part A and B (multiple)",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Unresolved, Verified",
+    "merged_from": [
+      "w1",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-002",
+    "name": "Hyde Park Township",
+    "type": "historical municipality",
+    "addresses": [
+      "South Side, Chicago — Pershing Rd (39th) to 138th St, State St to Lake Michigan/Indiana"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1861-1889",
+        "status": "independent township",
+        "note": "Organized 1861; annexed to Chicago 1889.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Hyde Park Township was organized in 1861 and annexed to Chicago in 1889.",
+        "evidence": "Wikipedia entries 'Hyde Park Township, Illinois' and 'Hyde Park, Chicago' corroborate 1861 organization and 1889 annexation.",
+        "source": "Wikipedia (Hyde Park Township, Illinois)",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "Exact effective date of 1889 annexation not pinned down.",
+        "from": "w1",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single Wikipedia citation (\"Wikipedia (Hyde Park Township, Illinois)\") for township organization/annexation dates. Source cited: Wikipedia (Hyde Park Township, Illinois)",
+          "Cross-project audit remediation 2026-09-28: flagged weak_source_only (source: Wikipedia (Hyde Park Township, Illinois)). Already downgraded to Provisional via regrade list; queued for re-sourcing before any public use."
+        ],
+        "weak_source_only": true
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-003",
+    "name": "Lake Township (Town of Lake)",
+    "type": "historical municipality",
+    "addresses": [
+      "Southwest Chicago — Pershing Rd (3900 S) to 87th St, State St to Crawford Ave (4000 W)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1860s-1889",
+        "status": "independent township",
+        "note": "42 sq mi; Union Stock Yards anchor; hub became Englewood; annexed 1889.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Lake Township was a 42-square-mile township annexed to Chicago in 1889 under the April 25, 1889 annexation act.",
+        "evidence": "Illinois Supreme Court, Chicago v. City of Chicago, 143 Ill. 641 (1892): 'the town of Lake, under and by virtue of the provisions of the annexation act approved and in force April 25, 1889... was annexed to and became a part of the city of Chicago.'",
+        "source": "Illinois Supreme Court via vLex (primary legal record)",
+        "source_type": "primary",
+        "published": "1892",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-004",
+    "name": "63rd Street streetcar (CTA/Chicago Surface Lines Route 63)",
+    "type": "transit line",
+    "addresses": [
+      "63rd Pl & Narragansett (west) to 64th & Stony Island (east)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1888-1893",
+        "status": "horse car",
+        "note": "Chicago City Railway; Cottage Grove-Dorchester (1888), Halsted-Ashland (1889).",
+        "from": "w1"
+      },
+      {
+        "period": "1893-1953",
+        "status": "electric streetcar",
+        "note": "Staged electrification 1893-1899; Chicago Surface Lines era.",
+        "from": "w1"
+      },
+      {
+        "period": "1953",
+        "status": "abandoned",
+        "note": "Replaced by buses May 24, 1953.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Horse-car service on 63rd began 1888 (Cottage Grove to Dorchester) and 1889 (Halsted to Ashland); electrified in stages 1893-1899; abandoned May 24, 1953.",
+        "evidence": "chicagorailfan.com route history table (1888-1911 entries); Chicago Surface Lines abandonment table lists '63rd Street ... Abandoned May 24, 1953'.",
+        "source": "chicagorailfan.com; Wikipedia 'Chicago Surface Lines'",
+        "source_type": "secondary",
+        "published": "undated; 2026",
+        "status": "Provisional",
+        "uncertainty": "chicagorailfan is a detailed hobbyist source; dates uncorroborated by a second source.",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-005",
+    "name": "Jackson Park branch (now East 63rd branch, CTA Green Line)",
+    "type": "transit line",
+    "addresses": [
+      "Built directly over 63rd Street east of ~61st; terminals: 61st, Cottage Grove, University, Dorchester, Jackson Park (Stony Island)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1893",
+        "status": "built",
+        "note": "Opened in stages Jan-May 1893 for the World's Columbian Exposition.",
+        "from": "w1"
+      },
+      {
+        "period": "1894-1982",
+        "status": "operating branch",
+        "note": "Post-fair terminal at Stony Island (renamed Jackson Park).",
+        "from": "w1"
+      },
+      {
+        "period": "1982-1996",
+        "status": "truncated",
+        "note": "Cut to University 1982; closed for Green Line rebuild 1994-96.",
+        "from": "w1"
+      },
+      {
+        "period": "1996-1997",
+        "status": "terminal at Cottage Grove",
+        "note": "Structure east of Cottage Grove demolished Sept 27, 1997.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "The Jackson Park branch's final leg was built directly over 63rd Street (unlike the 'alley L' further north).",
+        "evidence": "'Unlike the alley L further north, the final leg of the line was built directly over 63rd Street.'",
+        "source": "chicagohistorytoday.wordpress.com (2015)",
+        "source_type": "secondary",
+        "published": "2015-12-30",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single WordPress blog (chicagohistorytoday.wordpress.com, 2015) for L-construction detail; uncertainty field empty. Source cited: chicagohistorytoday.wordpress.com (2015)"
+        ]
+      },
+      {
+        "claim": "61st St opened Jan 22, 1893; Madison Ave (Dorchester) and Lexington Ave (University) opened Apr 23, 1893; Jackson Park fair terminal opened May 12, 1893 and closed Oct 31, 1893.",
+        "evidence": "East 63rd branch history table; 'Run Trains to Madison Avenue', Chicago Daily Tribune, April 23, 1893.",
+        "source": "Wikipedia 'East 63rd branch'; Chicago Daily Tribune (primary, 1893)",
+        "source_type": "primary",
+        "published": "1893 (Tribune)",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      },
+      {
+        "claim": "Structural defects in the bridge over the Illinois Central forced closure south of 61st St on March 4, 1982; service resumed Dec 12, 1982 only to University.",
+        "evidence": "East 63rd branch and Green Line histories agree on dates.",
+        "source": "Wikipedia 'East 63rd branch'; Wikipedia 'Green Line (CTA)'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'East 63rd branch'; Wikipedia 'Green Line (CTA)'); queued for re-sourcing before any public use."
+        ]
+      },
+      {
+        "claim": "The L structure east of Cottage Grove was demolished on September 27, 1997, with less than 24 hours' public notice, after community leaders (notably Rev. Arthur Brazier) opposed keeping it.",
+        "evidence": "East 63rd branch article gives demolition date and notice detail; Chicago Tribune, April 27, 1994 (via chicago-l.org) documents Brazier-led opposition to the structure as blight.",
+        "source": "Wikipedia 'East 63rd branch'; Chicago Tribune via chicago-l.org (primary press, 1994)",
+        "source_type": "primary",
+        "published": "1994 (Tribune); 2026 (article)",
+        "status": "Verified",
+        "uncertainty": "Exact demolition logistics rest on the Wikipedia account; Tribune article confirms the community-blight rationale.",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-006",
+    "name": "Dorchester station (CTA Green Line)",
+    "type": "transit station",
+    "addresses": [
+      "1400 East 63rd Street, Woodlawn, Chicago",
+      "1400 E 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1893-1973",
+        "status": "operating",
+        "note": "Opened Apr 23, 1893; closed Jan 13, 1973 (budget cuts); demolished 1997.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": "demolished (1997)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened April 23, 1893 as 'Madison Avenue'; closed January 13, 1973 as part of budget-related CTA station closings; structure demolished 1997.",
+        "evidence": "Station infobox; 'CTA Gives Riders Taste of Cutback', Chicago Tribune, Jan 13, 1973.",
+        "source": "Wikipedia 'Dorchester station'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'Dorchester station'); queued for re-sourcing before any public use."
+        ]
+      },
+      {
+        "claim": "Opened April 23, 1893; closed January 13, 1973 (Chicago Tribune coverage); planned 1994 replacement terminal never completed; demolished September 1997.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Dorchester_station",
+        "source_type": "tertiary",
+        "published": "1973-01-13",
+        "status": "Provisional",
+        "uncertainty": "CTA/chicago-l.org corroboration not obtained",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w1",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-007",
+    "name": "University station (CTA Green Line)",
+    "type": "transit station",
+    "addresses": [
+      "1200 East 63rd Street, Woodlawn, Chicago",
+      "1200 E 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1893-1994",
+        "status": "operating",
+        "note": "Opened Apr 23, 1893; Jackson Park branch terminal Dec 1982-Jan 1994; closed with Green Line rebuild; demolished Sept 1997.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": "demolished (1997)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened April 23, 1893; served as Jackson Park branch terminal from Dec 12, 1982 to Jan 9, 1994; closed with the Green Line rebuild and demolished September 1997.",
+        "evidence": "Station infobox with cited CTA dates.",
+        "source": "Wikipedia 'University station (CTA)'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'University station (CTA)'); queued for re-sourcing before any public use."
+        ]
+      },
+      {
+        "claim": "Opened April 23, 1893 as Lexington Ave; renamed University 1913; terminal from December 12, 1982; closed January 9, 1994; demolished September 1997.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/University_station_(CTA)",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "CTA/chicago-l.org corroboration not obtained",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w1",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-008",
+    "name": "Englewood branch (now Ashland branch, CTA Green Line)",
+    "type": "transit line",
+    "addresses": [
+      "Roughly along 63rd Street corridor; stations at State, Wentworth, Princeton, Harvard, Parnell, Halsted, Racine, Loomis, Ashland/63rd"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1905-1907",
+        "status": "built in stages",
+        "note": "State Nov 1905 to Loomis Jul 1907.",
+        "from": "w1"
+      },
+      {
+        "period": "1969",
+        "status": "extended",
+        "note": "Ashland/63rd terminal opened May 6, 1969; Loomis demolished.",
+        "from": "w1"
+      },
+      {
+        "period": "1996-present",
+        "status": "Ashland branch",
+        "note": "Renamed on Green Line reopening May 12, 1996.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened in stages: State Nov 3, 1905; Wentworth Dec 10, 1905; Princeton Jan 11, 1906; Harvard Nov 3, 1906; Parnell Dec 24, 1906; Racine (orig. Center St.) Feb 25, 1907; Loomis Jul 13, 1907.",
+        "evidence": "Ashland branch station table.",
+        "source": "Wikipedia 'Ashland branch'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "Halsted station opening date not listed — unresolved.",
+        "contradiction": "A nostalgia video claims the L 'reached Halsted on Christmas Eve of 1906' — likely conflates Parnell (opened Dec 24, 1906).",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'Ashland branch'); queued for re-sourcing before any public use."
+        ]
+      },
+      {
+        "claim": "Ashland/63rd terminal opened May 6, 1969, replacing the 1907-built Loomis terminal; Englewood branch renamed Ashland branch May 12, 1996.",
+        "evidence": "Ashland branch and Green Line histories.",
+        "source": "Wikipedia 'Ashland branch'; Wikipedia 'Green Line (CTA)'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'Ashland branch'; Wikipedia 'Green Line (CTA)'); queued for re-sourcing before any public use."
+        ]
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-009",
+    "name": "61st / Lower 63rd rail yards",
+    "type": "transit infrastructure",
+    "addresses": [
+      "317 East 63rd Street, Chicago (bounded by Calumet Ave, 61st, 63rd)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1893-present",
+        "status": "rail yard",
+        "note": "61st Yard 1893 (steam); Lower 63rd Yard 1905; now maintenance-of-way depot.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "The 61st Yard opened in 1893 for South Side Elevated steam trains; the Lower 63rd Yard opened 1905 as an expansion after electrification.",
+        "evidence": "Yard history article; Trolley Dodger reprint of chicago-l.org/Graham Garfield research.",
+        "source": "Wikipedia 'Upper 61st and Lower 63rd Yards'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'Upper 61st and Lower 63rd Yards'); queued for re-sourcing before any public use."
+        ]
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-010",
+    "name": "Englewood commercial district (63rd & Halsted)",
+    "type": "commercial district",
+    "addresses": [
+      "63rd & Halsted, Englewood, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1900s-1920s",
+        "status": "rising",
+        "note": "Streetcar + L (1905-07) anchor a major outlying shopping district.",
+        "from": "w1"
+      },
+      {
+        "period": "1920s-1960s",
+        "status": "peak",
+        "note": "Reputedly second-busiest district outside downtown; Sears, Wieboldt's, theaters.",
+        "from": "w1"
+      },
+      {
+        "period": "1964",
+        "status": "pedestrian mall",
+        "note": "City converts district to pedestrian mall; fails.",
+        "from": "w1"
+      },
+      {
+        "period": "1970s-2000s",
+        "status": "decline",
+        "note": "Anchors close; ~100 mostly immigrant-owned shops remain by 2000s.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "The 63rd & Halsted district was once Chicago's second-busiest shopping district outside downtown (often dated to the 1920s-1934 era).",
+        "evidence": "LISC Englewood Quality of Life Plan (2005): 'Centered around 63rd and Halsted was the second busiest shopping district in Chicago'; repeated by bestchicagoneighborhoods.com, Prayercast/Moody Publishers guide, and nostalgia media.",
+        "source": "LISC Englewood Quality of Life Plan (2005)",
+        "source_type": "secondary",
+        "published": "2005",
+        "status": "Provisional",
+        "uncertainty": "No primary source for the underlying metric (sales? foot traffic?) was located; era attribution varies (1920s vs 1934); the claim's origin is untraced.",
+        "from": "w1"
+      },
+      {
+        "claim": "Sears built a major Englewood store: sources report a $1.5M store in 1929 vs. a seven-story, windowless, fully air-conditioned store opened in 1934.",
+        "evidence": "bestchicagoneighborhoods.com (1929, $1.5M); 'Englewood in the 1970s' YouTube documentary (1934, air conditioning).",
+        "source": "bestchicagoneighborhoods.com; YouTube",
+        "source_type": "secondary",
+        "published": "undated; ~2026",
+        "status": "Disputed",
+        "uncertainty": "Both claims are uncorroborated by primary sources; 1929 vs 1934 cannot be resolved from consulted sources.",
+        "contradiction": "1929 date conflicts with 1934 date.",
+        "from": "w1"
+      },
+      {
+        "claim": "In 1964 the city turned the 63rd & Halsted district into a pedestrian mall (bypass roads, parking lots, sidewalk canopies) to compete with suburban centers; it failed, and Wieboldt's, Sears and other retailers left one by one.",
+        "evidence": "LISC Englewood Quality of Life Plan (2005).",
+        "source": "LISC Englewood Quality of Life Plan (2005)",
+        "source_type": "secondary",
+        "published": "2005",
+        "status": "Provisional",
+        "uncertainty": "Single-source narrative; the mall's reopening-to-traffic date is unresolved.",
+        "from": "w1"
+      },
+      {
+        "claim": "Anchors included the 3,200-seat Southtown Theatre (Moorish architecture, live swans in the lobby), six other movie houses, and a bowling alley.",
+        "evidence": "LISC Englewood Quality of Life Plan (2005).",
+        "source": "LISC Englewood Quality of Life Plan (2005)",
+        "source_type": "secondary",
+        "published": "2005",
+        "status": "Provisional",
+        "uncertainty": "Southtown Theatre opening year and address not verified in consulted sources.",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Mixed: Disputed, Provisional",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-011",
+    "name": "Woodlawn 63rd Street commercial strip",
+    "type": "commercial district",
+    "addresses": [
+      "East 63rd Street, Woodlawn, Chicago (esp. Cottage Grove to Stony Island)",
+      "63rd St & Cottage Grove Ave, Woodlawn, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1893-1920s",
+        "status": "boom",
+        "note": "Post-fair building boom; 'exploded into a bustling commercial district' early 1900s.",
+        "from": "w1"
+      },
+      {
+        "period": "1960s",
+        "status": "jazz-era peak",
+        "note": "63rd at Cottage Grove celebrated for jazz clubs.",
+        "from": "w1"
+      },
+      {
+        "period": "1968-1980s",
+        "status": "collapse",
+        "note": "White business flight after MLK assassination; arsons; vacancies.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": "Commercial district whose activity 'was rivaled only by State Street in Chicago's Loop' before WWII (per 2000 Chronicle). C. 1955-58 storefronts included clothing, shoe, hat, furrier shops, taverns, drugstores, lunch counter, taxi stand, cigar shop (photographic evidence). Later deteriorated with vacancy and fire.",
+    "claims": [
+      {
+        "claim": "In the early 1900s Woodlawn's 63rd Street became a bustling commercial district of retail, restaurants, and jazz clubs; it was once 'one of the busiest streets on the South Side.'",
+        "evidence": "Visit Woodlawn brochure (envisionitmedia); UChicago Harris School Woodlawn neighborhood profile.",
+        "source": "Visit Woodlawn brochure; harris.uchicago.edu Woodlawn PDF",
+        "source_type": "secondary",
+        "published": "2022; undated",
+        "status": "Provisional",
+        "uncertainty": "Promotional sources; no primary retail data cited.",
+        "from": "w1"
+      },
+      {
+        "claim": "White-owned businesses fled Woodlawn after the 1968 assassination of Martin Luther King Jr.; 1970s arsons by property owners left scores of empty lots.",
+        "evidence": "Reprint of Chicago business-press article on Woodlawn.",
+        "source": "thefreelibrary.com (article reprint)",
+        "source_type": "secondary",
+        "published": "~2015",
+        "status": "Provisional",
+        "uncertainty": "Single reprint source; original publication not identified.",
+        "from": "w1"
+      },
+      {
+        "claim": "Daley's Restaurant near 63rd & Cottage Grove opened to feed World's Fair workers and remained family-owned for over 100 years.",
+        "evidence": "Visit Woodlawn brochure.",
+        "source": "chicago.envisionitmedia.com Woodlawn brochure",
+        "source_type": "secondary",
+        "published": "2022",
+        "status": "Provisional",
+        "uncertainty": "Promotional claim; 1893 opening date uncorroborated.",
+        "from": "w1"
+      },
+      {
+        "claim": "Commercial district whose activity 'was rivaled only by State Street in Chicago's Loop' before WWII (per 2000 Chronicle). C. 1955-58 storefronts included clothing, shoe, hat, furrier shops, taverns, drugstores, lunch counter, taxi stand, cigar shop (photographic evidence). Later deteriorated with vacancy and fire.",
+        "source": "http://chronicle.uchicago.edu/001102/cohousing.shtml; http://chicagopatterns.com/63rd-street-heydays-remnants-risk-woodlawn-development-takes-off/",
+        "status": "Provisional",
+        "from": "w4",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Evidence field is literally \"None\" - graded Verified with no evidence recorded. Source cited: http://chronicle.uchicago.edu/001102/cohousing.shtml; http://chicagopatterns.com/63rd-street-heydays-remnants-risk-woodlawn-development-takes-off/"
+        ]
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w1",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-012",
+    "name": "Washington Park National Bank Building",
+    "type": "landmark building",
+    "addresses": [
+      "63rd & Cottage Grove, Woodlawn, Chicago",
+      "6300 S. Cottage Grove Ave, Chicago (SW corner 63rd & Cottage Grove)",
+      "6300 S Cottage Grove Ave, Chicago, IL 60637"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "2017-present",
+        "status": "redevelopment anchor",
+        "note": "Acquired by Cook County Land Bank Authority (2017) for equitable transit-oriented redevelopment.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": "standing (vacant, threatened as of 2019-2020; 2026 status unresolved)",
+    "significance": "Bank building (designed by Albert Schwartz, built 1924; bank closed June 8, 1931). Later owned by Rev. Leon Finney Jr.; housed The Woodlawn Organization. Long vacant; Cook County Land Bank took control (2016/2018 — date ambiguous), cleared ~$3.7M in back taxes. 2023 City Council approval: six-story, 72,000-sq-ft mixed-use redevelopment preserving two facades (offices, retail, coworking, food hall), $5M Community Development Grant; rezoned B3-3 to B3-5. Preservation Chicago 'Chicago 7' (2016, 2020); Landmarks Illinois Most Endangered (2019). Construction status as of 2026-09-28 unresolved.",
+    "claims": [
+      {
+        "claim": "The 63rd & Cottage Grove intersection is a historic gateway to Woodlawn; the vacant Washington Park National Bank Building was acquired by the Cook County Land Bank Authority in 2017 for community-engaged redevelopment.",
+        "evidence": "Metropolitan Planning Council article (Kendra Freeman, July 26, 2018).",
+        "source": "archive.metroplanning.org",
+        "source_type": "secondary",
+        "published": "2018-07-26",
+        "status": "Verified",
+        "uncertainty": "Corroboration by a second source not performed.",
+        "from": "w1"
+      },
+      {
+        "claim": "Bank building (designed by Albert Schwartz, built 1924; bank closed June 8, 1931). Later owned by Rev. Leon Finney Jr.; housed The Woodlawn Organization. Long vacant; Cook County Land Bank took control (2016/2018 — date ambiguous), cleared ~$3.7M in back taxes. 2023 City Council approval: six-story, 72,000-sq-ft mixed-use redevelopment preserving two facades (offices, retail, coworking, food hall), $5M Community Development Grant; rezoned B3-3 to B3-5. Preservation Chicago 'Chicago 7' (2016, 2020); Landmarks Illinois Most Endangered (2019). Construction status as of 2026-09-28 unresolved.",
+        "source": "https://www.preservationchicago.org/washington-park-substation-gaitan-building/washington-park-national-bank-2020-chicago-7-write-up-final/; https://chicago.urbanize.city/post/washington-park-national-bank-redevelopment-approved-city-council",
+        "status": "Verified",
+        "from": "w4"
+      },
+      {
+        "claim": "Building completed in 1924; designed by architect Albert A. Schwartz in Neoclassical style, four stories.",
+        "evidence": "Wikipedia article (citing Chicago Tribune 1922-1924); Preservation Chicago 2020 Chicago 7 write-up",
+        "source": "https://en.wikipedia.org/wiki/Washington_Park_National_Bank_Building",
+        "source_type": "tertiary/secondary",
+        "published": "2020 (Preservation Chicago write-up)",
+        "status": "Provisional",
+        "uncertainty": "Building permit not located; architect attribution single-sourced",
+        "from": "w5"
+      },
+      {
+        "claim": "Washington Park National Bank closed June 8, 1931.",
+        "evidence": "Wikipedia, citing contemporary press",
+        "source": "https://en.wikipedia.org/wiki/Washington_Park_National_Bank_Building",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Closure date needs Tribune primary confirmation",
+        "from": "w5"
+      },
+      {
+        "claim": "Later served as headquarters of The Woodlawn Organization; owned by Rev. Leon Finney Jr.; Cook County Land Bank Authority took ownership January 2018.",
+        "evidence": "Wikipedia; Preservation Chicago notes TWO association",
+        "source": "https://en.wikipedia.org/wiki/Washington_Park_National_Bank_Building",
+        "source_type": "tertiary/secondary",
+        "status": "Provisional",
+        "uncertainty": "Deed records (Cook County Recorder) not examined",
+        "from": "w5"
+      },
+      {
+        "claim": "Vacant and threatened; DL3/Real Estate / Greenlighting announced demolition plan March 2019; listed Preservation Chicago Chicago 7 (2016, 2020) and Landmarks Illinois Most Endangered (2019).",
+        "evidence": "Preservation Chicago 2020 write-up; Sun-Times (Mitchell Apr 16 2019; Ballesteros May 2 2019; Roeder Jan 31 2020; Delange Feb 26 2020); Tribune (Kamin May 1 2019); WTTW",
+        "source": "https://www.preservationchicago.org/washington-park-substation-gaitan-building/washington-park-national-bank-2020-chicago-7-write-up-final/",
+        "source_type": "secondary (advocacy + news)",
+        "published": "2019-2020",
+        "status": "Verified",
+        "uncertainty": "2026 condition not confirmed - fresh site check needed",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w1",
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-013",
+    "name": "Hansberry house (6140 S. Rhodes)",
+    "type": "landmark building",
+    "addresses": [
+      "6140 S. Rhodes Ave, Washington Park subdivision, Chicago (near 63rd corridor)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1937-1940",
+        "status": "covenant battle site",
+        "note": "Carl Hansberry's purchase led to Hansberry v. Lee (1940).",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "In Hansberry v. Lee (1940), the U.S. Supreme Court ruled for Black real-estate investor Carl Hansberry — who had bought the covenant-covered building at 6140 S. Rhodes — on the technicality that too few neighbors had signed the covenant, opening several blocks to Black tenants and owners.",
+        "evidence": "Mapping Inequality Chicago context page, drawing on the 1947 covenant map research.",
+        "source": "dsl.richmond.edu Mapping Inequality (Nelson, Winling, Marciano, Connolly et al.)",
+        "source_type": "secondary",
+        "published": "2016",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      },
+      {
+        "claim": "The Hansberry family was among the first Black families in Woodlawn; Lorraine Hansberry's 'A Raisin in the Sun' (Broadway 1959) draws on their experience.",
+        "evidence": "Woodlawn history account.",
+        "source": "Wikipedia 'Woodlawn, Chicago'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'Woodlawn, Chicago'); queued for re-sourcing before any public use."
+        ]
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-014",
+    "name": "Englewood (community area 68)",
+    "type": "neighborhood",
+    "addresses": [
+      "63rd St corridor: Halsted to State, roughly 55th to 75th"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1868-1889",
+        "status": "railroad suburb",
+        "note": "Junction Grove renamed Englewood 1868.",
+        "from": "w1"
+      },
+      {
+        "period": "1920s-1950s",
+        "status": "peak white working/middle class",
+        "note": "Pop. ~90-98k; commercial peak.",
+        "from": "w1"
+      },
+      {
+        "period": "1960s-1980",
+        "status": "rapid Black succession",
+        "note": "69% Black by 1960; 99% by 1980; pop. collapse begins.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Englewood's population: 1930 89,063; 1940 92,849; 1950 94,134; 1960 97,595; 1970 89,659; 1980 59,075; 1990 48,434; 2000 40,222; 2010 30,654; 2020 24,369.",
+        "evidence": "Census tables compiled on the community-area page.",
+        "source": "Wikipedia 'Englewood, Chicago' (citing U.S. Census)",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "1920 figure (86,619) from a separate source is provisional.",
+        "contradiction": "LISC 2005 claims 139,000 by 1920 — disputed.",
+        "from": "w1",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single Wikipedia citation (Wikipedia \"Englewood, Chicago\") for ten decades of census figures. Source cited: Wikipedia 'Englewood, Chicago' (citing U.S. Census)",
+          "Cross-project audit remediation 2026-09-28: flagged weak_source_only (source: Wikipedia 'Englewood, Chicago' (citing U.S. Census)). Already downgraded to Provisional via regrade list; queued for re-sourcing before any public use."
+        ],
+        "weak_source_only": true
+      },
+      {
+        "claim": "In 1960 Englewood had 67,216 African-American residents (~69%), most residing around 63rd Street; by 1980 the area was 99% Black with the white population down to 818.",
+        "evidence": "Community-area history citing census data.",
+        "source": "Wikipedia 'Englewood, Chicago'",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "'Around 63rd Street' is a qualitative gloss, not a tract-level finding.",
+        "from": "w1",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single Wikipedia citation for 1960/1980 racial-composition figures. Source cited: Wikipedia 'Englewood, Chicago'",
+          "Cross-project audit remediation 2026-09-28: flagged weak_source_only (source: Wikipedia 'Englewood, Chicago'). Already downgraded to Provisional via regrade list; queued for re-sourcing before any public use."
+        ],
+        "weak_source_only": true
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-015",
+    "name": "Woodlawn (community area 42)",
+    "type": "neighborhood",
+    "addresses": [
+      "East 63rd Street corridor: lake to MLK Dr, 60th to 67th"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "pre-1893",
+        "status": "Dutch farming community",
+        "note": "",
+        "from": "w1"
+      },
+      {
+        "period": "1893-1948",
+        "status": "white middle class",
+        "note": "Fair-driven growth; University of Chicago professors.",
+        "from": "w1"
+      },
+      {
+        "period": "1948-1970",
+        "status": "rapid succession",
+        "note": "Only 8,450 whites left by 1960.",
+        "from": "w1"
+      },
+      {
+        "period": "1970-present",
+        "status": "majority-Black, depopulated",
+        "note": "81,279 (1960) to 24,425 (2020).",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Woodlawn's population: 1930 66,052; 1940 71,685; 1950 80,699; 1960 81,279; 1970 53,820; 1980 36,323; 1990 27,473; 2000 27,086; 2010 25,983; 2020 24,425.",
+        "evidence": "Census tables compiled on the community-area page.",
+        "source": "Wikipedia 'Woodlawn, Chicago' (citing U.S. Census)",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Provisional",
+        "uncertainty": "",
+        "from": "w1",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (Wikipedia 'Woodlawn, Chicago' (citing U.S. Census)); queued for re-sourcing before any public use."
+        ]
+      },
+      {
+        "claim": "By 1960 only 8,450 whites remained in Woodlawn, most near the University of Chicago's southern fringe; the population had risen 66,000 (1930) to 81,000 (1960) while going Black.",
+        "evidence": "Winston Moore, 'Woodlawn: The Zone of Destruction.'",
+        "source": "National Affairs (1973)",
+        "source_type": "secondary",
+        "published": "1973",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      },
+      {
+        "claim": "In 1928 the Woodlawn Property Owners Association, with covert support linked to the University of Chicago, organized a racially restrictive covenant to bar Black buyers; intimidation and racial violence targeted Black homebuyers.",
+        "evidence": "Doctoral thesis on Woodlawn and the University of Chicago.",
+        "source": "knowledge.uchicago.edu thesis ('Towards a Whiter Woodlawn')",
+        "source_type": "secondary",
+        "published": "~2019",
+        "status": "Provisional",
+        "uncertainty": "Single academic source; strong but uncorroborated in this research.",
+        "from": "w1"
+      },
+      {
+        "claim": "Woodlawn's dwelling units rose 27,624 (1950) to 29,616 (1960) through mostly illegal subdivision with almost no new construction; owner-occupancy was 8.8% in 1960 vs. 32.7% citywide.",
+        "evidence": "Winston Moore, 'Woodlawn: The Zone of Destruction.'",
+        "source": "National Affairs (1973)",
+        "source_type": "secondary",
+        "published": "1973",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-016",
+    "name": "West Englewood (community area 67)",
+    "type": "neighborhood",
+    "addresses": [
+      "63rd St corridor west of Englewood: roughly Ashland to Western"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1970-1980",
+        "status": "rapid succession",
+        "note": "48.3% to 97.5% African-American in one decade.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "West Englewood went from 48.3% African-American in 1970 to 97.5% in 1980 — among the fastest racial successions in Chicago.",
+        "evidence": "CULtivate residential-segregation table (1970-2013) of African-American share by community area.",
+        "source": "Chicago Urban League, CULtivate Part 1 (2019)",
+        "source_type": "secondary",
+        "published": "2019",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-017",
+    "name": "Chicago Lawn (community area 66)",
+    "type": "neighborhood",
+    "addresses": [
+      "West 63rd Street corridor: roughly Kedzie to Central Park"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1970-2000",
+        "status": "later succession",
+        "note": "0.0% Black in 1970 to majority-Black by 2000.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Chicago Lawn's African-American share: 0.0% (1970), 10.2% (1980), 26.2% (1990), 52.5% (2000), 49.3% (2010), 50.8% (2013) — a later transition than the eastern 63rd corridor.",
+        "evidence": "CULtivate residential-segregation table.",
+        "source": "Chicago Urban League, CULtivate Part 1 (2019)",
+        "source_type": "secondary",
+        "published": "2019",
+        "status": "Verified",
+        "uncertainty": "",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-018",
+    "name": "HOLC redlining — 63rd Street corridor (areas incl. D74)",
+    "type": "policy geography",
+    "addresses": [
+      "HOLC area D74: 35th-67th St, State St to Cottage Grove (overlaps 63rd corridor east of State)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1930s-1940s",
+        "status": "graded D 'hazardous'",
+        "note": "HOLC residential security map; grades institutionalized racist lending risk.",
+        "from": "w1"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "HOLC graded large parts of Chicago's South Side, including the Black Belt, D ('hazardous'); the area description for D74 (35th-67th, State to Cottage Grove) explicitly discusses restricting 'the colored people' and cites Washington Park as 'almost completely monopolized by the colored race' as rationale for the grade.",
+        "evidence": "Mapping Inequality digitization of HOLC area descriptions (National Archives originals); area D74 description text.",
+        "source": "dsl.richmond.edu Mapping Inequality (Nelson, Winling, Marciano, Connolly et al.)",
+        "source_type": "secondary",
+        "published": "2016",
+        "status": "Verified",
+        "uncertainty": "",
+        "contradiction": "Scholarly debate (Hillier 2003) minimizes the direct HOLC-to-FHA causal link; Chicago Fed finds ~82% grade overlap between the two maps.",
+        "from": "w1"
+      },
+      {
+        "claim": "Chicago's public housing projects of the 1930s-1960s (Ida B. Wells, Robert Taylor, Henry Horner) were largely sited in HOLC-redlined 'hazardous' neighborhoods.",
+        "evidence": "Mapping Inequality Chicago context essay.",
+        "source": "dsl.richmond.edu Mapping Inequality",
+        "source_type": "secondary",
+        "published": "2016",
+        "status": "Provisional",
+        "uncertainty": "Stated in an interpretive essay; siting decisions had multiple drivers.",
+        "from": "w1"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w1"
+    ]
+  },
+  {
+    "id": "PLACE-019",
+    "name": "White City Amusement Park",
+    "type": "Amusement park",
+    "addresses": [
+      "63rd St & South Park Ave (now Dr. Martin Luther King Jr. Dr.)"
+    ],
+    "neighborhood": "Woodlawn / Greater Grand Crossing",
+    "eras": [
+      {
+        "period": "1905–1934 (roller rink to 1958)",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished; site occupied by Parkway Gardens",
+    "significance": "Rivaled Coney Island; 'city of a million lights'; first assembly of the Goodyear Blimp",
+    "claims": [
+      {
+        "claim": "Rivaled Coney Island; 'city of a million lights'; first assembly of the Goodyear Blimp Era: 1905–1934 (roller rink to 1958)",
+        "evidence": "opening May 26, 1905; 14 acres; ballroom for 1,000 dancers; College Inn restaurant 2,500 seats; Electric Tower; receiver appointed June 3, 1933 for delinquent taxes; 'the end' of the park; rink remained; opened May 27, 1905 (opening-day discrepancy vs. Wikipedia May 26)",
+        "source": "https://en.wikipedia.org/wiki/White_City_(Chicago); http://www.connectingthewindycity.com/2018/05/june-3-1921-marie-curie-visits-chicago.html?m=0; https://drloihjournal.blogspot.com/2017/04/white-city-amusement-park-63rd-street.html",
+        "source_type": "secondary",
+        "published": "2017-04; 2018-05; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Parkway Gardens now stands on the site",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-020",
+    "name": "White City Ballroom",
+    "type": "Ballroom",
+    "addresses": [
+      "63rd St & S. Parkway Blvd (now MLK Jr. Dr.)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1920s–1940s",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished (with park)",
+    "significance": "Big-band ballroom within White City",
+    "claims": [
+      {
+        "claim": "Big-band ballroom within White City Era: 1920s–1940s",
+        "evidence": "Defender citations: Wolfscale's Band CD June 22, 1918; White City ad CD July 2, 1921",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Operating era from UChicago Library jazz venues guide",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-021",
+    "name": "Trianon Ballroom",
+    "type": "nightlife venue",
+    "addresses": [
+      "6201 S. Cottage Grove Ave",
+      "West of Cottage Grove, 63rd area, Chicago"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1922–1965 (demolished late 1960s)",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished 1967 (CT demolition notice Jan 2, 1967)",
+    "significance": "Major South Side ballroom; hosted Lena Horne, Dizzy Gillespie; R&B stage shows for teenagers",
+    "claims": [
+      {
+        "claim": "Major South Side ballroom; hosted Lena Horne, Dizzy Gillespie; R&B stage shows for teenagers Era: 1922–1965 (demolished late 1960s)",
+        "evidence": "opened Dec 6, 1922; Rapp & Rapp; Karzas owners; 'The World's Most Beautiful Ballroom'; Tribune citations: ad CT Dec 12, 1922; WMBB jazz broadcast CT Apr 16, 1925; Lena Horne CT Feb 6, 1955; Jonah Jones & Dorothy Donegan CT Oct 31, 1963; Dizzy Gillespie CT Oct 18, 1964; 'Trianon to be demolished' CT Jan 2, 1967; demolition in 1967",
+        "source": "https://www.chicagohistory.org/trianon-ballroom/; https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832; https://en.wikipedia.org/wiki/Trianon_Ballrooms",
+        "source_type": "museum; scholarly; secondary",
+        "published": "2022-12-05; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      },
+      {
+        "claim": "Ballroom where teenagers saw large R&B stage shows (mid-century). Secondary account only.",
+        "source": "https://www.beachwoodreporter.com/music/post_13/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-022",
+    "name": "Tivoli Theatre",
+    "type": "Movie palace / live-music theater",
+    "addresses": [
+      "6323 or 6325 S. Cottage Grove Ave (DISPUTED)",
+      "6323/6325 S. Cottage Grove Ave, Chicago (63rd & Cottage Grove)",
+      "6323 S Cottage Grove Ave, Chicago, IL"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1921–1963",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished",
+    "significance": "Opened February 16, 1921; 3,520 seats; orchestra, air conditioning, projection system, ornate decor; mixed movie/stage presentation; later staged R&B shows. Described as the largest theater on the South Side. Closed September 19, 1963; demolished shortly afterward.",
+    "claims": [
+      {
+        "claim": "Largest theater on the South Side; Balaban & Katz movie palace; R&B/jazz showcase in its late years Era: 1921–1963",
+        "evidence": "opened Feb 16, 1921; commenter cites 1928 street guide: 6325 S. Cottage Grove; Defender citations for R&B phase: Pearl Bailey first live show CD Jan 24, 1959; Fats Domino Apr 20, 1959; Count Basie May 9, 1959; Louis Jordan Jul 25, 1959; Ahmad Jamal, Cannonball Adderley, Carmen McRae Dec 31, 1959; Duke Ellington Band Jan 28 & 30, 1960; Art Blakey & Jazz Messengers Feb 5, 1963",
+        "source": "https://en.wikipedia.org/wiki/Tivoli_Theatre_(Chicago); https://cinematreasures.org/theaters/943/comments; https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly; secondary",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Numbered address disputed 6323 vs 6325; demolition date disputed ('shortly after 1963' vs. shell standing beyond 1965)",
+        "from": "w2"
+      },
+      {
+        "claim": "Opened February 16, 1921; 3,520 seats; orchestra, air conditioning, projection system, ornate decor; mixed movie/stage presentation; later staged R&B shows. Described as the largest theater on the South Side. Closed September 19, 1963; demolished shortly afterward.",
+        "source": "https://journals.shareok.org/theatreorgan/article/download/4591/4570; https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Uptown_Theater.pdf; https://www.beachwoodreporter.com/music/post_13/",
+        "status": "Verified",
+        "from": "w4"
+      },
+      {
+        "claim": "Opened February 16, 1921; first of the Balaban & Katz 'big three' movie palaces.",
+        "evidence": "Wikipedia; City of Chicago Uptown Theatre landmark report (independent government source)",
+        "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Uptown_Theater.pdf",
+        "source_type": "government/tertiary",
+        "status": "Provisional",
+        "uncertainty": "Building permit 1920 not located",
+        "from": "w5"
+      },
+      {
+        "claim": "Architects Cornelius W. Rapp and George L. Rapp (Rapp and Rapp); French Baroque; 3,520 seats; $2,000,000 cost; 55-piece orchestra at gala opening; Milton Charles resident organist ca. 1924-25; stood just south of SE corner of 63rd & Cottage Grove.",
+        "evidence": "Wikipedia; Theatre Organ journal",
+        "source": "https://journals.shareok.org/theatreorgan/article/download/4591/4570",
+        "source_type": "secondary",
+        "status": "Provisional",
+        "uncertainty": "Single-source details; permit/directory confirmation needed",
+        "from": "w5"
+      },
+      {
+        "claim": "Closed 1963 (Theatre Organ journal: September 19, 1963); demolished shortly thereafter.",
+        "evidence": "Wikipedia; Theatre Organ journal",
+        "source": "https://journals.shareok.org/theatreorgan/article/download/4591/4570",
+        "source_type": "secondary",
+        "status": "Provisional",
+        "uncertainty": "Demolition date unresolved; needs demolition permit",
+        "contradiction": "Day-level precision (Sept 19) appears only in Theatre Organ journal; Wikipedia gives year only - consistent, not contradictory.",
+        "from": "w5"
+      },
+      {
+        "claim": "Contemporary press: Ben Hecht, Chicago Daily News Feb 17, 1921; Variety Feb 25, 1921.",
+        "evidence": "Cited in Theatre Organ journal",
+        "source": "https://journals.shareok.org/theatreorgan/article/download/4591/4570",
+        "source_type": "primary (cited, not viewed)",
+        "published": "1921-02",
+        "status": "Provisional",
+        "uncertainty": "Issues not viewed directly",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-023",
+    "name": "Maryland Theatre",
+    "type": "Movie theater",
+    "addresses": [
+      "855 E. 63rd St"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1928 (or 1918 — DISPUTED) –1977",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished 1990s; parking lot",
+    "significance": "B&K theater; venue for African American performers in the 1970s",
+    "claims": [
+      {
+        "claim": "B&K theater; venue for African American performers in the 1970s Era: 1928 (or 1918 — DISPUTED) –1977",
+        "evidence": "opened 1928 per overview; Balaban & Katz then ABC; Black performers in the 1970s; closed 1977; demolished 1990s; site a parking lot; commenter cites a book: opened 1918; B&K acquired 1928",
+        "source": "https://cinematreasures.org/theaters/4061; https://cinematreasures.org/theaters/4061/comments",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": "Opening year disputed: 1928 vs. 1918",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-024",
+    "name": "63rd Street Theatre (Langley Hippodrome)",
+    "type": "Vaudeville / movie theater",
+    "addresses": [
+      "702 E. 63rd St"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1911–1949",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished",
+    "significance": "Early 63rd Street vaudeville house",
+    "claims": [
+      {
+        "claim": "Early 63rd Street vaudeville house Era: 1911–1949",
+        "evidence": "Langley Hippodrome opened Oct 7, 1911; renamed Langley Theatre 1915; remodeled as 63rd Street Theatre 1945; closed 1949; demolished; photo of Chicago Herald-American ad Aug 15, 1945 visibly gives '702 E 63rd'",
+        "source": "https://cinematreasures.org/theaters/5348; https://cinematreasures.org/members/mister_comics/photos/219304",
+        "source_type": "primary; secondary",
+        "published": "1945-08-15; observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-025",
+    "name": "Tower Theatre",
+    "type": "Movie theater",
+    "addresses": [
+      "1510 E. 63rd St",
+      "1510 E. 63rd St, Chicago",
+      "1510 E 63rd St, Chicago, IL 60637"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1926–1950s",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished",
+    "significance": "Opened early 1926; offered movies, vaudeville, and stage shows. Closed sometime in the 1950s; later demolished. Exact closure/demolition dates unresolved.",
+    "claims": [
+      {
+        "claim": "Lubliner & Trinz / B&K neighborhood movie house Era: 1926–1950s",
+        "evidence": "opened early 1926; Fridstein & Co. for Lubliner & Trinz; acquired by Balaban & Katz with chain 1928; closed 1950s; demolished (HistoryWiki search-result text; result URL not retrievable in search output — do not cite a guessed URL)",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      },
+      {
+        "claim": "Opened early 1926; offered movies, vaudeville, and stage shows. Closed sometime in the 1950s; later demolished. Exact closure/demolition dates unresolved.",
+        "source": "https://rpwrhs.org/w/index.php?title=Tower_Theater",
+        "status": "Provisional",
+        "from": "w4"
+      },
+      {
+        "claim": "Fridstein & Company; built for Lubliner & Trinz; opened early 1926; just under 3,000 seats; Italian Renaissance; vaudeville/stage shows plus movies; acquired with L&T chain by Balaban & Katz 1928; closed sometime in the 1950s; demolished.",
+        "evidence": "Rogers Park / West Ridge Historical Society wiki",
+        "source": "https://rpwrhs.org/w/index.php?title=Tower_Theater",
+        "source_type": "secondary (local history)",
+        "status": "Provisional",
+        "uncertainty": "Single source; all dates need permit/directory/trade-paper confirmation",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2",
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-026",
+    "name": "Southtown Theatre",
+    "type": "Movie theater",
+    "addresses": [
+      "610 W. 63rd St",
+      "610 W 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1931–1958",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished 1991",
+    "significance": "Rapp & Rapp South Side movie palace; theater-to-retail conversion",
+    "claims": [
+      {
+        "claim": "Rapp & Rapp South Side movie palace; theater-to-retail conversion Era: 1931–1958",
+        "evidence": "Rapp & Rapp design; opened Dec 25, 1931; closed Aug 1958; converted to Carr's; later flea market; demolished 1991; reproduces Chicago Tribune grand-opening ad: Carr's Discount Department Store opened Oct 30, 1958",
+        "source": "https://cinematreasures.org/theaters/993; https://www.sixthward.us/2018/11/chicagos-extinct-businesses-carrs.html?m=0",
+        "source_type": "secondary",
+        "published": "2018-11; observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": "Reused as Carr's department store after theater closure",
+        "from": "w2"
+      },
+      {
+        "claim": "Movie palace operated 1931-1958; converted to Carr's department store late 1950s; demolished 1991.",
+        "evidence": "sixthward.us; Cinema Treasures (conversion corroborated on Stratford page)",
+        "source": "http://www.sixthward.us/2013/11/photo-southtown-theater-englewood.html",
+        "source_type": "secondary (community-contributed)",
+        "status": "Provisional",
+        "uncertainty": "Architect and exact construction/opening/closure dates single-sourced; demolition permit not located",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-027",
+    "name": "Stratford Theatre",
+    "type": "Movie theater",
+    "addresses": [
+      "715 W. 63rd St",
+      "715 W 63rd St, Chicago, IL 60621"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1920–?",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished",
+    "significance": "Warner Bros. neighborhood theater on Englewood's 63rd",
+    "claims": [
+      {
+        "claim": "Warner Bros. neighborhood theater on Englewood's 63rd Era: 1920–?",
+        "evidence": "opened Sept 4, 1920; vaudeville and films; built for Cooney Brothers/National Theaters Corp.; Warner Bros. 1930s–1950s; later demolished",
+        "source": "https://cinematreasures.org/theaters/2625",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": "Exact closure date unresolved",
+        "from": "w2"
+      },
+      {
+        "claim": "Opened September 4, 1920 (Elsie Ferguson, 'Lady Rose's Daughter'); vaudeville and movies; Moller 3-manual 22-rank organ; 2,433 seats; built for Cooney Brothers National Theaters Corp; operated by Warner Bros. 1930s-1950s; torn down.",
+        "evidence": "Cinema Treasures (community-contributed)",
+        "source": "https://cinematreasures.org/theaters/2625",
+        "source_type": "tertiary (community)",
+        "status": "Provisional",
+        "uncertainty": "Architect unknown; demolition date unknown",
+        "from": "w5"
+      },
+      {
+        "claim": "Stratford Building extended to Union Ave; owner of record July 1925 Chicago United Theatres, Inc. (Cooney circuit), which sold 6.5% mortgage bond on building.",
+        "evidence": "Cinema Treasures commenter citing bond circular",
+        "source": "https://cinematreasures.org/theaters/2625/comments",
+        "source_type": "tertiary (comment)",
+        "status": "Provisional",
+        "uncertainty": "Bond circular not viewed",
+        "from": "w5"
+      },
+      {
+        "claim": "'Often said to be' where Bob Hope got his first start.",
+        "evidence": "sixthward.us phrasing",
+        "source": "http://www.sixthward.us/2013/11/photo-southtown-theater-englewood.html",
+        "source_type": "secondary",
+        "status": "Provisional",
+        "uncertainty": "Folklore until verified - do not state as fact",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-028",
+    "name": "Marquette Theatre",
+    "type": "Movie theater",
+    "addresses": [
+      "3157 W. 63rd St (ads show 3155)"
+    ],
+    "neighborhood": "Chicago Lawn (63rd & Kedzie)",
+    "eras": [
+      {
+        "period": "1924–1981",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished Aug 1987; parking lot",
+    "significance": "Chicago Lawn anchor movie house; survived into the 1980s",
+    "claims": [
+      {
+        "claim": "Chicago Lawn anchor movie house; survived into the 1980s Era: 1924–1981",
+        "evidence": "63rd & Kedzie; opened Mar 23, 1924; Henry L. Newhouse & F.M. Bernham; 1,200 seats stadium plan; Fitzpatrick & McElroy leased to B&K 10 yrs; Stern circuit; closed Jan 4, 1981 (The Aristocats); demolished Aug 1987; Walgreens parking lot; commenters debate 3157 vs. 3155; confirm closing date, demolition Aug 1987",
+        "source": "https://cinematreasures.org/theaters/4541; https://cinematreasures.org/theaters/4541/comments",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": "Minor address variant 3155 vs 3157",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-029",
+    "name": "Kimbark Theatre (Kim Theatre)",
+    "type": "Movie theater",
+    "addresses": [
+      "6240 S. Kimbark Ave"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1913–1960s",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished Jan/Feb 2016",
+    "significance": "Small early Woodlawn movie house",
+    "claims": [
+      {
+        "claim": "Small early Woodlawn movie house Era: 1913–1960s",
+        "evidence": "opened 1913; closed 1960s; later church; demolished Jan/Feb 2016",
+        "source": "http://cinematreasures.org/theaters/4620",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-030",
+    "name": "Kennedy-King College theaters",
+    "type": "College theaters",
+    "addresses": [
+      "740 W. 63rd St"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "2019–present",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Operating",
+    "significance": "Current performing-arts venue on 63rd in Englewood",
+    "claims": [
+      {
+        "claim": "Current performing-arts venue on 63rd in Englewood Era: 2019–present",
+        "evidence": "292-seat mainstage and black-box theaters; Collaboraction 2019–20 season staged here",
+        "source": "https://www.broadwayworld.com/chicago/article/Collaboractions-2019-20-Mainstage-Season-To-Be-Presented-In-Englewood-At-Kennedy-King-College-20190619",
+        "source_type": "secondary",
+        "published": "2019-06-19",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single BroadwayWorld article (press-release-style) for venue operating period. Source cited: https://www.broadwayworld.com/chicago/article/Collaboractions-2019-20-Mainstage-Season-To-Be-Presented-In-Englewood-At-Kennedy-King-College-20190619"
+        ]
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-031",
+    "name": "Teatro Tariakuri",
+    "type": "Dance / performing-arts venue",
+    "addresses": [
+      "3117 W. 63rd St"
+    ],
+    "neighborhood": "Chicago Lawn",
+    "eras": [
+      {
+        "period": "current (start date unknown)",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Operating",
+    "significance": "Latino dance/performing-arts venue on Chicago Lawn's 63rd",
+    "claims": [
+      {
+        "claim": "Latino dance/performing-arts venue on Chicago Lawn's 63rd Era: current (start date unknown)",
+        "evidence": "current business listing as dance and performing-arts venue",
+        "source": "http://www.teatrotariakuri.org/",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": "Operating start date not found",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-032",
+    "name": "Crown Propeller Lounge",
+    "type": "Jazz / R&B lounge",
+    "addresses": [
+      "868 E. 63rd St",
+      "63rd Street (further east), Chicago"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1951–1959",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed 1959; fate of building unknown",
+    "significance": "Premier 63rd Street jazz/R&B lounge; Miles Davis, Illinois Jacquet, Ivory Joe Hunter; Hammond organ feature (Chicago Daily Defender, Oct 1956)",
+    "claims": [
+      {
+        "claim": "Premier 63rd Street jazz/R&B lounge; Miles Davis, Illinois Jacquet, Ivory Joe Hunter; Hammond organ feature (Chicago Daily Defender, Oct 1956) Era: 1951–1959",
+        "evidence": "Defender citations: double jam session CD Oct 10, 1953; Valaida Snow Dec 5, 1953; Wynonie Harris Jan 23, 1954; Benny Ventura, King Kolax, Mabel Hunter Dec 25, 1954; Illinois Jacquet, Mabel Hunter Aug 20, 1955; Roy Milton Dec 17, 1955; Ivory Joe Hunter Dec 24, 1955; Erskine Hawkins May 21, 1956; Miles Davis June 18, 1956",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      },
+      {
+        "claim": "Club further east on 63rd that booked jazz and R&B acts. Secondary account only.",
+        "source": "https://www.beachwoodreporter.com/music/post_13/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-033",
+    "name": "Club Bagdad",
+    "type": "Jazz club",
+    "addresses": [
+      "840 E. 63rd St"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1953",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "63rd Street jazz club",
+    "claims": [
+      {
+        "claim": "63rd Street jazz club Era: 1953",
+        "evidence": "5 Blazes and Terry Timmons, CD Oct 10, 1953",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-034",
+    "name": "Kitty Kat Club",
+    "type": "nightlife venue",
+    "addresses": [
+      "611 E. 63rd St",
+      "63rd Street, Chicago (est. 1953)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1953–1961+",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed; fate unknown",
+    "significance": "Club on 63rd, established 1953 per secondary account; featured King Fleming, John Young, Ahmad Jamal and other art-oriented jazz musicians.",
+    "claims": [
+      {
+        "claim": "Art-oriented jazz club; early Ahmad Jamal appearances Era: 1953–1961+",
+        "evidence": "established 1953 (Beachwood Reporter, 2007); Defender: Ahmad Jamal CD Jan 23, 1954 & Oct 8, 1955; King Fleming Combo Apr 26, 1956; John Young Trio Jul 8, 1961; 'One of the most famous clubs on 63rd Street,' est. 1953; featured King Fleming, John Young, Ahmad Jamal",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832; https://www.beachwoodreporter.com/music/post_13/",
+        "source_type": "scholarly; secondary",
+        "published": "2007-08-13; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      },
+      {
+        "claim": "Club on 63rd, established 1953 per secondary account; featured King Fleming, John Young, Ahmad Jamal and other art-oriented jazz musicians.",
+        "source": "https://www.beachwoodreporter.com/music/post_13/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-035",
+    "name": "Harry's Show Lounge",
+    "type": "Show lounge",
+    "addresses": [
+      "432 E. 63rd St"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1947–1963",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed 1963; fate unknown",
+    "significance": "Long-running 63rd Street lounge; early Ramsey Lewis appearance",
+    "claims": [
+      {
+        "claim": "Long-running 63rd Street lounge; early Ramsey Lewis appearance Era: 1947–1963",
+        "evidence": "Defender citations: Beverly White Jul 30, 1949; new owners Aug 20, 1949; Johnny Houser Sept 13, 1952; Jewell Belle et al. Jul 10, 1954; Johnny Pate Trio Dec 24, 1955; George 'Stardust' Greene w/ Ramsey Lewis & Eldee Young Jun 6 & 18, 1956; Les Tucker Trio Jul 15, 1958",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-036",
+    "name": "Stage Lounge",
+    "type": "Nightclub",
+    "addresses": [
+      "1524 E. 63rd St"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1955–?",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Chuck Berry, Art Blakey bookings in the 1950s",
+    "claims": [
+      {
+        "claim": "Chuck Berry, Art Blakey bookings in the 1950s Era: 1955–?",
+        "evidence": "Defender citations: Chuck Berry Dec 17, 1954 & Dec 24, 1955; Art Blakey Apr 28, 1956; Gene Ammons and Jump Jackson Sept 11, 1957",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-037",
+    "name": "Basin Street",
+    "type": "nightlife venue",
+    "addresses": [
+      "6312 S. Cottage Grove Ave (was Cadillac Bob's)",
+      "West of Cottage Grove, 63rd area, Chicago"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1954–1955+",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed; fate unknown",
+    "significance": "Jazz club with Johnny Griffin and Eddie Vinson among performers. Secondary account only.",
+    "claims": [
+      {
+        "claim": "Legendary jazz club; Johnny Griffin, Eddie Vinson; Black co-ownership Era: 1954–1955+",
+        "evidence": "Defender: Eddie 'Cleanhead' Vinson part owner CD Oct 23, 1954; Vinson & Mabel Hunter Nov 6, 1954; Willie Mabon & Vinson Jan 1, 1955; Johnny Griffin, Buddy Smith, Junior Mance Aug 20, 1955",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Black ownership documented: Eddie 'Cleanhead' Vinson part owner (CD Oct 23, 1954)",
+        "from": "w2"
+      },
+      {
+        "claim": "Jazz club with Johnny Griffin and Eddie Vinson among performers. Secondary account only.",
+        "source": "https://www.beachwoodreporter.com/music/post_13/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-038",
+    "name": "Cotton Club",
+    "type": "Jazz club",
+    "addresses": [
+      "6249 S. Cottage Grove Ave"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1953",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "63rd/Cottage Grove jazz club",
+    "claims": [
+      {
+        "claim": "63rd/Cottage Grove jazz club Era: 1953",
+        "evidence": "Harold King and Red Allen, CD Oct 10, 1953",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-039",
+    "name": "C and C Lounge",
+    "type": "Jazz lounge",
+    "addresses": [
+      "6513 S. Cottage Grove Ave"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1961",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Jazz lounge just south of 63rd",
+    "claims": [
+      {
+        "claim": "Jazz lounge just south of 63rd Era: 1961",
+        "evidence": "Tom Archer, Porter Kilbert et al., CD Nov 22, 1961",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-040",
+    "name": "McKie's Disc Jockey Show Lounge",
+    "type": "Disc jockey / jazz lounge",
+    "addresses": [
+      "6323 S. Cottage Grove Ave (in the Strand Hotel)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1955–1966",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed 1966; space now Center on Cottage Grove with surviving interior elements",
+    "significance": "Black-owned jazz/blues lounge; one of the great 63rd Street rooms",
+    "claims": [
+      {
+        "claim": "Black-owned jazz/blues lounge; one of the great 63rd Street rooms Era: 1955–1966",
+        "evidence": "McKie Fitzhugh operated 1955–1966; performers incl. John Coltrane, Muddy Waters, Little Walter, Sonny Rollins, Fontella Bass, Brook Benton, Mike Bloomfield; surviving floor/ceiling elements at Center on Cottage Grove; Defender: Gene Ammons, 'Candido,' Jump Jackson Oct 8, 1957; Ahmad Jamal party Jan 7, 1960; Gene Ammons, Benny Green, Sonny Stitt Nov 25, 1961; Ben Webster Mar 18, 1963; photo of McKie Fitzhugh Aug 31, 1974",
+        "source": "http://windycitytimes.com/2025/03/05/center-on-cottage-groves-jazz-brunch-closes-black-history-month/; https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly; secondary",
+        "published": "2025-03-05; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Black owner/operator: McKie Fitzhugh. Address vs. Strand Show Lounge (6325) discrepancy flagged",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-041",
+    "name": "Strand Show Lounge",
+    "type": "Show lounge",
+    "addresses": [
+      "6325 S. Cottage Grove Ave (in the Strand Hotel)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1951–1966",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed 1966; Strand Hotel building rehabbed to residences",
+    "significance": "Strand Hotel show lounge",
+    "claims": [
+      {
+        "claim": "Strand Hotel show lounge Era: 1951–1966",
+        "evidence": "Horace Henderson, CD Oct 10, 1953",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Overlapping era with McKie's (1955–66) at 6323 suggests rename/transfer; unconfirmed",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-042",
+    "name": "El Grotto Supper Club",
+    "type": "Supper club",
+    "addresses": [
+      "6412 S. Cottage Grove Ave (in the Pershing Hotel)"
+    ],
+    "neighborhood": "Woodlawn (64th & Cottage Grove)",
+    "eras": [
+      {
+        "period": "1944–1947",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed 1947",
+    "significance": "Pershing Hotel supper club",
+    "claims": [
+      {
+        "claim": "Pershing Hotel supper club Era: 1944–1947",
+        "evidence": "Defender: Ivie Anderson Jul 28, 1945; 'Club El Grotto Stars' photo Jul 6, 1946; George Auld Jul 13, 1946; Ida James at Harry Fields' El Grotto Supper Club Oct 5, 1946; Beige Room to open where El Grotto was Dec 13, 1947; background on opening Jan 4, 1975",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Venue lineage: El Grotto → Beige Room → Birdland at the Pershing complex",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-043",
+    "name": "Birdland (formerly the Beige Room)",
+    "type": "Jazz club",
+    "addresses": [
+      "6400 S. Cottage Grove Ave (in the Pershing Hotel)"
+    ],
+    "neighborhood": "Woodlawn (64th & Cottage Grove)",
+    "eras": [
+      {
+        "period": "1947–1955+",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed; fate unknown",
+    "significance": "Pershing complex jazz room; succeeded El Grotto",
+    "claims": [
+      {
+        "claim": "Pershing complex jazz room; succeeded El Grotto Era: 1947–1955+",
+        "evidence": "Arnett Cobb, CD Dec 24, 1955 (was the Beige Room)",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832",
+        "source_type": "scholarly",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-044",
+    "name": "Pershing Hotel club (Pershing Lounge / Budland)",
+    "type": "nightlife venue",
+    "addresses": [
+      "6400 S. Cottage Grove Ave (in the Pershing Hotel)",
+      "6400 S. Cottage Grove Ave (basement, Pershing Hotel)",
+      "64th Street, Chicago (near 63rd/Cottage Grove)"
+    ],
+    "neighborhood": "Woodlawn (64th & Cottage Grove)",
+    "eras": [
+      {
+        "period": "1957–1958+",
+        "status": "Verified",
+        "from": "w2"
+      },
+      {
+        "period": "1957+",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed; fate unknown",
+    "significance": "Hotel complex with ballroom, first-floor lounge, and basement club Budland; first a jazz club (Arnett Cobb, Miles Davis, Billie Holiday), later booked R&B acts. Secondary account only.",
+    "claims": [
+      {
+        "claim": "Site of Ahmad Jamal's landmark 1958 live recordings Era: 1957–1958+",
+        "evidence": "Ahmad Jamal, CD Aug 27, Sept 5, Oct 8, 1957; But Not for Me taped live at the Pershing Lounge, Jan 16 & 17, 1958 — the record that made Jamal famous",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832; https://www.jazzmessengers.com/nl/8407/ahmad-jamal/legendary-1958-pershing-lounge-and-spotlite-club",
+        "source_type": "scholarly; secondary",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      },
+      {
+        "claim": "Pershing basement club; jazz then R&B Era: 1957+",
+        "evidence": "Arthur Prysock, CD Sept 5, 1957; began as jazz club (Arnett Cobb, Miles Davis, Billie Holiday); later R&B acts",
+        "source": "https://guides.lib.uchicago.edu/c.php?g=297184&p=1983832; https://www.beachwoodreporter.com/music/post_13/",
+        "source_type": "scholarly; secondary",
+        "published": "2007-08-13; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      },
+      {
+        "claim": "Hotel complex with ballroom, first-floor lounge, and basement club Budland; first a jazz club (Arnett Cobb, Miles Davis, Billie Holiday), later booked R&B acts. Secondary account only.",
+        "source": "https://www.beachwoodreporter.com/music/post_13/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4"
+    ],
+    "name_note": "Sources vary in naming ('Pershing Lounge', 'Budland', 'Pershing Hotel/Budland'); all refer to the club venue in the Pershing Hotel. Naming below follows source usage."
+  },
+  {
+    "id": "PLACE-045",
+    "name": "Pershing Ballroom",
+    "type": "Ballroom",
+    "addresses": [
+      "Cottage Grove at E. 64th (6400 block)"
+    ],
+    "neighborhood": "Woodlawn (64th & Cottage Grove)",
+    "eras": [
+      {
+        "period": "1950 (ballroom operating era)",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed; fate unknown",
+    "significance": "Charlie Parker live recording 1950; part of Pershing Hotel entertainment complex",
+    "claims": [
+      {
+        "claim": "Charlie Parker live recording 1950; part of Pershing Hotel entertainment complex Era: 1950 (ballroom operating era)",
+        "evidence": "Bird at the Pershing Ballroom, 64th Cottage Grove, Oct 23, 1950 (LP liner notes)",
+        "source": "https://www.discogs.com/release/5674535-Charlie-Parker-At-The-Pershing-Ballroom-Chicago-1950",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (https://www.discogs.com/release/5674535-Charlie-Parker-At-The-Pershing-Ballroom-Chicago-1950); queued for re-sourcing before any public use."
+        ]
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-046",
+    "name": "Sears, Roebuck & Co. (Englewood)",
+    "type": "commercial anchor",
+    "addresses": [
+      "63rd and Halsted",
+      "6233 S. Halsted St, Chicago (63rd & Halsted)",
+      "63rd & Halsted St, Chicago, IL (exact corner and address unverified)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1934–1976 (dates provisional)",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished",
+    "significance": "Seven-story, 290,000-sq-ft department store opened 1934; the Englewood Mall's major draw. Closed January 1976 (Tribune report 1/4/1976), along with its 19-stall auto center. Merchants' reactions in the same report split between fear of the mall's collapse and caution against declaring immediate demise.",
+    "claims": [
+      {
+        "claim": "Anchor of Englewood's 63rd/Halsted shopping district, 'the biggest shopping district in the city after the Loop' Era: 1934–1976 (dates provisional)",
+        "evidence": "built 1933–34; Nimmons, Carr & Wright; 'World's Most Modern Store'; later demolished; massive flagship at 63rd and Halsted; Englewood district rivaled the Loop in the 1940s–50s; claims 1934 opening, 1976 closure — single weak source",
+        "source": "https://cdn.cocodoc.com/cocodoc-form-pdf/pdf/15422576--Sears-roebuck-amp-company-department-store-NYC-gov-nyc-.pdf; http://chicagostudies.uchicago.edu/centuries/63rd; https://www.youtube.com/watch?v=wO2rNQvqPA4",
+        "source_type": "scholarly; secondary",
+        "published": "2026; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Exact numbered address unresolved; 1976 closing date from single weak source",
+        "from": "w2"
+      },
+      {
+        "claim": "Seven-story, 290,000-sq-ft department store opened 1934; the Englewood Mall's major draw. Closed January 1976 (Tribune report 1/4/1976), along with its 19-stall auto center. Merchants' reactions in the same report split between fear of the mall's collapse and caution against declaring immediate demise.",
+        "source": "http://chicagology.com/skyscrapers/skyscrapers077/",
+        "status": "Verified",
+        "from": "w4"
+      },
+      {
+        "claim": "Becker-Ryan department store occupied the 63rd & Halsted corner before Sears.",
+        "evidence": "Southtown Economist via Cinema Treasures commenter",
+        "source": "https://cinematreasures.org/theaters/2625/comments",
+        "source_type": "tertiary (comment)",
+        "status": "Provisional",
+        "uncertainty": "Exact address and era unknown",
+        "from": "w5"
+      },
+      {
+        "claim": "Seven-story Sears, claimed first fully air-conditioned Sears in Chicago; opened 1934; closed 1976; later demolished.",
+        "evidence": "YouTube nostalgia channel (Calumet412)",
+        "source": "YouTube",
+        "source_type": "social video",
+        "status": "Provisional",
+        "uncertainty": "Single source; exact corner, architect, construction/demolition dates unknown",
+        "from": "w5"
+      },
+      {
+        "claim": "Wieboldt's operated a store at 63rd & Halsted.",
+        "evidence": "Chain store list via Dept. Store Museum, reported on Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Wieboldt%27s",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Exact address unknown",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-047",
+    "name": "Wieboldt's (Englewood)",
+    "type": "commercial anchor",
+    "addresses": [
+      "63rd and Green Sts",
+      "63rd & Halsted area, Chicago (exact address unresolved)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1930–?",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished",
+    "significance": "Department store reported to have closed in 1975; no direct primary source found yet. Exact closure year and address remain provisional.",
+    "claims": [
+      {
+        "claim": "Major department-store anchor on Englewood's 63rd Era: 1930–?",
+        "evidence": "Englewood, 1930, 63rd and Green, 280,000 sq. ft.; historical marker quoting CBS Chicago: store at 63rd and Green; first-person memoir: job in the produce department 'on 63rd Street and Green' in 1957; contradiction: Wikipedia lists '63rd Street and Halsted Street' — less well supported",
+        "source": "http://departmentstoremuseum.blogspot.com/2010/06/wieboldts-chicago-illinois.html; https://www.hmdb.org/m.asp?m=299213; http://memoriesofatime.blogspot.com; https://en.wikipedia.org/wiki/Wieboldt%27s",
+        "source_type": "secondary",
+        "published": "2010-06; 2026; observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "Halsted vs. Green conflict; Green better supported",
+        "from": "w2"
+      },
+      {
+        "claim": "Department store reported to have closed in 1975; no direct primary source found yet. Exact closure year and address remain provisional.",
+        "source": "Secondary reports (no primary found)",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w2",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-048",
+    "name": "Hillman's (grocery)",
+    "type": "Grocery",
+    "addresses": [
+      "63rd and Green Sts (in Wieboldt's basement)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1957",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed",
+    "significance": "Grocery within Wieboldt's",
+    "claims": [
+      {
+        "claim": "Grocery within Wieboldt's Era: 1957",
+        "evidence": "single source: 'Wieboldt's at 63rd and Green had a Hillmen's in the basement'",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-049",
+    "name": "Carr's Discount Department Store",
+    "type": "Discount department store",
+    "addresses": [
+      "610 W. 63rd St"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1958–?",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished 1991",
+    "significance": "Theater-to-discount-retail conversion on 63rd",
+    "claims": [
+      {
+        "claim": "Theater-to-discount-retail conversion on 63rd Era: 1958–?",
+        "evidence": "grand opening Oct 30, 1958 in the converted Southtown Theatre (Chicago Tribune ad reproduced by history blog)",
+        "source": "https://www.sixthward.us/2018/11/chicagos-extinct-businesses-carrs.html?m=0",
+        "source_type": "secondary",
+        "published": "2018-11",
+        "status": "Provisional",
+        "uncertainty": "Closing date unresolved; building later flea market, demolished 1991",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-050",
+    "name": "Robert Hall (clothing) / later Taste disco",
+    "type": "Clothing store / disco lounge",
+    "addresses": [
+      "6331 S. Lowe (Englewood, 1/2 block south of 63rd)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1950s–1960s",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Building survives (2017 tour)",
+    "significance": "National clothing chain's Englewood store; later a disco lounge",
+    "claims": [
+      {
+        "claim": "National clothing chain's Englewood store; later a disco lounge Era: 1950s–1960s",
+        "evidence": "YouTube interior tour (2017): former Robert Hall clothing store of the 1950s–60s; later the 'Taste' disco lounge in the 1980s",
+        "source": "https://www.youtube.com/watch?v=yn9AhZX1am4",
+        "source_type": "secondary",
+        "published": "2017",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-051",
+    "name": "Daley's Restaurant",
+    "type": "Restaurant",
+    "addresses": [
+      "63rd and Cottage Grove (orig.); moved 2019 across intersection to Woodlawn Station"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1892–present",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Operating (relocated 2019)",
+    "significance": "'Chicago's oldest restaurant'; family-owned 100+ years",
+    "claims": [
+      {
+        "claim": "'Chicago's oldest restaurant'; family-owned 100+ years Era: 1892–present",
+        "evidence": "founded 1892 by John Daley; Greek immigrants Tom Kyros and Paul Emmanuel took over 1918; moved across the 63rd/Cottage Grove intersection into Woodlawn Station in 2019; history of the restaurant",
+        "source": "https://www.poah.org/news/daley%E2%80%99s-chicago%E2%80%99s-oldest-restaurant-moves-21st-century-new-location; https://www.tastingtable.com/1479248/daleys-restaurant-chicago-history/",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Verified",
+        "uncertainty": "New-address conflict: 6257 S. Cottage Grove vs. 809 E. 63rd",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-052",
+    "name": "College Inn",
+    "type": "Restaurant",
+    "addresses": [
+      "inside White City Amusement Park"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1905+",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished (with park)",
+    "significance": "Major park restaurant on 63rd",
+    "claims": [
+      {
+        "claim": "Major park restaurant on 63rd Era: 1905+",
+        "evidence": "College Inn restaurant could seat 2,500 diners",
+        "source": "https://en.wikipedia.org/wiki/White_City_(Chicago)",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single Wikipedia citation (White City (Chicago)) for College Inn seating capacity. Source cited: https://en.wikipedia.org/wiki/White_City_(Chicago)",
+          "Cross-project audit remediation 2026-09-28: flagged weak_source_only (source: https://en.wikipedia.org/wiki/White_City_(Chicago)). Already downgraded to Provisional via regrade list; queued for re-sourcing before any public use."
+        ],
+        "weak_source_only": true
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-053",
+    "name": "Lauer Sisters Restaurant",
+    "type": "Restaurant",
+    "addresses": [
+      "63rd and Normal Blvd (exact address unknown)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "unknown",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Englewood restaurant on theater site",
+    "claims": [
+      {
+        "claim": "Englewood restaurant on theater site Era: unknown",
+        "evidence": "Cinema Treasures commenter: on the site of an earlier Englewood Theatre",
+        "source": "https://cinematreasures.org/members/englewood/comments",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-054",
+    "name": "505 Grill",
+    "type": "Grill / restaurant",
+    "addresses": [
+      "505 W. 63rd St"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "unknown",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Documented via archival photograph",
+    "claims": [
+      {
+        "claim": "Documented via archival photograph Era: unknown",
+        "evidence": "identified from historical photograph; sign used to correct a photo location",
+        "source": "http://thetrolleydodger.com/tag/al-seibel/",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-055",
+    "name": "Harold's (chicken)",
+    "type": "Restaurant",
+    "addresses": [
+      "63rd and Halsted (unconfirmed)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1970s",
+        "status": "Unresolved",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Fried-chicken chain associated with 63rd in memory culture",
+    "claims": [
+      {
+        "claim": "Fried-chicken chain associated with 63rd in memory culture Era: 1970s",
+        "evidence": "nostalgia video description mentions tasting 'the mild sauce soaking through the bread at Harold's' on a 63rd & Halsted shopping trip; chain's original location was 47th & Greenwood (1950)",
+        "source": "https://www.youtube.com/watch?v=wO2rNQvqPA4",
+        "source_type": "secondary",
+        "published": "2026",
+        "status": "Unresolved",
+        "uncertainty": "Whether a Harold's stood at 63rd/Halsted is unconfirmed",
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Unresolved",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-056",
+    "name": "Washington Park National Bank",
+    "type": "Bank",
+    "addresses": [
+      "6300 S. Cottage Grove Ave"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1924–c.2019",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Demolished c. 2019",
+    "significance": "Landmark-quality bank anchoring the 63rd/Cottage Grove intersection",
+    "claims": [
+      {
+        "claim": "Landmark-quality bank anchoring the 63rd/Cottage Grove intersection Era: 1924–c.2019",
+        "evidence": "2018 Metropolitan Planning Council Woodlawn corridor report identifies the 6300 S. Cottage Grove bank site; bank built 1924; demolished ~2019",
+        "source": "https://metroplanning.org/wp-content/uploads/2024/01/woodlawncdi_mpc2018_web.pdf",
+        "source_type": "secondary",
+        "published": "2018",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-057",
+    "name": "Elman's Shoes",
+    "type": "Shoe store",
+    "addresses": [
+      "63rd and Maryland (exact address unknown)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1955",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Documented via archival photograph",
+    "claims": [
+      {
+        "claim": "Documented via archival photograph Era: 1955",
+        "evidence": "1955 photograph caption documents Elman's Shoes at 63rd and Maryland",
+        "source": "http://chicagopatterns.com/63rd-street-heydays-remnants-risk-woodlawn-development-takes-off/",
+        "source_type": "primary",
+        "published": "2017",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-058",
+    "name": "Regal Men's Shop",
+    "type": "Men's clothing store",
+    "addresses": [
+      "63rd and Maryland (earlier location; exact address unknown)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "pre-1955",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Documented via archival photograph",
+    "claims": [
+      {
+        "claim": "Documented via archival photograph Era: pre-1955",
+        "evidence": "1955 photograph caption identifies an earlier Regal Men's Shop location at 63rd and Maryland",
+        "source": "http://chicagopatterns.com/63rd-street-heydays-remnants-risk-woodlawn-development-takes-off/",
+        "source_type": "primary",
+        "published": "2017",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-059",
+    "name": "Cottage Grove Rexall",
+    "type": "Drugstore",
+    "addresses": [
+      "63rd and Cottage Grove (exact storefront unknown)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1958",
+        "status": "Verified",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed; physical remnants documented 2017",
+    "significance": "Documented via archival photograph",
+    "claims": [
+      {
+        "claim": "Documented via archival photograph Era: 1958",
+        "evidence": "1958 photograph caption; surviving terrazzo/sign remnants described in 2017",
+        "source": "http://chicagopatterns.com/63rd-street-heydays-remnants-risk-woodlawn-development-takes-off/",
+        "source_type": "primary",
+        "published": "2017",
+        "status": "Verified",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-060",
+    "name": "Harrison's Barber Shop",
+    "type": "Barbershop",
+    "addresses": [
+      "6437 S. Cottage Grove Ave"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "?–?",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed",
+    "significance": "Long-running Woodlawn barbershop",
+    "claims": [
+      {
+        "claim": "Long-running Woodlawn barbershop Era: ?–?",
+        "evidence": "Davis owned it 15 years; closed when a new property owner planned rehabilitation (full owner name and closing year not recovered)",
+        "source": "http://www.chicagoreporter.com/in-chicagos-woodlawn-neighborhood-untapped-economic-opportunity/",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-061",
+    "name": "Rothschild Liquors",
+    "type": "Liquor store",
+    "addresses": [
+      "423 E. 63rd St (former location)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "unknown",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Closed",
+    "significance": "63rd Street liquor store",
+    "claims": [
+      {
+        "claim": "63rd Street liquor store Era: unknown",
+        "evidence": "single realty-listing reference to 'former location of Rothschild Liquors'",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-062",
+    "name": "E.G. Woode small-business hub",
+    "type": "Small-business hub",
+    "addresses": [
+      "1122 W. 63rd St"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "current (grand opening Aug 25, year TBD)",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Operating",
+    "significance": "New small-business hub on 63rd",
+    "claims": [
+      {
+        "claim": "New small-business hub on 63rd Era: current (grand opening Aug 25, year TBD)",
+        "evidence": "Chicago Defender repost: grand opening Aug 25 (year not visible); tenants Powell's Barbershop and Marie|Wesley",
+        "source": "https://blackfacts.com/fact/e-g-woode-celebrates-grand-opening-of-small-business-hub-in-englewood-chicago-defender",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-063",
+    "name": "Green Door Club",
+    "type": "Nightclub",
+    "addresses": [
+      "Englewood (address unknown)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [
+      {
+        "period": "1959",
+        "status": "Provisional",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Documented via community-history photograph",
+    "claims": [
+      {
+        "claim": "Documented via community-history photograph Era: 1959",
+        "evidence": "photograph captioned 'The Green Door Club 1959' in Living Tracks Englewood community presentation",
+        "source": "https://www.agroecoenglewood.com/s/ENT-Community-Meeting-2-Pres-FINAL.pdf",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Provisional",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-064",
+    "name": "Goldblatt's (no confirmed 63rd branch)",
+    "type": "n/a",
+    "addresses": [
+      "not found"
+    ],
+    "neighborhood": "n/a",
+    "eras": [
+      {
+        "period": "n/a",
+        "status": "Unresolved",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "n/a",
+    "significance": "Negative finding: not an establishment on 63rd per available evidence",
+    "claims": [
+      {
+        "claim": "Negative finding: not an establishment on 63rd per available evidence Era: n/a",
+        "evidence": "chain's documented Chicago stores: Ashland/Chicago Ave, 47th & Ashland, State/Van Buren, Broadway/Lawrence — no 63rd branch found",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Unresolved",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Unresolved",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-065",
+    "name": "F. W. Woolworth (no confirmed 63rd branch)",
+    "type": "n/a",
+    "addresses": [
+      "not found"
+    ],
+    "neighborhood": "n/a",
+    "eras": [
+      {
+        "period": "n/a",
+        "status": "Unresolved",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "n/a",
+    "significance": "Negative finding: not an establishment on 63rd per available evidence",
+    "claims": [
+      {
+        "claim": "Negative finding: not an establishment on 63rd per available evidence Era: n/a",
+        "evidence": "no verified 63rd Street address found; do not infer from chain prominence",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Unresolved",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Unresolved",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-066",
+    "name": "Kamm and Nate's Shoes",
+    "type": "Shoe store",
+    "addresses": [
+      "unknown"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "unknown",
+        "status": "Unresolved",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Possibly documented in film footage; unverified",
+    "claims": [
+      {
+        "claim": "Possibly documented in film footage; unverified Era: unknown",
+        "evidence": "mentioned only in a Cinema Treasures user comment about footage in The Monkey Hustle (1976 film shot on 63rd)",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Unresolved",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Unresolved",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-067",
+    "name": "Maryland Professional Building",
+    "type": "Professional building",
+    "addresses": [
+      "unknown"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "unknown",
+        "status": "Unresolved",
+        "from": "w2"
+      }
+    ],
+    "present_condition": "Unknown",
+    "significance": "Possibly documented in film footage; unverified",
+    "claims": [
+      {
+        "claim": "Possibly documented in film footage; unverified Era: unknown",
+        "evidence": "mentioned only in the same Cinema Treasures comment as Kamm and Nate's",
+        "source": "",
+        "source_type": "secondary",
+        "published": "observed 2026-09-28",
+        "status": "Unresolved",
+        "uncertainty": null,
+        "from": "w2"
+      }
+    ],
+    "overall_grade": "Unresolved",
+    "merged_from": [
+      "w2"
+    ]
+  },
+  {
+    "id": "PLACE-068",
+    "name": "Apostolic Church of God",
+    "type": "faith institution",
+    "addresses": [
+      "6320 S. Dorchester Ave., Chicago, IL",
+      "63rd Street & Dorchester Avenue, Chicago",
+      "6320 S Dorchester Ave, Chicago, IL"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [
+      {
+        "period": "1960-1977",
+        "status": "building at 6320 S. Dorchester; earlier 63rd St. locations unconfirmed",
+        "note": "Brazier merged Universal Church of Christ (~200 members) with ACOG (~100 members) in 1960",
+        "from": "w3"
+      },
+      {
+        "period": "1977-1992",
+        "status": "active",
+        "note": "New sanctuary at 63rd St. & Kenwood Ave. opened 1977",
+        "from": "w3"
+      },
+      {
+        "period": "1992-present",
+        "status": "active",
+        "note": "Larger campus at 63rd St. & Dorchester Ave. completed 1992 (3,000-seat sanctuary, TV facilities); banquet-hall wing 1998; youth and family center 2007",
+        "from": "w3"
+      }
+    ],
+    "present_condition": "standing (active)",
+    "significance": "15,000-member congregation; pastor Bishop Arthur Brazier formed the Woodlawn Preservation and Investment Committee (WPIC) around 1988-89.",
+    "claims": [
+      {
+        "claim": "Rev. Arthur M. Brazier was pastor of ACOG from 1960 to 2008, retiring June 1, 2008, and was succeeded by his son Dr. Byron T. Brazier.",
+        "evidence": "Chicago Tribune retirement notice (May 15, 2008, via reprint); Wikipedia biography; The HistoryMakers finding aid A2005_003; UChicago News obituary (2010).",
+        "source": "https://news.uchicago.edu/story/bishop-arthur-m-brazier-tireless-advocate-woodlawn-community-1921-2010",
+        "source_type": "secondary",
+        "published": "2010",
+        "status": "Verified",
+        "uncertainty": "None on pastorate dates; membership figures vary (18,000-20,000+) and are approximate.",
+        "contradiction": "Membership: HistoryMakers says 18,000; Tribune 'nearly 20,000'; Wikipedia 'more than 20,000'.",
+        "from": "w3"
+      },
+      {
+        "claim": "Brazier was spokesman/president of The Woodlawn Organization, which defeated UChicago's Woodlawn expansion plans (1963); he co-founded the CCCO and worked with Al Raby in MLK's 1966 campaign.",
+        "evidence": "HistoryMakers finding aid; readkong/Wasielewski article on the 63rd St. 'L' demolition; Tribune obituary reprint.",
+        "source": "https://www.thehistorymakers.org/sites/default/files/A2005_003_EAD.pdf",
+        "source_type": "secondary",
+        "published": "2005",
+        "status": "Verified",
+        "uncertainty": "Minor: whether Brazier was 'spokesman' vs 'president' in which years.",
+        "contradiction": "Wikipedia says Brazier 'felt called to ministry in the late 1940s'; UChicago News says he 'began training for the ministry in 1955'.",
+        "from": "w3"
+      },
+      {
+        "claim": "ACOG campus construction milestones on 63rd St.: sanctuary at 63rd & Kenwood opened 1977; larger 63rd & Dorchester campus completed 1992; banquet hall 1998; youth & family center 2007.",
+        "evidence": "Wikipedia Arthur M. Brazier article citing institutional history and legislative tributes.",
+        "source": "https://en.wikipedia.org/wiki/Arthur_M._Brazier",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Single secondary source (tertiary, really). Need ACOG anniversary book or Tribune contemporaneous coverage to firm up.",
+        "from": "w3"
+      },
+      {
+        "claim": "15,000-member congregation; pastor Bishop Arthur Brazier formed the Woodlawn Preservation and Investment Committee (WPIC) around 1988-89.",
+        "source": "http://chronicle.uchicago.edu/001102/cohousing.shtml",
+        "status": "Provisional",
+        "from": "w4"
+      },
+      {
+        "claim": "Address verified in 2008 Chicago Tribune reporting.",
+        "evidence": "Chicago Tribune May 15, 2008 (via repost)",
+        "source": "https://www.lipstickalley.com/threads/rev-arthur-brazier-pastor-of-apostolic-church-of-god-retires.124369/",
+        "source_type": "secondary (newspaper via repost)",
+        "published": "2008-05-15",
+        "status": "Provisional",
+        "uncertainty": "Original Tribune page not viewed",
+        "from": "w5"
+      },
+      {
+        "claim": "Bishop Arthur M. Brazier led congregation 1960-2008; central figure in The Woodlawn Organization and Chicago civil-rights organizing; succeeded by son Byron Brazier June 1, 2008.",
+        "evidence": "UChicago News obituary 2010; The HistoryMakers EAD; Chicago Tribune May 15 2008",
+        "source": "https://news.uchicago.edu/story/bishop-arthur-m-brazier-tireless-advocate-woodlawn-community-1921-2010",
+        "source_type": "secondary",
+        "published": "2008-2010",
+        "status": "Provisional",
+        "uncertainty": "Building construction date and architect unknown",
+        "from": "w5"
+      },
+      {
+        "claim": "Barack Obama delivered remarks at the church in 2008.",
+        "evidence": "Transcript, American Presidency Project (UCSB)",
+        "source": "https://presidency.ucsb.edu/documents/remarks-the-apostolic-church-god-chicago",
+        "source_type": "primary (transcript)",
+        "published": "2008",
+        "status": "Verified",
+        "uncertainty": "None",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w3",
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-069",
+    "name": "Shrine of Christ the King",
+    "type": "church",
+    "addresses": [
+      "6401 S. Woodlawn Ave., Chicago, IL",
+      "6401 S Woodlawn Ave, Chicago, IL"
+    ],
+    "neighborhood": "Woodlawn (adjacent anchor - one block south of 63rd)",
+    "eras": [
+      {
+        "period": "1894-1928",
+        "status": "St. Clara parish; church cornerstone 1923, completed 1928",
+        "note": "Founded for largely German community after the World's Columbian Exposition; architect Henry J. Schlacks, Renaissance Revival",
+        "from": "w3"
+      },
+      {
+        "period": "1928-1969",
+        "status": "St. Clara parish",
+        "note": "Neighborhood demographics shifted; fires and decline later",
+        "from": "w3"
+      },
+      {
+        "period": "1969-1990",
+        "status": "St. Clara-St. Cyril",
+        "note": "Consolidated with St. Cyril (55th & Woodlawn) 1969",
+        "from": "w3"
+      },
+      {
+        "period": "1990-2002",
+        "status": "St. Gelasius",
+        "note": "Holy Cross parish (65th & Maryland) merged in 1990; closed June 2002 with <100 weekly worshippers",
+        "from": "w3"
+      },
+      {
+        "period": "2004-present",
+        "status": "Shrine of Christ the King",
+        "note": "Chicago Landmark Jan 14, 2004; Institute of Christ the King from c. 2004-2006; fires 1976 and Oct 7, 2015",
+        "from": "w3"
+      }
+    ],
+    "present_condition": "standing (Chicago Landmark)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "St. Clara parish founded 1894; Schlacks Renaissance Revival church cornerstone laid 1923, finished 1928; German congregation.",
+        "evidence": "Wikipedia; Chicago Patterns 'Rallying to Save a Twice-Burned Woodlawn Landmark'.",
+        "source": "http://chicagopatterns.com/rallying-to-save-a-twice-burned-woodlawn-landmark/",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      },
+      {
+        "claim": "Designated a Chicago Landmark Jan 14, 2004 after community protest halted demolition; Institute of Christ the King arrived c. 2004-2006; Oct 7, 2015 fire destroyed most of roof; congregation temporarily worshipped at First Presbyterian Church.",
+        "evidence": "Wikipedia; Chicago Catholic (Mar 7, 2016); Chicago Patterns.",
+        "source": "https://www.chicagocatholic.com/chicagoland/-/article/2016/03/07/woodlawn-shrine-to-rebui-1",
+        "source_type": "primary",
+        "published": "2016-03-07",
+        "status": "Verified",
+        "uncertainty": "Exact date the Institute took over restoration (2004 vs 2006 per sources).",
+        "contradiction": "Some sources say Institute 'arrived' 2004; Wikipedia says church 'handed over' 2006.",
+        "from": "w3"
+      },
+      {
+        "claim": "1969 consolidation with St. Cyril; 1990 merger with Holy Cross; renamed St. Gelasius; closed June 2002.",
+        "evidence": "Wikipedia (St. Gelasius section).",
+        "source": "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "None material; parish records would firm up.",
+        "from": "w3",
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional. Reason: Single Wikipedia citation (Shrine of Christ the King) for 1969/1990 merger dates. Source cited: https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King",
+          "Cross-project audit remediation 2026-09-28: flagged weak_source_only (source: https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King). Already downgraded to Provisional via regrade list; queued for re-sourcing before any public use."
+        ],
+        "weak_source_only": true
+      },
+      {
+        "claim": "Completed 1928; architect Henry Schlacks (Henry John Schlacks).",
+        "evidence": "Wikipedia; GlobeSt Sept 7 2003 (quoting city landmark staff)",
+        "source": "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King_(Chicago)",
+        "source_type": "tertiary/secondary",
+        "published": "2003",
+        "status": "Provisional",
+        "uncertainty": "Building permit not located",
+        "from": "w5"
+      },
+      {
+        "claim": "Designated Chicago Landmark January 14, 2004; demolition-delay 90-day hold in 2003 was first use of the law; interior gutted by 1976 fire.",
+        "evidence": "Wikipedia; GlobeSt Sept 7 2003 (commission proceedings, Ald. Arenda Troutman 20th Ward)",
+        "source": "https://www.globest.com/2003/09/07/demolition-delay-laws-first-use-may-save-church/",
+        "source_type": "secondary",
+        "published": "2003-09-07",
+        "status": "Provisional",
+        "uncertainty": "Designation ordinance number not seen",
+        "from": "w5"
+      },
+      {
+        "claim": "Damaged by 2015 fire; under restoration.",
+        "evidence": "chicagopatterns.com",
+        "source": "http://chicagopatterns.com/rallying-to-save-a-twice-burned-woodlawn-landmark/",
+        "source_type": "secondary",
+        "status": "Provisional",
+        "uncertainty": "2026 restoration status unknown",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w3",
+      "w5"
+    ],
+    "name_note": "Formerly St. Clara / St. Gelasius Church; now the Shrine of Christ the King Sovereign Priest."
+  },
+  {
+    "id": "PLACE-070",
+    "name": "First Presbyterian Church of Chicago",
+    "type": "faith institution",
+    "addresses": [
+      "6400 S. Kimbark Ave., Chicago, IL",
+      "64th & Kimbark Ave, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1833-1927",
+        "status": "active; earlier locations",
+        "note": "Founded June 26, 1833; oldest continuously operating institution in Chicago",
+        "from": "w3"
+      },
+      {
+        "period": "1927-present",
+        "status": "active",
+        "note": "Gothic Revival building by Tallmadge & Watson at 6400 S. Kimbark; first public school and first Head Start programs in the region started in its buildings",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": "Church named in Pat Wilcoxen's direct recollection of Sunday walks from Hyde Park in the mid-1950s — the only concrete weekly-routine account found in sources.",
+    "claims": [
+      {
+        "claim": "Founded June 26, 1833; oldest continuously operating institution in Chicago; current building (1927, Tallmadge & Watson) at 6400 S. Kimbark.",
+        "evidence": "Wikipedia (First Presbyterian Church of Chicago).",
+        "source": "https://en.wikipedia.org/wiki/First_Presbyterian_Church_(Chicago)",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "None material; cross-reference with Presbyterian historical society would firm.",
+        "from": "w3",
+        "weak_source_only": true,
+        "red_team_notes": [
+          "Cross-project audit remediation 2026-09-28: downgraded Verified -> Provisional and flagged weak_source_only. Source rests solely on weak/laundered sources (https://en.wikipedia.org/wiki/First_Presbyterian_Church_(Chicago)); queued for re-sourcing before any public use."
+        ]
+      },
+      {
+        "claim": "The first public school and the first Head Start programs in the region were started in First Presbyterian's buildings.",
+        "evidence": "Wikipedia (First Presbyterian Church of Chicago).",
+        "source": "https://en.wikipedia.org/wiki/First_Presbyterian_Church_(Chicago)",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Single secondary claim; needs institutional records.",
+        "from": "w3"
+      },
+      {
+        "claim": "Church named in Pat Wilcoxen's direct recollection of Sunday walks from Hyde Park in the mid-1950s — the only concrete weekly-routine account found in sources.",
+        "source": "http://chronicle.uchicago.edu/001102/cohousing.shtml",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w3",
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-071",
+    "name": "St. Rita of Cascia Parish",
+    "type": "faith institution",
+    "addresses": [
+      "6243 S. Fairfield Ave., Chicago, IL (63rd St. & Fairfield Ave.)",
+      "6243 S. Fairfield Ave area, Chicago Lawn, Chicago",
+      "6243 S Fairfield Ave, Chicago, IL 60629"
+    ],
+    "neighborhood": "Chicago Lawn",
+    "eras": [
+      {
+        "period": "1905-1950",
+        "status": "active; earlier church buildings",
+        "note": "Founded 1905 by Augustinian Friars; first Augustinian church in Chicago",
+        "from": "w3"
+      },
+      {
+        "period": "1950-present",
+        "status": "active",
+        "note": "Current Neo-Romanesque church built 1950; united with St. Clare of Montefalco July 1, 2020 (Renew My Church)",
+        "from": "w3"
+      }
+    ],
+    "present_condition": "standing (active)",
+    "significance": "Augustinian parish and all-boys high school founded 1905 (Congressional Record, July 27, 2005); anchors Catholic life near 63rd in Chicago Lawn. Current church building dates unconfirmed.",
+    "claims": [
+      {
+        "claim": "Founded 1905 by the Augustinian Friars as the first Augustinian church in Chicago; located at 63rd St. & Fairfield Ave.; united with St. Clare of Montefalco July 1, 2020, retaining the St. Rita title.",
+        "evidence": "Midwest Augustinians parish-unification announcement (July 2020); Chicago Catholic (Feb 2020 Renew My Church update); Chicago Catholic SWOP article locating church at '63rd Street and Fairfield Avenue' (2019).",
+        "source": "https://www.midwestaugustinians.org/news/2020/7/10/st-rita-parish-officially-unites-with-st-clare-of-montefalco-w2r3h",
+        "source_type": "primary",
+        "published": "2020-07-10",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      },
+      {
+        "claim": "Current Neo-Romanesque church built 1950.",
+        "evidence": "TikTok creators (Chicagiensis, ElJardineroDel312).",
+        "source": "https://www.tiktok.com/@chicagiensis (summary)",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Only social-media sources; no parish/Archdiocese record located.",
+        "from": "w3"
+      },
+      {
+        "claim": "Augustinian parish and all-boys high school founded 1905 (Congressional Record, July 27, 2005); anchors Catholic life near 63rd in Chicago Lawn. Current church building dates unconfirmed.",
+        "source": "https://www.congress.gov/congressional-record/volume-151/issue-104/extensions-of-remarks-section/article/E1643-1",
+        "status": "Verified",
+        "from": "w4"
+      },
+      {
+        "claim": "Augustinian parish established 1905 (first Augustinian church in Chicago); current church built 1950 in Neo-Romanesque style; serves primarily Latino community; absorbed St. Clare of Montefalco Parish.",
+        "evidence": "Social-media captions (TikTok @chicagiensis, @eljardinerodel312)",
+        "source": "https://www.tiktok.com/@chicagiensis/video/7507439752539327790",
+        "source_type": "social media",
+        "status": "Provisional",
+        "uncertainty": "No parish-published history seen; architect and dedication date unknown",
+        "from": "w5"
+      },
+      {
+        "claim": "Parish active in 2026, staffed by Midwest Augustinians.",
+        "evidence": "Chicago Catholic March 18, 2026",
+        "source": "https://www.chicagocatholic.com/chicagoland/-/article/2026/03/18/chicago-new-twin-city-for-home-of-st-rita-of-cascia",
+        "source_type": "secondary (diocesan news)",
+        "published": "2026-03-18",
+        "status": "Verified",
+        "uncertainty": "None",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w3",
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-072",
+    "name": "St. Benedict the African Parish (Roman Catholic)",
+    "type": "church",
+    "addresses": [
+      "340 W. 66th St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1968-1995",
+        "status": "one parish from eight merged parishes",
+        "note": "Formed from eight parishes as neighborhood became predominantly African-American; two worship sites",
+        "from": "w3"
+      },
+      {
+        "period": "1995-2016",
+        "status": "two parishes",
+        "note": "Split into two parishes 1995",
+        "from": "w3"
+      },
+      {
+        "period": "2016-present",
+        "status": "active",
+        "note": "Re-merged 2016 at 66th & Stewart; African-hut-inspired architecture",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Formed from merger of eight parishes; split into two parishes 1995; re-merged 2016 into one parish at 340 W. 66th St.; African-hut-inspired architecture; included in Chicago Architecture Foundation's Open House Chicago.",
+        "evidence": "Chicago Catholic article (Nov 2025).",
+        "source": "https://www.chicagocatholic.com/chicagoland/-/article/2025/11/23/st-benedict-the-african-parish-reflects-the-faith-of-the-neighborhood-it-serves",
+        "source_type": "secondary",
+        "published": "2025",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-073",
+    "name": "Greater Saint John AME Church",
+    "type": "church",
+    "addresses": [
+      "6201 S. Throop St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "unknown-present",
+        "status": "active (reported)",
+        "note": "African Methodist Episcopal congregation in Englewood, 6200 block of Throop (immediately north of 63rd)",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Greater Saint John AME Church is located at 6201 S. Throop St., Englewood.",
+        "evidence": "MapCarta/OpenStreetMap entry; MapQuest listing; superpages directory (gives 6207 S. Throop).",
+        "source": "https://mapcarta.com/22134790",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Address varies (6201 vs 6207 S. Throop); no denominational or congregation record located; founding date unknown.",
+        "contradiction": "superpages listing gives 6207 S. Throop St.",
+        "from": "w3"
+      },
+      {
+        "claim": "Greater Saint John AME Church was named as a 'trusted institution' partner in LISC Chicago's 2019 Micro-Market Recovery Program strategy for Englewood.",
+        "evidence": "LISC Chicago MMRP handout (2019).",
+        "source": "https://www.lisc.org/media/filer_public/3a/06/3a06c4c8-d0da-4c70-8f8b-a4096a2005f2/mmrp_handouts_2019_final-englewood.pdf",
+        "source_type": "primary",
+        "published": "2019",
+        "status": "Verified",
+        "uncertainty": "None.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-074",
+    "name": "St. John EMBC Church",
+    "type": "church",
+    "addresses": [
+      "1234 W. 63rd St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "unknown-present",
+        "status": "active (reported)",
+        "note": "Baptist congregation on W. 63rd in Englewood",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "St. John EMBC Church is located at 1234 W. 63rd St., Englewood; Baptist.",
+        "evidence": "MapCarta/OpenStreetMap entry only.",
+        "source": "https://MapCarta.com/W210129836",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Single map-source; no denominational record, founding date, or occupancy verification.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-075",
+    "name": "St. Mary's M.B. Church",
+    "type": "church",
+    "addresses": [
+      "1040 W. 63rd St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "unknown-present",
+        "status": "active (reported)",
+        "note": "Missionary Baptist congregation on W. 63rd in Englewood",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "St. Mary's Missionary Baptist Church is located at 1040 W. 63rd St., Englewood.",
+        "evidence": "Instagram place data / congregation-linked listing.",
+        "source": "https://www.instagram.com/stmarysmbc63",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Social-media place data only; founding date unknown.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-076",
+    "name": "Beautiful Zion Missionary Baptist Church",
+    "type": "church",
+    "addresses": [
+      "1406 W. 64th St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "c. 1920s-present",
+        "status": "active",
+        "note": "Described as a community cornerstone for 'more than a century'; Neoclassical limestone facade",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Beautiful Zion Missionary Baptist Church, 1406 W. 64th St., received a $10,000 Timuel D. Black, Jr. Grant Fund grant (Feb 2025) for masonry repairs; described as a century-old cornerstone of Englewood.",
+        "evidence": "Landmarks Illinois press release via einpresswire (Feb 20, 2025).",
+        "source": "https://www.einpresswire.com/article/787715161/landmarks-illinois-grants-help-fund-repairs-at-historic-church-buildings-on-chicago-s-south-side",
+        "source_type": "primary",
+        "published": "2025-02-20",
+        "status": "Verified",
+        "uncertainty": "Exact founding date not given in release ('more than a century' claim is approximate).",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-077",
+    "name": "Englewood Academy High School",
+    "type": "school",
+    "addresses": [
+      "6201 S. Stewart Ave., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "c. 1873-2005",
+        "status": "active",
+        "note": "Historic Englewood High School; phase-out began 2005",
+        "from": "w3"
+      },
+      {
+        "period": "2005-2008",
+        "status": "phasing out",
+        "note": "Phase-out cited 'culture of failure'; last class graduated 2008",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Englewood Academy High School at 6201 S. Stewart Ave. was phased out beginning 2005 and closed with the last class in 2008; the building reopened for TEAM Englewood Community Academy and Urban Prep Academy.",
+        "evidence": "CTU Local 1 report; Substance News; Chalkbeat (Jan 29, 2019).",
+        "source": "https://www.ctulocal1.org/reports/englewood-abandonment-revival/",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Verified",
+        "uncertainty": "Founding year 1873 is the school's self-reported claim (teamenglewood.org) and needs CPS archival confirmation.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-078",
+    "name": "TEAM Englewood Community Academy",
+    "type": "school",
+    "addresses": [
+      "6201 S. Stewart Ave., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "c. 2007-2018",
+        "status": "closed",
+        "note": "Opened in former Englewood HS building under Renaissance 2010; emptied to 76 students; consolidated into Englewood STEM HS",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "TEAM Englewood opened in the former Englewood High School building under Renaissance 2010; shrank to 76 students (~98% African-American); its students were consolidated with Harper, Hope, and Robeson into the new $85M Englewood STEM High School (6835 S. Normal Blvd.), which opened Sept 3, 2019.",
+        "evidence": "Chalkbeat (Jan 29, 2019); Wikipedia (Englewood STEM HS); CPS School Actions transcript (Jan 13, 2018).",
+        "source": "https://www.chalkbeat.org/chicago/2019/1/29/21106695/can-a-new-high-school-heal-years-of-school-closings-in-englewood/",
+        "source_type": "secondary",
+        "published": "2019-01-29",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-079",
+    "name": "Woods Elementary School",
+    "type": "school",
+    "addresses": [
+      "6206 S. Racine Ave., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "unknown-2013",
+        "status": "closed",
+        "note": "Closed in the 2013 wave of 50 CPS closures; students moved to Perkins Bass Elementary",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Woods Elementary School, 6206 S. Racine Ave., closed in 2013; students were assigned to Perkins Bass Elementary, 1140 W. 66th St.",
+        "evidence": "CPS school-repurposing report (schoolreports.cps.edu); Substance News.",
+        "source": "https://schoolreports.cps.edu/schoolrepurposing/Woods.pdf",
+        "source_type": "primary",
+        "published": "2013",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-080",
+    "name": "Perkins Bass Elementary School",
+    "type": "school",
+    "addresses": [
+      "1140 W. 66th St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "unknown-present",
+        "status": "active",
+        "note": "Receiving school for Woods Elementary and other closed Englewood-area schools in 2013",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Perkins Bass Elementary, 1140 W. 66th St., is an Englewood neighborhood school that received Woods Elementary students after the 2013 closures.",
+        "evidence": "CPS EFMP facility report; Chicago Reporter.",
+        "source": "https://schoolreports.cps.edu/EFMP/EFMP_BASS_609791.pdf",
+        "source_type": "primary",
+        "published": "n.d.",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-081",
+    "name": "St. Rita of Cascia High School",
+    "type": "school",
+    "addresses": [
+      "7740 S. Western Ave., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1905-present",
+        "status": "active",
+        "note": "All-boys Catholic high school founded by Very Rev. James F. Green, O.S.A.; not on 63rd proper (77th & Western) but a historically related parish institution",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "St. Rita of Cascia High School was founded in 1905 by Very Rev. James F. Green, O.S.A.; centennial recognized in the Congressional Record (July 27, 2005, Rep. Daniel Lipinski); campus at 7740 S. Western Ave.",
+        "evidence": "Congressional Record, Vol. 151, Issue 104 (Extensions of Remarks).",
+        "source": "https://www.congress.gov/congressional-record/volume-151/issue-104/extensions-of-remarks-section/article/E1643-1",
+        "source_type": "primary",
+        "published": "2005-07-27",
+        "status": "Verified",
+        "uncertainty": "Whether the school's earlier campus was nearer 63rd St. before the current Western Ave. campus — unconfirmed.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-082",
+    "name": "W. W. Jackson Funeral Home",
+    "type": "business",
+    "addresses": [
+      "2701 W. 63rd St., Chicago, IL 60629"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1955-present",
+        "status": "active (reported); building listed for sale",
+        "note": "Commercial listing dates the building to 1955; ownership/founding date unverified",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "W. W. Jackson Funeral Home is located at 2701 W. 63rd St., Chicago Lawn; the building dates to 1955 and is currently listed for sale.",
+        "evidence": "localmint and CityFeet commercial listings.",
+        "source": "https://www.cityfeet.com/cont/listing/2701-w-63rd-st-chicago-il-60629/cs35405621",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Building date from a single commercial listing; Black-owned status and founding date not verified — do not assert.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-083",
+    "name": "Teamwork Englewood",
+    "type": "organization",
+    "addresses": [
+      "815 W. 63rd St., Fl. 2, Chicago, IL 60621"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "2003-present",
+        "status": "active",
+        "note": "Formed 2003, sponsored by Pullman Bank, LISC/Chicago and local churches; LISC New Communities Program lead agency for Englewood",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Teamwork Englewood was formed in 2003 (sponsored by Pullman Bank, LISC/Chicago and local churches), became the LISC New Communities Program lead agency for Englewood, and operates from 815 W. 63rd St., Fl. 2.",
+        "evidence": "Chicago Reporter; LISC Englewood Quality of Life Plan (2005); Teamwork Englewood annual reports.",
+        "source": "http://www.chicagoreporter.com/englewood-help-residents-shape-own-future/",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-084",
+    "name": "63rd Street Corridor Center for Working Families",
+    "type": "organization",
+    "addresses": [
+      "6301 S. Halsted St., Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "c. 2010-present",
+        "status": "active (reported)",
+        "note": "One-stop career/financial/digital-literacy center at Kennedy-King College, operated by Jane Addams Hull House Association with multiple partners",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "The 63rd Street Corridor Center for Working Families at 6301 S. Halsted St. (Kennedy-King College) was operated by the Jane Addams Hull House Association with Kennedy-King, the Network of Woodlawn, Teamwork Englewood, and the Washington Park Consortium; funded in part through the Social Innovation Fund via National LISC.",
+        "evidence": "ChicagoTalks/Columbia College (reporting on CWF site).",
+        "source": "https://chicagotalks.colum.edu/63rd-street-gets-one-stop-shopping-for-careers-digital-literacy/",
+        "source_type": "secondary",
+        "published": "n.d.",
+        "status": "Provisional",
+        "uncertainty": "Single secondary source; primary record from City Colleges or LISC would firm up; current operational status not confirmed.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-085",
+    "name": "The Woodlawn Organization (TWO)",
+    "type": "community organization",
+    "addresses": [
+      "Woodlawn community, Chicago, IL (no 63rd St. office address verified)",
+      "Woodlawn, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1960-1963",
+        "status": "active",
+        "note": "Temporary Woodlawn Organization; spokesman/president Rev. Arthur M. Brazier; defeated UChicago expansion into Woodlawn (1963)",
+        "from": "w3"
+      },
+      {
+        "period": "1964-1970s",
+        "status": "active",
+        "note": "Model for 1960s community organizing; Brazier active in 1966 movement",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": "Ministerial alliance formed with community organizer Saul Alinsky in the 1960s that challenged a proposed University of Chicago South Campus expansion plan; a compromise was reached.",
+    "claims": [
+      {
+        "claim": "The (Temporary) Woodlawn Organization, with spokesman/president Rev. Arthur M. Brazier, organized by Nicholas von Hoffman for Saul Alinsky's Industrial Areas Foundation, defeated University of Chicago expansion plans in Woodlawn in 1963.",
+        "evidence": "HistoryMakers finding aid A2005_003; readkong/Wasielewski article; UChicago News obituary (2010).",
+        "source": "https://news.uchicago.edu/story/bishop-arthur-m-brazier-tireless-advocate-woodlawn-community-1921-2010",
+        "source_type": "secondary",
+        "published": "2010",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      },
+      {
+        "claim": "Ministerial alliance formed with community organizer Saul Alinsky in the 1960s that challenged a proposed University of Chicago South Campus expansion plan; a compromise was reached.",
+        "source": "http://chronicle.uchicago.edu/001102/cohousing.shtml",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w3",
+      "w4"
+    ],
+    "name_note": "One worker file rendered the name as 'Temporary Woodlawn Organization'; corrected to 'The Woodlawn Organization' per the stronger source."
+  },
+  {
+    "id": "PLACE-086",
+    "name": "Greater Mount Hope Baptist Church / Chicago Freedom Movement South Side Action Center",
+    "type": "movement",
+    "addresses": [
+      "6035 S. Princeton St., Chicago, IL (Englewood)"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "1966-1967",
+        "status": "active",
+        "note": "Rev. William Lambert's church became the South Side Action Center of the Chicago Freedom Movement in August 1966",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Greater Mount Hope Baptist Church, 6035 S. Princeton St. (Englewood), pastored by Rev. William Lambert, became the South Side Action Center of the Chicago Freedom Movement in August 1966; Lambert was a 1962 Chicago delegate to Albany, GA and a Clergy Alliance selective-buying campaign leader.",
+        "evidence": "Middlebury College Chicago Freedom Movement sites archive.",
+        "source": "https://sites.middlebury.edu/chicagofreedommovement/chicago-freedom-movement-sites/",
+        "source_type": "secondary",
+        "published": "2013",
+        "status": "Verified",
+        "uncertainty": "None material.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-087",
+    "name": "Southwest Organizing Project (SWOP) Reclaiming Project",
+    "type": "organization",
+    "addresses": [
+      "vicinity of 63rd St. & Fairfield Ave., Chicago Lawn (St. Rita of Cascia), Chicago, IL"
+    ],
+    "neighborhood": null,
+    "eras": [
+      {
+        "period": "2012-present",
+        "status": "active",
+        "note": "Began June 2012 in a 20-square-block area around St. Rita; 93 vacant buildings reduced to 8 by 2019 (85 converted to affordable housing)",
+        "from": "w3"
+      }
+    ],
+    "present_condition": null,
+    "significance": null,
+    "claims": [
+      {
+        "claim": "SWOP's Reclaiming Project began June 2012 around St. Rita of Cascia (63rd & Fairfield); by 2019 vacant buildings in the 20-block area fell from 93 to 8, with 85 converted to affordable housing; partners incl. United Power for Action and Justice; praised by Cardinal Cupich.",
+        "evidence": "Chicago Catholic (June 20, 2019).",
+        "source": "https://www.chicagocatholic.com/chicagoland/-/article/2019/06/20/group-reclaims-neighborhood-around-st-rita-of-cascia-pari-1",
+        "source_type": "secondary",
+        "published": "2019-06-20",
+        "status": "Verified",
+        "uncertainty": "Outcome statistics (55% crime decrease, 60% shooting decrease; building counts) reported by project participants; treat as participant-reported.",
+        "from": "w3"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w3"
+    ]
+  },
+  {
+    "id": "PLACE-088",
+    "name": "Englewood Mall (pedestrian mall)",
+    "type": "commercial district",
+    "addresses": [
+      "63rd & Halsted, Chicago (parts of three corners)"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Pedestrianized shopping mall on Halsted; street reportedly closed to automobiles in 1969 (weak source), or the mall 'built around 30 years ago' per a 2003 trade article (~1973). Replaced by the Kennedy-King College project in the early 2000s. Exact opening/conversion/closure/demolition dates unresolved.",
+    "claims": [
+      {
+        "claim": "Pedestrianized shopping mall on Halsted; street reportedly closed to automobiles in 1969 (weak source), or the mall 'built around 30 years ago' per a 2003 trade article (~1973). Replaced by the Kennedy-King College project in the early 2000s. Exact opening/conversion/closure/demolition dates unresolved.",
+        "source": "https://www.globest.com/2003/10/20/192m-college-expected-to-boost-englewood",
+        "status": "Unresolved",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Unresolved",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-089",
+    "name": "Kennedy-King College",
+    "type": "educational institution",
+    "addresses": [
+      "6301 S. Halsted St, Chicago (40 acres at 63rd & Halsted)",
+      "6301 S Halsted St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "standing (operating)",
+    "significance": "New 40-acre campus dedicated July 18, 2007: six buildings, ~500,000 sq ft (classrooms, labs, library/music library, culinary kitchens, teaching restaurant, 450-seat dining hall, theater, TV/radio studios, trades facilities, athletics, childcare). City floated $172M in bonds, state added $20M. Fall 2007 opening reportedly yielded 48% credit-enrollment growth. Working-family center provided job placement, financial counseling, benefits access, digital-literacy services.",
+    "claims": [
+      {
+        "claim": "New 40-acre campus dedicated July 18, 2007: six buildings, ~500,000 sq ft (classrooms, labs, library/music library, culinary kitchens, teaching restaurant, 450-seat dining hall, theater, TV/radio studios, trades facilities, athletics, childcare). City floated $172M in bonds, state added $20M. Fall 2007 opening reportedly yielded 48% credit-enrollment growth. Working-family center provided job placement, financial counseling, benefits access, digital-literacy services.",
+        "source": "https://pbcchicago.com/press_releases/mayor-daley-dedicates-new-kennedy-king-college-campus/; https://www.bdcnetwork.com/home/news/55152859/city-college-seeks-to-revitalize-chicagos-englewood-neighborhood; https://chicagotalks.colum.edu/63rd-street-gets-one-stop-shopping-for-careers-digital-literacy/",
+        "status": "Verified",
+        "from": "w4"
+      },
+      {
+        "claim": "Address and current operation as Kennedy-King College (City Colleges of Chicago).",
+        "evidence": "CCC official site; HLC reaffirmation action letter Feb 20, 2026",
+        "source": "http://www.ccc.edu/colleges/kennedy/Pages/default.aspx",
+        "source_type": "official",
+        "published": "2026-02-20",
+        "status": "Verified",
+        "uncertainty": "None",
+        "from": "w5"
+      },
+      {
+        "claim": "New six-building, 504,700-SF campus on 41-acre redevelopment area replacing former Englewood Mall; ~$192M project; opened 2007; project architect Walter Street III (Kennedy-King Associates).",
+        "evidence": "GlobeSt Oct 20 2003; Building Design+Construction",
+        "source": "https://www.globest.com/2003/10/20/192m-college-expected-to-boost-englewood",
+        "source_type": "trade press",
+        "published": "2003",
+        "status": "Provisional",
+        "uncertainty": "Exact opening/dedication date and architect-of-record unconfirmed; mall demolition date unknown",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-090",
+    "name": "Englewood Square",
+    "type": "commercial development",
+    "addresses": [
+      "Northwest corner of 63rd & Halsted, Chicago (~5.5 acres, ~50,000 sq ft)",
+      "820 W 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "standing (2026 tenant unresolved)",
+    "significance": "Opened 2016 on the former Englewood Mall footprint area. Original tenants included Whole Foods, Starbucks, Chipotle, Villa, Oak Street Health; PNC followed. A 2012 city study estimated $127M in annual retail leakage from the area.",
+    "claims": [
+      {
+        "claim": "Opened 2016 on the former Englewood Mall footprint area. Original tenants included Whole Foods, Starbucks, Chipotle, Villa, Oak Street Health; PNC followed. A 2012 city study estimated $127M in annual retail leakage from the area.",
+        "source": "https://map.lisc-cnda.org/2017/cnda/dl3-realty-for-englewood-square/; https://citizennewspapergroup.com/news/2017/oct/18/englewood-square-celebrates-one-year-anniversary/",
+        "status": "Verified",
+        "from": "w4"
+      },
+      {
+        "claim": "Whole Foods Market announced Sept 5, 2013; opened Sept 2016 (18,000 SF); closed after six years (2022).",
+        "evidence": "The TRiiBE Feb 2022; IL House Dems release May 2, 2022",
+        "source": "https://thetriibe.com/2022/02/englewood-is-getting-a-new-community-run-grocery-store-on-63rd-street-go-green-community-fresh-market/",
+        "source_type": "secondary",
+        "published": "2022",
+        "status": "Provisional",
+        "uncertainty": "Exact opening/closing dates and city subsidy records not obtained; 2026 tenant unknown; do not equate parcel with Sears or mall without deed evidence",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w4",
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-091",
+    "name": "Whole Foods Market Englewood",
+    "type": "commercial anchor",
+    "addresses": [
+      "832 W. 63rd St, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Opened September 28, 2016; closed November 14, 2022 after six years. Company cited insufficient 'performance and growth potential.' City spent $10.7M preparing the site, sold it to DL3 for $1, with a full-service-grocer requirement through November 2027.",
+    "claims": [
+      {
+        "claim": "Opened September 28, 2016; closed November 14, 2022 after six years. Company cited insufficient 'performance and growth potential.' City spent $10.7M preparing the site, sold it to DL3 for $1, with a full-service-grocer requirement through November 2027.",
+        "source": "https://www.governing.com/assessments/is-there-a-place-for-supermarket-socialism; https://cegu.uchicago.edu/2024/12/06/whole-foods-experiment-63rd/",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-092",
+    "name": "Save A Lot Englewood",
+    "type": "commercial anchor",
+    "addresses": [
+      "832 W. 63rd St, Chicago (former Whole Foods space)"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Opened May 11, 2023, operated by Yellow Banana, after an April opening was postponed amid community opposition over quality and engagement.",
+    "claims": [
+      {
+        "claim": "Opened May 11, 2023, operated by Yellow Banana, after an April opening was postponed amid community opposition over quality and engagement.",
+        "source": "https://www.edinburgpost.com/englewood-save-a-lot-opens-at-former-whole-foods-despite-community-opposition/",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-093",
+    "name": "Parkway Gardens",
+    "type": "housing",
+    "addresses": [
+      "6330-6546 S. King Drive, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Residential complex directly touching the 63rd corridor area. Built 1950-1955 as a Black cooperative; converted to rentals in the mid-1970s; Related acquired it in 2011, preserving affordability for 30 years; major renovations completed ~2013. Private subsidized/affordable housing — not a CHA public-housing project.",
+    "claims": [
+      {
+        "claim": "Residential complex directly touching the 63rd corridor area. Built 1950-1955 as a Black cooperative; converted to rentals in the mid-1970s; Related acquired it in 2011, preserving affordability for 30 years; major renovations completed ~2013. Private subsidized/affordable housing — not a CHA public-housing project.",
+        "source": "https://www.relatedmidwest.com/our-company/properties/parkway-gardens",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-094",
+    "name": "Dan Ryan Expressway",
+    "type": "infrastructure",
+    "addresses": [
+      "South Side of Chicago (14-lane expressway)"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Depicted in the Metropolitan Planning Council's 2023 report as a 14-lane barrier that bisected South Side communities, with before/after imagery labeled Englewood/Washington Park. Precise causal link to individual 63rd Street business losses is unresolved.",
+    "claims": [
+      {
+        "claim": "Depicted in the Metropolitan Planning Council's 2023 report as a 14-lane barrier that bisected South Side communities, with before/after imagery labeled Englewood/Washington Park. Precise causal link to individual 63rd Street business losses is unresolved.",
+        "source": "https://static1.squarespace.com/static/6137bb6a70437e7184693b15/t/64cd191e2396e919d2b0148f/1691162919588/Re-Connecting+Communities_ADA+Compliant_Updated+JAN+31+2023.pdf",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-095",
+    "name": "WVON (1450 AM)",
+    "type": "radio station",
+    "addresses": [
+      "Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Launched April 1, 1963; featured Herb Kent 'The Cool Gent'; described as Chicago's premier radio outlet for Black listeners during soul's heyday. An archival Herb Kent aircheck from February 26, 1965 exists.",
+    "claims": [
+      {
+        "claim": "Launched April 1, 1963; featured Herb Kent 'The Cool Gent'; described as Chicago's premier radio outlet for Black listeners during soul's heyday. An archival Herb Kent aircheck from February 26, 1965 exists.",
+        "source": "https://en.wikipedia.org/wiki/WVON; https://www.mixcloud.com/alfred-bunzl/wvon-am-1450-cicero-chicago-il-herb-kents-rb-dusty-record-time-26th-february-1965/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-096",
+    "name": "63rd Street Beach / Bathing Pavilion",
+    "type": "leisure site",
+    "addresses": [
+      "E. Hayes Drive @ Lake Michigan, Jackson Park, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "10-acre beach extension completed 1917 (plan 1914); Classical Revival bathing pavilion constructed by 1919, opened June 14, 1919 (cost >$170,000). Historically provided bathrooms, showers, medical rooms, and separate men's/women's courtyards with hundreds of wooden changing booths. Segregated at opening (Black patrons used the stone beach, not the sand beach). ~$8M restoration in the late 1990s; Park District renovations completed 2000. Described as the city's largest and oldest beach house.",
+    "claims": [
+      {
+        "claim": "10-acre beach extension completed 1917 (plan 1914); Classical Revival bathing pavilion constructed by 1919, opened June 14, 1919 (cost >$170,000). Historically provided bathrooms, showers, medical rooms, and separate men's/women's courtyards with hundreds of wooden changing booths. Segregated at opening (Black patrons used the stone beach, not the sand beach). ~$8M restoration in the late 1990s; Park District renovations completed 2000. Described as the city's largest and oldest beach house.",
+        "source": "https://www.chicagoparkdistrict.com/parks-facilities/63rd-street-beach?order=field_activity_type&sort=asc; http://en.wikipedia.org/wiki/63rd_Street_Bathing_Pavilion",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-097",
+    "name": "CTA stations on/near 63rd (group)",
+    "type": "transit infrastructure",
+    "addresses": [
+      "63rd Street corridor, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Dorchester (1400 E. 63rd, closed 1/13/1973); University (1200 E. 63rd, closed 1994, demolished 1997); Cottage Grove (became East 63rd terminus 1996); Harvard (303 W. 63rd, closed 2/9/1992); Racine (6314-16 S. Racine, closed 1994, not reopened); Ashland/63rd (opened 5/6/1969, replaced Loomis terminal); 63rd Red Line (opened 9/26-28/1969, Dan Ryan median).",
+    "claims": [
+      {
+        "claim": "Dorchester (1400 E. 63rd, closed 1/13/1973); University (1200 E. 63rd, closed 1994, demolished 1997); Cottage Grove (became East 63rd terminus 1996); Harvard (303 W. 63rd, closed 2/9/1992); Racine (6314-16 S. Racine, closed 1994, not reopened); Ashland/63rd (opened 5/6/1969, replaced Loomis terminal); 63rd Red Line (opened 9/26-28/1969, Dan Ryan median).",
+        "source": "https://en.wikipedia.org/wiki/Dorchester_station; https://en.wikipedia.org/wiki/East_63rd_branch; https://en.wikipedia.org/wiki/University_station_(CTA); https://en.wikipedia.org/wiki/Harvard_station_(CTA); https://en.wikipedia.org/wiki/Ashland/63rd_station; https://en.wikipedia.org/wiki/63rd_station; https://chi.streetsblog.org/2021/04/26/reopening-racine-green-stop-would-be-an-easy-way-to-improve-englewood-transit-access",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-098",
+    "name": "63rd Street murals and public art (group)",
+    "type": "public art",
+    "addresses": [
+      "63rd Street corridor, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Englewood Metra underpass mural (545 W. 63rd at Wallace, installed 2018, community-designed); Peace Mural at 63rd/Wallace (~2014); CTA art at 63rd Red Line — 'A Red Line and a Cloud' (Sabina Ott, 2007), 'Growing Englewood' (Emmanuel Pratt and Olalekan Jeyifous, 2015); Pugs Atomz's 'Pride' and 'Dreams' at Ashland/63rd (2019).",
+    "claims": [
+      {
+        "claim": "Englewood Metra underpass mural (545 W. 63rd at Wallace, installed 2018, community-designed); Peace Mural at 63rd/Wallace (~2014); CTA art at 63rd Red Line — 'A Red Line and a Cloud' (Sabina Ott, 2007), 'Growing Englewood' (Emmanuel Pratt and Olalekan Jeyifous, 2015); Pugs Atomz's 'Pride' and 'Dreams' at Ashland/63rd (2019).",
+        "source": "https://greenstarmovement.org/blog/tag/chicago; http://www.chicagoreporter.com/murals-message-of-peace-connects-2-communities/; https://transitchicago.com/art/63rd/; https://www.pugsatomz.com/murals",
+        "status": "Verified",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Verified",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-099",
+    "name": "Englewood Business Men's Association",
+    "type": "business organization",
+    "addresses": [
+      "63rd & Halsted, Chicago"
+    ],
+    "neighborhood": null,
+    "eras": [],
+    "present_condition": null,
+    "significance": "Commercial association documented by a 1944 photograph; director Richard Drew cautioned in the 1976 Tribune report against declaring immediate demise after Sears closed.",
+    "claims": [
+      {
+        "claim": "Commercial association documented by a 1944 photograph; director Richard Drew cautioned in the 1976 Tribune report against declaring immediate demise after Sears closed.",
+        "source": "https://cegu.uchicago.edu/2024/12/06/whole-foods-experiment-63rd/; http://chicagology.com/skyscrapers/skyscrapers077/",
+        "status": "Provisional",
+        "from": "w4"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w4"
+    ]
+  },
+  {
+    "id": "PLACE-100",
+    "name": "Chicago City Bank and Trust Co. Building (later Park National Bank)",
+    "type": null,
+    "addresses": [
+      "815 W 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "standing",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Completed 1930; architect Abraham Epstein; four-story Art Deco; cornerstone reads 1929; institution moved in February 24, 1930.",
+        "evidence": "City of Chicago Neighborhood Banks thematic report (government publication)",
+        "source": "https://watch.reviery.de/proxy/www.cityofchicago.org/content/dam/city/depts/zlup/Historic_Preservation/Publications/Neighborhood_Banks_8%20banks.pdf",
+        "source_type": "government",
+        "status": "Provisional",
+        "uncertainty": "Single government source seen; building permit not located; Epstein full name unverified",
+        "from": "w5"
+      },
+      {
+        "claim": "Designated Chicago local landmark.",
+        "evidence": "Asserted in NPS National Register nomination form for the Mid-City Bank (comparison table)",
+        "source": "https://dnrhistoric.illinois.gov/content/dam/soi/en/web/dnrhistoric/documents/Mid-City%20Bank%20National%20Register%20Nomination%20Form.pdf",
+        "source_type": "government",
+        "status": "Provisional",
+        "uncertainty": "Designation ordinance date/number not seen",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-101",
+    "name": "Cottage Grove CTA station (Green Line)",
+    "type": null,
+    "addresses": [
+      "800 E 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [],
+    "present_condition": "standing (operating)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened April 23, 1893 (South Side Rapid Transit, built for World's Columbian Exposition).",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Cottage_Grove_station",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "CTA/chicago-l.org corroboration not obtained",
+        "from": "w5"
+      },
+      {
+        "claim": "Original station demolished 1989; replacement opened 1991; became East 63rd branch terminal May 12, 1996; track east of Cottage Grove demolished September 1997.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Cottage_Grove_station",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Demolition permit and CTA records not examined",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-102",
+    "name": "63rd CTA station (Red Line, Dan Ryan branch)",
+    "type": null,
+    "addresses": [
+      "220 W 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "standing (operating)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Dan Ryan branch station; formal opening September 26, 1969; full service September 28, 1969; renovations 2005-06 and 2013.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/63rd_station",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "CTA primary source not obtained",
+        "from": "w5"
+      },
+      {
+        "claim": "Designed by Skidmore, Owings & Merrill.",
+        "evidence": "Tertiary station source",
+        "source": "http://www.transitchicago.com/travel_information/station.aspx?StopId=9",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Needs CTA confirmation - do not state as fact without it",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-103",
+    "name": "Halsted CTA station (Green Line)",
+    "type": null,
+    "addresses": [
+      "6321 S Halsted St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "standing (operating)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened December 24, 1906 (Englewood branch).",
+        "evidence": "Wikipedia; contemporary Chicago Daily Tribune Dec 24, 1906 ('Alley L Service Restored')",
+        "source": "https://en.wikipedia.org/wiki/Halsted_station_(CTA_Green_Line)",
+        "source_type": "tertiary/primary (newspaper)",
+        "published": "1906-12-24",
+        "status": "Provisional",
+        "uncertainty": "CTA/chicago-l.org corroboration not obtained; station architect unknown",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-104",
+    "name": "Racine CTA station (Green Line, closed)",
+    "type": null,
+    "addresses": [
+      "6314-16 S Racine Ave, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "standing (closed; structure survives)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened February 25, 1907; closed January 9, 1994; did not reopen with Green Line in 1996; stationhouse and canopy survive (as of 2021-2023).",
+        "evidence": "Wikipedia; Streetsblog Chicago 2021",
+        "source": "https://en.wikipedia.org/wiki/Racine_station_(CTA_Green_Line)",
+        "source_type": "tertiary/secondary",
+        "published": "2021",
+        "status": "Provisional",
+        "uncertainty": "2026 condition not confirmed",
+        "from": "w5"
+      },
+      {
+        "claim": "Architect Earl Nielson; Classical Revival design.",
+        "evidence": "Preservation Chicago",
+        "source": "https://www.preservationchicago.org/threatened-restoration-plan-needed-for-racine-green-line-station-in-englewood/",
+        "source_type": "secondary (advocacy)",
+        "status": "Provisional",
+        "uncertainty": "Architect attribution needs permit/CTA confirmation",
+        "from": "w5"
+      },
+      {
+        "claim": "Included in Chicago Historic Resources Survey (not a landmark); February 2023 advisory referendum supported reopening.",
+        "evidence": "Chicago City Council resolution (Feb 2023)",
+        "source": "https://occprodstoragev1.blob.core.usgovcloudapi.net/matterattachmentspublic/fc47ebc5-3d62-49e9-baa4-251396dacc5c.pdf",
+        "source_type": "government",
+        "published": "2023-02",
+        "status": "Verified",
+        "uncertainty": "None on resolution text; CTA position on reopening unknown",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Provisional, Verified",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-105",
+    "name": "Ashland/63rd CTA station (Green Line)",
+    "type": null,
+    "addresses": [
+      "6315 S Ashland Ave, Chicago, IL"
+    ],
+    "neighborhood": "West Englewood",
+    "eras": [],
+    "present_condition": "standing (operating)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened May 6, 1969, replacing the Loomis terminal; still operating.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Ashland/63rd_station",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "CTA primary source and architect/construction records not obtained",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-106",
+    "name": "Englewood Theatre",
+    "type": null,
+    "addresses": [
+      "726 W 63rd St, Chicago, IL 60621"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "demolished",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Ceased burlesque, movies-exclusively February 12, 1922; public wedding June 1928; film advertising September 5, 1959; demolished (date unresolved).",
+        "evidence": "Cinema Treasures comments (citing Southtown Economist); photo captions",
+        "source": "https://cinematreasures.org/theaters/1100",
+        "source_type": "tertiary (community)",
+        "status": "Provisional",
+        "uncertainty": "Architect, construction date, closing and demolition dates unknown",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-107",
+    "name": "Jackson Park (Stony Island) CTA station site",
+    "type": null,
+    "addresses": [
+      "~1600 E 63rd St, Chicago, IL (exact station address unverified; inferred from Stony Island Ave intersection)"
+    ],
+    "neighborhood": "Woodlawn",
+    "eras": [],
+    "present_condition": "demolished (1997)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened May 12, 1893; service suspended March 4, 1982 (bridge defect), never restored east of 61st; demolished with branch September 1997 (one source: September 27, 1997).",
+        "evidence": "Wikipedia / Alchetron",
+        "source": "https://en.wikipedia.org/wiki/Jackson_Park_branch",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Exact station address not verified - do not present ~1600 E 63rd as confirmed",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-108",
+    "name": "Harvard CTA station site (Green Line)",
+    "type": null,
+    "addresses": [
+      "303 W 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "demolished (1994-96)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened November 3, 1905 (Englewood branch); transfer to Normal Park branch from May 25, 1907; closed February 9, 1992 (CTA budget cuts; Tribune Feb 9 1992; Sun-Times Gillis Feb 2 1992); demolished during 1994-96 Green Line reconstruction.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Harvard_station_(CTA)",
+        "source_type": "tertiary",
+        "published": "1992-02",
+        "status": "Provisional",
+        "uncertainty": "CTA/chicago-l.org corroboration not obtained",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-109",
+    "name": "Loomis CTA station site (Green Line)",
+    "type": null,
+    "addresses": [
+      "63rd St & Loomis Ave, Chicago, IL (~1400 W 63rd; inferred from intersection)"
+    ],
+    "neighborhood": "West Englewood",
+    "eras": [],
+    "present_condition": "demolished (1969)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Opened July 13, 1907 (Englewood branch completed to Ashland); terminal until May 6, 1969; closed May 6, 1969 when Ashland/63rd opened; demolished shortly after.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Loomis_station_(CTA_Green_Line)",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Exact address inferred from intersection - not verified",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-110",
+    "name": "Englewood Union Station site",
+    "type": null,
+    "addresses": [
+      "63rd St just west of State St, Chicago, IL (location description; exact street address unverified)"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "demolished (date disputed: late 1970s vs 1982)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Served Pennsylvania, New York Central, and Rock Island lines; closed April 9, 1969; structure still standing July 1979; site later Norfolk Southern intermodal terminal (built 1991).",
+        "evidence": "Wikipedia; railroad forum (dated photo)",
+        "source": "https://en.wikipedia.org/wiki/Englewood_Union_Station",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Closure date needs Official Guide confirmation; exact address needs ICC valuation maps",
+        "from": "w5"
+      },
+      {
+        "claim": "Demolition date: late 1970s (Wikipedia) vs. claimed 1982 (forum, uncited).",
+        "evidence": "Wikipedia vs forum.trains.com",
+        "source": "https://forum.trains.com/t/englewood-station-big-and-little-chicago/410425",
+        "source_type": "tertiary",
+        "status": "Disputed",
+        "uncertainty": "Demolition permit needed to resolve",
+        "contradiction": "Wikipedia: late 1970s. Forum claim: 1982, no citation. Structure verified standing July 1979.",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Mixed: Disputed, Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  },
+  {
+    "id": "PLACE-111",
+    "name": "Chicago & Western Indiana 'Little' Englewood station",
+    "type": null,
+    "addresses": [
+      "551 W 63rd St, Chicago, IL"
+    ],
+    "neighborhood": "Englewood",
+    "eras": [],
+    "present_condition": "decommissioned (remnants reported 2013; 2026 status unresolved)",
+    "significance": null,
+    "claims": [
+      {
+        "claim": "Chicago & Western Indiana 'Little' Englewood station; closure dates December 13, 1965 (Erie Lackawanna) and July 29, 1979 (Norfolk & Western); platforms/canopies reported surviving as of 2013 imagery.",
+        "evidence": "Wikipedia",
+        "source": "https://en.wikipedia.org/wiki/Englewood_station_(Chicago_and_Western_Indiana_Railroad)",
+        "source_type": "tertiary",
+        "status": "Provisional",
+        "uncertainty": "Present (2026) status unresolved - field verification needed",
+        "from": "w5"
+      }
+    ],
+    "overall_grade": "Provisional",
+    "merged_from": [
+      "w5"
+    ]
+  }
+]

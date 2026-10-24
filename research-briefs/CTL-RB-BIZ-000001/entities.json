@@ -1,0 +1,440 @@
+{
+  "research_id": "CTL-RB-BIZ-000001",
+  "entities": [
+    {
+      "aliases": [],
+      "description": "Black-owned funeral home founded 1933 by Rev. Andrew 'A.R.' Leak; still operating (flagship 7838 S. Cottage Grove Ave, Chicago); handled funerals for Sam Cooke (1964) and Rev. Jesse L. Jackson Sr. (2026).",
+      "era": "1933–present",
+      "id": "rb-biz-e001",
+      "name": "Leak & Sons Funeral Homes",
+      "project_ids": [
+        "CTL-RB-BIZ-000001",
+        "CTL-DR-INST-001"
+      ],
+      "sources": [
+        "Leak & Sons company history",
+        "Chicago Sun-Times-derived reporting (2026)",
+        "Black Enterprise (2026-06-01)"
+      ],
+      "type": "Business",
+      "verification": "supported"
+    },
+    {
+      "aliases": [
+        "A.R. Leak"
+      ],
+      "description": "Founder of Leak & Sons Funeral Homes (1933); opened with savings from World's Fair work and a loan from his wife Dottie, per family accounts.",
+      "era": "1933–",
+      "id": "rb-biz-e002",
+      "name": "Rev. Andrew \"A.R.\" Leak",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Leak & Sons company history",
+        "Sun-Times-derived reporting"
+      ],
+      "type": "Person",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Third-generation funeral director; mortuary science degree, Southern Illinois University (1989); public face of Leak & Sons' community role; died May 2026.",
+      "era": "1989–2026",
+      "id": "rb-biz-e003",
+      "name": "Spencer Leak Jr.",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Sun-Times-derived reporting (2026)"
+      ],
+      "type": "Person",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Wife of Rev. A.R. Leak; her loan ($500, per family account) capitalized the founding of Leak & Sons.",
+      "era": "1933",
+      "id": "rb-biz-e004",
+      "name": "Dottie Leak",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Sun-Times-derived reporting (family account)"
+      ],
+      "type": "Person",
+      "verification": "provisional"
+    },
+    {
+      "aliases": [],
+      "description": "Black-owned funeral home at 4141 S. Cottage Grove (1947); received, opened, and prepared Emmett Till's body for public viewing, Sept 1955.",
+      "era": "1947–present",
+      "id": "rb-biz-e005",
+      "name": "A.A. Rayner & Sons Funeral Home",
+      "project_ids": [
+        "CTL-RB-BIZ-000001",
+        "CTL-DR-INST-001"
+      ],
+      "sources": [
+        "Company 'About Us' page",
+        "City of Chicago landmark report",
+        "USPTO trademark (first use Jan 1, 1947)"
+      ],
+      "type": "Business",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Founder of A.A. Rayner & Sons (1947); mortuary training (Worsham, Prairie View A&M); livery manager at Metropolitan Funeral Home before founding.",
+      "era": "1893–",
+      "id": "rb-biz-e006",
+      "name": "Ahmed A. Rayner Sr.",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Company 'About Us' page"
+      ],
+      "type": "Person",
+      "verification": "supported"
+    },
+    {
+      "aliases": [
+        "Griffin Funeral Chapel"
+      ],
+      "description": "Black-owned funeral home founded 1947 (purchased Bell Auto & Undertaking Co.); moved to 3232 S. King Dr 1969; Heritage Memorial Wall 1990; closed Dec 31, 2007.",
+      "era": "1947–2007",
+      "id": "rb-biz-e007",
+      "name": "Griffin Funeral Home",
+      "project_ids": [
+        "CTL-RB-BIZ-000001",
+        "CTL-DR-INST-001"
+      ],
+      "sources": [
+        "Newberry Library blog",
+        "Congressional Record Vol. 141 (1995-12-18)"
+      ],
+      "type": "Business",
+      "verification": "supported"
+    },
+    {
+      "aliases": [
+        "Earnest Griffin"
+      ],
+      "description": "Funeral director; Worsham College 1934; civic leader (Lakeside Bank board 20+ yrs, Heritage Memorial Wall); Congressional Record tribute Dec 18, 1995.",
+      "era": "1934–1995",
+      "id": "rb-biz-e008",
+      "name": "Ernest A. Griffin",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Congressional Record Vol. 141",
+        "Newberry Library blog"
+      ],
+      "type": "Person",
+      "verification": "supported",
+      "verification_note": "Spelling: 'Ernest' (obituary, Newberry) vs 'Earnest' (Congressional Record)."
+    },
+    {
+      "aliases": [],
+      "description": "Licensed funeral director and embalmer; worked in Griffin family business from 1958; ran it after her husband's 1995 death until closure.",
+      "era": "1958–2007",
+      "id": "rb-biz-e009",
+      "name": "Alyce Louise Carter Griffin",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Chicago Sun-Times obituary (via Legacy, 2017)"
+      ],
+      "type": "Person",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Black-owned and managed cemetery founded 1927 in Alsip, Illinois; burial site of Emmett Till (Sept 6, 1955); 2025 National Register recommendation.",
+      "era": "1927–present",
+      "id": "rb-biz-e010",
+      "name": "Burr Oak Cemetery",
+      "project_ids": [
+        "CTL-RB-BIZ-000001",
+        "CTL-DR-INST-001"
+      ],
+      "sources": [
+        "Emmett Till Memory Project",
+        "City of Chicago landmark report"
+      ],
+      "type": "Place",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Church of God in Christ at 4021 S. State St, Chicago; site of Emmett Till's open-casket visitation and funeral (Sept 3, 1955); part of Emmett Till and Mamie Till-Mobley National Monument since July 25, 2023.",
+      "era": "1955–present",
+      "id": "rb-biz-e011",
+      "name": "Roberts Temple Church of God in Christ",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "NPS (2023)",
+        "City of Chicago landmark report"
+      ],
+      "type": "Church",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Mother of Emmett Till; insisted on open-casket funeral ('Let the people see what they did to my boy'); her decision is the political center of the Till sequence.",
+      "era": "1955",
+      "id": "rb-biz-e012",
+      "name": "Mamie Till-Mobley",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Mellon Foundation",
+        "NPS",
+        "City of Chicago landmark report"
+      ],
+      "type": "Person",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Mortuary college founded March 17, 1911 by Albert Worsham; trained A.A. Rayner Sr. and Ernest A. Griffin. Not Black-owned — a white-founded professional school Black Chicagoans used.",
+      "era": "1911–present",
+      "id": "rb-biz-e013",
+      "name": "Worsham College of Mortuary Science",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Illinois Board of Higher Education records"
+      ],
+      "type": "Institution",
+      "verification": "verified"
+    },
+    {
+      "aliases": [
+        "NFDMA",
+        "Independent National Funeral Directors Association"
+      ],
+      "description": "Black funeral-directors' professional association; ~2,000 member firms; founding lineage disputed (1924 INFD Association → renamed 1957 vs. 'National Association of Negro Funeral Directors' per LOC).",
+      "era": "1924–present",
+      "id": "rb-biz-e014",
+      "name": "National Funeral Directors and Morticians Association",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Cann (2020)",
+        "LOC Inside Adams blog (2021)"
+      ],
+      "type": "Organization",
+      "verification": "unresolved",
+      "verification_note": "Founding lineage disputed; see red team."
+    },
+    {
+      "aliases": [],
+      "description": "Black funeral home at 4445 S. King Dr; A.A. Rayner Sr. was livery manager here; building became Chicago Defender headquarters in May 2009.",
+      "era": "–2009",
+      "id": "rb-biz-e015",
+      "name": "Metropolitan Funeral Home",
+      "project_ids": [
+        "CTL-RB-BIZ-000001",
+        "CTL-DR-BIZ-000001"
+      ],
+      "sources": [
+        "Rayner company history",
+        "Editor & Publisher (2009) via CTL-DR-BIZ-000001"
+      ],
+      "type": "Business",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Black-owned insurance company; funeral-home affiliate employed A.A. Rayner Sr. as livery manager — the insurance-funeral nexus of Black Chicago's death-care economy.",
+      "era": "mid-20th century",
+      "id": "rb-biz-e016",
+      "name": "Chicago Metropolitan Mutual Life Assurance Co.",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Rayner company history"
+      ],
+      "type": "Business",
+      "verification": "provisional"
+    },
+    {
+      "aliases": [],
+      "description": "Jackson, Mississippi undertaker; archivally documented use of funeral-home resources (vehicles, meeting space, funds, information) for Freedom Riders and civil-rights organizing (1961). National comparison case.",
+      "era": "1961",
+      "id": "rb-biz-e017",
+      "name": "Clarie Collins Harvey",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Sanders (2014), Journal of Mississippi History; Clarie Collins Harvey Papers, Amistad Research Center"
+      ],
+      "type": "Person",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Philadelphia, 1787; founded by Richard Allen and Absalom Jones; pooled dues for funerals, sickness aid, and widow/child support — origin of the mutual-aid lineage behind Black funeral homes.",
+      "era": "1787–",
+      "id": "rb-biz-e018",
+      "name": "Free African Society",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Du Bois, The Philadelphia Negro (1899)",
+        "Cann (2020)"
+      ],
+      "type": "Organization",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Birmingham, Alabama funeral home; documented community functions (youth baseball sponsorship, rides, meeting space, music lessons on the chapel piano) — national comparison.",
+      "era": "20th century",
+      "id": "rb-biz-e019",
+      "name": "Poole Funeral Chapels",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Cann (2020)"
+      ],
+      "type": "Business",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Charlottesville, Virginia funeral home (oldest family-run in central Virginia); founder J.F. Bell trained as funeral director in Chicago; funeral-home vehicles seeded the city's first integrated taxi company — national comparison.",
+      "era": "20th century",
+      "id": "rb-biz-e020",
+      "name": "J.F. Bell Funeral Home",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Cann (2020)"
+      ],
+      "type": "Business",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "A.A. Rayner & Sons (1947–1955 location); received Emmett Till's body Sept 2, 1955.",
+      "era": "1947–1955",
+      "id": "rb-biz-a001",
+      "name": "4141 S. Cottage Grove Ave, Chicago",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "City of Chicago landmark report"
+      ],
+      "type": "Address",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Leak & Sons Funeral Homes flagship.",
+      "era": "present",
+      "id": "rb-biz-a002",
+      "name": "7838 S. Cottage Grove Ave, Chicago",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Leak & Sons company history"
+      ],
+      "type": "Address",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Griffin Funeral Home (1969–2007); Heritage Memorial Wall site.",
+      "era": "1969–2007",
+      "id": "rb-biz-a003",
+      "name": "3232 S. King Dr, Chicago",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Newberry Library blog"
+      ],
+      "type": "Address",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Roberts Temple Church of God in Christ; Till funeral site; National Monument.",
+      "era": "1955–present",
+      "id": "rb-biz-a004",
+      "name": "4021 S. State St, Chicago",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "NPS (2023)"
+      ],
+      "type": "Address",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Burr Oak Cemetery; 150 acres; Till's burial site.",
+      "era": "1927–present",
+      "id": "rb-biz-a005",
+      "name": "4400 W. 127th St, Alsip, IL",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Emmett Till Memory Project"
+      ],
+      "type": "Address",
+      "verification": "verified"
+    },
+    {
+      "aliases": [],
+      "description": "Former Metropolitan Funeral Home; Chicago Defender HQ from May 2009.",
+      "era": "–present",
+      "id": "rb-biz-a006",
+      "name": "4445 S. King Dr, Chicago",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "Editor & Publisher (2009) via CTL-DR-BIZ-000001"
+      ],
+      "type": "Address",
+      "verification": "supported"
+    },
+    {
+      "aliases": [],
+      "description": "Johnson Publishing Company offices (1949–1971) in a former funeral home.",
+      "era": "1949–1971",
+      "id": "rb-biz-a007",
+      "name": "1820 S. Michigan Ave, Chicago",
+      "project_ids": [
+        "CTL-RB-BIZ-000001"
+      ],
+      "sources": [
+        "CTL-DR-BIZ-000001 research notes"
+      ],
+      "type": "Address",
+      "verification": "provisional"
+    }
+  ]
+}

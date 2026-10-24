@@ -1,0 +1,2797 @@
+{
+ "project": "CTL-DR-GLOBAL-001",
+ "event_count": 170,
+ "events": [
+  {
+   "date": "c. 1780",
+   "event": "Jean Baptiste Point du Sable, born in Saint-Domingue (Haiti), establishes his trading settlement in Chicago; he is recognized as the city's first non-Indigenous settler and founder.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-086",
+    "GBL-022"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Jean Baptiste Point du Sable",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1847",
+   "event": "Quinn congregation organizes as an AME congregation in Chicago, named for Bishop William Paul Quinn.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.preservationchicago.org/glessner-house-presents-quinn-chapel-ame-church-history-preservation-february-26-2023/",
+   "entity_ids": [
+    "GBL-191"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Quinn Chapel AME Church"
+   ]
+  },
+  {
+   "date": "1852",
+   "event": "North Star Lodge of Chicago organized by the Ohio Jurisdiction of Prince Hall Masons.",
+   "description": "",
+   "evidence": "",
+   "source": "https://storage.googleapis.com/production-ipower-v1-0-9/499/1028499/TPgDVf7C/8723651ec4a342b49442818d09ac3bd8?fileName=27_2017Special85.pdf",
+   "entity_ids": [
+    "GBL-206"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "North Star Lodge (Prince Hall)"
+   ]
+  },
+  {
+   "date": "1867",
+   "event": "Illinois Grand Lodge of Prince Hall Masons organized.",
+   "description": "",
+   "evidence": "",
+   "source": "https://storage.googleapis.com/production-ipower-v1-0-9/499/1028499/TPgDVf7C/8723651ec4a342b49442818d09ac3bd8?fileName=27_2017Special85.pdf",
+   "entity_ids": [
+    "GBL-206"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "North Star Lodge (Prince Hall)"
+   ]
+  },
+  {
+   "date": "1891",
+   "event": "Provident Hospital founded in Chicago by Dr. Daniel Hale Williams — first Black-owned/operated hospital in the U.S.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.chicagohistory.org/provident-hospital/",
+   "entity_ids": [
+    "GBL-212"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Provident Hospital"
+   ]
+  },
+  {
+   "date": "1892",
+   "event": "Wells flees Memphis for Chicago",
+   "description": "A mob destroys Ida B. Wells's Free Speech office; she settles in Chicago and works with the Chicago Conservator.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-002"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Ida B. Wells-Barnett"
+   ]
+  },
+  {
+   "date": "1892-01-02",
+   "event": "Frederick Douglass is appointed commissioner to Haiti's pavilion at the World's Columbian Exposition; on January 2, 1893 he delivers his 'Lecture on Haiti' at the Haitian Pavilion dedication in Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-087",
+    "GBL-116"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Frederick Douglass",
+    "Haitian Pavilion dedication (World's Columbian Exposition)"
+   ]
+  },
+  {
+   "date": "1893/1894",
+   "event": "Ida B. Wells moves to Chicago (1893) and tours Britain as an anti-lynching speaker (1893, 1894).",
+   "description": "",
+   "evidence": "",
+   "source": "https://blog.britishnewspaperarchive.co.uk/2021/03/24/ida-b-wells-speaking-tour-to-britain-1893-1894/",
+   "entity_ids": [
+    "GBL-002"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Ida B. Wells-Barnett"
+   ]
+  },
+  {
+   "date": "1895-1899",
+   "event": "The Broad Ax published in Salt Lake City (Aug 1895–mid-1899); moves to Chicago in 1899.",
+   "description": "",
+   "evidence": "",
+   "source": "https://historytogo.utah.gov/post/broad-ax/",
+   "entity_ids": [
+    "GBL-190"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "The Broad Ax"
+   ]
+  },
+  {
+   "date": "1899-08-14",
+   "event": "National Association of Colored Women's second convention convenes at Quinn Chapel, Chicago (Aug 14–16, 1899).",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.omeka.coloredconventions.org/items/show/558",
+   "entity_ids": [
+    "GBL-192",
+    "GBL-191"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "National Association of Colored Women (NACW)",
+    "Quinn Chapel AME Church"
+   ]
+  },
+  {
+   "date": "1905-05",
+   "event": "Chicago Defender founded",
+   "description": "Robert S. Abbott begins publishing the Defender in Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-001",
+    "GBL-013"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Robert Sengstacke Abbott",
+    "Chicago Defender"
+   ]
+  },
+  {
+   "date": "1905-05-05",
+   "event": "First issue of the Chicago Defender published by Robert S. Abbott.",
+   "description": "",
+   "evidence": "",
+   "source": "https://ilga.gov/documents/legislation/93/HR/PDF/09300HR0406.pdf",
+   "entity_ids": [
+    "GBL-013",
+    "GBL-001"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Chicago Defender",
+    "Robert Sengstacke Abbott"
+   ]
+  },
+  {
+   "date": "1910",
+   "event": "Wells opens the Negro Fellowship League Reading Room and Social Center in Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "https://tnmuseum.org/junior-curators/posts/first-of-many-ida-b-wells-part-iii",
+   "entity_ids": [
+    "GBL-002"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Ida B. Wells-Barnett"
+   ]
+  },
+  {
+   "date": "1912",
+   "event": "NAACP adds its first two branches in Boston and Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "https://en.wikipedia.org/w/index.php?title=NAACP&diff=next&oldid=1333261334",
+   "entity_ids": [
+    "GBL-211"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "National Association for the Advancement of Colored People (NAACP)"
+   ]
+  },
+  {
+   "date": "1913",
+   "event": "Wells founds the Alpha Suffrage Club in Chicago; marches in the Woman Suffrage Procession in Washington, D.C.",
+   "description": "",
+   "evidence": "",
+   "source": "https://scalar.usc.edu/works/willard-and-wells/biography-of-ida-b-wells",
+   "entity_ids": [
+    "GBL-002",
+    "GBL-210"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Ida B. Wells-Barnett",
+    "Alpha Suffrage Club"
+   ]
+  },
+  {
+   "date": "1915",
+   "event": "National Baptist Convention annual meeting in Chicago splits: Boyd's supporters form the National Baptist Convention of America.",
+   "description": "",
+   "evidence": "",
+   "source": "https://en.wikipedia.org/wiki/R._H._Boyd",
+   "entity_ids": [
+    "GBL-196",
+    "GBL-197"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "National Baptist Convention, USA, Inc. (NBC)",
+    "National Baptist Convention of America (NBCA)"
+   ]
+  },
+  {
+   "date": "1915-09-09",
+   "event": "ASNLH founded at the Wabash Avenue YMCA, Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "https://asalh.org/carter-g-woodson-timeline/",
+   "entity_ids": [
+    "GBL-209",
+    "GBL-208"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Association for the Study of Negro Life and History (ASNLH/ASALH)",
+    "Wabash Avenue YMCA"
+   ]
+  },
+  {
+   "date": "1915-10-02",
+   "event": "ASNLH incorporated in Washington, D.C.",
+   "description": "",
+   "evidence": "",
+   "source": "https://asalh.org/carter-g-woodson-timeline/",
+   "entity_ids": [
+    "GBL-209"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Association for the Study of Negro Life and History (ASNLH/ASALH)"
+   ]
+  },
+  {
+   "date": "1916",
+   "event": "Chicago Urban League organized; Dorsey migrates",
+   "description": "The Chicago Urban League organizes at the Wabash Avenue YMCA (Dec 11, 1916) to aid Southern migrants; Thomas A. Dorsey first migrates to Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-005",
+    "GBL-044"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Thomas A. Dorsey",
+    "Bronzeville / Black Belt (Chicago South Side)"
+   ]
+  },
+  {
+   "date": "1919",
+   "event": "ANP founded; Garvey visits; Oliver arrives",
+   "description": "Claude Barnett founds the Associated Negro Press in Chicago (Mar 2); Marcus Garvey addresses Chicago's UNIA (Sep 28); King Oliver arrives in Chicago; Dorsey settles permanently.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-012",
+    "GBL-042",
+    "GBL-018",
+    "GBL-025",
+    "GBL-005"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Marcus Garvey",
+    "Universal Negro Improvement Association (Chicago)",
+    "Associated Negro Press",
+    "Joe \"King\" Oliver",
+    "Thomas A. Dorsey"
+   ]
+  },
+  {
+   "date": "1919-03-02",
+   "event": "Associated Negro Press founded in Chicago by Claude Barnett.",
+   "description": "",
+   "evidence": "",
+   "source": "http://kinginstitute.stanford.edu/king-papers/documents/claude-barnett",
+   "entity_ids": [
+    "GBL-018",
+    "GBL-019"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Associated Negro Press",
+    "Claude Barnett"
+   ]
+  },
+  {
+   "date": "1920",
+   "event": "The UNIA, founded in Jamaica by Marcus Garvey in 1914, has several Chicago divisions by 1920, principally on the South Side, with weekly Liberty Hall meetings and businesses.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-012",
+    "GBL-104"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Marcus Garvey",
+    "UNIA Chicago Divisions"
+   ]
+  },
+  {
+   "date": "1920",
+   "event": "UNIA Division 23 founded in Chicago; delegate William A. Wallace attends the First International Convention in Harlem.",
+   "description": "",
+   "evidence": "",
+   "source": "https://crossculturalsolidarity.com/wp-content/uploads/2021/04/Garveyism-the-Midwest.pdf",
+   "entity_ids": [
+    "GBL-207",
+    "GBL-012"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "UNIA Division 23 (Chicago)",
+    "Marcus Garvey"
+   ]
+  },
+  {
+   "date": "1922",
+   "event": "Armstrong summoned to Chicago",
+   "description": "King Oliver sends for Louis Armstrong in New Orleans; Armstrong joins the Creole Jazz Band in Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-024",
+    "GBL-025"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Louis Armstrong",
+    "Joe \"King\" Oliver"
+   ]
+  },
+  {
+   "date": "1923",
+   "event": "Cole family to Chicago; Poole family to Detroit",
+   "description": "The Nat King Cole family moves Montgomery, AL to Chicago (Bronzeville); Elijah Poole's family moves Georgia to Detroit.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-028",
+    "GBL-007"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Nat King Cole",
+    "Elijah Muhammad"
+   ]
+  },
+  {
+   "date": "1925",
+   "event": "Brotherhood of Sleeping Car Porters founded",
+   "description": "A. Philip Randolph founds the BSCP; Milton P. Webster and John C. Mills build the Chicago division.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-032",
+    "GBL-039"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "A. Philip Randolph",
+    "Brotherhood of Sleeping Car Porters"
+   ]
+  },
+  {
+   "date": "1925",
+   "event": "Noble Drew Ali moves Moorish Science Temple headquarters from Newark to Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.ebsco.com/research-starters/history/noble-drew-ali",
+   "entity_ids": [
+    "GBL-204",
+    "GBL-205"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Moorish Science Temple of America (MSTA)",
+    "Noble Drew Ali"
+   ]
+  },
+  {
+   "date": "1927",
+   "event": "Mahalia Jackson and Richard Wright reach Chicago",
+   "description": "Mahalia Jackson moves New Orleans to Chicago (1927; one source says 1928); Richard Wright leaves Memphis for Chicago on December 27, 1927.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-026",
+    "GBL-010"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Mahalia Jackson",
+    "Richard Wright"
+   ]
+  },
+  {
+   "date": "1928-10",
+   "event": "Moorish National Conclave held in Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "https://scholarworks.calstate.edu/concern/theses/k643b529j",
+   "entity_ids": [
+    "GBL-204"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Moorish Science Temple of America (MSTA)"
+   ]
+  },
+  {
+   "date": "1929",
+   "event": "Archibald Motley receives a Guggenheim Fellowship and spends 1929–early 1930 in Paris, where he paints Blues.",
+   "description": "",
+   "evidence": "Nasher Museum (Duke) and Whitney Museum document the fellowship, the Paris stay, and the painting.",
+   "source": "Nasher Museum (nasher.duke.edu); Whitney Museum (whitney.org)",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1930",
+   "event": "J.A. Rogers attends the coronation of Haile Selassie in Ethiopia.",
+   "description": "Per AALBC biography.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-057"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Joel Augustus Rogers"
+   ]
+  },
+  {
+   "date": "1932",
+   "event": "Dorsey institutionalizes gospel",
+   "description": "Dorsey becomes Pilgrim Baptist music director and co-founds the National Convention of Gospel Choirs and Choruses.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-005"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Thomas A. Dorsey"
+   ]
+  },
+  {
+   "date": "1933",
+   "event": "Cooke family to Chicago",
+   "description": "The Sam Cooke family moves Clarksdale, MS to Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-027"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Sam Cooke"
+   ]
+  },
+  {
+   "date": "1933-08-30",
+   "event": "First session of the National Convention of Gospel Choirs and Choruses at Pilgrim Baptist Church, Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.sgnscoops.com/hall-of-fame-vocalist-larnelle-harris-honored-at-83rd-annual-national-convention-of-gospel-choirs-and-choruses/",
+   "entity_ids": [
+    "GBL-200",
+    "GBL-199"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "National Convention of Gospel Choirs and Choruses (NCGCC)",
+    "Pilgrim Baptist Church"
+   ]
+  },
+  {
+   "date": "1934",
+   "event": "NOI headquarters Detroit to Chicago",
+   "description": "After Fard's disappearance, Elijah Muhammad relocates the Nation of Islam's leadership to Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-007",
+    "GBL-015"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Elijah Muhammad",
+    "Nation of Islam"
+   ]
+  },
+  {
+   "date": "1934",
+   "event": "Elijah Muhammad moves Nation of Islam followers from Detroit to Chicago; Temple No. 2 becomes headquarters.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.ajis.org/index.php/ajiss/article/download/2918/2618",
+   "entity_ids": [
+    "GBL-015",
+    "GBL-007"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Nation of Islam",
+    "Elijah Muhammad"
+   ]
+  },
+  {
+   "date": "1935",
+   "event": "Pittsburgh Courier sends J.A. Rogers to Ethiopia to cover the Italian invasion — the only African-American journalist on the ground.",
+   "description": "Covered Ethiopia for the Courier 1935-36; also wrote regularly for the Chicago Defender.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-057"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Joel Augustus Rogers"
+   ]
+  },
+  {
+   "date": "1935/1937",
+   "event": "Donald Pierson's Salvador fieldwork",
+   "description": "University of Chicago PhD student Donald Pierson lives in Salvador, Bahia, researching Black–white relations.",
+   "evidence": "",
+   "source": [
+    "S_valladares"
+   ],
+   "entity_ids": [
+    "GBL-130",
+    "GBL-126",
+    "GBL-142"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Donald Pierson",
+    "Salvador, Bahia, Brazil",
+    "University of Chicago"
+   ]
+  },
+  {
+   "date": "1936",
+   "event": "Willie Dixon to Chicago",
+   "description": "Willie Dixon moves Vicksburg, MS to Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-011"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Willie Dixon"
+   ]
+  },
+  {
+   "date": "1937",
+   "event": "Gladneys to Chicago",
+   "description": "Ida Mae and George Gladney migrate from Chickasaw County, MS to Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-037"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Ida Mae Brandon Gladney"
+   ]
+  },
+  {
+   "date": "1937",
+   "event": "Robert E. Park's six-week visit to Brazil",
+   "description": "Park supervises Pierson's fieldwork in Salvador; the visit links the Chicago school of sociology to Afro-Brazilian race-relations research.",
+   "evidence": "",
+   "source": [
+    "S_valladares",
+    "S_berose"
+   ],
+   "entity_ids": [
+    "GBL-129",
+    "GBL-130",
+    "GBL-126"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Robert E. Park",
+    "Donald Pierson",
+    "Salvador, Bahia, Brazil"
+   ]
+  },
+  {
+   "date": "1939/1940",
+   "event": "Dunham creates Bahiana and Batucada",
+   "description": "Katherine Dunham creates the Brazilian/Bahian-themed works Bahiana (1939) and Batucada (1940), the latter appearing in Warner Bros.' Carnival of Rhythm (1941).",
+   "evidence": "",
+   "source": [
+    "S_cambridge"
+   ],
+   "entity_ids": [
+    "GBL-023"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Katherine Dunham"
+   ]
+  },
+  {
+   "date": "1940s-1950s",
+   "event": "Substantial Belizean migration to Chicago begins: domestic workers on the North Shore, recruits from Florida citrus work, and Farm Work Program/War Manpower Commission workers; Belizeans settle along Howard Street in Rogers Park and in Evanston.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-107",
+    "GBL-022"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Belizean Cricket Association of Chicago",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1941",
+   "event": "Ramos–Herskovits reciprocal honors",
+   "description": "Herskovits becomes honorary professor of Bahia's Faculty of Philosophy; Arthur Ramos becomes honorary member of Northwestern's Anthropology Research Association, amid an exchange of works.",
+   "evidence": "",
+   "source": [
+    "S_bras"
+   ],
+   "entity_ids": [
+    "GBL-133",
+    "GBL-131",
+    "GBL-143"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Arthur Ramos",
+    "Melville J. Herskovits",
+    "Northwestern University"
+   ]
+  },
+  {
+   "date": "1941/1942",
+   "event": "Herskovitses' Bahia fieldwork",
+   "description": "Melville and Frances Herskovits conduct Rockefeller-funded fieldwork in Bahia, including among Gantois Candomblé members.",
+   "evidence": "",
+   "source": [
+    "S_sansone",
+    "S_cal"
+   ],
+   "entity_ids": [
+    "GBL-131",
+    "GBL-132",
+    "GBL-126",
+    "GBL-143"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Melville J. Herskovits",
+    "Frances S. Herskovits",
+    "Salvador, Bahia, Brazil",
+    "Northwestern University"
+   ]
+  },
+  {
+   "date": "1942",
+   "event": "Negroes in Brazil published",
+   "description": "The University of Chicago Press publishes Pierson's Negroes in Brazil: A Study of Race Contact at Bahia, with Park's introduction; it wins an Anisfield Award.",
+   "evidence": "",
+   "source": [
+    "S_valladares",
+    "S_berose"
+   ],
+   "entity_ids": [
+    "GBL-130",
+    "GBL-129",
+    "GBL-142"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Donald Pierson",
+    "Robert E. Park",
+    "University of Chicago"
+   ]
+  },
+  {
+   "date": "1942/1962",
+   "event": "Hughes's Chicago Defender column",
+   "description": "Langston Hughes writes a weekly column for the Chicago Defender, 1942–1962, covering race, politics, and international affairs.",
+   "evidence": "",
+   "source": [
+    "S_hughes_clio",
+    "S_hughes_naacp",
+    "S_hughes_lt"
+   ],
+   "entity_ids": [
+    "GBL-009",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Langston Hughes",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1943",
+   "event": "Muddy Waters to Chicago; Simple debuts",
+   "description": "Muddy Waters moves Stovall Plantation, MS to Chicago; Langston Hughes's 'Simple' debuts in the Chicago Defender (February).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-003",
+    "GBL-009",
+    "GBL-013"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Muddy Waters",
+    "Langston Hughes",
+    "Chicago Defender"
+   ]
+  },
+  {
+   "date": "1943-09-07",
+   "event": "National Baptist Convention annual session in Chicago (Sep 7–12): U.S. Armory, Olivet, Pilgrim, Monumental Baptist.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.si.edu/object/form-letter-national-baptist-convention-chicago%3Anmaahc_2017.14.9",
+   "entity_ids": [
+    "GBL-196",
+    "GBL-193",
+    "GBL-199"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "National Baptist Convention, USA, Inc. (NBC)",
+    "Olivet Baptist Church",
+    "Pilgrim Baptist Church"
+   ]
+  },
+  {
+   "date": "1945",
+   "event": "Black Metropolis published; Ebony founded",
+   "description": "Drake and Cayton publish Black Metropolis (Wright introduction); John H. Johnson launches Ebony in Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-044",
+    "GBL-017",
+    "GBL-010"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Bronzeville / Black Belt (Chicago South Side)",
+    "Johnson Publishing Company",
+    "Richard Wright"
+   ]
+  },
+  {
+   "date": "1946",
+   "event": "Sun Ra reaches Chicago",
+   "description": "Sun Ra arrives in Chicago from Birmingham, AL, in early 1946.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-006"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Sun Ra"
+   ]
+  },
+  {
+   "date": "1946-05",
+   "event": "Richard Wright first visits Paris as a guest of the French government.",
+   "description": "",
+   "evidence": "Wright chronology records the May 1946 visit.",
+   "source": "maps-legacy.org chronology",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1947",
+   "event": "Era Bell Thompson joins Ebony magazine in Chicago.",
+   "description": "Begins the career that made her Ebony's Africa foreign correspondent.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-056",
+    "GBL-017"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Era Bell Thompson",
+    "Johnson Publishing Company"
+   ]
+  },
+  {
+   "date": "1947",
+   "event": "Richard Wright settles permanently in France with his family.",
+   "description": "",
+   "evidence": "Tommie Shelby's chapter (citing the University of Chicago Press biography) and the Wright chronology document the 1947 permanent move.",
+   "source": "tommieshelby.com; maps-legacy.org",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1947-01-01",
+   "event": "Alice Dunnigan becomes head of the ANP Washington Bureau.",
+   "description": "",
+   "evidence": "",
+   "source": "https://uknow.uky.edu/campus-news/uk-celebrates-civil-rights-journalism-pioneer-alice-allison-dunnigan",
+   "entity_ids": [
+    "GBL-188",
+    "GBL-018"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Alice Dunnigan",
+    "Associated Negro Press"
+   ]
+  },
+  {
+   "date": "1948",
+   "event": "Cuba Libre: first English translations of Guillén",
+   "description": "Hughes and Ben F. Carruthers publish the first English translations of Nicolás Guillén's poetry as Cuba Libre (Anderson & Ritchie).",
+   "evidence": "",
+   "source": [
+    "S_poets"
+   ],
+   "entity_ids": [
+    "GBL-009",
+    "GBL-134"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Langston Hughes",
+    "Nicolás Guillén"
+   ]
+  },
+  {
+   "date": "1948",
+   "event": "Katherine Dunham's company makes its first European tour, including London, with return engagements in France and Italy.",
+   "description": "",
+   "evidence": "Harvard repository document records the 1948 tour and returns.",
+   "source": "Harvard DASH (dash.harvard.edu)",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1948 (autumn)",
+   "event": "Gillespie/Pozo at the Pershing Ballroom, Chicago",
+   "description": "Dizzy Gillespie's big band, featuring Chano Pozo on conga with guests Miles Davis and Charlie Parker, performs at Chicago's Pershing Ballroom (audience recording).",
+   "evidence": "",
+   "source": [
+    "S_pershing"
+   ],
+   "entity_ids": [
+    "GBL-137",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Chano Pozo",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1949",
+   "event": "Margaret Walker returns South",
+   "description": "Walker joins the English faculty at Jackson State College, MS - a named Chicago-to-South return migration.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-036"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Margaret Walker"
+   ]
+  },
+  {
+   "date": "1950",
+   "event": "Aristocrat becomes Chess Records",
+   "description": "Leonard and Phil Chess rename their Chicago label Chess Records.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-014"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Chess Records"
+   ]
+  },
+  {
+   "date": "1950-07",
+   "event": "Dunham refused lodging in São Paulo",
+   "description": "Katherine Dunham's reservation at São Paulo's Hotel Esplanada is refused because she is Black; she denounces the episode publicly during her Municipal Theater performances (Correio Paulistano, July 11–13, 1950).",
+   "evidence": "",
+   "source": [
+    "S_abhl",
+    "S_americanshal",
+    "S_npr"
+   ],
+   "entity_ids": [
+    "GBL-023",
+    "GBL-127"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Katherine Dunham",
+    "São Paulo, Brazil"
+   ]
+  },
+  {
+   "date": "1951",
+   "event": "Jet founded",
+   "description": "John H. Johnson launches Jet magazine in Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-017"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Johnson Publishing Company"
+   ]
+  },
+  {
+   "date": "1951",
+   "event": "Big Bill Broonzy makes his first European tour (invited by French critic Hugues Panassié); he returns in 1955 and 1957.",
+   "description": "",
+   "evidence": "Encyclopedia of Arkansas records the 1951, 1955, and 1957 tours; Blues Chronicles names Panassié.",
+   "source": "encyclopediaofarkansas.net; blueschronicles.com",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1951-07-03",
+   "event": "Lei Afonso Arinos enacted",
+   "description": "Brazil's Law 1.390, the country's first anti-racial-discrimination statute, is enacted following the press scandal over Dunham's treatment.",
+   "evidence": "",
+   "source": [
+    "S_abhl",
+    "S_npr"
+   ],
+   "entity_ids": [
+    "GBL-023",
+    "GBL-127"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Katherine Dunham",
+    "São Paulo, Brazil"
+   ]
+  },
+  {
+   "date": "1952/1953-winter",
+   "event": "Howlin' Wolf to Chicago",
+   "description": "Howlin' Wolf relocates from West Memphis to Chicago after Sam Phillips leases his recordings to Leonard Chess.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-004",
+    "GBL-014"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Howlin' Wolf",
+    "Chess Records"
+   ]
+  },
+  {
+   "date": "1953",
+   "event": "Vee-Jay Records founded",
+   "description": "Vivian Carter and Jimmy Bracken launch Vee-Jay, the leading Black-owned label before Motown.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-041"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Vee-Jay Records"
+   ]
+  },
+  {
+   "date": "1953",
+   "event": "Era Bell Thompson travels through 18 African countries for 'Africa, Land of My Fathers.'",
+   "description": "Documented by African American Registry and Rutgers dissertation.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-056",
+    "GBL-017"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Era Bell Thompson",
+    "Johnson Publishing Company"
+   ]
+  },
+  {
+   "date": "1953",
+   "event": "'One Tenth of a Nation – The Press' newsreel documents the ANP's Chicago headquarters and its Washington, UN, London, New York, and Africa correspondents.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.loc.gov/item/mbrs01841243/",
+   "entity_ids": [
+    "GBL-018",
+    "GBL-188",
+    "GBL-189"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Associated Negro Press",
+    "Alice Dunnigan",
+    "Bankhold Timothy"
+   ]
+  },
+  {
+   "date": "1954-06-08",
+   "event": "Emperor Haile Selassie I of Ethiopia visits Chicago: Midway arrival, Mayor Kennelly greeting, Drake Hotel stay, ~25,000 lining the motorcade route.",
+   "description": "First reigning emperor to visit Chicago, per academic account; young UChicago student Donald Levine watched the motorcade.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-049"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Haile Selassie I"
+   ]
+  },
+  {
+   "date": "1955-02",
+   "event": "Haitian president Paul Magloire visits Chicago, reported in the Atlanta Daily World on February 9, 1955, during a 1934–1956 era of Haiti–Chicago cultural and political exchange.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-091"
+   ],
+   "verification_status": "Provisional",
+   "track": "c",
+   "entity_names": [
+    "Paul Magloire"
+   ]
+  },
+  {
+   "date": "1955-03-02",
+   "event": "'Bo Diddley' recorded in Chicago",
+   "description": "'Bo Diddley'/'I'm a Man' (Checker 814) is recorded at Universal Recording Studio, 46 E. Walton Street, Chicago, and released in March 1955.",
+   "evidence": "",
+   "source": [
+    "S_arca",
+    "S_bigwheel"
+   ],
+   "entity_ids": [
+    "GBL-135",
+    "GBL-136",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Bo Diddley (Ellas McDaniel)",
+    "“Bo Diddley” (Checker 814, 1955)",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1955-04",
+   "event": "Ethel Payne covers the Bandung Conference for the Chicago Defender.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.press.org/newsroom/book-rap-highlights-triumph-black-female-journalists-over-discrimination",
+   "entity_ids": [
+    "GBL-213",
+    "GBL-013"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Ethel Payne",
+    "Chicago Defender"
+   ]
+  },
+  {
+   "date": "1955-05-21",
+   "event": "'Maybellene' recorded",
+   "description": "Chuck Berry records 'Maybellene' for Chess in Chicago after Muddy Waters's referral.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-038",
+    "GBL-003",
+    "GBL-014"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Chuck Berry",
+    "Muddy Waters",
+    "Chess Records"
+   ]
+  },
+  {
+   "date": "1955-08",
+   "event": "Emmett Till murdered",
+   "description": "Chicago youth Emmett Till is abducted and murdered near Money, Mississippi, while visiting relatives.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-034"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Emmett Till"
+   ]
+  },
+  {
+   "date": "1955-09-03",
+   "event": "Emmett Till's funeral at Roberts Temple COGIC, Chicago; body returned from Mississippi. Jet/Ebony publish open-casket photos.",
+   "description": "",
+   "evidence": "",
+   "source": "https://www.federalregister.gov/documents/full_text/html/2023/07/28/2023-16211.html",
+   "entity_ids": [
+    "GBL-201",
+    "GBL-202",
+    "GBL-017"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Roberts Temple Church of God in Christ",
+    "Louis H. Ford",
+    "Johnson Publishing Company"
+   ]
+  },
+  {
+   "date": "1955-09-15",
+   "event": "Jet publishes Till funeral photos",
+   "description": "Jet's September 15 issue carries David Jackson's open-casket photographs, with Mamie Till-Mobley's permission.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-034",
+    "GBL-035",
+    "GBL-017"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Emmett Till",
+    "Mamie Till-Mobley",
+    "Johnson Publishing Company"
+   ]
+  },
+  {
+   "date": "1957",
+   "event": "Era Bell Thompson jailed overnight in South Africa during a reporting trip.",
+   "description": "Single biographical source; provisional detail.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-056"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Era Bell Thompson"
+   ]
+  },
+  {
+   "date": "1957-03-06",
+   "event": "Ghanaian independence celebrations: the Barnetts attend; Etta Moten Barnett interviews Martin Luther King Jr. Ethel Payne accompanies Nixon to Ghana.",
+   "description": "",
+   "evidence": "",
+   "source": "http://kinginstitute.stanford.edu/king-papers/documents/claude-barnett",
+   "entity_ids": [
+    "GBL-019",
+    "GBL-187",
+    "GBL-213"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Claude Barnett",
+    "Etta Moten Barnett",
+    "Ethel Payne"
+   ]
+  },
+  {
+   "date": "1958",
+   "event": "Muddy Waters tours the UK with Chris Barber's band and Otis Spann.",
+   "description": "",
+   "evidence": "uDiscover Music reports the 1958 UK tour.",
+   "source": "udiscovermusic.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1958-12",
+   "event": "Claude Barnett attends the All-African People's Conference in Accra, Ghana.",
+   "description": "",
+   "evidence": "",
+   "source": "https://africanactivist.msu.edu/record/210-849-30086/",
+   "entity_ids": [
+    "GBL-019"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Claude Barnett"
+   ]
+  },
+  {
+   "date": "1959",
+   "event": "Malcolm X travels to Egypt and Saudi Arabia as a Nation of Islam emissary; his reports appear in the Pittsburgh Courier.",
+   "description": "Peer-reviewed (MDPI) via Essien-Udom.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-048",
+    "GBL-015"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Malcolm X",
+    "Nation of Islam"
+   ]
+  },
+  {
+   "date": "1959-04-30",
+   "event": "Jet magazine (Chicago) puts Kenyan leader Tom Mboya on its cover ('Africa's New Leader') during his U.S. tour.",
+   "description": "Chicago-Africa media link; no evidence Mboya visited Chicago (negative finding).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-017"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Johnson Publishing Company"
+   ]
+  },
+  {
+   "date": "1959-07-20",
+   "event": "European premiere of Lorraine Hansberry's A Raisin in the Sun at the Bristol Hippodrome, followed by London's Adelphi Theatre from 4 August 1959.",
+   "description": "",
+   "evidence": "Humanists UK records the Bristol premiere date and Adelphi transfer.",
+   "source": "heritage.humanists.uk",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1959-11/1960-01",
+   "event": "Elijah Muhammad's world tour: Turkey, Pakistan, Syria, Sudan, Egypt, Ethiopia, Lebanon, Jordan, Saudi Arabia (Umrah); NOI account reports a meeting with Nasser.",
+   "description": "Itinerary peer-reviewed; Nasser meeting provisional (NOI's own account).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-007",
+    "GBL-015"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Elijah Muhammad",
+    "Nation of Islam"
+   ]
+  },
+  {
+   "date": "1960-03-24",
+   "event": "Chicago Daily Defender publishes 'Massacre in South Africa' on the Sharpeville massacre.",
+   "description": "Quoted in Georgetown thesis.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-013"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Chicago Defender"
+   ]
+  },
+  {
+   "date": "1960-03-28",
+   "event": "ANP release publishes responses from Liberian president William V. S. Tubman and Senator John F. Kennedy.",
+   "description": "",
+   "evidence": "",
+   "source": "http://kinginstitute.stanford.edu/king-papers/documents/claude-barnett",
+   "entity_ids": [
+    "GBL-019",
+    "GBL-018"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Claude Barnett",
+    "Associated Negro Press"
+   ]
+  },
+  {
+   "date": "1960-11-28",
+   "event": "Richard Wright dies in Paris; buried in Père-Lachaise cemetery.",
+   "description": "",
+   "evidence": "Wright chronology records the death date and burial.",
+   "source": "maps-legacy.org chronology",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1960s (mid-late)",
+   "event": "Ghanaian college students in Chicago form the Ghana Students' Union, precursor of the Ghana National Council.",
+   "description": "Per peer-reviewed Migration Letters article.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-073"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Ghana National Council of Metropolitan Chicago"
+   ]
+  },
+  {
+   "date": "1961",
+   "event": "Hurricane Hattie devastates Belize; another substantial wave of Belizean immigrants arrives in Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-107"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Belizean Cricket Association of Chicago"
+   ]
+  },
+  {
+   "date": "1961",
+   "event": "Muhammad Speaks moves from Harlem to Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "http://daily.jstor.org/occ-reveal-digital-muhammad-speaks/",
+   "entity_ids": [
+    "GBL-020"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Muhammad Speaks"
+   ]
+  },
+  {
+   "date": "1961-10-26",
+   "event": "Hooker records 'Burnin'' in Chicago",
+   "description": "Detroit-based John Lee Hooker cuts the Burnin' album in Chicago for Vee-Jay.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-031",
+    "GBL-041"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "John Lee Hooker",
+    "Vee-Jay Records"
+   ]
+  },
+  {
+   "date": "1962",
+   "event": "Memphis Slim moves permanently to Paris.",
+   "description": "",
+   "evidence": "Archived liner notes document the 1962 permanent move.",
+   "source": "Internet Archive liner notes (archive.org)",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1962-10-20",
+   "event": "First American Folk Blues Festival: Paris Olympia (20 Oct), then Manchester Free Trade Hall (21 Oct, the only UK date).",
+   "description": "",
+   "evidence": "Louder's festival history gives the 1962 routing and dates.",
+   "source": "loudersound.com",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1964-06-10",
+   "event": "The Rolling Stones record at Chess Studios, Chicago (10–11 June 1964).",
+   "description": "",
+   "evidence": "Elsewhere quotes Wyman and Watts on the Chess session.",
+   "source": "elsewhere.co.nz",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1964-11-13",
+   "event": "The Rolling Stones release their cover of Willie Dixon's 'Little Red Rooster' as a UK single; it reaches No. 1 in December 1964.",
+   "description": "",
+   "evidence": "Facility Fun and Men's Journal (citing uDiscover Music) document the release and chart peak.",
+   "source": "facilityfun.com; mensjournal.com",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1966",
+   "event": "Chicago Freedom Movement",
+   "description": "SCLC joins Chicago's CCCO: North Lawndale apartment (Jan), Freedom Sunday at Soldier Field (Jul 10), Marquette Park marches (Aug), Summit Agreement (Aug 26).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-033",
+    "GBL-043",
+    "GBL-045",
+    "GBL-008"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Martin Luther King Jr.",
+    "Southern Christian Leadership Conference",
+    "Chicago Freedom Movement (1966)",
+    "Jesse L. Jackson Sr."
+   ]
+  },
+  {
+   "date": "1966-06-11",
+   "event": "First Puerto Rican Day Parade, Chicago",
+   "description": "Chicago's first Puerto Rican Day Parade is held downtown during the first Puerto Rico Week.",
+   "evidence": "",
+   "source": [
+    "S_elnuevodia"
+   ],
+   "entity_ids": [
+    "GBL-125",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Puerto Rico",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1966-06-12/1966-06-14",
+   "event": "Division Street uprising",
+   "description": "After police shoot Arcelis Cruz, three days of uprising on Division Street catalyze Puerto Rican and pan-Latino institution-building in Chicago.",
+   "evidence": "",
+   "source": [
+    "S_zocalo",
+    "S_elnuevodia"
+   ],
+   "entity_ids": [
+    "GBL-125",
+    "GBL-022",
+    "GBL-124"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Puerto Rico",
+    "Chicago, Illinois",
+    "Humboldt Park / Paseo Boricua"
+   ]
+  },
+  {
+   "date": "1967-12",
+   "event": "Haki Madhubuti founds Third World Press in a South Side Chicago basement with Carolyn Rodgers and Johari Amini.",
+   "description": "Founding-month detail provisional (Wikipedia-derived); Chicago founding well corroborated.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-058",
+    "GBL-076"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Haki R. Madhubuti",
+    "Third World Press"
+   ]
+  },
+  {
+   "date": "1968",
+   "event": "King assassinated; Mahalia sings; Staples sign Stax",
+   "description": "MLK assassinated in Memphis (Apr 4); Mahalia Jackson sings at his Atlanta funeral; the Chicago-based Staple Singers sign with Memphis's Stax Records.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-033",
+    "GBL-026",
+    "GBL-030"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Martin Luther King Jr.",
+    "Mahalia Jackson",
+    "Roebuck \"Pops\" Staples"
+   ]
+  },
+  {
+   "date": "1968",
+   "event": "AfriCOBRA founded in Chicago.",
+   "description": "Smithsonian AAA.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-068",
+    "GBL-051"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "AfriCOBRA",
+    "Jeff Donaldson"
+   ]
+  },
+  {
+   "date": "1969",
+   "event": "Nelson Harold Rogers meets ANC members in Tanzania; they ask him to establish a Midwest ANC chapter.",
+   "description": "Rogers's testimony; chapter established early 1970s.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-047"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Nelson Harold Rogers"
+   ]
+  },
+  {
+   "date": "1969",
+   "event": "Chicago's first Rainbow Coalition",
+   "description": "The Illinois Black Panther Party, the Young Lords, and the Young Patriots form the Rainbow Coalition.",
+   "evidence": "",
+   "source": [
+    "S_newberry"
+   ],
+   "entity_ids": [
+    "GBL-155",
+    "GBL-156",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Young Lords Organization",
+    "Illinois Black Panther Party",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1969-01-04",
+   "event": "Fleetwood Mac record with Chicago blues musicians at Chess's Ter-Mar studio, Chicago; released by UK label Blue Horizon in December 1969.",
+   "description": "",
+   "evidence": "Discogs documents the session date, studio, personnel, and Blue Horizon release.",
+   "source": "discogs.com release 5689040",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1969-08",
+   "event": "Art Ensemble of Chicago records Message to Our Folks at Studio Saravah, Paris, for BYG Records.",
+   "description": "",
+   "evidence": "BYG Records' release page states the August 1969 Studio Saravah recording.",
+   "source": "bygrecords.bandcamp.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1970",
+   "event": "Sun Ra's first concerts outside the US: France, Germany, and the UK (late summer/autumn 1970).",
+   "description": "",
+   "evidence": "Strut Records liner notes document the first non-US concerts.",
+   "source": "sunrastrut.bandcamp.com",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1970-05",
+   "event": "Howlin' Wolf records The London Howlin' Wolf Sessions at Olympic Sound Studios, London, with Clapton, Winwood, Wyman, and Watts.",
+   "description": "",
+   "evidence": "Discogs documents the May 1970 London recording and personnel.",
+   "source": "discogs.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "late 1970s",
+   "event": "Melida Harris Barrow begins the First Chicago Caribbean Carnival at Lincoln Park; it continues for over 20 years.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-096",
+    "GBL-118"
+   ],
+   "verification_status": "Provisional",
+   "track": "c",
+   "entity_names": [
+    "Melida Harris Barrow",
+    "First Chicago Caribbean Carnival"
+   ]
+  },
+  {
+   "date": "1971",
+   "event": "Jesse Jackson founds Operation PUSH in Chicago.",
+   "description": "Merged with the National Rainbow Coalition in 1996.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-008",
+    "GBL-016"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Jesse L. Jackson Sr.",
+    "Operation PUSH"
+   ]
+  },
+  {
+   "date": "1971",
+   "event": "Segundo Ruiz Belvis Cultural Center founded",
+   "description": "SRBCC is established, becoming Chicago's longest-running Latino/Latine cultural center.",
+   "evidence": "",
+   "source": [
+    "S_srbcc_goodman",
+    "S_srbcc_mac"
+   ],
+   "entity_ids": [
+    "GBL-146",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Segundo Ruiz Belvis Cultural Center",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1971",
+   "event": "BYG/Actuel releases Sun Ra's The Solar-Myth Approach Vol. 1 & 2; Sun Ra's second European tour ends with December 1971 Egypt recordings.",
+   "description": "",
+   "evidence": "Soundohm documents the BYG/Actuel releases; Strut liner notes document the tour and Egypt recordings.",
+   "source": "soundohm.com; sunrastrut.bandcamp.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1971-12",
+   "event": "Operation PUSH founded",
+   "description": "Jesse Jackson founds Operation PUSH in Chicago.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-008",
+    "GBL-016"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Jesse L. Jackson Sr.",
+    "Operation PUSH"
+   ]
+  },
+  {
+   "date": "1973",
+   "event": "Puerto Rican Cultural Center founded",
+   "description": "The PRCC is established by Chicago's Puerto Rican/Latina/o community in Humboldt Park.",
+   "evidence": "",
+   "source": [
+    "S_prcc_mac",
+    "S_prcc_ill"
+   ],
+   "entity_ids": [
+    "GBL-145",
+    "GBL-124"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Puerto Rican Cultural Center (Juan Antonio Corretjer)",
+    "Humboldt Park / Paseo Boricua"
+   ]
+  },
+  {
+   "date": "1977 (summer)",
+   "event": "CCICS Nile Valley study tour: Dakar (Cheikh Anta Diop lectures), Khartoum (Yusuf Fadl Hassan lecture), Nairobi, Cairo, Aswan.",
+   "description": "Participant account by Josef Ben Levi.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-080",
+    "GBL-069",
+    "GBL-055",
+    "GBL-054"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Nile Valley Study Tour (1977)",
+    "Center for Inner City Studies (NEIU)",
+    "Cheikh Anta Diop",
+    "Josef Ben Levi"
+   ]
+  },
+  {
+   "date": "1977-01-15/1977-02-12",
+   "event": "FESTAC '77 in Lagos, Nigeria: AfriCOBRA invited; Donaldson leads North American-zone delegation; Jarrell chairs the dress committee; National Theatre Gallery exhibition.",
+   "description": "Peer-reviewed (Civilisations).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-079",
+    "GBL-068",
+    "GBL-051",
+    "GBL-052"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "FESTAC '77",
+    "AfriCOBRA",
+    "Jeff Donaldson",
+    "Jae Jarrell"
+   ]
+  },
+  {
+   "date": "1978",
+   "event": "Kemetic Institute of Chicago founded at the Center for Inner City Studies, with Jacob Carruthers's intellectual thrust.",
+   "description": "Institutional outcome of the 1977 study tour.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-070",
+    "GBL-053",
+    "GBL-069"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Kemetic Institute of Chicago",
+    "Jacob H. Carruthers",
+    "Center for Inner City Studies (NEIU)"
+   ]
+  },
+  {
+   "date": "1978-05-27",
+   "event": "Bob Marley & The Wailers play the Uptown Theatre in Chicago on the Kaya Tour; audience recording and set list survive.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-098",
+    "GBL-117"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Bob Marley",
+    "Bob Marley & The Wailers at the Uptown Theatre (May 27, 1978)"
+   ]
+  },
+  {
+   "date": "1979",
+   "event": "Jesse Jackson visits South Africa and publicly denounces apartheid.",
+   "description": "Multiple news/biographical sources.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-008",
+    "GBL-016"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Jesse L. Jackson Sr.",
+    "Operation PUSH"
+   ]
+  },
+  {
+   "date": "1982",
+   "event": "Chicago signs sister-city agreement with Casablanca, Morocco.",
+   "description": "CSCI record.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-021",
+    "GBL-085"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Chicago Sister Cities International",
+    "Casablanca, Morocco"
+   ]
+  },
+  {
+   "date": "1983",
+   "event": "Chicago-area CALC/TransAfrica Krugerrand campaign: mayoral candidates Harold Washington and Bernard Epton pledge city-funds withdrawal; First National Bank of Chicago stops selling Krugerrands.",
+   "description": "Harvard Crimson, 1983.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-062",
+    "GBL-066"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Harold Washington",
+    "Chicago Free South Africa Movement"
+   ]
+  },
+  {
+   "date": "1983",
+   "event": "Center for Black Music Research founded",
+   "description": "Samuel A. Floyd founds the CBMR at Columbia College Chicago, devoted to Black music worldwide.",
+   "evidence": "",
+   "source": [
+    "S_cbmr_umich",
+    "S_cbmr_jbhe"
+   ],
+   "entity_ids": [
+    "GBL-144",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Center for Black Music Research (CBMR)",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1984",
+   "event": "Ethiopian Community Association of Chicago founded by Ethiopian immigrants.",
+   "description": "IRS listing gives July 1985 incorporation; treated as incorporation vs founding.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-072"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Ethiopian Community Association of Chicago"
+   ]
+  },
+  {
+   "date": "1984",
+   "event": "Ghana Students' Union becomes the Ghana National Council umbrella organization.",
+   "description": "Migration Letters.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-073"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Ghana National Council of Metropolitan Chicago"
+   ]
+  },
+  {
+   "date": "1984-12-03",
+   "event": "Alderman Danny K. Davis submits 'Resolution Condemning Apartheid' to the Chicago City Council.",
+   "description": "Primary archival document.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-064",
+    "GBL-077"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Danny K. Davis",
+    "Chicago City Council"
+   ]
+  },
+  {
+   "date": "1984-12-27",
+   "event": "Free South Africa Coalition Youth Committee flyer: 'Chicago Youth Say No to Apartheid and Racism!'",
+   "description": "Primary archival flyer.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-066"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Chicago Free South Africa Movement"
+   ]
+  },
+  {
+   "date": "1985",
+   "event": "Gaddafi addresses the NOI's Saviours' Day in Chicago by satellite and provides a reported $5 million interest-free loan.",
+   "description": "Provisional; secondary/partisan sources.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-050",
+    "GBL-015"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Muammar Gaddafi",
+    "Nation of Islam"
+   ]
+  },
+  {
+   "date": "1986",
+   "event": "The Wild Hare reggae venue opens at 3530 N. Clark, Chicago, under owner-musician Zeleke Gessesse; it runs 25 years.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-114"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Wild Hare"
+   ]
+  },
+  {
+   "date": "1986",
+   "event": "Farley 'Jackmaster' Funk's 'Love Can't Turn Around' reaches UK No. 10; Marshall Jefferson's 'Move Your Body' (Trax TX117) reaches UK No. 7; The House Sound of Chicago compilation circulates in the UK via London Records; the Haçienda's 'Nude' nights begin playing Chicago house.",
+   "description": "",
+   "evidence": "MusicVF (Farley), HipHopElectronic/Jahsonic (Jefferson), YouTube discographic upload (compilation), Decoded Magazine/Wikipedia (Haçienda).",
+   "source": "musicvf.com; hiphopelectronic.com; youtube.com; decodedmagazine.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1987",
+   "event": "Ga-Dangme Homowo Festival of Thanksgiving held in Chicago — the precursor of GhanaFest.",
+   "description": "Renamed GhanaFest in 1990; founding-year accounts vary (1987/1988/1990).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-081",
+    "GBL-073"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "GhanaFest",
+    "Ghana National Council of Metropolitan Chicago"
+   ]
+  },
+  {
+   "date": "1987-01-18",
+   "event": "Steve 'Silk' Hurley's 'Jack Your Body' begins two weeks at No. 1 on the UK Singles Chart.",
+   "description": "",
+   "evidence": "True House Stories reports the two-week No. 1 run from 18 January 1987.",
+   "source": "truehousestories.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1988",
+   "event": "Chicago Concerned Jamaicans is established in Chicago for Hurricane Gilbert relief, beginning sustained transnational philanthropy to Jamaican education.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-105"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Chicago Concerned Jamaicans"
+   ]
+  },
+  {
+   "date": "1988-02-24",
+   "event": "Memphis Slim dies in Paris.",
+   "description": "",
+   "evidence": "Archived liner notes record the death date and place.",
+   "source": "Internet Archive liner notes (archive.org)",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1989",
+   "event": "Patrick Woodtor founds Africa International House in Chicago.",
+   "description": "Congressional Record, 2022.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-071",
+    "GBL-063"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Africa International House",
+    "Patrick Woodtor"
+   ]
+  },
+  {
+   "date": "1989",
+   "event": "Chicago-Accra sister-city relationship established.",
+   "description": "CSCI announcement.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-021",
+    "GBL-083"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Chicago Sister Cities International",
+    "Accra, Ghana"
+   ]
+  },
+  {
+   "date": "1989",
+   "event": "Lil Louis's 'French Kiss' reaches UK No. 2; Italy's Black Box releases 'Ride on Time', sampling Chicago-born Loleatta Holloway's 'Love Sensation' without clearance (she sues).",
+   "description": "",
+   "evidence": "MusicVF (French Kiss); NME (Black Box/Holloway).",
+   "source": "musicvf.com; nme.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1989/1990",
+   "event": "Louis H. Ford becomes Presiding Bishop of the Church of God in Christ (headquartered in Memphis).",
+   "description": "",
+   "evidence": "",
+   "source": "https://tennesseeencyclopedia.net/entries/church-of-god-in-christ-cogic/",
+   "entity_ids": [
+    "GBL-202",
+    "GBL-203"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Louis H. Ford",
+    "Church of God in Christ (COGIC)"
+   ]
+  },
+  {
+   "date": "1990",
+   "event": "Chicago Sister Cities program created",
+   "description": "Mayor Richard M. Daley's Executive Order 1990-90-1 creates the citywide sister-cities program.",
+   "evidence": "",
+   "source": [
+    "S_eo"
+   ],
+   "entity_ids": [
+    "GBL-021",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Chicago Sister Cities International",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1990-07-12",
+   "event": "Chicago City Council passes anti-apartheid banking/selective-purchasing ordinance (effective October 31, 1990); Alderwoman Helen Shiller instrumental.",
+   "description": "Anti-Apartheid Newsletter (MSU archive).",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-077"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Chicago City Council"
+   ]
+  },
+  {
+   "date": "1990/1993",
+   "event": "Sun Ra returns to Birmingham",
+   "description": "After a 1990 stroke, Sun Ra returns to Birmingham for family care and dies there in 1993.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-006"
+   ],
+   "verification_status": "Unresolved",
+   "track": "a",
+   "entity_names": [
+    "Sun Ra"
+   ]
+  },
+  {
+   "date": "1991",
+   "event": "Chicago–Mexico City sister city (est.)",
+   "description": "Chicago–Mexico City sister-city relationship established (25th anniversary marked in 2016).",
+   "evidence": "",
+   "source": [
+    "S_csci_mex"
+   ],
+   "entity_ids": [
+    "GBL-021",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Chicago Sister Cities International",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1993",
+   "event": "Nelson Mandela's Chicago visit: 2.5 days, six fundraising events, organized by Nelson Harold Rogers with the Chicago Free South Africa Movement.",
+   "description": "Visit corroborated by Northwestern Now; duration/fundraiser count from Rogers's testimony.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-082",
+    "GBL-046",
+    "GBL-047",
+    "GBL-066"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Mandela's 1993 Chicago Visit",
+    "Nelson Mandela",
+    "Nelson Harold Rogers",
+    "Chicago Free South Africa Movement"
+   ]
+  },
+  {
+   "date": "1993",
+   "event": "Ephraim Malachi Martin establishes the African/Caribbean International Festival of Life in Chicago (first at Hawthorne Park Racetrack); DJ Chuck Wren founds the ska/reggae/rocksteady/calypso label Jump Up Records in Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-095",
+    "GBL-119",
+    "GBL-093",
+    "GBL-106"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Ephraim Malachi Martin",
+    "African/Caribbean International Festival of Life",
+    "Chuck Wren",
+    "Jump Up Records"
+   ]
+  },
+  {
+   "date": "1993",
+   "event": "First Fiesta Boricua",
+   "description": "The Puerto Rican Cultural Center launches Fiesta Boricua on Paseo Boricua (PRCC dates it to 1993; edition numbering implies 1994).",
+   "evidence": "",
+   "source": [
+    "S_fiesta",
+    "S_cmg"
+   ],
+   "entity_ids": [
+    "GBL-158",
+    "GBL-145",
+    "GBL-124"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Fiesta Boricua",
+    "Puerto Rican Cultural Center (Juan Antonio Corretjer)",
+    "Humboldt Park / Paseo Boricua"
+   ]
+  },
+  {
+   "date": "1995 (spring)",
+   "event": "Celia Cruz at the Aragon Ballroom",
+   "description": "Celia Cruz performs at Chicago's Aragon Ballroom.",
+   "evidence": "",
+   "source": [
+    "S_celia"
+   ],
+   "entity_ids": [
+    "GBL-138",
+    "GBL-157",
+    "GBL-022"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Celia Cruz",
+    "Aragon Ballroom",
+    "Chicago, Illinois"
+   ]
+  },
+  {
+   "date": "1995-01",
+   "event": "Paseo Boricua flags erected",
+   "description": "The two monumental steel Puerto Rican flags are installed over Division Street in Humboldt Park.",
+   "evidence": "",
+   "source": [
+    "S_uic"
+   ],
+   "entity_ids": [
+    "GBL-124",
+    "GBL-125"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Humboldt Park / Paseo Boricua",
+    "Puerto Rico"
+   ]
+  },
+  {
+   "date": "1996",
+   "event": "Puerto Rican Arts Alliance founded",
+   "description": "Carlos Hernández Falcón founds PRAA (Illinois House resolution says 1996; some accounts say 1998).",
+   "evidence": "",
+   "source": [
+    "S_praa_hr",
+    "S_praa_ct"
+   ],
+   "entity_ids": [
+    "GBL-147",
+    "GBL-141"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Puerto Rican Arts Alliance",
+    "Carlos Hernández Falcón"
+   ]
+  },
+  {
+   "date": "1996",
+   "event": "Roy Davis Jr. releases 'Gabrielle' (with Peven Everett) on Chicago's Large Records; DJ Rush moves from Chicago to Berlin.",
+   "description": "",
+   "evidence": "Discogs (Large Records 1996); DJ Rush's Berlin move dated 1996 by Wikipedia and confirmed as lived experience in his Tanzgemeinschaft interview.",
+   "source": "discogs.com; tanzgemeinschaft.com",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "1997",
+   "event": "Chicago-Durban sister-city relationship established.",
+   "description": "CSCI announcement.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-021",
+    "GBL-084"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Chicago Sister Cities International",
+    "Durban, South Africa"
+   ]
+  },
+  {
+   "date": "1997-10",
+   "event": "UK label XL Recordings releases Roy Davis Jr.'s 'Gabriel'; it reaches UK No. 22 in November 1997.",
+   "description": "",
+   "evidence": "Discogs documents the XL release; chart details from discographic summaries.",
+   "source": "discogs.com release 21455",
+   "entity_ids": [],
+   "verification_status": "Provisional",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "2001",
+   "event": "National Museum of Puerto Rican Arts & Culture founded",
+   "description": "Chicago Puerto Rican community activists, artists, and educators found the museum.",
+   "evidence": "",
+   "source": [
+    "S_nm_clio"
+   ],
+   "entity_ids": [
+    "GBL-148",
+    "GBL-124"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "National Museum of Puerto Rican Arts & Culture",
+    "Humboldt Park / Paseo Boricua"
+   ]
+  },
+  {
+   "date": "2002-2003",
+   "event": "Northwestern's CaribNation holds the third annual CaribFest (May 2002, featuring Chicago reggae band Indika) and fourth annual CaribFest (May 2003, featuring Evanston Haitian band Sakad).",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-111",
+    "GBL-122",
+    "GBL-110",
+    "GBL-112"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "CaribNation",
+    "CaribFest (Northwestern University)",
+    "Indika",
+    "Sakad"
+   ]
+  },
+  {
+   "date": "2004",
+   "event": "Ephraim Malachi Martin launches the Caribbean Festival (CAF) in Chicago's north and west loop areas.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-095",
+    "GBL-120"
+   ],
+   "verification_status": "Provisional",
+   "track": "c",
+   "entity_names": [
+    "Ephraim Malachi Martin",
+    "Caribbean Festival (CAF)"
+   ]
+  },
+  {
+   "date": "2005",
+   "event": "United African Organization founded in Chicago.",
+   "description": "Migration Letters.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-074"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "United African Organization"
+   ]
+  },
+  {
+   "date": "2005-12-20",
+   "event": "São Paulo declares sister-city relationship with Chicago",
+   "description": "São Paulo Municipal Law 14.112 declares Chicago and São Paulo 'Cidades Irmãs.'",
+   "evidence": "",
+   "source": [
+    "S_sp"
+   ],
+   "entity_ids": [
+    "GBL-127",
+    "GBL-021"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "São Paulo, Brazil",
+    "Chicago Sister Cities International"
+   ]
+  },
+  {
+   "date": "2006-08",
+   "event": "U.S. Senator Barack Obama (D-IL) visits Kenya on a two-week Africa tour (South Africa, Kenya, Chad, Djibouti).",
+   "description": "NPR, VOA, AFP contemporaneous coverage.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-061"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Barack Obama"
+   ]
+  },
+  {
+   "date": "2010-12-06",
+   "event": "UK label Planet Mu releases Bangs & Works Vol. 1 (A Chicago Footwork Compilation); the follow-up enables a UK/European tour by DJs Rashad and Spinn with footwork dancers.",
+   "description": "",
+   "evidence": "Planet Mu's own release pages give the date, roster, and tour.",
+   "source": "planetmu.bandcamp.com",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "2012",
+   "event": "Haitian-born Elsie Hector Hernandez founds the Haitian American Museum of Chicago in Uptown.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-090",
+    "GBL-100"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Elsie Hector Hernandez",
+    "Haitian American Museum of Chicago"
+   ]
+  },
+  {
+   "date": "2012",
+   "event": "Theaster Gates presents 12 Ballads for Huguenot House at dOCUMENTA 13, Kassel, Germany, using materials from 6901 South Dorchester, Chicago.",
+   "description": "",
+   "evidence": "Nonsite and Wallpaper document the project and materials.",
+   "source": "nonsite.org; wallpaper.com",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "2014",
+   "event": "National Museum of Puerto Rican Arts & Culture opens",
+   "description": "The museum opens in the historic Humboldt Park stables.",
+   "evidence": "",
+   "source": [
+    "S_nm_wwtw"
+   ],
+   "entity_ids": [
+    "GBL-148",
+    "GBL-124"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "National Museum of Puerto Rican Arts & Culture",
+    "Humboldt Park / Paseo Boricua"
+   ]
+  },
+  {
+   "date": "2014-03",
+   "event": "Frankie Knuckles plays his final gig at London's Ministry of Sound, then returns to Chicago, where he dies.",
+   "description": "",
+   "evidence": "His manager Judy Weinstein's account in the public-radio documentary 'Where Love Lives'.",
+   "source": "radio.kttz.org, 2014-04-02",
+   "entity_ids": [],
+   "verification_status": "Verified",
+   "track": "e",
+   "entity_names": []
+  },
+  {
+   "date": "2016",
+   "event": "Chicago Latino Theater Alliance founded",
+   "description": "CLATA is founded through collaboration among the National Museum of Mexican Art, the International Latino Cultural Center, and PRAA.",
+   "evidence": "",
+   "source": [
+    "S_clata_il"
+   ],
+   "entity_ids": [
+    "GBL-152",
+    "GBL-147",
+    "GBL-153"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Chicago Latino Theater Alliance (CLATA)",
+    "Puerto Rican Arts Alliance",
+    "International Latino Cultural Center"
+   ]
+  },
+  {
+   "date": "2017",
+   "event": "Ephraim Malachi Martin launches the Jerk, Seafood & Vegan Fest in downtown Chicago/South Loop.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-095",
+    "GBL-121"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Ephraim Malachi Martin",
+    "Jerk, Seafood & Vegan Fest"
+   ]
+  },
+  {
+   "date": "2018-06-09",
+   "event": "Ethiopian Airlines begins Chicago O'Hare-Addis Ababa service — first scheduled direct Chicago-Africa passenger service.",
+   "description": "City of Chicago announcement.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-075"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "Ethiopian Airlines"
+   ]
+  },
+  {
+   "date": "2019-01",
+   "event": "Kwame Raoul, born in Chicago to Haitian immigrants, takes office as the 42nd Illinois attorney general.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-089"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Kwame Raoul"
+   ]
+  },
+  {
+   "date": "2021-06",
+   "event": "San Juan to Chicago: Un Puente Musical",
+   "description": "The Chicago Philharmonic and PRAA present the collaboration led by Roselín Pabón.",
+   "evidence": "",
+   "source": [
+    "S_bww"
+   ],
+   "entity_ids": [
+    "GBL-140",
+    "GBL-149",
+    "GBL-147"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Roselín Pabón",
+    "Chicago Philharmonic",
+    "Puerto Rican Arts Alliance"
+   ]
+  },
+  {
+   "date": "2021-11-05",
+   "event": "La Creación premiered",
+   "description": "Chucho Valdés's Afro-Cuban suite La Creación, co-commissioned by Chicago's Symphony Center, premieres in Miami.",
+   "evidence": "",
+   "source": [
+    "S_cso"
+   ],
+   "entity_ids": [
+    "GBL-139",
+    "GBL-150"
+   ],
+   "verification_status": "Unresolved",
+   "track": "d",
+   "entity_names": [
+    "Chucho Valdés",
+    "Chicago Symphony Center"
+   ]
+  },
+  {
+   "date": "2024-03",
+   "event": "Jamaica's Ministry of Foreign Affairs and Foreign Trade confirms Lester Barclay as Honorary Consul of Jamaica in Chicago.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-097",
+    "GBL-101"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Lester Barclay",
+    "Consulate of Jamaica in Chicago"
+   ]
+  },
+  {
+   "date": "2025-07-20",
+   "event": "Progressive National Baptist Convention 64th Annual Session in Chicago (Jul 20–23, McCormick Place, ~2,000 delegates).",
+   "description": "",
+   "evidence": "",
+   "source": "https://pnbc.org/wp-content/uploads/2025/07/Member-Program-Update.pdf",
+   "entity_ids": [
+    "GBL-198"
+   ],
+   "verification_status": "Unresolved",
+   "track": "f",
+   "entity_names": [
+    "Progressive National Baptist Convention (PNBC)"
+   ]
+  },
+  {
+   "date": "2026-04-14 to 2026-09-20",
+   "event": "The Museum of Contemporary Art Chicago presents 'Dancing the Revolution: From Dancehall to Reggaetón,' curated by Carla Acevedo-Yates, on Jamaican dancehall and reggaetón through contemporary art.",
+   "description": "",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-123",
+    "GBL-099"
+   ],
+   "verification_status": "Verified",
+   "track": "c",
+   "entity_names": [
+    "Dancing the Revolution: From Dancehall to Reggaetón (MCA Chicago)",
+    "Carla Acevedo-Yates"
+   ]
+  },
+  {
+   "date": "2026-07-25",
+   "event": "37th Annual GhanaFest held in Washington Park, Chicago.",
+   "description": "todaygh; GIPC chairman guest of honor.",
+   "evidence": "",
+   "source": "",
+   "entity_ids": [
+    "GBL-081"
+   ],
+   "verification_status": "Unresolved",
+   "track": "b",
+   "entity_names": [
+    "GhanaFest"
+   ]
+  }
+ ]
+}

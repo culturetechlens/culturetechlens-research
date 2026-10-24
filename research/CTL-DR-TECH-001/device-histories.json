@@ -1,0 +1,270 @@
+{
+  "project": "CTL-DR-TECH-001",
+  "count": 30,
+  "devices": [
+    {
+      "device": "Pullman sleeping-car berth conversion hardware (43 berth types)",
+      "evidence": "Durbin (1969): porters had to '\"make down\" 43 types of berths, and memorize an elaborate book of instructions.'",
+      "history": "Porters converted day coaches into sleeping berths nightly — folding seats into lower berths, unfolding upper berths from the ceiling — across 43 distinct berth configurations, per a standardized company rule book.",
+      "source": "Durbin, Trains magazine (1969)",
+      "verification": "Verified",
+      "track": "b-labor",
+      "id": "TECH-D-001"
+    },
+    {
+      "device": "Pullman car air-conditioning and steam-heating systems (38 types)",
+      "evidence": "Durbin (1969); Los Angeles Sentinel on porter training school.",
+      "history": "Before mechanical cooling, porters managed ventilation, steam-heat valves, and later 38 distinct air-conditioning systems; porter training school taught 'how to control the heating and air-conditioning.'",
+      "source": "Durbin; LA Sentinel",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-002"
+    },
+    {
+      "device": "Vestibule doors and traps",
+      "evidence": "Trains.com forum on heavyweight Pullman operations.",
+      "history": "Porters staffed car-end vestibule doors at stations, handling doors and traps for boarding/alighting passengers — in some consists a porter handled two adjacent doors.",
+      "source": "Trains.com forums",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-003"
+    },
+    {
+      "device": "Dining-car kitchen and service systems",
+      "evidence": "Wikipedia (Pullman porter); NYHistory.",
+      "history": "Railroad dining cars required a trained staff of up to a dozen men (steward, chef, cooks, waiters) operating coal-fired ranges, iceboxes, and table service on moving trains; Pullman's first dining car (1868) ran Chicago-Springfield.",
+      "source": "Wikipedia; NYHistory",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-004"
+    },
+    {
+      "device": "Killing-floor hand tools and disassembly line (cleavers, knives, shackle hoists, overhead drag lines)",
+      "evidence": "Halpern (Cambridge, 1992): 'These men will be on the killing floor... They will have cleavers and knives. They know how to use them.'; Current Affairs on drag lines/conveyors.",
+      "history": "Chicago packing plants ran disassembly lines on overhead drag lines and conveyors; Black workers wielded cleavers and knives on the killing floor with recognized skill.",
+      "source": "Halpern; Current Affairs",
+      "verification": "Verified",
+      "track": "b-labor",
+      "id": "TECH-D-005"
+    },
+    {
+      "device": "Meatpacking refrigeration and sausage-making machinery",
+      "evidence": "cdlib dissertation text on casings rooms and cooler temperatures; CIO (1936) essay on women's sausage/casing work.",
+      "history": "Ammonia refrigeration held cooler/freezer rooms at 32-40°F where Black women worked; sausage grinders, linking machines, and casing-trimming equipment defined women's departments.",
+      "source": "cdlib eScholarship PDF; 'Chicago stockyards on the eve of the CIO'",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-006"
+    },
+    {
+      "device": "Integrated steelmaking equipment (coke ovens, blast furnaces, open-hearth furnaces, rolling mills)",
+      "evidence": "Gary Works histories; Parks (2011) on Black concentration in Chicago steel.",
+      "history": "Gary Works and Inland Steel's Indiana Harbor works converted iron ore, coal, and limestone into rails, beams, plate, and sheet; Black workers were concentrated in the hottest, most dangerous departments.",
+      "source": "scholarworks.iu.edu; Parks (2011)",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-007"
+    },
+    {
+      "device": "Overhead cranes (steel mills)",
+      "evidence": "'Steelmill' worker memoir (libcom PDF).",
+      "history": "Cranes moved steel between furnaces and mills; at Gary Works, Black cranemen operated overhead cranes — equipment so critical that slowing them stopped the whole mill.",
+      "source": "libcom.org 'Steelmill' memoir",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-008"
+    },
+    {
+      "device": "Steam locomotive (firebox, boiler, lubrication)",
+      "evidence": "The Engineer (Feb 2024); Smithsonian via The Engineer.",
+      "history": "Black firemen fueled fireboxes, maintained boiler water, and manually oiled moving parts; Elijah McCoy's 1872 automatic lubricator (US Patent 129,843) automated the oiling task.",
+      "source": "The Engineer",
+      "verification": "Verified",
+      "track": "b-labor",
+      "id": "TECH-D-009"
+    },
+    {
+      "device": "Ford assembly line and stamping presses (Torrence Avenue plant)",
+      "evidence": "Wikipedia 'Chicago Assembly Plant'; fenderbender (2019).",
+      "history": "Chicago Assembly ran moving assembly lines from the Model T era through the 2004 $400M modernization and 2019 $1B reinvestment, evolving into flexible just-in-time production with robotic cells.",
+      "source": "Wikipedia; fenderbender",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-010"
+    },
+    {
+      "device": "Human-computation instruments and early electronic computers (slide rules, Monroe calculators, punch cards, IBM mainframes, FORTRAN)",
+      "evidence": "Scientific American; National Geographic; secondary accounts of Vaughan's FORTRAN training.",
+      "history": "West Area Computers calculated flight data by hand with slide rules and mechanical calculators; as IBM mainframes arrived, Dorothy Vaughan learned FORTRAN and retrained her unit as programmers.",
+      "source": "Scientific American; National Geographic",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-011"
+    },
+    {
+      "device": "CTA transit bus (power steering, power brakes)",
+      "evidence": "lipstickalley reprint of 1974 hiring coverage.",
+      "history": "CTA's 1974 buses used power steering and power brakes; CTA officials noted these systems meant new driver Mary Wallace 'should have no problems handling the large bus.'",
+      "source": "1974 press coverage via lipstickalley",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-012"
+    },
+    {
+      "device": "Commercial/institutional electrical systems (conduit, wiring, switchgear)",
+      "evidence": "IBEW official post.",
+      "history": "Black IBEW electricians wired major Chicago projects — Sears Tower, O'Hare Airport, Soldier Field — via firms like Taylor Electric.",
+      "source": "IBEW",
+      "verification": "Provisional",
+      "track": "b-labor",
+      "id": "TECH-D-013"
+    },
+    {
+      "device": "Roland TR-808",
+      "evidence": "Jesse Saunders & Vince Lawrence's \"On and On\" (1984, Jes Say) — 'recorded on a Tascam 4-track and also used a Korg Poly 61 synth'; 'The 808 was used simply because it was the only drum machine Saunders had access to.' Cites a Saunders interview by DJ History's Bill Brewster (2013, republished by Red Bull Music Academy) and a Saunders Medium interview (2015).",
+      "history": "First drum machine on the first house record: Saunders's only available drum machine, paired with a Tascam 4-track and a Korg Poly 61, on 'On and On' (1984).",
+      "source": "MusicRadar, \"I've got the 303 but I don't know how to work it...\" (music production feature, ~2025)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-014"
+    },
+    {
+      "device": "Roland TB-303",
+      "evidence": "DJ Pierre, direct quotes: 'I said to Spanky, 'we need to get a 303 man, that thing makes hot bass lines' and he said 'I'll see if I can find one' so he went looking around second-hand stores and maybe two weeks later he called me and said 'hey man I've got the 303 but I don't know how to work it, it's making all these crazy sounds!'' Spanky bought it used for $40; Pierre twisted the resonance/cutoff knobs live over a programmed beat for an hour-plus jam. They delivered it to Ron Hardy on cassette as 'In Your Mind'; it became Phuture's 'Acid Tracks' (Trax, 1987).",
+      "history": "Second-hand TB-303 (bought 1985 for $40) misused as a live-knob-twisting lead instrument instead of a bass accompanist, producing the acid squelch on Phuture's 'Acid Tracks' (1987). Price given as $40 (DJ Mag, MusicRadar) vs $50 (one later book) — minor discrepancy noted.",
+      "source": "DJ Mag, 'GAME CHANGERS: PHUTURE ACID TRACKS' (DJ Pierre interview, ~2013); DJ Mag, 'DJ PIERRE: PERFECT PITCH' (~2013); The Fader, 'Back to the Phuture' (2014-08-04)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-015"
+    },
+    {
+      "device": "Roland TR-909 Rhythm Composer",
+      "evidence": "Frankie Knuckles, direct quote (RBMA 1995 interview): 'I didn't finally get my first drum machine until 1984 I think. I got it from Derrick May. It was a Roland TR-909. Somehow he had two of them, and he called me from Detroit to tell me he was coming down. At this point I was at the Power Plant.' MusicRadar feature quotes Knuckles: 'This is a Roland 909 drum machine, and it's going to take us to the future... I took it into the club and wired it up to the mixer. Let me tell you, every record I played that night had a 909 running underneath it.' Eddie Fowlkes (2005 Pitchfork interview) corroborated May selling his 909 to pay rent, to Juan Atkins's displeasure.",
+      "history": "Derrick May sold Knuckles his TR-909 (Detroit→Chicago, ~1984, Power Plant era); Knuckles wired it into the club mixer and ran its kick under records live — the drum-machine-under-disco technique that seeded early house production. | MERGED: Heard's 'Can You Feel It' built in one live pass on a Juno-60 + TR-909, bounced by hand between two consumer cassette decks — no multitrack — a resourceful overdub technique that defined the deep-house sound. | MERGED: 1983: Roland releases TR-909, a commercial failure discontinued in 1985. Mid-1980s: Chicago house producers (Frankie Knuckles, Marshall Jefferson) adopt it as the four-on-the-floor backbone of house; Detroit techno producers (Derrick May, Jeff Mills) adopt it for techno. Its punchy kick, crisp hi-hats and MIDI/sequencer defined the sound of house and techno.",
+      "source": "Red Bull Music Academy, 'Frankie Knuckles on the Birth of House Music' (1995 interview, republished 2018-02); MusicRadar, 'When Derrick May sold Frankie Knuckles his 909' (~2023)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording,c-broadcast-recording,d-digital",
+      "id": "TECH-D-016"
+    },
+    {
+      "device": "Roland TR-707",
+      "evidence": "Marshall Jefferson, direct quote (MusicRadar interview, ~2016): 'I had a Roland JX-8P keyboard, a Korg EX-800 module, a Roland TR-707 drum machine. I also had a Roland TR-808, which I later loaned to Mike Dunn, Hugo Hutchinson and Tyree Cooper, and they made their first records with that drum machine. Then the mixer was a Boss mixer, I forget the model number; and I had a Tascam PortaOne Studio four-track recorder. Then I had the Yamaha QX1 and the TB-303.' Same interview: piano on 'Move Your Body' laid down at 40bpm then sped up to 120bpm. Gearspace 2026 forum interview (Jefferson): TR-707 hats on early records; early records mixed on 16-channel Tascam mixer + 8-track Tascam half-inch machine.",
+      "history": "Jefferson's home rig (QX1 sequencer, JX-8P, EX-800, TR-707, TR-808, Boss mixer, Tascam PortaOne 4-track, TB-303 bought for $150) bought 1984/85; the source setup behind 'Move Your Body' (1986). TR-707 specifically on 'Move Your Body' is Provisional (gear-list + timing, not a per-track quote).",
+      "source": "MusicRadar, 'Marshall Jefferson on making music then and now' (~2016); Gearspace forum, 'Interview with Marshall Jefferson' (2026 crawl)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-017"
+    },
+    {
+      "device": "Tascam 4-track / PortaOne",
+      "evidence": "MusicRadar: 'On and On' recorded on a Tascam 4-track (Saunders). Jefferson: Tascam PortaOne Studio four-track recorder in his first rig. Gearspace (Jefferson): early records recorded/mixed on 16-channel Tascam mixer + 8-track Tascam half-inch machine.",
+      "history": "Consumer Tascam multitracks were the studio core of first-wave Chicago house — 4-track for Saunders (1984), 4-track then 8-track half-inch for Jefferson's camp.",
+      "source": "MusicRadar house feature; MusicRadar Jefferson interview; Gearspace Jefferson interview",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-018"
+    },
+    {
+      "device": "Reel-to-reel tape (DJ edits and dub distribution)",
+      "evidence": "MusicRadar: 'Before Knuckles began producing his own material outright, he would painstakingly piece together club-oriented edits of soul, disco and pop tracks by cutting and splicing analogue tape using a reel-to-reel tape machine.' Knuckles (RBMA 1995): 'And it was all on reel-to-reel... Once I learned how to edit, and I started changing things around like that, it wasn't necessary for me to play like that in a club any more. I could do it all ahead of time and pre-record it.' 'Your Love' circulated for a year as a reel-to-reel dub before vinyl. Producers pressed acetates or cut reel-to-reel copies for Ron Hardy to test at the Music Box (ravesuperstore; DJ Mag: Phuture gave Hardy 'Acid Tracks' on cassette).",
+      "history": "Reel-to-reel tape was both an instrument (Knuckles's cut-and-splice edits) and a distribution medium (acetates/reel dubs to Hardy, reel dubs of 'Your Love' to Knuckles) in the pre-pressing Chicago circuit.",
+      "source": "MusicRadar Knuckles/909 feature; RBMA 'Frankie Knuckles on the Birth of House Music' (1995); DJ Mag 'DJ PIERRE: PERFECT PITCH'",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-019"
+    },
+    {
+      "device": "Richard Long & Associates (RLA) club sound system",
+      "evidence": "Robert Williams, direct quote (Chicago Magazine, 2018): 'Richard Long and Associates, the New York company that designed the sound system at Studio 54, put ours in. People in Chicago had never heard a sound like that.' Academic treatment (are.na PDF, from disco sound-system scholarship): 'Although Robert Williams' RLA sound system was less precisely tuned to the acoustic environment in which it was installed than that of The Garage, its power and precision were still revolutionary for Warehouse patrons. Frankie Knuckles accentuated vocal lines by using the RLA crossover to draw out his system's treble and mids, or smothered his dance floor in waves of bass so deep and dense that dancers would shriek with pleasure.'",
+      "history": "RLA (Studio 54's system designer) installed the Warehouse's sound system (1977); Knuckles used its crossover as a performance instrument — pushing treble/mids or bass against the room.",
+      "source": "Chicago Magazine, 'The Birth of House Music' (2018-08, Robert Williams interview); 'DO YOU' (disco sound-system scholarship PDF, via are.na)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-020"
+    },
+    {
+      "device": "Chess Studios dual echo chambers",
+      "evidence": "City of Chicago Chess Records landmark designation report: after Chess took control of the 2120 S. Michigan studio in 1958, engineer Ron Malo 'constructed dual echo chambers in the basement which were used for special effects.'",
+      "history": "Purpose-built basement echo chambers at 2120 S. Michigan (c. 1958–59) contributed the distinctive reverberant character of Chess records.",
+      "source": "City of Chicago, Chess Records Office and Studio landmark designation report",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-021"
+    },
+    {
+      "device": "Vinyl pressing plant (Music/Musical Products, Bridgeport)",
+      "evidence": "Larry Sherman, a vintage-jukebox collector frustrated with record availability, bought the pressing plant in Bridgeport, Chicago (1983) and began pressing records; he pressed Saunders & Lawrence's 'On and On' and then founded Trax (1984). Rachael Cain (GO BANG! 2020): 'He owned a vinyl pressing plant in Bridgeport and BANG! TRAX was born and the House revolution was on!' Plant name given as 'Music Products' (myhouseradio) vs 'Musical Products' (Wikipedia/Trax) — variant unresolved.",
+      "history": "A Bridgeport pressing plant became the manufacturing base for early Chicago house vinyl: 'On and On' first, then the Trax catalog.",
+      "source": "myhouseradio.fm (2020-04-15 Sherman obituary); Wikipedia 'Trax Records'; GO BANG! Magazine interview with Rachael Cain (2020-04-30)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-022"
+    },
+    {
+      "device": "Chess 320 E. 21st St. integrated record factory",
+      "evidence": "City of Chicago Chess landmark report, quoting the Chicago Tribune (1969-05-11): 'In the Chess building musicians are hired... songs are written, arranged, published, and recorded on eighttrack stereo tapes, 'mixed' to balance or augment the sounds of studio performances, transferred to vinyl master discs and then to nickelplated stamping discs from which, still in the same building, phonograph records are mass produced, jacketed, packed in shipping cartons, and sent out to distributors... Chess designs and prints its own record labels, even punching the little round hole in the center.' Chess boasted it could 'get a record on the market, from performance to record shop, in 24 hours.' Building purchased 1966; move completed late 1966/early 1967.",
+      "history": "At 320 E. 21st Street, Chess ran a vertically integrated plant: eight-track recording → vinyl master discs → nickel-plated stampers → pressed, jacketed, shipped records, with in-house label printing — all under one roof.",
+      "source": "City of Chicago Chess Records landmark designation report (quoting Chicago Tribune, 1969-05-11)",
+      "verification": "Verified",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-023"
+    },
+    {
+      "device": "Universal Recording 'firsts' (tape repeat, vocal booth, 8-track, delay lines, half-speed mastering)",
+      "evidence": "Wikipedia 'Universal Recording Corporation': Putnam's period saw 'the first use of tape repeat, the first vocal booth, the first multiple voice recording, one of the first to use 8-track recording (preceded by Les Paul and Tom Dowd), the first use of delay lines in the studio, and the first release, in 1956, of half-speed mastered discs (on the Mercury label).' Engineer Bruce Swedien began working for the studio; artists included Muddy Waters, Willie Dixon, Bo Diddley, Little Walter, Chuck Berry.",
+      "history": "Bill Putnam's Universal Recording (46 E. Walton St., from 1955) was Chicago's largest independent studio and the technical nursery for the engineers who later recorded Chess's catalog; its half-speed-mastered Mercury discs (1956) predate the common mastering era.",
+      "source": "Wikipedia, 'Universal Recording Corporation'",
+      "verification": "Provisional",
+      "track": "c-broadcast-recording",
+      "id": "TECH-D-024"
+    },
+    {
+      "device": "Akai MPC60 (MIDI Production Center)",
+      "evidence": "MusicRadar: released 1988, co-developed with Roger Linn, combining sampling and sequencing; adopted by DJ Premier, Hank Shocklee, Prince Paul and later Dr. Dre, defining the hip-hop beat-making workflow through the 1990s. Voices.no academic article: MPC series became the EMPI of choice for hip-hop beat makers, enabling sample 'chopping' and finger drumming.",
+      "history": "1988: Akai releases MPC60 designed with Roger Linn. Late 1980s-1990s: becomes the standard production instrument for hip-hop beat making (sampling, sequencing, pad performance). Persisted as the iconic beat-making interface even as computer DAWs arrived.",
+      "source": "MusicRadar ('808s, MPCs and Auto-Tune'; '10 drum machines'); Voices.no (Viega music-technology article)",
+      "verification": "Verified",
+      "track": "d-digital",
+      "id": "TECH-D-025"
+    },
+    {
+      "device": "Ensoniq ASR-10 sampler",
+      "evidence": "Just Blaze found and photographed on Instagram the Ensoniq ASR-10 that Kanye West used during the Dynasty, Blueprint, BP2 and Black Album sessions at Baseline studio (HotNewHipHop; Hypebeast, 2021). Early-2000s footage of Kanye's home studio setup shows his workflow around the ASR-10, MPC 2000 and Roland VS-1880.",
+      "history": "1990s-2000s: the ASR-10 was Kanye West's core sampler for his chipmunk-soul production era (JAY-Z's The Blueprint, The Black Album) while based in Chicago/Roc-A-Fella sessions.",
+      "source": "HotNewHipHop (2021); Hypebeast (2021)",
+      "verification": "Verified",
+      "track": "d-digital",
+      "id": "TECH-D-026"
+    },
+    {
+      "device": "Three-position T-shaped traffic signal (arm-based)",
+      "inventor_attributed": "Garrett Morgan",
+      "year": 1923,
+      "track": "g-mythbusting",
+      "id": "TECH-D-027"
+    },
+    {
+      "device": "Safety hood / breathing device",
+      "inventor_attributed": "Garrett Morgan",
+      "year": 1914,
+      "track": "g-mythbusting",
+      "id": "TECH-D-028"
+    },
+    {
+      "device": "Super Soaker (Power Drencher)",
+      "inventor_attributed": "Lonnie Johnson",
+      "year": 1986,
+      "track": "g-mythbusting",
+      "id": "TECH-D-029"
+    },
+    {
+      "id": "TECH-D-030",
+      "device": "E-MU SP-1200",
+      "history": "",
+      "evidence": "",
+      "source": "",
+      "verification": "Provisional",
+      "track": "f-adaptation"
+    }
+  ]
+}

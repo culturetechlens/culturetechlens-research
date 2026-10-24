@@ -1,0 +1,413 @@
+{
+  "brief_id": "CTL-RB-MEDIA-000003",
+  "compiled": "2026-09-28",
+  "entities": [
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Black-owned company (Afro Sheen/Ultra Sheen) whose sponsorship supported Soul Train's national syndication.",
+      "id": "ent-org-johnson-products",
+      "name": "Johnson Products Company",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Founder of the Museum of Broadcast Communications; former radio/TV host.",
+      "id": "ent-person-bruce-dumont",
+      "name": "Bruce DuMont",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Host of The Merri Dee Show (WSNS, 1970-71); WGN-TV anchor from 1972.",
+      "id": "ent-person-alan-sandler",
+      "name": "Alan Sandler",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "WBBM newsman; his 1978 pairing with Porterfield and 1985 return triggered Porterfield's demotion.",
+      "id": "ent-person-bill-kurtis",
+      "name": "Bill Kurtis",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Hosted/produced Chicagoing on WLS from 1978 as Director of Community Services.",
+      "id": "ent-person-bill-campbell",
+      "name": "Bill Campbell",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Black on-air newscaster in Chicago who preceded Porterfield; career record unrecovered.",
+      "id": "ent-person-ben-holman",
+      "name": "Ben Holman",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "First Black woman TV reporter in Chicago (WMAQ); first woman to broadcast news in Chicago (WCFL, 1965).",
+      "id": "ent-person-carole-simpson",
+      "name": "Carole Simpson",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Political reporter at WLS-TV from 1991.",
+      "id": "ent-person-charles-thomas",
+      "name": "Charles Thomas",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Chicago-based oral-history archive; holds video interviews with key figures.",
+      "id": "ent-org-historymakers",
+      "name": "The HistoryMakers",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "CBS network variety host (1948-1950); Chicago production link unverified.",
+      "id": "ent-person-bob-howard",
+      "name": "Bob Howard",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Black Chicago Defender writer quoted on Billy Daniels' TV treatment; cross-ref CTL-DR-BPM-003.",
+      "id": "ent-org-chicago-defender",
+      "name": "Chicago Defender",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Dancer on early Soul Train; hosted the local Chicago edition until 1976.",
+      "id": "ent-person-clinton-ghent",
+      "name": "Clinton Ghent",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "U.S. Congressman; delivered 2022 Merri Dee tribute claiming her first-anchor status.",
+      "id": "ent-person-bobby-rush",
+      "name": "Bobby Rush",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "WTTW's Our People host (1968); later Tilmon's Tempo and WMAQ meteorologist.",
+      "id": "ent-person-jim-tilmon",
+      "name": "Jim Tilmon",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Owners of Jovon Minority Broadcasting; won channel 62 comparative hearing; launched WJYS (1991).",
+      "id": "ent-person-strouds",
+      "name": "Joseph and Yvonne Stroud",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Creator/producer/host of Soul Train; WCIU reporter from 1967.",
+      "id": "ent-person-don-cornelius",
+      "name": "Don Cornelius",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Creator of Bird of the Iron Feather (WTTW, 1970); Defender and Muhammad Speaks writer.",
+      "id": "ent-person-richard-durham",
+      "name": "Richard Durham",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "NBC affiliate (ex-WNBQ); Saunders's 10 p.m. anchor chair; Simpson's reporting breakthrough.",
+      "id": "ent-org-wmaq",
+      "name": "WMAQ-TV",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Federal commission whose 1968 report indicted news-media failures on race.",
+      "id": "ent-org-kerner-commission",
+      "name": "Kerner Commission",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Led the 1985 boycott of WBBM over Porterfield's demotion; appeared on Our People (1970).",
+      "id": "ent-person-jesse-jackson",
+      "name": "Jesse Jackson",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Chicago independent (ch. 26); hired Cornelius; launched Soul Train; early home of Merri Dee.",
+      "id": "ent-org-wciu",
+      "name": "WCIU-TV",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Independent (ch. 44); home of The Merri Dee Show (1970-71).",
+      "id": "ent-org-wsns",
+      "name": "WSNS-TV",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Chicago public television (ch. 11, 1955-); produced Our People and Bird of the Iron Feather.",
+      "id": "ent-org-wttw",
+      "name": "WTTW",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "CBS affiliate (ch. 2); site of Star Quest (1947), Porterfield's rise/demotion, 1985 boycott.",
+      "id": "ent-org-wbbm",
+      "name": "WBBM-TV",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "ABC affiliate (ch. 7); Jubilee Showcase (1963-84); Chicagoing; Porterfield's second act.",
+      "id": "ent-org-wls",
+      "name": "WLS-TV",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Independent (ch. 9); Merri Dee's anchor home from 1972.",
+      "id": "ent-org-wgn",
+      "name": "WGN-TV",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Chicago archive/museum; 85,000-100,000 hours; Encyclopedia of Television.",
+      "id": "ent-org-mbc",
+      "name": "Museum of Broadcast Communications",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Chicago-founded (1971) multicultural ad agency; 'positive realism' TV commercials.",
+      "id": "ent-org-burrell",
+      "name": "Burrell Communications",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Black-owned broadcaster; launched WJYS (channel 62) in 1991.",
+      "id": "ent-org-jovon",
+      "name": "Jovon Minority Broadcasting",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Black-owned full-power commercial station (ch. 62); signed on March 2, 1991.",
+      "id": "ent-org-wjys",
+      "name": "WJYS",
+      "type": "organization"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "WBBM community-affairs director and Common Ground host; WMAQ 10 p.m. co-anchor (1980-2009).",
+      "id": "ent-person-warner-saunders",
+      "name": "Warner Saunders",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "WBBM reporter/anchor (1964-1985); first Black weekday anchor (1978); Someone You Should Know (1977).",
+      "id": "ent-person-harry-porterfield",
+      "name": "Harry Porterfield",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "White civil-rights activist; creator/producer/host of Jubilee Showcase (WLS, 1963-1984).",
+      "id": "ent-person-sid-ordower",
+      "name": "Sid Ordower",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Co-founded Burrell Communications (1971); 'Black people are not dark-skinned white people.'",
+      "id": "ent-person-tom-burrell",
+      "name": "Tom Burrell",
+      "type": "person"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Weekly Black gospel music program on WLS (1963-1984).",
+      "id": "ent-prog-jubilee-showcase",
+      "name": "Jubilee Showcase",
+      "type": "program"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "WTTW Black public-affairs program hosted by Jim Tilmon (1968-).",
+      "id": "ent-prog-our-people",
+      "name": "Our People",
+      "type": "program"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "First all-Black TV soap opera; WTTW/NET, Jan 19 - Mar 6, 1970.",
+      "id": "ent-prog-bird-iron-feather",
+      "name": "Bird of the Iron Feather",
+      "type": "program"
+    },
+    {
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ],
+      "description": "Created by Don Cornelius; premiered WCIU Aug 17, 1970; national syndication Oct 1971.",
+      "id": "ent-prog-soul-train",
+      "name": "Soul Train",
+      "type": "program"
+    },
+    {
+      "id": "ent-org-net",
+      "name": "National Educational Television",
+      "type": "organization",
+      "description": "NET; distributed Bird of the Iron Feather.",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    },
+    {
+      "id": "ent-org-sears",
+      "name": "Sears, Roebuck and Co.",
+      "type": "organization",
+      "description": "Sponsor of the first Soul Train broadcast (WCIU, 1970).",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    },
+    {
+      "id": "ent-person-emmett-mcbain",
+      "name": "Emmett McBain",
+      "type": "person",
+      "description": "Co-founded Burrell McBain Advertising with Tom Burrell (1971).",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    },
+    {
+      "id": "ent-org-operation-push",
+      "name": "Operation PUSH",
+      "type": "organization",
+      "description": "Jesse Jackson organization; vehicle for the 1985 WBBM boycott.",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    },
+    {
+      "id": "ent-org-fcc",
+      "name": "Federal Communications Commission",
+      "type": "organization",
+      "description": "Ran the comparative hearing that awarded channel 62 to Jovon Minority Broadcasting.",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    },
+    {
+      "id": "ent-person-merri-dee",
+      "name": "Merri Dee",
+      "type": "person",
+      "description": "WCIU (1967-68), The Merri Dee Show (WSNS, 1970-71); WGN-TV anchor from 1972; survived the 1971 kidnapping.",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    },
+    {
+      "id": "ent-prog-someone-you-should-know",
+      "name": "Someone You Should Know",
+      "type": "program",
+      "description": "WBBM segment created by Harry Porterfield in 1977 profiling ordinary Chicagoans.",
+      "brief_ids": [
+        "CTL-RB-MEDIA-000003"
+      ]
+    }
+  ],
+  "status": "Research",
+  "version": "0.1"
+}

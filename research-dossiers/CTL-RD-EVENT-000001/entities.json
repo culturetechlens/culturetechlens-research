@@ -1,0 +1,397 @@
+{
+  "audit_check": {
+    "canon_ids_used": [],
+    "contradictions_json": "No harmonized positions touch E2 facts; no contradictions with this dossier.",
+    "duplicates_json": "No E2-related canonical entities found (checked 2026-09-28)."
+  },
+  "dossier_id": "CTL-RD-EVENT-000001",
+  "entities": [
+    {
+      "aliases": [
+        "E2 Nightclub Stampede"
+      ],
+      "canonical_name": "The E2 Nightclub Tragedy",
+      "claims": [
+        "CLAIM-001",
+        "CLAIM-006",
+        "CLAIM-009",
+        "CLAIM-011",
+        "CLAIM-012",
+        "CLAIM-036"
+      ],
+      "description": "Fatal crowd crush on 2003-02-17 at the E2 nightclub, 2347 S. Michigan Ave., Chicago; 21 dead, 50+ injured.",
+      "entity_id": "RD-EVENT-000001-001",
+      "entity_type": "event",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "E2",
+        "Epitome (E2) Nightclub"
+      ],
+      "canonical_name": "E2 nightclub",
+      "claims": [
+        "CLAIM-002",
+        "CLAIM-015",
+        "CLAIM-016",
+        "CLAIM-035"
+      ],
+      "description": "Black-owned second-floor nightclub (8,000 sq ft) above the Epitome restaurant; operated May 2000 – Feb 2003.",
+      "entity_id": "RD-EVENT-000001-002",
+      "entity_type": "business",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [
+        "Epitome Chicago"
+      ],
+      "canonical_name": "Epitome restaurant",
+      "claims": [
+        "CLAIM-002",
+        "CLAIM-016",
+        "CLAIM-032"
+      ],
+      "description": "Upscale restaurant on the first floor of 2347 S. Michigan; same owners as E2; closed permanently after the tragedy.",
+      "entity_id": "RD-EVENT-000001-003",
+      "entity_type": "business",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "2347 S. Michigan Avenue building",
+      "claims": [
+        "CLAIM-004",
+        "CLAIM-005",
+        "CLAIM-016",
+        "CLAIM-032",
+        "CLAIM-033"
+      ],
+      "description": "1910 Fiat showroom; contributing property of the Motor Row Historic District; housed Le Mirage, Hero's, the Clique, Epitome/E2; vacant 2003–2024; demolished Dec 2024.",
+      "entity_id": "RD-EVENT-000001-004",
+      "entity_type": "building",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED",
+      "note": "Building is a separate entity from the venue (audit near-miss rule)."
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dwain Kyles",
+      "claims": [
+        "CLAIM-015",
+        "CLAIM-019",
+        "CLAIM-020",
+        "CLAIM-022",
+        "CLAIM-023"
+      ],
+      "description": "Co-owner of E2/Epitome; attorney; name on business paperwork. Manslaughter charges dropped 2008; contempt convicted 2009 (reinstated 2013); resentenced 2015 to probation.",
+      "entity_id": "RD-EVENT-000001-005",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Calvin Hollins"
+      ],
+      "canonical_name": "Calvin Hollins Jr.",
+      "claims": [
+        "CLAIM-015",
+        "CLAIM-019",
+        "CLAIM-020",
+        "CLAIM-022",
+        "CLAIM-023"
+      ],
+      "description": "Co-owner ('operations guy') of E2/Epitome; silent partner (convicted felon, could not hold tavern license). Manslaughter acquitted 2007; contempt convicted 2009 (reinstated 2013); resentenced 2015.",
+      "entity_id": "RD-EVENT-000001-006",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calvin Hollins III",
+      "claims": [
+        "CLAIM-019"
+      ],
+      "description": "E2 club manager; son of Calvin Hollins Jr. Acquitted of involuntary manslaughter Jan 2007 (directed verdict).",
+      "entity_id": "RD-EVENT-000001-007",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Marco Flores",
+      "claims": [
+        "CLAIM-013",
+        "CLAIM-019"
+      ],
+      "description": "Party promoter (Envy Entertainment) the night of the tragedy. Acquitted of involuntary manslaughter Jan 2007 (directed verdict).",
+      "entity_id": "RD-EVENT-000001-008",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Envy Entertainment",
+      "claims": [
+        "CLAIM-013"
+      ],
+      "description": "Promoter of the party at E2 on 2003-02-17; hired ten security guards.",
+      "entity_id": "RD-EVENT-000001-009",
+      "entity_type": "organization",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "The 21 victims of the E2 stampede",
+      "claims": [
+        "CLAIM-011",
+        "CLAIM-039",
+        "CLAIM-034"
+      ],
+      "description": "Twelve women and nine men, ages 21–43 (19–43 per one source), who died of compressional asphyxia on 2003-02-17. Memorialized collectively per CTL dignity policy; 30 children lost a parent.",
+      "entity_id": "RD-EVENT-000001-010",
+      "entity_type": "group",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED",
+      "note": "Individual victims named in the dossier only where families spoke in reputable reporting (Nicole Rainey; DaShand Howard; Demetricta Carwell)."
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Samuel Bone",
+      "claims": [
+        "CLAIM-007"
+      ],
+      "description": "E2 security guard who testified he deployed pepper spray to break up a fight of ~15 patrons; said he was trained by the Illinois Police Reserve Patrol.",
+      "entity_id": "RD-EVENT-000001-011",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED",
+      "note": "Identity single-threaded via Tribune/Wikipedia citation chain."
+    },
+    {
+      "aliases": [],
+      "canonical_name": "City of Chicago",
+      "claims": [
+        "CLAIM-017A",
+        "CLAIM-020",
+        "CLAIM-026",
+        "CLAIM-027A",
+        "CLAIM-028",
+        "CLAIM-030"
+      ],
+      "description": "Issued the July 2002 closure order; prosecuted the contempt case; enacted the 2003 indoor pepper-spray ordinance; sued by victims' families (dismissed by 2013) and countersued by the owners.",
+      "entity_id": "RD-EVENT-000001-012",
+      "entity_type": "organization",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Involuntary manslaughter prosecution (2007–2008)",
+      "claims": [
+        "CLAIM-019"
+      ],
+      "description": "21-count charges against Kyles, Hollins Jr., Hollins III, Flores. Three acquitted by directed verdict (Judge Dennis Porter, Jan 2007); Kyles's charges dropped 2008. Status: closed.",
+      "entity_id": "RD-EVENT-000001-013",
+      "entity_type": "legal_proceeding",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Criminal contempt prosecution (2009–2015)",
+      "claims": [
+        "CLAIM-020",
+        "CLAIM-021",
+        "CLAIM-022",
+        "CLAIM-023",
+        "CLAIM-024"
+      ],
+      "description": "Indirect criminal contempt for violating the July 2002 closure order. Convicted Nov 25, 2009 (2 yrs); vacated Nov 16, 2011; reinstated by IL Supreme Court Apr 4, 2013 ('certain, clear and concise'); resentenced Nov 20, 2015 (probation + 500 hrs service). Status: closed.",
+      "entity_id": "RD-EVENT-000001-014",
+      "entity_type": "legal_proceeding",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "E2 civil litigation",
+      "claims": [
+        "CLAIM-025",
+        "CLAIM-026"
+      ],
+      "description": "Wrongful-death and injury suits; tentative $1.5M settlement (21 death + 95 injury claims, 2006); $2.5M insurance fund; Clear Channel and city claims; final outcomes unresolved.",
+      "entity_id": "RD-EVENT-000001-015",
+      "entity_type": "legal_proceeding",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Families & Friends of the E2 Victims",
+      "claims": [
+        "CLAIM-034"
+      ],
+      "description": "Family advocacy group founded April 2010 by Howard Ray; presses for accountability and memorialization.",
+      "entity_id": "RD-EVENT-000001-016",
+      "entity_type": "organization",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Howard Ray",
+      "claims": [
+        "CLAIM-034"
+      ],
+      "description": "Brother of victim DaShand Howard; Vietnam veteran; founded Families & Friends of the E2 Victims; public advocate questioning the emergency response.",
+      "entity_id": "RD-EVENT-000001-017",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Clear Channel Communications",
+      "claims": [
+        "CLAIM-014",
+        "CLAIM-025",
+        "CLAIM-026"
+      ],
+      "description": "Parent of WGCI-FM; named civil defendant over the allegation that its DJ directed the pepper-spray use; objected to the partial settlement; summary judgment denied 2010.",
+      "entity_id": "RD-EVENT-000001-018",
+      "entity_type": "organization",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cousins-Zopp review panel",
+      "claims": [
+        "CLAIM-030"
+      ],
+      "description": "Mayor Daley–appointed panel (co-chair Atty. Andrea Zopp) reviewing building codes and enforcement after E2; drove 2003–04 reforms.",
+      "entity_id": "RD-EVENT-000001-019",
+      "entity_type": "organization",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Illinois nightclub-safety law (2003)",
+      "claims": [
+        "CLAIM-029"
+      ],
+      "description": "State law sponsored by then-State Sen. Barack Obama: barred indoor sprays, prohibited blocked exits in clubs, required panic bars at large venues. Statute number not located.",
+      "entity_id": "RD-EVENT-000001-020",
+      "entity_type": "regulatory_act",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "SUPPORTED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chicago indoor pepper-spray ordinance (2003)",
+      "claims": [
+        "CLAIM-028"
+      ],
+      "description": "City ordinance adopted spring 2003 banning indoor use of pepper spray or similar substances. Municipal code citation not located.",
+      "entity_id": "RD-EVENT-000001-021",
+      "entity_type": "regulatory_act",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Randy Shifrin",
+      "claims": [
+        "CLAIM-033"
+      ],
+      "description": "Purchased 2347 S. Michigan in 2021; plans 21-story senior housing; promised a victims' memorial in the redevelopment.",
+      "entity_id": "RD-EVENT-000001-022",
+      "entity_type": "person",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "The Station nightclub fire",
+      "claims": [
+        "CLAIM-036"
+      ],
+      "description": "Fatal nightclub fire, West Warwick, Rhode Island, 2003-02-20; 100 dead. Historically paired with E2; together spurred a national nightclub-safety push. Candidate for future CTL-RD-EVENT dossier.",
+      "entity_id": "RD-EVENT-000001-023",
+      "entity_type": "event",
+      "evidence_pointer": "CTL-EF-EVENT-000001",
+      "grade_summary": "VERIFIED"
+    },
+    {
+      "entity_id": "RD-EVENT-000001-EXT-illinois-supreme-court",
+      "canonical_name": "Illinois Supreme Court",
+      "entity_type": "court",
+      "description": "Reinstated the E2 criminal-contempt convictions Apr 4, 2013 ('certain, clear and concise'). Stub: referenced by relationships.json; not a full dossier entity.",
+      "aliases": [],
+      "grade_summary": "STUB",
+      "claims": [],
+      "evidence_pointer": "see relationships.json provenance"
+    },
+    {
+      "entity_id": "RD-EVENT-000001-EXT-illinois-general-assembly",
+      "canonical_name": "Illinois General Assembly",
+      "entity_type": "legislature",
+      "description": "Passed the 2003 nightclub-safety law. Stub: referenced by relationships.json; not a full dossier entity.",
+      "aliases": [],
+      "grade_summary": "STUB",
+      "claims": [],
+      "evidence_pointer": "see relationships.json provenance"
+    },
+    {
+      "entity_id": "RD-EVENT-000001-EXT-barack-obama",
+      "canonical_name": "Barack Obama (then IL State Senator)",
+      "entity_type": "person",
+      "description": "Held fundraisers at E2; sponsored the 2003 IL nightclub-safety law. Stub: referenced by relationships.json; not a full dossier entity.",
+      "aliases": [],
+      "grade_summary": "STUB",
+      "claims": [],
+      "evidence_pointer": "see relationships.json provenance"
+    },
+    {
+      "entity_id": "RD-EVENT-000001-EXT-motor-row-district",
+      "canonical_name": "Motor Row Historic District",
+      "entity_type": "district",
+      "description": "Chicago Landmark district (2000); NRHP (2002); contains 2347 S. Michigan. Stub: referenced by relationships.json; not a full dossier entity.",
+      "aliases": [],
+      "grade_summary": "STUB",
+      "claims": [],
+      "evidence_pointer": "see relationships.json provenance"
+    },
+    {
+      "entity_id": "RD-EVENT-000001-EXT-r-kelly-50-cent",
+      "canonical_name": "R. Kelly; 50 Cent",
+      "entity_type": "person",
+      "description": "Artists reported to have performed at E2 (owner-told, SUPPORTED). Stub: referenced by relationships.json; not a full dossier entity.",
+      "aliases": [],
+      "grade_summary": "STUB",
+      "claims": [],
+      "evidence_pointer": "see relationships.json provenance"
+    },
+    {
+      "entity_id": "RD-EVENT-000001-EXT-event-promoters-ordinance",
+      "canonical_name": "Chicago event-promoters ordinance (proposed 2008, never adopted)",
+      "entity_type": "regulatory_act",
+      "description": "Proposed after E2; pulled May 2008; revived 2009; never enacted. Stub: referenced by relationships.json; not a full dossier entity.",
+      "aliases": [],
+      "grade_summary": "STUB",
+      "claims": [],
+      "evidence_pointer": "see relationships.json provenance"
+    }
+  ],
+  "evidence_file_id": "CTL-EF-EVENT-000001",
+  "version": "1.0"
+}

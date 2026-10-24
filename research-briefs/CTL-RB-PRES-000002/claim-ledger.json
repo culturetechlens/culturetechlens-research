@@ -1,0 +1,559 @@
+{
+  "brief_id": "CTL-RB-PRES-000002",
+  "generated": "2026-09-28",
+  "grade_definitions": {
+    "VERIFIED": "Confirmed by opening and reading a full page/source in this research pass, or by the researcher's own documented primary observation.",
+    "SUPPORTED": "Corroborated by reputable sources, but resting on search-result records rather than full page opens, or single reputable source.",
+    "PROVISIONAL": "Plausible and reported, but resting on weak sources (Wikipedia, hobbyist sites, single uncorroborated reports); needs stronger confirmation.",
+    "DISPUTED": "The events are documented but the interpretation is contested by credible parties.",
+    "UNRESOLVED": "The question is open; evidence is insufficient to grade, or a negative finding from a time-boxed search."
+  },
+  "claims": [
+    {
+      "id": "CTL-RB-PRES-000002-C001",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "In 1995, E. David Ellington and Malcolm CasSelle launched NetNoir, one of the first Black-oriented online services, on both AOL and the open web.",
+      "evidence": "Adweek, 1995: 'The new service was launched in June by E. David Ellington... and Malcolm CasSelle... The company plans to be the first black-oriented online service.' Corroborated by Omnicom/Advertising Age account.",
+      "sources": [
+        "https://www.adweek.com/brand-marketing/iq-news-insider-prophet-profit-33892/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "The launch and founders are contemporary-documented. Whether NetNoir was truly 'the first' is a marketing claim, not verified."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C002",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Omar Wasow described NetNoir in a 2000s interview as 'now-defunct.'",
+      "evidence": "internetnews.com: 'Wasow cited the now-defunct NetNoir, a 1995 AOL offering for African Americans, as an example that did not work out.'",
+      "sources": [
+        "https://www.internetnews.com/marketing/aol-acquires-blackvoices-com/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "The exact date NetNoir ceased and what happened to its content and user data is UNRESOLVED. Wasow is a credible but potentially interested source (competitor, BlackPlanet co-founder)."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C003",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "BlackVoices.com was founded in 1995, moved to Chicago in 1998, and was acquired by AOL from Tribune in February 2004; its features later absorbed Africana.com content after Africana's January 31, 2005 closure.",
+      "evidence": "internetnews.com (AOL acquisition, Feb 2004); EDU Ledger/DiverseEducation (Africana closure Jan 31, 2005, features to AOL BlackVoices); The Quill via FreeLibrary (AOL buys BlackVoices from Tribune); Journal-isms.",
+      "sources": [
+        "https://www.internetnews.com/marketing/aol-acquires-blackvoices-com/",
+        "https://www.theeduledger.com:443/demographics/african-american/article/15080623/africanacom-web-site-announces-its-closure",
+        "https://www.thefreelibrary.com/AOL+buys+BlackVoices+site+from+Tribune-a0115568248",
+        "https://www.journal-isms.com/archive-5401/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Chronology is consistent across sources. The completeness of the Africana->BlackVoices content migration is not documented."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C004",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "The Huffington Post removed BlackVoices' message boards after absorbing the site.",
+      "evidence": "Wikipedia (Black Voices entry): 'The Huffington Post has removed the messageboard.'",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Voices"
+      ],
+      "source_type": "tertiary",
+      "date": "2026-09-28",
+      "grade": "PROVISIONAL",
+      "confidence": "low",
+      "contradictory_evidence": "",
+      "notes": "Wikipedia is not sufficient for a VERIFIED grade; corroborating source not found in this pass. The community-layer loss is significant enough to note but only at PROVISIONAL."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C005",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "MySpace confirmed in March 2019 that a server migration destroyed roughly 50 million songs from 14 million artists uploaded between 2003 and 2015, plus photos and videos.",
+      "evidence": "The FADER (Mar 18, 2019), opened and read in full: 'Myspace has admitted that some 50 million songs uploaded to its platform between 2003-2015 have been lost... blamed a server migration... Photographs and videos have also been lost.' Corroborated by NME, NPR, CNN (search results).",
+      "sources": [
+        "https://www.thefader.com/2019/03/18/myspace-server-migration-loss-music"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "Former MySpace CTO Andy Baio expressed skepticism the loss was accidental (Costolo tweets coverage). The cause is disputed; the scale is not.",
+      "notes": "The figure is MySpace's own admission via its customer-service representative and press coverage. The Black-specific share of the loss is UNKNOWN."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C006",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "A volunteer salvage ('MySpace Dragon Hoard') of ~490,000 MP3s from 2008-2010 was uploaded to the Internet Archive - under 1% of the confirmed loss.",
+      "evidence": "The Outline, April 2019 (search-result record): 'The resulting 450 gigabyte metadata set... The audio has been uploaded to the Internet Archive and could take as long as five years to be processed.' ~490,000 MP3s from 2008-2010.",
+      "sources": [
+        "https://www.theoutline.com/post/7283/myspace-music-hoard-internet-archive"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "Based on search-result record only; full page not opened. The comparison arithmetic (490K / 50M) is this brief's."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C007",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Yahoo shut GeoCities on October 26, 2009, warning users that deleted files 'will not be recoverable,' and declined to archive the sites itself.",
+      "evidence": "DataCenterKnowledge (Jul 2009), opened: 'Yahoo! announced plans to close GeoCities... Yahoo says files stored on GeoCities will be deleted and will not be recoverable... The company is not archiving the GeoCities sites itself, according to Macworld.'",
+      "sources": [
+        "https://www.datacenterknowledge.com/archives/2009/07/30/geocities-shutting-down-deleting-user-data"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "",
+      "notes": "Shutdown date and Yahoo's refusal to archive are directly quoted from the opened page. Scale figures (38M pages, ~10TB, 100K accounts captured) are reported estimates - see C008."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C008",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Volunteers (Archive Team) and the Internet Archive rescued a fraction of GeoCities - on the order of 100,000 accounts (Computerworld), from a total estimated at 38 million pages (TechSpot) / ~10TB (Neowin).",
+      "evidence": "Computerworld: Archive Team 'managed to capture data from about 100,000 accounts before Yahoo shut down the service'; TechSpot: IA aimed at 'as many of GeoCities' 38 million pages as possible'; Neowin: '~10TB of data'.",
+      "sources": [
+        "https://www.computerworld.com/article/2475501/geocities-preserved-by-archivists-as-yahoo-deletes-history.html",
+        "https://www.techspot.com/news/35590-archive-team-preserves-1tb-of-geocities-data.html",
+        "https://www.neowin.net/news/internet-archive-to-save-geocities-sites-ahead-of-shutdown/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "PROVISIONAL",
+      "confidence": "medium",
+      "contradictory_evidence": "Figures differ across sources (1TB captured per TechSpot's headline vs ~10TB total per Neowin), reflecting the chaotic nature of the rescue.",
+      "notes": "These are contemporary journalists' reported figures, not audited counts. Exact rescue completeness is UNRESOLVED. Jason Scott (Archive Team) is named in Computerworld and by the NYT as the rescue lead."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C009",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Yahoo Groups ended new uploads October 28, 2019, deleted all previously posted content (files, photos, conversations, message history) December 14, 2019, and shut the site December 15, 2020.",
+      "evidence": "BetaNews (Oct 29, 2019): uploads end Oct 28; all previously posted content deleted Dec 14, 2019. Engadget (Oct 2019) confirms upload cutoff. The Register (Dec 2020): Yahoo Groups shuts down December 15, 2020.",
+      "sources": [
+        "https://betanews.com/2019/10/29/yahoo-groups-deleting-content/",
+        "https://www.engadget.com/2019-10-18-yahoo-groups-upload-files.html",
+        "https://www.theregister.com/2020/12/01/yahoo_groups_shuts_down_december_15_2020/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Based on search-result records, not full page opens - grade SUPPORTED, not VERIFIED. Three independent outlets agree on the timeline."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C010",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Yahoo 'aggressively suspend[ed] the email address of archivists who tried to preserve 20 years of content' during the Groups shutdown.",
+      "evidence": "UNBOX PH: 'Yahoo has been aggressively suspending the email address of archivists who tried to preserve 20 years of content from the soon-to-be-defunct Yahoo! Groups... the Archive Team... were the first to sound the alarm.'",
+      "sources": [
+        "https://unbox.ph/tech/yahoo-groups-archivists-suspended/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "PROVISIONAL",
+      "confidence": "low",
+      "contradictory_evidence": "",
+      "notes": "Single low-authority source; included because platform hostility to preservation is a documented risk mechanism, but keep at PROVISIONAL."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C011",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Twitter discontinued the Vine mobile app January 17, 2017; a read-only Vine archive launched January 20, 2017; the archive was removed in April 2019.",
+      "evidence": "Fast Company (Jan 17, 2017): Vine app discontinued Jan 17. TechCrunch (Jan 20, 2017), opened in this session: 'Twitter launched the read-only Vine Archive on Friday.' Netart-extinction project: Vine archived 'until its shut down in April 2019.' Famuse: 'As of 2019, the full Vine archive is no longer available.'",
+      "sources": [
+        "https://www.fastcompany.com/4028107/twitter-is-shutting-down-vine-on-january-17th",
+        "https://techcrunch.com/2017/01/20/twitter-just-cant-let-go-of-vine-launches-an-online-archive/?ncid=tcweekly_social_media"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Shutdown and archive-launch dates are well corroborated. The exact April 2019 archive-removal date rests on secondary/project notes - keep the precise date at PROVISIONAL within an overall SUPPORTED claim."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C012",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Vine was disproportionately a Black cultural platform: 31% of teen Vine users identified as Black non-Hispanic (Pew, via NPR 2016), and Vine became a significant platform for Ferguson-era protest documentation.",
+      "evidence": "NPR Illinois (Oct 28, 2016), opened: 'a whopping 31 percent of teen Vine users identify as black non-Hispanic (per Pew)... Vine has become a powerful platform for protests over police-involved shootings,' including Ferguson.",
+      "sources": [
+        "https://www.nprillinois.org/equity-justice/2016-10-28/a-moment-of-silence-for-the-black-and-brown-talent-that-grew-on-vine"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Opened and read in full. The Black-specific *loss* magnitude remains UNKNOWN because Twitter never published demographics of the archive."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C013",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "DatPiff, launched in 2005 by Marcus Frasier, was acquired by MediaLab in 2019 and suffered severe outages in March 2023; it is now defunct as a hosting platform.",
+      "evidence": "Exclaim! (Mar 2023), opened and read in full: 'The blog-era mixtape service DatPiff... severe outages on the site's app... Launched in 2005... acquired by MediaLab in 2019... [whose] portfolio also includes Genius and WorldStarHipHop.'",
+      "sources": [
+        "https://www.exclaim.ca/music/article/beloved_mixtape_platform_datpiff_assures_listeners_were_still_here"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "",
+      "notes": "Opened and read in full. Launch year, acquisition, and outages all confirmed from this source."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C014",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "DatPiff announced an Internet Archive partnership in April 2023 to preserve its catalog; the resulting IA collection (reported ~366,420 mixtapes) subsequently disappeared without public explanation. Its status is unresolved.",
+      "evidence": "Wikipedia (DatPiff): 'In April 2023, DatPiff announced a partnership with the Internet Archive to preserve its catalog... On August 16, 2024, the podcast Hip-Hop Can Save America! reported that the archive had disappeared from the Internet Archive without explanation, with Reddit threads discussing its loss... a small percentage of the original collection is still available on the Internet Archive.'",
+      "sources": [
+        "https://en.wikipedia.org/wiki/DatPiff"
+      ],
+      "source_type": "tertiary",
+      "date": "2026-09-28",
+      "grade": "PROVISIONAL",
+      "confidence": "medium",
+      "contradictory_evidence": "No official statement from MediaLab or the Internet Archive confirming or explaining the disappearance was found.",
+      "notes": "The partnership announcement and the disappearance report are both carried by Wikipedia and a specialist podcast; neither is confirmed by the parties involved. Must remain PROVISIONAL/UNRESOLVED, never VERIFIED."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C015",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Twitter ended free API access on February 13, 2023, including the free Academic Research track; paid tiers start at $100/month Basic, with Enterprise reported at $42,000/month.",
+      "evidence": "computing.co.uk (Feb 2023), opened: 'Twitter is ending free API access... including its academic research track... Basic... $100 per month... enterprise-level access... $42,000 a month.'",
+      "sources": [
+        "https://www.computing.co.uk/news/4074331/twitter-confirms-free-api-access-researchers"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "",
+      "notes": "Opened and read in full. The arXiv eulogy paper (2404.07340, Apr 2024) corroborates downstream effects: Twitter-data studies down 13% year-over-year (SUPPORTED, snippet-level)."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C016",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "The 2023 API changes degraded Documenting the Now's Catalog, Hydrator, and twarc, the tools built to archive Black protest movements' social-media records.",
+      "evidence": "Melanie Walsh (Dec 12, 2023), opened: 'the Catalog, Hydrator, and twarc... have been robbed... of much of their usefulness' by the API changes. Library Journal: DocNow is 'a collaborative effort to build tools... for archiving' social-media documentation of social justice movements.",
+      "sources": [
+        "https://melaniewalsh.github.io/2023/12/12/twitter-x-api-death/",
+        "https://www.libraryjournal.com/story/Bearing-Witness"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Based on search-result records. A direct DocNow statement would upgrade this to VERIFIED."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C017",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Facebook removed 32 pages and accounts in July 2018 for 'coordinated inauthentic behavior,' including a Black-themed page called 'Black Elevation'; in October 2018 it removed 559 pages and 251 accounts for political spam.",
+      "evidence": "SOFREP (Jul 2018), opened: 'Facebook has just removed 32 pages and accounts for engaging in what the social media giant calls coordinated inauthentic behavior' - the operation included 'Black Elevation.' MarTech (Oct 2018): 'Facebook Has Purged 559 Pages and 251 Accounts... for... spam and inauthentic activity... coordinated inauthentic behavior.'",
+      "sources": [
+        "https://sofrep.com/news/facebook-clears-house-somewhat-reveals-32-more-bad-actors/",
+        "https://martech.org/facebook-has-purged-559-pages-and-251-accounts-ahead-of-us-midterms/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Both pages were opened and read in full. Whether these purges constitute legitimate moderation or harmful deletion of Black organizing spaces is DISPUTED - see C022."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C018",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Pew Research Center (May 17, 2024) found 25% of webpages existing at some point from 2013-2023 were inaccessible by October 2023; 38% of 2013 pages vs 8% of 2023 pages; nearly one in five sampled tweets became unavailable within about three months.",
+      "evidence": "pewresearch.org (May 17, 2024) search-result record: 'a quarter of all webpages that existed at one point between 2013 and 2023 are no longer accessible as of October 2023... 38% of webpages that existed in 2013 are not accessible today, compared with 8% of those that existed in 2023... 18% of tweets are no longer publicly visible on the site just months after they are posted.'",
+      "sources": [
+        "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/"
+      ],
+      "source_type": "primary_research",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Based on Pew's own published summary (snippet-level). Full methodology not reviewed in this pass. Used as general context only, not as Black-specific evidence."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C019",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Harvard Law link-rot studies found 50% of URLs in Supreme Court opinions dead and 70%+ of Harvard Law Review URLs dead; the Chesapeake Project found ~37% of sampled legal links dead within six years.",
+      "evidence": "NPR (2014), opened: 'A study at Harvard University has found that almost half of all links in U.S. Supreme Court decisions no longer lead to the cited information... 70 percent of links in Harvard Law Review... no longer work.' Slaw (2016): Chesapeake Project found ~37% dead within six years; 'Perma.cc... was founded... to combat link rot.'",
+      "sources": [
+        "https://www.npr.org/2014/09/27/351792540/supreme-court-records-get-lost-in-the-digital-shuffle",
+        "https://www.slaw.ca/2016/06/01/the-web-needs-memory-link-rot-and-legal-memory/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "NPR page opened; Slaw opened. General mechanism only - no Black-scholarship-specific link-rot study was found (research gap, C030)."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C020",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "On October 8, 2024, the Internet Archive suffered a DDoS attack and a breach of its authentication database affecting 31 million users; the Wayback Machine was down for days, restored read-only October 14, and full service returned in early November.",
+      "evidence": "ExpressVPN blog timeline, opened: Oct 8 DDoS confirmed by Brewster Kahle; authentication database of 31 million users compromised; site defaced with JavaScript pop-up; read-only restoration Oct 14; full service early November. Corroborated by Infosecurity Magazine (31M breached) and Wikinews.",
+      "sources": [
+        "https://www.expressvpn.com/blog/what-happened-to-internet-archive/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Opened in full. No evidence of *content* loss was found - service and trust were the casualties. The archive-of-last-resort dependency is the analytic point."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C021",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Archiving the Black Web (co-developed by Makiba J. Foster and Bergis Jules) received a $2.5 million Mellon Foundation grant in March 2023 to create a training program and research initiative on web-archiving the Black web.",
+      "evidence": "infoDOCKET (Mar 10, 2023), opened and read in full: 'Creating a Professional Training Program and Research Initiative on the Study of the Black Web (Archiving the Black Web: ATBW) Receives 2.5 Million Grant from the Mellon Foundation.' The page names co-developers Makiba J. Foster and Bergis Jules and quotes the program's goals, including 'mapping, describing, and producing scholarship about the Black web.'",
+      "sources": [
+        "https://www.infodocket.com/2023/03/10/creating-a-professional-training-program-and-research-initiative-on-the-study-of-the-black-web-archiving-the-black-web-atbw-receives-2-5-million-grant-from-the-mellon-foundation/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "",
+      "notes": "Opened and read in full. ATBW's premise - that Black collecting institutions face cost/resource barriers to web archiving - is also documented (zakiyacollier.com portfolio)."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C022",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Framing of the 2018 Facebook purges is disputed: protective moderation removing inauthentic/foreign actors vs. deletion of Black political organizing spaces under opaque rules.",
+      "evidence": "SOFREP/MarTech document the removals (C017). CNN via Phys.org (Apr 2018): the largest 'Black Lives Matter' Facebook page (700,000 followers) was 'a scam with ties to white Australian man' and was removed. The competing frame - that such purges harm Black organizing - is an analytic/critical interpretation.",
+      "sources": [
+        "https://phys.org/news/2018-04-biggest-black-facebook-page-scam.html"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "DISPUTED",
+      "confidence": "n/a",
+      "contradictory_evidence": "",
+      "notes": "The events are documented; the interpretation is contested. The brief records events and marks framing DISPUTED."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C023",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Documenting the Now's #blacklivesmatter dataset (13,732,829 tweets) included 90 tweets from @Blacktivist, an account Twitter identified as linked to Russian intelligence - raising an unresolved archival-ethics question about what belongs in a movement archive.",
+      "evidence": "DocNow white paper (via are.na record): 'Our initial #blacklivesmatter dataset... contains 13,732,829 tweets... includes 90 tweets authored by... @Blacktivist, an account that Twitter has since identified as being associated with Russian intelligence.'",
+      "sources": [
+        "https://www.are.na/block/11732645"
+      ],
+      "source_type": "primary_document",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "Based on a record of the DocNow white paper. Whether such content should be included or excluded is DISPUTED within the field."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C024",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Domain checks conducted for this brief on September 28, 2026 found blackvoices.com, africana.com, netnoir.com, and racialicious.com no longer resolving; clutchmagazine.com redirected to a GoDaddy for-sale page; jetmag.com, ebony.com, blackplanet.com, and datpiff.com returned HTTP 200.",
+      "evidence": "Direct HTTP/DNS checks run by the researcher on 2026-09-28 (curl, ~24s window): jetmag.com=200, ebony.com=200, blackplanet.com=200, datpiff.com=200, blackvoices.com=000 (connection failed), africana.com=000, netnoir.com=000, racialicious.com=000, chicagodefender.com=403, clutchmagazine.com=302 to GoDaddy for-sale page then 403.",
+      "sources": [],
+      "source_type": "primary_observation",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Primary technical observation with documented method and date. A dead domain does not prove content loss - archived copies may exist. These are status-at-a-moment facts, not preservation verdicts."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C025",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "The Wayback CDX and availability APIs returned HTTP 429 (rate-limiting) to this research's automated queries on September 28, 2026; snapshot-level verification of dead domains was not possible in this pass.",
+      "evidence": "Direct API queries by the researcher returned HTTP 429 responses from web.archive.org on 2026-09-28.",
+      "sources": [],
+      "source_type": "primary_observation",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "",
+      "notes": "A methodological finding, recorded so that UNRESOLVED snapshot statuses are not mistaken for negative findings."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C026",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Africana.com was founded in January 1999 by Henry Louis Gates Jr. and Kwame Anthony Appiah, acquired by Time Warner in 2000, announced its closure in January 2005, and formally closed January 31, 2005, with many features moving to AOL BlackVoices.",
+      "evidence": "EDU Ledger (Jan 2005), opened: 'After 6 years, Africana.com is shutting its doors on Jan. 31, 2005... Many of the features that comprised Africana.com will be given a new home at AOL BlackVoices.' WritersWrite (Sept 2000), opened: 'Time Warner Acquires Africana.com... reached half a million unique visitors each month' - reported acquisition price ~$10M (search-record level).",
+      "sources": [
+        "https://www.theeduledger.com:443/demographics/african-american/article/15080623/africanacom-web-site-announces-its-closure",
+        "https://www.writerswrite.com/time-warner-acquires-africana-com-9082000688"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Closure date and migration statement are directly quoted from the opened EDU Ledger page. The ~$10M acquisition price rests on snippet-level reporting - keep that figure at PROVISIONAL."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C027",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "BlackPlanet was founded by Omar Wasow and Benjamin Sun, launched September 1, 1999, grew to a reported 20 million users at its peak, and was sold to Radio One for $38 million in April 2008 as part of Community Connect.",
+      "evidence": "Black Enterprise (2012): BlackPlanet 'grew to 20 million users'; acquisition of Community Connect (BlackPlanet, MiGente, AsianAvenue) by Radio One, $38M, April 2008. HipHopWired confirms continued operation and a 2020s reboot inviting users back.",
+      "sources": [
+        "https://www.blackenterprise.com/blackplanet-next/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Based on search-result records. BlackPlanet is the acquisition-survival control case. Wasow's claim that MySpace's founders used BlackPlanet as a model is a founder's self-interested claim - PROVISIONAL."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C028",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "FakeShoreDrive, the Chicago hip-hop blog founded by Andrew Barber in October 2007, remains live but operates with two full-time staff and no identified institutional backup - a structural single point of failure.",
+      "evidence": "fakeshoredrive.com/about (search record): 'Fake Shore Drive was founded by Andrew Barber in October 2007 as an outlet to document the Chicago hip-hop and R&B scene.' Muck Rack (search record): 'a Chicago-based music blog run by two full-time staff: founder Andrew Barber and managing editor Ty Howard.'",
+      "sources": [
+        "https://www.fakeshoredrive.com/about/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "Based on search-result records, not full page opens. The single-point-of-failure characterization is the brief's structural analysis, not a claim about any actual loss."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C029",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "ESPN's Black-focused platform The Undefeated was rebranded and relaunched as Andscape on February 28, 2022 - a clean migration, not a loss.",
+      "evidence": "ESPN Press Room (search record): 'ESPN and the Walt Disney Company Announce the Launch of Andscape, Rebranded and Reimagined Expansion of The Undefeated... (February 28, 2022)'.",
+      "sources": [
+        "https://espnpressroom.com/press-release/espn-and-the-walt-disney-company-announce-the-launch-of-andscape-rebranded-and-reimagined-expansion-of-the-undefeated/"
+      ],
+      "source_type": "secondary_contemporary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Used as the control case distinguishing migration from disappearance. Snippet-level; would be upgraded by opening the press release."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C030",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "No Black-scholarship-specific or Black-journalism-specific link-rot study was found in this research pass - a research gap.",
+      "evidence": "Searches for Black-focused link-rot/decay studies returned only general link-rot science (Harvard, Chesapeake, Pew).",
+      "sources": [],
+      "source_type": "research_note",
+      "date": "2026-09-28",
+      "grade": "UNRESOLVED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "A negative finding, honestly reported. Absence of evidence found in a time-boxed pass is not evidence of absence."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C031",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Documenting the Now emerged from efforts to preserve social-media documentation of the Ferguson protests and Black Lives Matter, emphasizing ethical preservation and creator consent.",
+      "evidence": "Library Journal ('Bearing Witness'), MITH ('Documenting Ferguson'), UC News ('Documenting Now: Archiving Social Media for Generations to Come') - search records describe DocNow's formation in response to the 2014 protests and its ethical framework.",
+      "sources": [
+        "https://www.libraryjournal.com/story/Bearing-Witness",
+        "https://www.universityofcalifornia.edu/news/documenting-now-archiving-social-media-generations-come"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "Snippet-level; a direct DocNow statement would upgrade. The ethical-archiving dimension (consent, creator rights) connects to Sutherland's Black digital sovereignty work."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C032",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Tonia Sutherland's Resurrecting the Black Body: Race and the Digital Afterlife (UC Press, 2023) theorizes Black digital sovereignty and the afterlife of Black digital material.",
+      "evidence": "UCLA SEIS search record: Sutherland is 'an expert on Black archival practices... digital afterlife... Black digital sovereignty.' Book listed by UC Press, October 2023.",
+      "sources": [
+        "https://www.seis.ucla.edu/faculty-and-research/faculty/tonia-sutherland/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "Snippet-level. Provides the theoretical frame for the brief's 'archive as sovereignty' argument; the book itself was not reviewed."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C033",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "The Mixtape Museum, founded by Regan Sommer McCoy, is a community archive dedicated to collecting and preserving mixtape history with a hip-hop priority.",
+      "evidence": "Columbia News (2019): 'The Mixtape Museum... dedicated to collecting, preserving, and sharing knowledge related to mixtape history.' Reviews in Digital Humanities describes its hip-hop prioritization.",
+      "sources": [
+        "https://neighbors.columbia.edu/news/regan-sommer-mccoy-mixtapes-hip-hop-history"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "medium",
+      "contradictory_evidence": "",
+      "notes": "Snippet-level. The community-archive response to the mixtape-preservation problem."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C034",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Scholar Charlton McIlwain documented that early Black web entrepreneurs lacked access to the capital networks of their white peers, and that the capital drying up drove acquisitions and closures of Black portals.",
+      "evidence": "Marketplace (Feb 10, 2021), opened: McIlwain quoted - Black entrepreneurs 'did not have the kind of networks of capital and investment' of white peers; 'the capital dried up,' and promising companies were acquired and absorbed. Omnicom/Advertising Age corroborates the capital-starvation account.",
+      "sources": [
+        "https://www.marketplace.org/episode/2021/02/10/how-the-history-of-blackness-on-the-internet-was-erased"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Marketplace page opened in full. This is the structural explanation for the first-generation portal losses."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C035",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "The four videos embedded/linked in this brief's visual plan (CALMA roundtable, ATBW/Webrecorder community call, Kahle keynote, Internet Archive celebration) were selected from titles/descriptions, not watched end-to-end; transcripts and timestamp ranges were not verified in this pass.",
+      "evidence": "Visual-selection work recorded 2026-09-28 in visuals.md: the prior worker documented assessments for four videos but stated transcripts could not be fetched and timestamp ranges were not verified.",
+      "sources": [],
+      "source_type": "research_note",
+      "date": "2026-09-28",
+      "grade": "VERIFIED",
+      "confidence": "very_high",
+      "contradictory_evidence": "",
+      "notes": "Honest methodology note. The videos are access points, not archival evidence, and must not be presented as watched/verified until transcript/content verification is completed."
+    },
+    {
+      "id": "CTL-RB-PRES-000002-C036",
+      "brief_id": "CTL-RB-PRES-000002",
+      "claim": "Latoya Peterson is the Owner/Editor of the award-winning blog Racialicious.com ('the intersection of race and pop culture'); racialicious.com no longer resolves as of September 28, 2026, and whether its archive survives in web archives is unresolved.",
+      "evidence": "Data & Society advisor bio: Peterson 'is best known for the award-winning blog Racialicious.com - the intersection of race and pop culture.' The Feminist Wire (2012): 'thanks to the blog's Owner/Editor... Latoya Peterson.' Multiple institutional bios (ONA, Annenberg, CFR) corroborate. Domain-status from the researcher's 2026-09-28 direct check (C024).",
+      "sources": [
+        "https://datasociety.net/network-members/latoya-peterson/",
+        "https://thefeministwire.com/2012/10/tfw-interview-with-andrea-plaid-associate-editor-of-racialicious/"
+      ],
+      "source_type": "secondary",
+      "date": "2026-09-28",
+      "grade": "SUPPORTED",
+      "confidence": "high",
+      "contradictory_evidence": "",
+      "notes": "Search-record level; would be upgraded by opening a full bio page. Racialicious is a domain-abandonment case (Mechanism 5); content disposition UNRESOLVED."
+    }
+  ]
+}

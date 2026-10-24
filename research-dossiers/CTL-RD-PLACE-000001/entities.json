@@ -1,0 +1,579 @@
+{
+  "dossier_id": "CTL-RD-PLACE-000001",
+  "entities": [
+    {
+      "aliases": [
+        "Community Area 40",
+        "Washington Park neighborhood"
+      ],
+      "claims": [
+        "C-001",
+        "C-002",
+        "C-003",
+        "C-004"
+      ],
+      "id": "RD-PLACE-000001-001",
+      "identifiers": {
+        "area_sq_mi": 1.48,
+        "bounds": "51st St (N) / 60th St (S) / Cottage Grove Ave (E) / Dan Ryan Expy (W)",
+        "city": "Chicago",
+        "community_area_number": "40",
+        "county": "Cook",
+        "state": "Illinois"
+      },
+      "name": "Washington Park (community area)",
+      "subtype": "Chicago community area",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Western Division of South Park"
+      ],
+      "claims": [
+        "C-004",
+        "C-005",
+        "C-006",
+        "C-007"
+      ],
+      "id": "RD-PLACE-000001-002",
+      "identifiers": {
+        "area_acres": 372,
+        "bounds": "51st St (N) / 60th St (S) / King Dr (W) / Cottage Grove Ave (E)",
+        "nrhp_listed": "2004-08-20",
+        "nrhp_reference": "04000871"
+      },
+      "name": "Washington Park (the park)",
+      "subtype": "urban park",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "DuSable Museum",
+        "Ebony Museum of Negro History and Art"
+      ],
+      "claims": [
+        "C-016"
+      ],
+      "id": "RD-PLACE-000001-003",
+      "identifiers": {
+        "address": "740 E. 56th Pl., Chicago, IL 60637",
+        "collection_objects": "15000+",
+        "founded": 1961,
+        "moved_to_park": 1973
+      },
+      "name": "DuSable Black History Museum and Education Center",
+      "type": "organization",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-016"
+      ],
+      "id": "RD-PLACE-000001-004",
+      "identifiers": {
+        "address": "740 E. 56th Pl., Chicago, IL",
+        "architect_firm": "D.H. Burnham and Company",
+        "built": 1910
+      },
+      "name": "DuSable Museum building (former South Park Commission administration building)",
+      "note": "Organization (RD-PLACE-000001-003) kept separate from its building.",
+      "subtype": "historic building",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-017"
+      ],
+      "id": "RD-PLACE-000001-005",
+      "identifiers": {
+        "cadence": "annual, second Saturday of August",
+        "founded": "1929-08-11",
+        "route": "begins 39th St & King Dr, proceeds south on King Dr into Washington Park"
+      },
+      "name": "Bud Billiken Parade and Picnic",
+      "type": "event",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-018"
+      ],
+      "id": "RD-PLACE-000001-006",
+      "identifiers": {
+        "creator": "Lorado Taft",
+        "dedicated": 1922,
+        "length_ft": "126 ft 10 in",
+        "location": "western edge of Midway Plaisance, Washington Park; listed as 6000 S. Cottage Grove Ave",
+        "water_on": 1920
+      },
+      "name": "Fountain of Time",
+      "subtype": "sculpture",
+      "type": "object",
+      "verification": "VERIFIED"
+    },
+    {
+      "aliases": [
+        "Dyett High School for the Arts"
+      ],
+      "claims": [
+        "C-019"
+      ],
+      "id": "RD-PLACE-000001-007",
+      "identifiers": {
+        "closed": 2015,
+        "operator": "Chicago Public Schools",
+        "reopened": "2016-17"
+      },
+      "name": "Walter H. Dyett High School",
+      "subtype": "public high school",
+      "type": "organization",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-019",
+        "C-039"
+      ],
+      "id": "RD-PLACE-000001-008",
+      "identifiers": {
+        "duration_days": 34,
+        "end": "2015-09-19",
+        "start": "2015-08-17"
+      },
+      "name": "Dyett High School hunger strike",
+      "type": "event",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-020"
+      ],
+      "id": "RD-PLACE-000001-009",
+      "identifiers": {
+        "established": 1897
+      },
+      "name": "St. Mary's AME Church",
+      "subtype": "church",
+      "type": "organization",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-012"
+      ],
+      "id": "RD-PLACE-000001-010",
+      "identifiers": {
+        "birth": 1865,
+        "death": 1950,
+        "occupation": "banker, real-estate developer",
+        "residence": "5922 S. Dr. Martin Luther King Jr. Dr., Chicago, IL"
+      },
+      "name": "Jesse Binga",
+      "type": "person",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-012"
+      ],
+      "id": "RD-PLACE-000001-011",
+      "identifiers": {
+        "address": "5922 S. Dr. Martin Luther King Jr. Dr., Chicago, IL",
+        "purchased": 1917
+      },
+      "name": "Jesse Binga House",
+      "note": "Person kept separate from residence.",
+      "subtype": "residence",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-011"
+      ],
+      "id": "RD-PLACE-000001-012",
+      "identifiers": {
+        "active": "1917-1921",
+        "stance": "segregationist"
+      },
+      "name": "Washington Park Court Improvement Association",
+      "subtype": "homeowners association",
+      "type": "organization",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-021"
+      ],
+      "id": "RD-PLACE-000001-013",
+      "identifiers": {
+        "address": "4900-4959 S. Washington Park Ct.; 417-439 E. 50th St.",
+        "built": "1895-1905",
+        "community_area": "Grand Boulevard",
+        "landmark_designated": "1991-10-02"
+      },
+      "name": "Washington Park Court District",
+      "note": "In Grand Boulevard, adjacent to but not inside Washington Park CA.",
+      "subtype": "Chicago Landmark district",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-027"
+      ],
+      "id": "RD-PLACE-000001-014",
+      "identifiers": {
+        "birth": 1956,
+        "childhood_location": "near 54th St & Wabash Ave, Washington Park, Chicago",
+        "occupation": "Governor of Massachusetts 2007-2015"
+      },
+      "name": "Deval Patrick",
+      "type": "person",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-028"
+      ],
+      "id": "RD-PLACE-000001-015",
+      "identifiers": {
+        "birth": 1932,
+        "childhood_location": "58th St between Calumet and Prairie, Washington Park, Chicago",
+        "death": 2021,
+        "occupation": "filmmaker"
+      },
+      "name": "Melvin Van Peebles",
+      "type": "person",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-024"
+      ],
+      "id": "RD-PLACE-000001-016",
+      "identifiers": {
+        "birth": 1904,
+        "death": 1979,
+        "occupation": "novelist",
+        "work": "Studs Lonigan trilogy"
+      },
+      "name": "James T. Farrell",
+      "type": "person",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-025"
+      ],
+      "id": "RD-PLACE-000001-017",
+      "identifiers": {
+        "birth": 1908,
+        "death": 1960,
+        "occupation": "novelist",
+        "work": "Native Son (1940)"
+      },
+      "name": "Richard Wright",
+      "type": "person",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-017"
+      ],
+      "id": "RD-PLACE-000001-018",
+      "identifiers": {
+        "birth": 1868,
+        "death": 1940,
+        "occupation": "founder, Chicago Defender"
+      },
+      "name": "Robert S. Abbott",
+      "type": "person",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-029"
+      ],
+      "id": "RD-PLACE-000001-019",
+      "identifiers": {
+        "birth": 1911,
+        "death": 1970,
+        "noted_for": "first Black pilot to fly US airmail (1938)",
+        "occupation": "aviator",
+        "residence": "6109 S. Calumet Ave, Chicago, IL"
+      },
+      "name": "Grover C. Nash",
+      "type": "person",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-030"
+      ],
+      "id": "RD-PLACE-000001-020",
+      "identifiers": {
+        "birth": 1921,
+        "death": 1994,
+        "occupation": "Illinois House; President of Illinois Senate",
+        "residence": "6032 S. Michigan Ave, Chicago, IL"
+      },
+      "name": "Cecil Partee",
+      "type": "person",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-031"
+      ],
+      "id": "RD-PLACE-000001-021",
+      "identifiers": {
+        "birth": 1923,
+        "death": 2021,
+        "occupation": "novelist",
+        "work": "Song of My Life (memoir, 2014)"
+      },
+      "name": "Harry Mark Petrakis",
+      "type": "person",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-032"
+      ],
+      "id": "RD-PLACE-000001-022",
+      "identifiers": {
+        "birth": 1995,
+        "hometown": "Parkway Gardens, Greater Grand Crossing (not Washington Park)",
+        "occupation": "rapper",
+        "school": "Walter H. Dyett High School"
+      },
+      "name": "Chief Keef",
+      "note": "Attended Dyett in Washington Park; NOT a Washington Park native.",
+      "type": "person",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-015"
+      ],
+      "id": "RD-PLACE-000001-023",
+      "identifiers": {
+        "bounds": "39th St (N) / 54th St (S), State St corridor",
+        "portion_in_washington_park": "51st-54th St along State St",
+        "status": "demolished"
+      },
+      "name": "Robert Taylor Homes",
+      "subtype": "public housing (demolished)",
+      "type": "place",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-035"
+      ],
+      "id": "RD-PLACE-000001-024",
+      "identifiers": {
+        "bid_period": "2006-2009",
+        "result": "lost to Rio, Oct 2009"
+      },
+      "name": "Chicago 2016 (Olympic bid committee)",
+      "type": "organization",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-035"
+      ],
+      "id": "RD-PLACE-000001-025",
+      "identifiers": {
+        "president_olympic_era": "Cecelia Butler",
+        "role": "resident liaison to Chicago Park District"
+      },
+      "name": "Washington Park Advisory Council",
+      "type": "organization",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-023"
+      ],
+      "id": "RD-PLACE-000001-026",
+      "identifiers": {
+        "founder": "Ghian Foreman",
+        "known_for": "purchased Anthony Overton Elementary (Grand Boulevard), 2015, $325,000"
+      },
+      "name": "Washington Park Development Group",
+      "type": "organization",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-023"
+      ],
+      "id": "RD-PLACE-000001-027",
+      "identifiers": {
+        "address": "221 E. 49th St., Chicago, IL",
+        "community_area": "Grand Boulevard",
+        "nrhp_listed": 2016
+      },
+      "name": "Anthony Overton Elementary School",
+      "note": "Included for the geography correction: NOT in Washington Park.",
+      "subtype": "school building (historic)",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "claims": [
+        "C-014"
+      ],
+      "id": "RD-PLACE-000001-028",
+      "identifiers": {
+        "active": "1950s-1960s",
+        "authority": "1955 Blighted Areas Redevelopment Act amendment"
+      },
+      "name": "Chicago Land Clearance Commission",
+      "type": "organization",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-022"
+      ],
+      "id": "RD-PLACE-000001-029",
+      "identifiers": {
+        "nrhp_listed": "1982-11-12"
+      },
+      "name": "Schulze Baking Company Plant",
+      "subtype": "industrial building (historic)",
+      "type": "place",
+      "verification": "SUPPORTED"
+    },
+    {
+      "claims": [
+        "C-004"
+      ],
+      "id": "RD-PLACE-000001-030",
+      "identifiers": {
+        "bounds": "60th St (N) / 63rd St (S) / King Dr (W) / Cottage Grove Ave (E)",
+        "community_area": "Woodlawn"
+      },
+      "name": "Washington Park Subdivision",
+      "note": "Included for disambiguation: NOT the dossier subject; in Woodlawn.",
+      "subtype": "historic subdivision",
+      "type": "place",
+      "verification": "VERIFIED"
+    },
+    {
+      "id": "canon-woodlawn-neighborhood",
+      "name": "Woodlawn (community area)",
+      "type": "neighborhood (audit canonical)",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "label-bronzeville-loose",
+      "name": "Bronzeville (marketing/geographic label)",
+      "type": "usage-label",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-001-N",
+      "name": "Grand Boulevard",
+      "type": "boundary-segment",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-001-S",
+      "name": "Woodlawn",
+      "type": "boundary-segment",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-001-EW",
+      "name": "Englewood / Greater Grand Crossing / Hyde Park",
+      "type": "boundary-segment",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-002-D",
+      "name": "Frederick Law Olmsted & Calvert Vaux",
+      "type": "entity-part",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "nps-nrhp",
+      "name": "National Register of Historic Places",
+      "type": "register (external)",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-006-C",
+      "name": "Lorado Taft",
+      "type": "entity-part",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-003-F",
+      "name": "Margaret & Charles Burroughs",
+      "type": "external",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-007-C",
+      "name": "Coalition to Revitalize Dyett",
+      "type": "entity-part",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-024-O",
+      "name": "Friends of the Parks / HPKCC / NAOP",
+      "type": "external",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-024-P",
+      "name": "2016 Olympic stadium proposal",
+      "type": "external",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-025-L",
+      "name": "residents and Chicago Park District",
+      "type": "external",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "canon-grand-boulevard-placeholder",
+      "name": "Grand Boulevard (community area)",
+      "type": "external",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    },
+    {
+      "id": "RD-PLACE-000001-008-S",
+      "name": "Cathy Dale / Jeanette Taylor-Ramann",
+      "type": "boundary-segment",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; documented in dossier §§09-14."
+    }
+  ],
+  "entity_count": 30,
+  "evidence_file": "CTL-EF-PLACE-000001",
+  "excluded_entities": [
+    {
+      "name": "Michelle Obama",
+      "reason": "Refuted Washington Park connection (raised in South Shore, 7436 S. Euclid Ave.). See C-033."
+    },
+    {
+      "name": "King Von",
+      "reason": "No documented Washington Park connection found; mural in Greater Grand Crossing. See C-034."
+    },
+    {
+      "name": "Anthony Overton (person)",
+      "reason": "Out of scope: inventor/publisher; distinct from the elementary school and the development group."
+    }
+  ],
+  "generated": "2026-09-28",
+  "namespace": "RD-PLACE-000001"
+}

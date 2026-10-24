@@ -1,0 +1,3020 @@
+[
+ {
+  "year": 1833,
+  "date": "1833-06-26",
+  "date_precision": "day",
+  "layer": "founding",
+  "title": "Founding of First Presbyterian Church of Chicago",
+  "description": "First Presbyterian Church of Chicago founded June 26, 1833, the oldest continuously operating institution in Chicago. [Chicago (current church: 6400 S. Kimbark Ave., Woodlawn)]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Presbyterian_Church_(Chicago)"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1861,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "Hyde Park Township organized as an independent township (borders: Pershing Rd north, State St west, lake/Indiana east, 138th St/Calumet south).",
+  "sources": [
+   "Wikipedia 'Hyde Park Township, Illinois'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1868,
+  "date": null,
+  "date_precision": "year",
+  "layer": "commercial",
+  "title": null,
+  "description": "Junction Grove railroad community renamed Englewood by Henry B. Lewis.",
+  "sources": [
+   "bestchicagoneighborhoods.com"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1888,
+  "date": null,
+  "date_precision": "month",
+  "layer": "transportation",
+  "title": null,
+  "description": "Chicago and South Side Rapid Transit Railroad incorporated (Jan 4) and franchised (Mar 26) to build an elevated line from Van Buren to 39th St — the future 'alley L.'",
+  "sources": [
+   "Wikipedia 'South Side Elevated Railroad'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1888,
+  "date": null,
+  "date_precision": "year",
+  "layer": "transportation",
+  "title": null,
+  "description": "Chicago City Railway introduces horse-car service on 63rd Street from Cottage Grove to Dorchester.",
+  "sources": [
+   "chicagorailfan.com route 63 history"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1889,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "Hyde Park Township and Lake Township annexed to the City of Chicago (under the April 25, 1889 annexation act).",
+  "sources": [
+   "Wikipedia 'Hyde Park Township, Illinois'; Wikipedia 'Lake Township, Cook County, Illinois'; Illinois Supreme Court, Chicago v. City of Chicago, 143 Ill. 641 (1892)"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1889,
+  "date": null,
+  "date_precision": "year",
+  "layer": "transportation",
+  "title": null,
+  "description": "Horse-car service extended on 63rd from Halsted to Ashland.",
+  "sources": [
+   "chicagorailfan.com route 63 history"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1892,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "First South Side Elevated service: 39th St to Congress Terminal (June 6; inaugural run May 27, 1892).",
+  "sources": [
+   "Wikipedia 'South Side Elevated Railroad'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1892,
+  "date": null,
+  "date_precision": "year",
+  "layer": "transportation",
+  "title": null,
+  "description": "63rd Street horse-car lines extended: Ashland to Central Park Ave., and Dorchester to Stony Island.",
+  "sources": [
+   "chicagorailfan.com route 63 history"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1892,
+  "date": "1892",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Daley's Restaurant founded by John Daley",
+  "description": "Daley's Restaurant founded by John Daley",
+  "sources": [
+   "POAH / Tasting Table"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "61st Street station opens on the Jackson Park branch (January 22).",
+  "sources": [
+   "Wikipedia 'East 63rd branch'; Wikipedia '61st station'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": null,
+  "date_precision": "month",
+  "layer": "transportation",
+  "title": null,
+  "description": "City passes ordinance for the L extension along 63rd Street (April 7).",
+  "sources": [
+   "Wikipedia 'South Side Elevated Railroad'"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": "63rd Street L stations open (Cottage Grove, University, Dorchester)",
+  "description": "Madison Avenue (later Dorchester) and Lexington Avenue (later University) stations open (April 23). / South Side Rapid Transit opens stations at Cottage Grove, Lexington (later University), and Dorchester on the 63rd Street corridor, built for the World's Columbian Exposition.",
+  "sources": [
+   "Wikipedia 'Dorchester station'; Chicago Daily Tribune, April 23, 1893",
+   "https://en.wikipedia.org/wiki/Cottage_Grove_station",
+   "https://en.wikipedia.org/wiki/University_station_(CTA)",
+   "https://en.wikipedia.org/wiki/Dorchester_station"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w5"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "Jackson Park fairgrounds terminal opens (May 12) for the World's Columbian Exposition; the branch's final leg is built directly over 63rd Street.",
+  "sources": [
+   "Wikipedia 'Jackson Park station (World's Fair)'; chicagohistorytoday (2015)"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": null,
+  "date_precision": "year",
+  "layer": "transportation",
+  "title": null,
+  "description": "63rd Street segments electrified: Halsted-Ashland and Cottage Grove-Stony Island.",
+  "sources": [
+   "chicagorailfan.com route 63 history"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "Jackson Park fair terminal closes (October 31) with the exposition; Stony Island becomes the branch terminus (renamed Jackson Park).",
+  "sources": [
+   "Wikipedia 'Jackson Park station (World's Fair)'; Wikipedia 'East 63rd branch'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1893,
+  "date": "1893-05-12",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Jackson Park (Stony Island) station opens",
+  "description": "Jackson Park branch opens; Stony Island station becomes the eastern terminus on 63rd.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jackson_Park_branch"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1894,
+  "date": "1894",
+  "date_precision": "year",
+  "layer": "founding",
+  "title": "Founding of St. Clara parish, Woodlawn",
+  "description": "St. Clara parish founded in 1894 in Woodlawn, serving a largely German community after the World's Columbian Exposition. [Woodlawn (current church: 6401 S. Woodlawn Ave.)]",
+  "sources": [
+   "http://chicagopatterns.com/rallying-to-save-a-twice-burned-woodlawn-landmark/"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1895,
+  "date": null,
+  "date_precision": "year",
+  "layer": "commercial",
+  "title": null,
+  "description": "Chicago and South Side Rapid Transit RR goes into receivership after post-fair ridership collapse; reorganized as the South Side Elevated Railroad (1896/97).",
+  "sources": [
+   "Wikipedia 'South Side Elevated Railroad'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1898,
+  "date": null,
+  "date_precision": "year",
+  "layer": "transportation",
+  "title": null,
+  "description": "Electric streetcar service introduced on 63rd from State St to Halsted (1898), and State to Cottage Grove / Ashland to Central Park (1899).",
+  "sources": [
+   "chicagorailfan.com route 63 history"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1902,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "Chicago's townships abolished as governments (remain for property assessment).",
+  "sources": [
+   "Civic Federation FAQ via Wikipedia"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1903,
+  "date": null,
+  "date_precision": "month",
+  "layer": "transportation",
+  "title": null,
+  "description": "Englewood Elevated Railway Co. begins building a branch roughly along 63rd Street to Loomis (per West Englewood history).",
+  "sources": [
+   "Wikipedia 'West Englewood, Chicago'"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1905,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "Englewood branch: State station opens (November 3).",
+  "sources": [
+   "Wikipedia 'Ashland branch'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1905,
+  "date": "1905-05-26",
+  "date_precision": "day",
+  "layer": null,
+  "title": "White City Amusement Park opens at 63rd & South Park Ave",
+  "description": "White City Amusement Park opens at 63rd & South Park Ave",
+  "sources": [
+   "Wikipedia",
+   "drloihjournal"
+  ],
+  "status": "Disputed",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1905,
+  "date": "1905",
+  "date_precision": "year",
+  "layer": "founding",
+  "title": "Founding of St. Rita of Cascia parish and high school",
+  "description": "St. Rita of Cascia parish founded in 1905 by the Augustinian Friars as the first Augustinian church in Chicago.; St. Rita of Cascia High School founded in 1905 by Very Rev. James F. Green, O.S.A. [6243 S. Fairfield Ave., Chicago Lawn (parish); school at 7740 S. Western Ave.]",
+  "sources": [
+   "https://www.midwestaugustinians.org/news/2020/7/10/st-rita-parish-officially-unites-with-st-clare-of-montefalco-w2r3h",
+   "https://www.congress.gov/congressional-record/volume-151/issue-104/extensions-of-remarks-section/article/E1643-1"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1905,
+  "date": "1905-11-03",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Englewood L branch opens",
+  "description": "Englewood branch begins service; first stations open (the branch later extends to Ashland).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ashland_branch"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1905,
+  "date": "1905-11-03",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Harvard station opens",
+  "description": "Harvard station opens on the Englewood branch at 303 W 63rd St.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvard_station_(CTA)"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1906,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "Englewood branch: Harvard (63rd) station opens (November 3); Parnell (near 63rd) opens December 24.",
+  "sources": [
+   "Wikipedia 'Ashland branch'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1906,
+  "date": "1906-12-24",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Elevated railway reaches Halsted at 63rd (Christmas Eve 1906)",
+  "description": "Elevated railway reaches Halsted at 63rd (Christmas Eve 1906)",
+  "sources": [
+   "YouTube nostalgia description"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1906,
+  "date": "1906-12-24",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Halsted station opens",
+  "description": "Halsted station opens on the Englewood branch; covered in the Chicago Daily Tribune ('Alley L Service Restored').",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Halsted_station_(CTA_Green_Line)"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1907,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": "Loomis station opens (branch complete)",
+  "description": "Englewood branch: Racine (originally Center St.) opens (February 25); Loomis terminal opens (July 13). / Englewood branch completed to Ashland; Loomis station opens as temporary terminal.",
+  "sources": [
+   "Wikipedia 'Ashland branch'",
+   "https://en.wikipedia.org/wiki/Loomis_station_(CTA_Green_Line)"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w5"
+  ]
+ },
+ {
+  "year": 1907,
+  "date": "1907-02-25",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Racine station opens",
+  "description": "Racine station opens on the Englewood branch; architect later identified as Earl Nielson.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Racine_station_(CTA_Green_Line)",
+   "https://www.preservationchicago.org/threatened-restoration-plan-needed-for-racine-green-line-station-in-englewood/"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1907,
+  "date": "1907-05-25",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Normal Park branch opens",
+  "description": "Normal Park branch opens south from Harvard to 69th Street.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Normal_Park_branch"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1911,
+  "date": "1911-10-07",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Langley Hippodrome opens (later 63rd Street Theatre)",
+  "description": "Langley Hippodrome opens (later 63rd Street Theatre)",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1913,
+  "date": "1913",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Kimbark Theatre opens",
+  "description": "Kimbark Theatre opens",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1914,
+  "date": "1914",
+  "date_precision": "year",
+  "layer": null,
+  "title": "63rd Street beach extension planned",
+  "description": "South Park Commission plan for a 10-acre beach extension to 63rd Street.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1915,
+  "date": "1915",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Langley Hippodrome renamed Langley Theatre",
+  "description": "Langley Hippodrome renamed Langley Theatre",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1917,
+  "date": "1917",
+  "date_precision": "year",
+  "layer": null,
+  "title": "63rd Street beach extension completed",
+  "description": "Ten-acre beach extension to 63rd Street completed.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1918,
+  "date": "1918",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Tom Kyros and Paul Emmanuel (Greek immigrants) take over Daley's Restaurant",
+  "description": "Tom Kyros and Paul Emmanuel (Greek immigrants) take over Daley's Restaurant",
+  "sources": [
+   "Tasting Table / POAH"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1919,
+  "date": "1919-06-14",
+  "date_precision": "day",
+  "layer": null,
+  "title": "63rd Street Bathing Pavilion opens",
+  "description": "63rd Street Bathing Pavilion opened to the public (cost exceeded $170,000). At opening, the beach was segregated: Black patrons had to use the stone beach rather than the sand beach.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1920,
+  "date": "1920-09-04",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Stratford Theatre opens",
+  "description": "Stratford Theatre opens / Stratford Theatre opens at 715 W 63rd St (Elsie Ferguson in 'Lady Rose's Daughter'); built for the Cooney Brothers National Theaters Corp.",
+  "sources": [
+   "Cinema Treasures",
+   "https://cinematreasures.org/theaters/2625"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1921,
+  "date": "1921-02-16",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Tivoli Theatre opens (Rapp & Rapp, Balaban & Katz)",
+  "description": "Tivoli Theatre opens (Rapp & Rapp, Balaban & Katz) / Tivoli Theatre opens at 6323 S Cottage Grove Ave - first of the Balaban & Katz 'big three'; Rapp & Rapp, French Baroque, 3,520 seats; 55-piece orchestra at the gala opening. Covered by Ben Hecht (Chicago Daily News, Feb 17) and Variety (Feb 25).",
+  "sources": [
+   "Wikipedia",
+   "city landmark report",
+   "https://en.wikipedia.org/wiki/Tivoli_Theatre_(Chicago)",
+   "https://journals.shareok.org/theatreorgan/article/download/4591/4570"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1921,
+  "date": "1921-02-16",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Tivoli Theatre opens",
+  "description": "3,520-seat theater opened at 63rd/Cottage Grove; movies plus stage presentation, later R&B shows. Described as the largest theater on the South Side.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1922,
+  "date": "1922-12-06",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Trianon Ballroom opens (Rapp & Rapp)",
+  "description": "Trianon Ballroom opens (Rapp & Rapp)",
+  "sources": [
+   "Chicago History Museum"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1922,
+  "date": "1922-02-12",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Englewood Theatre switches from burlesque to movies",
+  "description": "Englewood Theatre (726 W 63rd St) ceases burlesque and goes movies-exclusively.",
+  "sources": [
+   "https://cinematreasures.org/theaters/1100"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1923,
+  "date": "1923-1928",
+  "date_precision": "month",
+  "layer": "building",
+  "title": "Construction of St. Clara church",
+  "description": "Cardinal Mundelein laid the cornerstone of the Renaissance Revival church designed by Henry J. Schlacks; church finished 1928. [6401 S. Woodlawn Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1924,
+  "date": "1924",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Washington Park National Bank building constructed (6300 S. Cottage Grove) / Washington Park National Bank Building completed",
+  "description": "Washington Park National Bank building constructed (6300 S. Cottage Grove) / Washington Park National Bank Building completed at 6300 S Cottage Grove Ave (architect Albert A. Schwartz); Walgreens takes the corner store (Tribune, Apr 8, 1924).",
+  "sources": [
+   "MPC Woodlawn report",
+   "https://en.wikipedia.org/wiki/Washington_Park_National_Bank_Building"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1924,
+  "date": "1924-03-23",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Marquette Theatre opens (63rd & Kedzie)",
+  "description": "Marquette Theatre opens (63rd & Kedzie)",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1926,
+  "date": "1926",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Tower Theatre opens / Tower Theater opens",
+  "description": "Tower Theatre opens / Tower Theater opens at 1510 E 63rd St (Fridstein & Company, for Lubliner & Trinz; just under 3,000 seats).",
+  "sources": [
+   "HistoryWiki search text",
+   "https://rpwrhs.org/w/index.php?title=Tower_Theater"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1926,
+  "date": "1926",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Tower Theater opens",
+  "description": "Theater opened at 1510 E. 63rd; movies, vaudeville, stage shows.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1927,
+  "date": "1927",
+  "date_precision": "year",
+  "layer": "building",
+  "title": "First Presbyterian church building completed",
+  "description": "Current Gothic Revival church building by Tallmadge & Watson constructed 1927 at 6400 S. Kimbark Ave. [6400 S. Kimbark Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Presbyterian_Church_(Chicago)"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1928,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "Woodlawn Property Owners Association organizes a racially restrictive covenant (with covert support linked to the University of Chicago) to bar Black buyers in Woodlawn.",
+  "sources": [
+   "UChicago thesis, knowledge.uchicago.edu"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1928,
+  "date": "1928",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Balaban & Katz acquires Tower Theater",
+  "description": "Balaban & Katz acquires the entire Lubliner & Trinz chain; Tower becomes a B&K house.",
+  "sources": [
+   "https://rpwrhs.org/w/index.php?title=Tower_Theater"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1928,
+  "date": "1928-06",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Public wedding at Englewood Theatre",
+  "description": "Public wedding held at the Englewood Theatre (Southtown Economist).",
+  "sources": [
+   "https://cinematreasures.org/theaters/1100"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1928,
+  "date": "1928",
+  "date_precision": "year",
+  "layer": null,
+  "title": "St. Gelasius Church completed",
+  "description": "St. Clara / St. Gelasius Church completed at 6401 S Woodlawn Ave (architect Henry Schlacks).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King_(Chicago)"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1930,
+  "date": "1930",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Wieboldt's Englewood opens at 63rd & Green",
+  "description": "Wieboldt's Englewood opens at 63rd & Green",
+  "sources": [
+   "Department Store Museum",
+   "HMDB/CBS Chicago"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1930,
+  "date": "1930-02-24",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Chicago City Bank and Trust Co. building opens",
+  "description": "Chicago City Bank and Trust Co. moves into its new Art Deco building at 815 W 63rd St (architect Abraham Epstein; cornerstone 1929).",
+  "sources": [
+   "https://watch.reviery.de/proxy/www.cityofchicago.org/content/dam/city/depts/zlup/Historic_Preservation/Publications/Neighborhood_Banks_8%20banks.pdf"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1931,
+  "date": "1931-12-25",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Southtown Theatre opens (Rapp & Rapp)",
+  "description": "Southtown Theatre opens (Rapp & Rapp) / Southtown Theatre opens at 610 W 63rd St.",
+  "sources": [
+   "Cinema Treasures",
+   "http://www.sixthward.us/2013/11/photo-southtown-theater-englewood.html"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1931,
+  "date": "1931-06-08",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Washington Park National Bank closes",
+  "description": "Washington Park National Bank closes.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Washington_Park_National_Bank_Building"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1933,
+  "date": "1933-06-03",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Receiver appointed for White City over delinquent taxes; beginning of the park's end",
+  "description": "Receiver appointed for White City over delinquent taxes; beginning of the park's end",
+  "sources": [
+   "connectingthewindycity (Tribune-derived)"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1933,
+  "date": "1933-1934",
+  "date_precision": "year_range",
+  "layer": null,
+  "title": "Sears, Roebuck & Co. Englewood store built (Nimmons, Carr & Wright)",
+  "description": "Sears, Roebuck & Co. Englewood store built (Nimmons, Carr & Wright)",
+  "sources": [
+   "NYC landmark-report PDF"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1934,
+  "date": "1934",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Sears Englewood opens ('World's Most Modern Store') / Sears opens at 63rd & Halsted (unverified)",
+  "description": "Sears Englewood opens ('World's Most Modern Store') / Sears opens seven-story store at 63rd & Halsted (claimed first fully air-conditioned Sears in Chicago). Single-source claim.",
+  "sources": [
+   "YouTube nostalgia description",
+   "YouTube nostalgia channel (Calumet412)"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1934,
+  "date": "1934",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Most of White City closes after bankruptcy",
+  "description": "Most of White City closes after bankruptcy",
+  "sources": [
+   "Wikipedia",
+   "Jazz Age Chicago excerpt"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1934,
+  "date": "1934",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Sears Englewood opens",
+  "description": "Seven-story, 290,000-sq-ft department store opened at 63rd/Halsted; became the district's major draw.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1936,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "HOLC residential-security map grades South Side Black Belt areas D ('hazardous'); area D74 covers 35th-67th between State and Cottage Grove, overlapping the 63rd corridor.",
+  "sources": [
+   "dsl.richmond.edu Mapping Inequality"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1940,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "Hansberry v. Lee: U.S. Supreme Court rules for Carl Hansberry (6140 S. Rhodes) on a signature technicality, opening covenanted blocks to Black tenants/owners.",
+  "sources": [
+   "dsl.richmond.edu Mapping Inequality"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1944,
+  "date": "1944",
+  "date_precision": "year",
+  "layer": null,
+  "title": "El Grotto Supper Club opens in the Pershing Hotel",
+  "description": "El Grotto Supper Club opens in the Pershing Hotel",
+  "sources": [
+   "UChicago Library jazz guide (Defender cites)"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1944,
+  "date": "1944",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Englewood Business Men's Association documented",
+  "description": "Documented associational life of the 63rd/Halsted commercial district (photograph).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1945,
+  "date": "1945",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Langley Theatre remodeled and renamed 63rd Street Theatre",
+  "description": "Langley Theatre remodeled and renamed 63rd Street Theatre",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1947,
+  "date": "1947",
+  "date_precision": "year",
+  "layer": null,
+  "title": "El Grotto closes; Beige Room opens in its place (Defender Dec 13, 1947)",
+  "description": "El Grotto closes; Beige Room opens in its place (Defender Dec 13, 1947)",
+  "sources": [
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1947,
+  "date": "1947",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Harry's Show Lounge opens",
+  "description": "Harry's Show Lounge opens",
+  "sources": [
+   "UChicago Library jazz guide (Defender cites)"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1948,
+  "date": null,
+  "date_precision": "year",
+  "layer": "policy",
+  "title": null,
+  "description": "Shelley v. Kraemer: Supreme Court makes racially restrictive covenants unenforceable; Woodlawn begins receiving its first Black residents.",
+  "sources": [
+   "Wikipedia 'Woodlawn, Chicago'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1949,
+  "date": "1949",
+  "date_precision": "year",
+  "layer": null,
+  "title": "63rd Street Theatre closes",
+  "description": "63rd Street Theatre closes",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1950,
+  "date": "1950-10-23",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Charlie Parker records live at the Pershing Ballroom",
+  "description": "Charlie Parker records live at the Pershing Ballroom",
+  "sources": [
+   "Discogs LP liner notes"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1950,
+  "date": "1950",
+  "date_precision": "year",
+  "layer": "building",
+  "title": "Construction of current St. Rita church",
+  "description": "Current Neo-Romanesque church at 63rd & Fairfield built 1950. [6243 S. Fairfield Ave., Chicago Lawn]",
+  "sources": [
+   "https://www.tiktok.com/@chicagiensis (summary)"
+  ],
+  "status": "Provisional",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1950,
+  "date": "1950-1955",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Parkway Gardens built",
+  "description": "Residential complex built as a Black cooperative, directly touching the 63rd corridor area.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1950,
+  "date": "1950s",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Tower Theater closes",
+  "description": "Tower Theater closed sometime in the 1950s; later demolished (exact dates unresolved).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1950,
+  "date": "1950",
+  "date_precision": "year",
+  "layer": null,
+  "title": "St. Rita of Cascia current church built",
+  "description": "Current St. Rita of Cascia church built at 6243 S Fairfield Ave, Chicago Lawn (Neo-Romanesque; Augustinian parish founded 1905).",
+  "sources": [
+   "https://www.tiktok.com/@chicagiensis/video/7507439752539327790"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1951,
+  "date": "1951",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Crown Propeller Lounge era begins",
+  "description": "Crown Propeller Lounge era begins",
+  "sources": [
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1951,
+  "date": "1951",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Strand Show Lounge era begins (in Strand Hotel)",
+  "description": "Strand Show Lounge era begins (in Strand Hotel)",
+  "sources": [
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1951,
+  "date": "1951",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Woodlawn color line breaks; club expansion east",
+  "description": "Woodlawn's color line broke (per secondary synthesis); Black nightclubs expanded east of Cottage Grove and east on 63rd to Stony Island.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1953,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "CTA Route 63 streetcar on 63rd Street abandoned (May 24); bus service replaces it.",
+  "sources": [
+   "Wikipedia 'Chicago Surface Lines'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1953,
+  "date": "1953",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Kitty Kat Club established",
+  "description": "Kitty Kat Club established",
+  "sources": [
+   "Beachwood Reporter",
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1953,
+  "date": "1953",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Kitty Kat nightclub established",
+  "description": "Club established on 63rd; featured King Fleming, John Young, Ahmad Jamal and other art-oriented jazz musicians (per secondary account).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1954,
+  "date": "1954-01-29",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Normal Park branch closes",
+  "description": "Normal Park branch closes; Harvard ceases to be a transfer station.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Normal_Park_branch"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1955,
+  "date": "1955",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Stage Lounge era begins",
+  "description": "Stage Lounge era begins",
+  "sources": [
+   "UChicago Library jazz guide (Defender cites)"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1955,
+  "date": "1955",
+  "date_precision": "year",
+  "layer": null,
+  "title": "McKie's Disc Jockey Show Lounge opens (McKie Fitzhugh)",
+  "description": "McKie's Disc Jockey Show Lounge opens (McKie Fitzhugh)",
+  "sources": [
+   "Windy City Times",
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1957,
+  "date": "1957",
+  "date_precision": "year",
+  "layer": "policy",
+  "title": "Dr. James B. Williams becomes first Black physician at St. Bernard Hospital",
+  "description": "Dr. James B. Williams became the first African-American physician at St. Bernard Hospital (Englewood) in 1957; later chief of surgery 1971-72; served as physician to MLK during King's Chicago stay; joined a National Medical Association delegation to President Kennedy (1963) on the Hill-Burton anti-discrimination amendment. [Englewood (hospital); South Side (Williams Clinic)]",
+  "sources": [
+   "https://www.thehistorymakers.org/sites/default/files/A2008_088_EAC.pdf"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1958,
+  "date": "1958",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Park City (formerly White City) Roller Rink closes",
+  "description": "Park City (formerly White City) Roller Rink closes",
+  "sources": [
+   "realskatestories.com"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1958,
+  "date": "1958-01-16",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Ahmad Jamal Trio records But Not for Me at the Pershing Lounge (Jan 16–17)",
+  "description": "Ahmad Jamal Trio records But Not for Me at the Pershing Lounge (Jan 16–17)",
+  "sources": [
+   "JazzMessengers discography",
+   "Defender Aug–Oct 1957 bookings"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1958,
+  "date": "1958-08",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Southtown Theatre closes",
+  "description": "Southtown Theatre closes",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1958,
+  "date": "1958-10-30",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Carr's Discount Department Store grand opening (in former Southtown Theatre)",
+  "description": "Carr's Discount Department Store grand opening (in former Southtown Theatre)",
+  "sources": [
+   "sixthward.us (reproduced Tribune ad)"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1958,
+  "date": "1958",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Southtown Theatre closes; becomes Carr's",
+  "description": "Southtown Theatre closes as a theater; converted to Carr's department store in the late 1950s.",
+  "sources": [
+   "http://www.sixthward.us/2013/11/photo-southtown-theater-englewood.html",
+   "https://cinematreasures.org/theaters/2625"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1959,
+  "date": "1959",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Crown Propeller Lounge era ends",
+  "description": "Crown Propeller Lounge era ends",
+  "sources": [
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1959,
+  "date": "1959",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Green Door Club documented (Englewood)",
+  "description": "Green Door Club documented (Englewood)",
+  "sources": [
+   "Living Tracks Englewood presentation"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1959,
+  "date": "1959-01-24",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Pearl Bailey's first live show at the Tivoli",
+  "description": "Pearl Bailey's first live show at the Tivoli",
+  "sources": [
+   "UChicago Library jazz guide (Defender)"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1959,
+  "date": "1959-12-31",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Ahmad Jamal, Cannonball Adderley, Carmen McRae play the Tivoli",
+  "description": "Ahmad Jamal, Cannonball Adderley, Carmen McRae play the Tivoli",
+  "sources": [
+   "UChicago Library jazz guide (Defender)"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1960,
+  "date": null,
+  "date_precision": "year",
+  "layer": "demographic",
+  "title": null,
+  "description": "Woodlawn's racial transition accelerates through the 1950s; only 8,450 whites remain by 1960.",
+  "sources": [
+   "National Affairs, 'Woodlawn: The Zone of Destruction' (1973)"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1960,
+  "date": "1960",
+  "date_precision": "year",
+  "layer": "founding",
+  "title": "Brazier pastorate begins / Arthur Brazier takes Apostolic Church of God pulpit",
+  "description": "Rev. Arthur M. Brazier became pastor of the Apostolic Church of God in 1960 after merging his Universal Church of Christ congregation with ACOG. [6320 S. Dorchester Ave., Woodlawn] / Arthur M. Brazier becomes pastor of the Apostolic Church of God, 6320 S Dorchester Ave; becomes a central figure in The Woodlawn Organization and Chicago civil-rights organizing.",
+  "sources": [
+   "https://news.uchicago.edu/story/bishop-arthur-m-brazier-tireless-advocate-woodlawn-community-1921-2010"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3",
+   "w5"
+  ]
+ },
+ {
+  "year": 1960,
+  "date": "1960-2000",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Woodlawn population collapses (1960-2000)",
+  "description": "Woodlawn population fell from 81,279 (1960) to 27,086 (2000).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1962,
+  "date": "1962",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Marvin Gaye's 'Hitch Hike' names 63rd Street",
+  "description": "Marvin Gaye's 'Hitch Hike' names 63rd Street ('until I get to that street called 63rd'); secondary journalism identifies 63rd at Cottage Grove as 'the center of black night life in Chicago' at that time.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1963,
+  "date": "1963",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Tivoli Theatre closes (one source: Sept 19, 1963)",
+  "description": "Tivoli Theatre closes (one source: Sept 19, 1963) / Tivoli Theatre closed; demolished shortly afterward. / Tivoli Theatre closes (date per Theatre Organ journal; Wikipedia gives year 1963 only); demolished shortly thereafter.",
+  "sources": [
+   "Wikipedia",
+   "UChicago Library jazz guide",
+   "https://journals.shareok.org/theatreorgan/article/download/4591/4570",
+   "https://en.wikipedia.org/wiki/Tivoli_Theatre_(Chicago)"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1963,
+  "date": "1963",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Harry's Show Lounge era ends",
+  "description": "Harry's Show Lounge era ends",
+  "sources": [
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1963,
+  "date": "1963",
+  "date_precision": "year",
+  "layer": "organizing",
+  "title": "TWO defeats UChicago Woodlawn expansion",
+  "description": "The The Woodlawn Organization, organized by Nicholas von Hoffman for Saul Alinsky's Industrial Areas Foundation with spokesman Rev. Arthur M. Brazier, defeated University of Chicago expansion plans in Woodlawn in 1963. [Woodlawn]",
+  "sources": [
+   "https://www.thehistorymakers.org/sites/default/files/A2005_003_EAD.pdf"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1963,
+  "date": "1963-04-01",
+  "date_precision": "day",
+  "layer": null,
+  "title": "WVON launches",
+  "description": "Launched, featuring Herb Kent 'The Cool Gent'; became Chicago's premier radio outlet for Black listeners during soul's heyday.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1964,
+  "date": null,
+  "date_precision": "year",
+  "layer": "commercial",
+  "title": null,
+  "description": "City converts the 63rd & Halsted district into a pedestrian mall (bypass roads, canopies); the experiment fails.",
+  "sources": [
+   "LISC Englewood Quality of Life Plan (2005)"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1965,
+  "date": "1965-02-26",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Herb Kent WVON aircheck (archived)",
+  "description": "Archival Herb Kent aircheck documented (existence of recording).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1965,
+  "date": "1965-12-13",
+  "date_precision": "day",
+  "layer": null,
+  "title": "C&WI Englewood station closes (Erie Lackawanna)",
+  "description": "Chicago & Western Indiana 'Little' Englewood station (551 W 63rd St) closes to Erie Lackawanna service.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Englewood_station_(Chicago_and_Western_Indiana_Railroad)"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1966,
+  "date": "1966",
+  "date_precision": "year",
+  "layer": null,
+  "title": "McKie's Disc Jockey Show Lounge era ends",
+  "description": "McKie's Disc Jockey Show Lounge era ends",
+  "sources": [
+   "Windy City Times",
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1966,
+  "date": "1966",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Strand Show Lounge era ends",
+  "description": "Strand Show Lounge era ends",
+  "sources": [
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1966,
+  "date": "1966-07-29",
+  "date_precision": "day",
+  "layer": "march",
+  "title": "Open-housing march to Halverson Realty, 63rd & Kedzie",
+  "description": "~450 marchers led by Al Raby, Andrew Young and other lieutenants (King absent, speaking engagement) marched from New Friendship Baptist Church to H. F. Halverson Realty at 63rd St. & Kedzie Ave., Gage Park, protesting discriminatory real-estate practices. [63rd St. & Kedzie Ave., Gage Park]",
+  "sources": [
+   "https://www.goodreads.com/author_blog_posts/19432168-civil-rights-events----chicago-freedom-movement----violent-backlash"
+  ],
+  "status": "Provisional",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1966,
+  "date": "1966-07-31",
+  "date_precision": "day",
+  "layer": "march",
+  "title": "Marquette Park march",
+  "description": "550 Black and white demonstrators marched into Marquette Park; ~700 white residents awaited; 50+ injured, 18 cars burned; police largely passive. [Marquette Park, Chicago Lawn (one mile south of 63rd)]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marquette_Park_rallies"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1966,
+  "date": "1966-08-05",
+  "date_precision": "day",
+  "layer": "march",
+  "title": "MLK open-housing march on the 63rd St. corridor",
+  "description": "King led ~700 marchers through Marquette Park/Gage Park toward a real-estate office on 63rd St.; whites moved east along 63rd to confront marchers (Bernard Kleina photos, Clark gas station at 63rd & Whipple); King struck behind the ear by a baseball-sized rock between Francisco and Mozart south of Marquette Rd. and felled to one knee; march continued toward 63rd & Kedzie where King dodged a thrown knife; 40+ arrested, 30+ injured. [Marquette Park / 63rd St. & Kedzie Ave., Gage Park]",
+  "sources": [
+   "http://johnpwalshblog.com/2014/08/05/vintage-photos-of-chicago-lawn-circa-1966/"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1966,
+  "date": "1966-08",
+  "date_precision": "month",
+  "layer": "organizing",
+  "title": "South Side Action Center established in Englewood",
+  "description": "Greater Mount Hope Baptist Church, 6035 S. Princeton St. (Englewood), pastored by Rev. William Lambert, became the South Side Action Center of the Chicago Freedom Movement in August 1966. [6035 S. Princeton St., Englewood]",
+  "sources": [
+   "https://sites.middlebury.edu/chicagofreedommovement/chicago-freedom-movement-sites/"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1967,
+  "date": "1967",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Trianon Ballroom demolished (CT demolition notice Jan 2, 1967)",
+  "description": "Trianon Ballroom demolished (CT demolition notice Jan 2, 1967)",
+  "sources": [
+   "Chicago History Museum",
+   "UChicago Library jazz guide"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1968,
+  "date": null,
+  "date_precision": "year",
+  "layer": "commercial",
+  "title": null,
+  "description": "White-owned businesses flee Woodlawn's 63rd strip after the assassination of Martin Luther King Jr. (1968).",
+  "sources": [
+   "thefreelibrary.com article reprint"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1968,
+  "date": "1968",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Post-1968 white business flight (Woodlawn)",
+  "description": "White businesses left Woodlawn 'amid fear of unrest' after the MLK assassination (secondary attribution; one factor among several).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": "Ashland/63rd opens; Loomis terminal closes / Ashland/63rd opens; Loomis closes",
+  "description": "Ashland/63rd terminal opens (May 6), replacing the 1907-built Loomis terminal, which is demolished. / New station opened two blocks west of Loomis; Loomis terminal closed. / Ashland/63rd station opens, replacing the Loomis terminal; Loomis station closes and is demolished.",
+  "sources": [
+   "Wikipedia 'Ashland branch'; Wikipedia 'Green Line (CTA)'",
+   "https://en.wikipedia.org/wiki/Ashland/63rd_station",
+   "https://en.wikipedia.org/wiki/Loomis_station_(CTA_Green_Line)"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": null,
+  "date_precision": "year",
+  "layer": "transportation",
+  "title": "63rd Red Line station opens",
+  "description": "Dan Ryan expressway-median rapid transit opens, siphoning ridership from the old South Side L branches. / Station opened in the Dan Ryan Expressway median. / 63rd Red Line station opens on the Dan Ryan branch (formal opening Sept 26; full service Sept 28).",
+  "sources": [
+   "chicagohistorytoday (2015)",
+   "https://en.wikipedia.org/wiki/63rd_station"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": "1969",
+  "date_precision": "year",
+  "layer": null,
+  "title": "63rd/Halsted closed to automobiles; pedestrian shopping mall created",
+  "description": "63rd/Halsted closed to automobiles; pedestrian shopping mall created",
+  "sources": [
+   "YouTube nostalgia description"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": "1969",
+  "date_precision": "year",
+  "layer": "other",
+  "title": "Consolidation with St. Cyril",
+  "description": "St. Clara consolidated with St. Cyril (55th & Woodlawn); church renamed St. Clara-St. Cyril; fire in 1976 had destroyed most of the interior. [6401 S. Woodlawn Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": "1969",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Englewood pedestrian mall created (date uncertain)",
+  "description": "Halsted reportedly closed to automobiles; pedestrian mall created (1969 vs. ~1973 conflict unresolved).",
+  "sources": [],
+  "status": "Unresolved",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": "1969-04-09",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Englewood Union Station closes",
+  "description": "Englewood Union Station closes (per railroad forum; needs Official Guide confirmation).",
+  "sources": [
+   "https://forum.trains.com/t/englewood-station-big-and-little-chicago/410425"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1969,
+  "date": "1969-07",
+  "date_precision": "month",
+  "layer": null,
+  "title": "College renamed Kennedy-King",
+  "description": "Woodrow Wilson Junior College renamed Kennedy-King College (honoring Robert F. Kennedy and Martin Luther King Jr.).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kennedy%E2%80%93King_College"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1973,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": "Dorchester station closes",
+  "description": "Dorchester station closes (January 13) in CTA budget-related station closings. / Dorchester station (1400 E. 63rd) closed in budget-related CTA cuts (Tribune citation via tertiary source). / Dorchester station closes (Chicago Tribune coverage).",
+  "sources": [
+   "Wikipedia 'Dorchester station'; Chicago Tribune, Jan 13, 1973",
+   "https://en.wikipedia.org/wiki/Dorchester_station"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1973,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "Englewood branch State station closes (September 2) in CTA budget cutbacks.",
+  "sources": [
+   "Wikipedia 'State station (CTA)'; Chicago Tribune, Sept 2, 1973"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1975,
+  "date": "1975",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Wieboldt's Englewood closes (reported)",
+  "description": "Wieboldt's Englewood reportedly closed.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1976,
+  "date": "1976",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Sears Englewood closes (single-source claim) / Sears Englewood closes (unverified)",
+  "description": "Sears Englewood closes (single-source claim) / Sears Englewood closed; 19-stall auto center closed too. Tribune captured split merchant reactions (fear of collapse vs. caution against declaring immediate demise). / Sears Englewood (63rd & Halsted) closes. Single-source claim.",
+  "sources": [
+   "YouTube nostalgia description",
+   "YouTube nostalgia channel (Calumet412)"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1976,
+  "date": "1976-04",
+  "date_precision": "month",
+  "layer": "fire",
+  "title": "1976 church fire",
+  "description": "April 1976 fire destroyed most of the church interior (one of two historic fires; the other Oct 7, 2015). [6401 S. Woodlawn Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1977,
+  "date": "1977",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Maryland Theatre closes",
+  "description": "Maryland Theatre closes",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1977,
+  "date": "1977",
+  "date_precision": "year",
+  "layer": "building",
+  "title": "ACOG sanctuary opens at 63rd & Kenwood",
+  "description": "New ACOG sanctuary at 63rd St. & Kenwood Ave. opened 1977. [63rd St. & Kenwood Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arthur_M._Brazier"
+  ],
+  "status": "Provisional",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1979,
+  "date": "1979-07-29",
+  "date_precision": "day",
+  "layer": null,
+  "title": "C&WI Englewood station closes (N&W)",
+  "description": "C&WI Englewood station closes to Norfolk & Western service.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Englewood_station_(Chicago_and_Western_Indiana_Railroad)"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1981,
+  "date": "1981-01-04",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Marquette Theatre closes (final film: The Aristocats)",
+  "description": "Marquette Theatre closes (final film: The Aristocats)",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1982,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": "Jackson Park/Stony Island service suspended / Jackson Park branch suspended east of 61st",
+  "description": "Structural defects found in the Jackson Park branch bridge over the Illinois Central; service cut south of 61st St (March 4); resumed to University only (December 12). / Jackson Park/Stony Island service suspended over structural defects in the bridge above the Illinois Central. / Jackson Park branch service suspended east of 61st Street after bridge defect; Stony Island/63rd terminal never reopens.",
+  "sources": [
+   "Wikipedia 'East 63rd branch'; Wikipedia 'Green Line (CTA)'",
+   "https://en.wikipedia.org/wiki/Jackson_Park_branch"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1982,
+  "date": "1982-12-12",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Service resumed to University only",
+  "description": "Service resumed only as far as University.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1987,
+  "date": "1987-08",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Marquette Theatre demolished; site becomes Walgreens parking lot",
+  "description": "Marquette Theatre demolished; site becomes Walgreens parking lot",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 1988,
+  "date": "1988-1989",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Woodlawn Preservation and Investment Committee formed",
+  "description": "Bishop Arthur Brazier (Apostolic Church of God, 63rd & Dorchester) formed the Woodlawn Preservation and Investment Committee (WPIC); neighborhood deterioration began to reverse per resident testimony.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1989,
+  "date": "1989",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Cottage Grove station demolished/rebuilt",
+  "description": "Original Cottage Grove station demolished; replacement opens 1991.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cottage_Grove_station"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 1990,
+  "date": "1990",
+  "date_precision": "year",
+  "layer": "other",
+  "title": "Holy Cross merger; renamed St. Gelasius",
+  "description": "Holy Cross parish (65th & Maryland) merged into St. Clara-St. Cyril; renamed St. Gelasius (for the pope of African heritage); closed June 2002 with <100 weekly worshippers. [6401 S. Woodlawn Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1991,
+  "date": "1991",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Former Southtown Theatre / Carr's building demolished / Southtown Theatre demolished",
+  "description": "Former Southtown Theatre / Carr's building demolished / Southtown Theatre building demolished.",
+  "sources": [
+   "Cinema Treasures",
+   "http://www.sixthward.us/2013/11/photo-southtown-theater-englewood.html"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2",
+   "w5"
+  ]
+ },
+ {
+  "year": 1992,
+  "date": "1992",
+  "date_precision": "year",
+  "layer": "building",
+  "title": "ACOG campus completed at 63rd & Dorchester",
+  "description": "Larger ACOG campus at 63rd St. & Dorchester Ave. completed 1992, with 3,000-seat sanctuary and television facilities. [63rd St. & Dorchester Ave., Woodlawn]",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arthur_M._Brazier"
+  ],
+  "status": "Provisional",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 1992,
+  "date": "1992-02-09",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Harvard station closes",
+  "description": "Harvard station (303 W. 63rd) closed during major service cuts; demolished in the 1994-96 reconstruction. / Harvard station closes (CTA budget cuts; covered by Chicago Tribune and Sun-Times).",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvard_station_(CTA)"
+  ],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1993,
+  "date": null,
+  "date_precision": "month",
+  "layer": "transportation",
+  "title": null,
+  "description": "Green Line created (February) from Lake-Englewood/Jackson Park routings; color-coded system begins.",
+  "sources": [
+   "Wikipedia 'Green Line (CTA)'"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1994,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": "Green Line reconstruction shutdown; University and Racine close / Green Line closes; Racine and University close",
+  "description": "Entire Green Line closes for a two-year rebuild (January 9, 1994); reopens May 12, 1996 truncated to Cottage Grove; branch renamed East 63rd branch. / Entire Green Line closed for reconstruction; University station (1200 E. 63rd) closed and never reopened; Racine station closed and never reopened. / Green Line closes for renovation; Racine and University stations close permanently.",
+  "sources": [
+   "Wikipedia 'Green Line (CTA)'; Wikipedia 'East 63rd branch'",
+   "https://en.wikipedia.org/wiki/Racine_station_(CTA_Green_Line)",
+   "https://en.wikipedia.org/wiki/University_station_(CTA)"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1",
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1996,
+  "date": "1996-05-12",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Green Line reopens; Cottage Grove becomes East 63rd terminus / Green Line reopens; Cottage Grove becomes terminal",
+  "description": "Green Line reopened; East 63rd branch reopened only to Cottage Grove, making it the terminus. / Green Line reopens; Cottage Grove becomes the East 63rd branch terminal.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cottage_Grove_station"
+  ],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 1997,
+  "date": null,
+  "date_precision": "day",
+  "layer": "transportation",
+  "title": null,
+  "description": "The L structure east of Cottage Grove is demolished (September 27) with less than 24 hours' public notice, at the urging of Woodlawn community leaders led by Rev. Arthur Brazier.",
+  "sources": [
+   "Wikipedia 'East 63rd branch'; Chicago Tribune, April 27, 1994 (via chicago-l.org)"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 1997,
+  "date": "1997-09",
+  "date_precision": "month",
+  "layer": null,
+  "title": "University station demolished; elevated east of Cottage Grove removed",
+  "description": "University station demolished; remaining elevated structure east of Cottage Grove demolished (reportedly with <24 hours' notice — claim unresolved).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 1997,
+  "date": "1997-09",
+  "date_precision": "month",
+  "layer": null,
+  "title": "63rd branch stations demolished",
+  "description": "University, Dorchester stations and the Jackson Park branch east of Cottage Grove are demolished.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_station_(CTA)",
+   "https://en.wikipedia.org/wiki/Dorchester_station"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2000,
+  "date": null,
+  "date_precision": "year",
+  "layer": "demographic",
+  "title": null,
+  "description": "Woodlawn population falls to 27,086 (from 81,279 in 1960); Englewood to 40,222 (from 97,595 in 1960) — 2000 Census.",
+  "sources": [
+   "U.S. Census via Wikipedia community-area pages"
+  ],
+  "status": "Verified",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 2000,
+  "date": "2000",
+  "date_precision": "year",
+  "layer": null,
+  "title": "63rd Street Beach House restoration completed",
+  "description": "Chicago Park District completed renovations of the 63rd Street Beach House (late-1990s ~$8M restoration).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2000,
+  "date": "2000-11-02",
+  "date_precision": "day",
+  "layer": null,
+  "title": "UChicago Chronicle documents Woodlawn oral history",
+  "description": "UChicago Chronicle published named oral histories documenting 1950s-60s Woodlawn: First Presbyterian Sunday walks, CTA curtailment and shopping-district deterioration, nightly fires, The Woodlawn Organization, 40-year rebuilding effort.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2002,
+  "date": "2002",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Smithfield retail center approved (Englewood)",
+  "description": "Smithfield 8.5-acre retail center in Englewood approved with $6M TIF (trade reporting).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2003,
+  "date": "2003",
+  "date_precision": "year",
+  "layer": "organizing",
+  "title": "Teamwork Englewood formed",
+  "description": "Teamwork Englewood formed in 2003, sponsored by Pullman Bank, LISC/Chicago and local churches; became the LISC New Communities Program lead agency for Englewood, based at 815 W. 63rd St. [815 W. 63rd St., Fl. 2, Chicago, IL 60621]",
+  "sources": [
+   "http://www.chicagoreporter.com/englewood-help-residents-shape-own-future/"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2003,
+  "date": "2003-10-20",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Kennedy-King project reported ($192M)",
+  "description": "GlobeSt reported the $192M Kennedy-King project replacing the former Englewood Mall; district had experienced continuous decline.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2003,
+  "date": "2003-09-07",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Demolition-delay law first used (St. Gelasius)",
+  "description": "Demolition-delay law used for the first time to halt demolition of St. Gelasius Church; Commission on Chicago Landmarks approves preliminary landmark status.",
+  "sources": [
+   "https://www.globest.com/2003/09/07/demolition-delay-laws-first-use-may-save-church/"
+  ],
+  "status": "Verified",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2004,
+  "date": "2004-01-14",
+  "date_precision": "day",
+  "layer": "landmark",
+  "title": "Chicago Landmark designation; Institute arrives",
+  "description": "Chicago Landmark designation Jan 14, 2004 after community protest halted demolition; Institute of Christ the King Sovereign Priest established its U.S. headquarters next door and took over restoration. [6401 S. Woodlawn Ave., Woodlawn]",
+  "sources": [
+   "https://www.chicagocatholic.com/chicagoland/-/article/2016/03/07/woodlawn-shrine-to-rebui-1"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2004,
+  "date": "2004-01-14",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Shrine of Christ the King landmarked",
+  "description": "St. Clara / St. Gelasius (now National Shrine of Christ the King) designated a Chicago Landmark.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shrine_of_Christ_the_King_(Chicago)"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2005,
+  "date": "2005-2008",
+  "date_precision": "month",
+  "layer": "closure",
+  "title": "Englewood High phase-out and closure",
+  "description": "Englewood Academy High School at 6201 S. Stewart Ave. was phased out beginning 2005 ('culture of failure' cited by CPS); final class graduated and school closed 2008; building reopened for TEAM Englewood Community Academy and Urban Prep Academy. [6201 S. Stewart Ave., Englewood]",
+  "sources": [
+   "https://www.chalkbeat.org/chicago/2019/1/29/21106695/can-a-new-high-school-heal-years-of-school-closings-in-englewood/"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2005,
+  "date": "2005",
+  "date_precision": "year",
+  "layer": null,
+  "title": "St. Rita of Cascia centennial",
+  "description": "St. Rita of Cascia High School's 100th anniversary recognized in the Congressional Record (founded 1905).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2007,
+  "date": "2007-07-18",
+  "date_precision": "day",
+  "layer": null,
+  "title": "New Kennedy-King College campus dedicated / Kennedy-King College new campus opens",
+  "description": "New 40-acre Kennedy-King campus dedicated (six buildings, ~500,000 sq ft). / New Kennedy-King College campus opens at 6301 S Halsted St on the former Englewood Mall site.",
+  "sources": [
+   "https://www.bdcnetwork.com/home/news/55152859/city-college-seeks-to-revitalize-chicagos-englewood-neighborhood"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 2007,
+  "date": "2007-08-13",
+  "date_precision": "day",
+  "layer": null,
+  "title": "'Chicago In Song: Street Signs' published (nightlife documentation)",
+  "description": "Beachwood Reporter published Don Jacobson's 'Chicago In Song: Street Signs,' the key secondary account of the 63rd Street stroll, its clubs, and Marvin Gaye's 'Hitch Hike' reference.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2008,
+  "date": "2008",
+  "date_precision": "year",
+  "layer": "other",
+  "title": "Brazier retires; Byron T. Brazier succeeds / Byron Brazier succeeds at Apostolic Church of God",
+  "description": "Arthur M. Brazier retired June 1, 2008 after a 48-year pastorate; succeeded by his son Dr. Byron T. Brazier; membership at ~18,000-20,000. [6320 S. Dorchester Ave., Woodlawn] / Byron Brazier succeeds his father Arthur as pastor of the Apostolic Church of God.",
+  "sources": [
+   "https://news.uchicago.edu/story/bishop-arthur-m-brazier-tireless-advocate-woodlawn-community-1921-2010",
+   "https://www.lipstickalley.com/threads/rev-arthur-brazier-pastor-of-apostolic-church-of-god-retires.124369/"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3",
+   "w5"
+  ]
+ },
+ {
+  "year": 2011,
+  "date": "2011",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Related acquires Parkway Gardens",
+  "description": "Related acquired Parkway Gardens, preserving affordability for 30 years; major renovations completed ~2013.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2012,
+  "date": "2012-06",
+  "date_precision": "month",
+  "layer": "redevelopment",
+  "title": "SWOP Reclaiming Project begins around St. Rita",
+  "description": "SWOP's Reclaiming Project began June 2012 in the 20-square-block area around St. Rita of Cascia (63rd & Fairfield); by 2019 vacant buildings fell from 93 to 8, with 85 converted to affordable housing. [63rd St. & Fairfield Ave., Chicago Lawn]",
+  "sources": [
+   "https://www.chicagocatholic.com/chicagoland/-/article/2019/06/20/group-reclaims-neighborhood-around-st-rita-of-cascia-pari-1"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2012,
+  "date": "2012",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Englewood retail-leakage study ($127M)",
+  "description": "City study estimated $127M in annual retail leakage from the Englewood area (cited by LISC).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2013,
+  "date": "2013",
+  "date_precision": "year",
+  "layer": "closure",
+  "title": "Woods Elementary closes",
+  "description": "Woods Elementary School, 6206 S. Racine Ave., closed in the 2013 wave of 50 CPS closures; students assigned to Perkins Bass Elementary, 1140 W. 66th St. [6206 S. Racine Ave., Englewood]",
+  "sources": [
+   "https://schoolreports.cps.edu/schoolrepurposing/Woods.pdf"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2013,
+  "date": "2013-09-05",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Whole Foods Englewood announced",
+  "description": "Whole Foods Market announced for Englewood Square, 820 W 63rd St.",
+  "sources": [
+   "https://thetriibe.com/2022/02/englewood-is-getting-a-new-community-run-grocery-store-on-63rd-street-go-green-community-fresh-market/"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2014,
+  "date": "2014",
+  "date_precision": "year",
+  "layer": null,
+  "title": "63rd/Wallace Peace Mural installed",
+  "description": "Peace Mural at 63rd/Wallace painted (Green Star Movement/community).",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2015,
+  "date": "2015-10-07",
+  "date_precision": "day",
+  "layer": "fire",
+  "title": "2015 Shrine fire",
+  "description": "October 7, 2015 fire destroyed about 3/4 of the church roof; walls survived; congregation temporarily worshipped at First Presbyterian Church; Archdiocese deeded property to the Institute (Feb 2016). [6401 S. Woodlawn Ave., Woodlawn]",
+  "sources": [
+   "https://www.chicagocatholic.com/chicagoland/-/article/2016/03/07/woodlawn-shrine-to-rebui-1"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2016,
+  "date": "2016-01",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Kimbark Theatre demolished",
+  "description": "Kimbark Theatre demolished",
+  "sources": [
+   "Cinema Treasures"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 2016,
+  "date": "2016-09-28",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Englewood Square opens; Whole Foods opens",
+  "description": "Whole Foods opened in Englewood Square (NW 63rd/Halsted, 5.5 acres, ~50,000 sq ft). / Whole Foods / Englewood Square opens at 820 W 63rd St.",
+  "sources": [
+   "https://thetriibe.com/2022/02/englewood-is-getting-a-new-community-run-grocery-store-on-63rd-street-go-green-community-fresh-market/"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 2016,
+  "date": "2016-2018",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Land Bank takes Washington Park National Bank building",
+  "description": "Cook County Land Bank took control of the Washington Park National Bank building, clearing ~$3.7M in back taxes.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2018,
+  "date": "2018",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Englewood Metra underpass mural installed",
+  "description": "Community-designed underpass mural installed at 545 W. 63rd at Wallace (Teamwork Englewood, 20th Ward, Boeing, youth apprentices, 100+ volunteers).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2018,
+  "date": "2018-01",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Land Bank takes Washington Park bank building",
+  "description": "Cook County Land Bank Authority takes ownership of the Washington Park National Bank Building.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Washington_Park_National_Bank_Building"
+  ],
+  "status": "Provisional",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2019,
+  "date": "2019",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Daley's Restaurant moves across the 63rd/Cottage Grove intersection into Woodlawn Station",
+  "description": "Daley's Restaurant moves across the 63rd/Cottage Grove intersection into Woodlawn Station",
+  "sources": [
+   "POAH"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 2019,
+  "date": "2019",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Kennedy-King College theaters host Collaboraction's 2019–20 season",
+  "description": "Kennedy-King College theaters host Collaboraction's 2019–20 season",
+  "sources": [
+   "BroadwayWorld"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 2019,
+  "date": "2019",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Washington Park National Bank building demolished",
+  "description": "Washington Park National Bank building demolished",
+  "sources": [
+   "MPC Woodlawn report"
+  ],
+  "status": "Verified",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 2019,
+  "date": "2019-09-03",
+  "date_precision": "day",
+  "layer": "closure",
+  "title": "TEAM Englewood closes; Englewood STEM opens",
+  "description": "TEAM Englewood closed; its students consolidated with Harper, Hope, and Robeson into the new $85M Englewood STEM High School (6835 S. Normal Blvd.), which opened September 3, 2019. [6201 S. Stewart Ave., Englewood]",
+  "sources": [
+   "https://www.chalkbeat.org/chicago/2019/1/29/21106695/can-a-new-high-school-heal-years-of-school-closings-in-englewood/"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2019,
+  "date": "2019-03",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Washington Park bank slated for demolition (endangered)",
+  "description": "CCLBA announces intent to sell the Washington Park National Bank Building to DL3/Real Estate / Greenlighting for demolition; Preservation Chicago and Landmarks Illinois list it as endangered; press coverage follows.",
+  "sources": [
+   "https://www.preservationchicago.org/washington-park-substation-gaitan-building/washington-park-national-bank-2020-chicago-7-write-up-final/"
+  ],
+  "status": "Verified",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2020,
+  "date": "2020-07-01",
+  "date_precision": "day",
+  "layer": "policy",
+  "title": "St. Rita unites with St. Clare of Montefalco",
+  "description": "Effective July 1, 2020, St. Rita of Cascia Parish officially united with St. Clare of Montefalco Parish under the Archdiocese's Renew My Church process, retaining the St. Rita of Cascia title with St. Rita as the parish church. [6243 S. Fairfield Ave., Chicago Lawn]",
+  "sources": [
+   "https://www.midwestaugustinians.org/news/2020/7/10/st-rita-parish-officially-unites-with-st-clare-of-montefalco-w2r3h"
+  ],
+  "status": "Verified",
+  "from": "w3",
+  "merged_from": [
+   "w3"
+  ]
+ },
+ {
+  "year": 2022,
+  "date": "2022-11-14",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Whole Foods Englewood closes",
+  "description": "Whole Foods closed after six years; company cited insufficient 'performance and growth potential.' / Whole Foods Englewood closes after six years.",
+  "sources": [
+   "https://thetriibe.com/2022/02/englewood-is-getting-a-new-community-run-grocery-store-on-63rd-street-go-green-community-fresh-market/",
+   "http://ilhousedems.com/2022/05/02/state-rep-harper-condemns-whole-foods-englewood-store-closure-calls-on-governor-to-sign-food-desert-bill/"
+  ],
+  "status": "Mixed: Provisional, Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4",
+   "w5"
+  ]
+ },
+ {
+  "year": 2023,
+  "date": "2023-05-11",
+  "date_precision": "day",
+  "layer": null,
+  "title": "Save A Lot opens in former Whole Foods",
+  "description": "Yellow Banana-operated Save A Lot opened in the former Whole Foods space after community opposition delayed the April opening.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2023,
+  "date": "2023",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Washington Park National Bank redevelopment approved",
+  "description": "City Council approved six-story, 72,000-sq-ft mixed-use redevelopment preserving two facades; $5M Community Development Grant; rezoned B3-3 to B3-5. Construction status as of 2026-09-28 unresolved.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2023,
+  "date": "2023",
+  "date_precision": "year",
+  "layer": null,
+  "title": "MPC 'Re-Connecting Communities' report",
+  "description": "MPC report depicted the Dan Ryan as a 14-lane barrier bisecting South Side communities (Englewood/Washington Park imagery).",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2023,
+  "date": "2023-02",
+  "date_precision": "month",
+  "layer": null,
+  "title": "Referendum supports reopening Racine station",
+  "description": "16th Ward advisory referendum passes in support of reopening the Racine Green Line station.",
+  "sources": [
+   "https://occprodstoragev1.blob.core.usgovcloudapi.net/matterattachmentspublic/fc47ebc5-3d62-49e9-baa4-251396dacc5c.pdf"
+  ],
+  "status": "Verified",
+  "from": "w5",
+  "merged_from": [
+   "w5"
+  ]
+ },
+ {
+  "year": 2024,
+  "date": "2024-2025",
+  "date_precision": "month",
+  "layer": null,
+  "title": "CEGU publishes 'A Century on 63rd Street'",
+  "description": "UChicago's Committee on Environment, Geography and Urbanization published 'A Century on 63rd Street,' a cartographic record of transformations in Englewood and Woodlawn.",
+  "sources": [],
+  "status": "Verified",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ },
+ {
+  "year": 2025,
+  "date": "2025",
+  "date_precision": "year",
+  "layer": null,
+  "title": "E.G. Woode small-business hub grand opening (1122 W. 63rd; year unconfirmed)",
+  "description": "E.G. Woode small-business hub grand opening (1122 W. 63rd; year unconfirmed)",
+  "sources": [
+   "Chicago Defender repost"
+  ],
+  "status": "Provisional",
+  "from": "w2",
+  "merged_from": [
+   "w2"
+  ]
+ },
+ {
+  "year": 2026,
+  "date": null,
+  "date_precision": "year",
+  "layer": "commercial",
+  "title": null,
+  "description": "Obama Presidential Center opens near the old Stony Island terminal site; petition movement to restore Green Line service to Jackson Park gains visibility.",
+  "sources": [
+   "Black Enterprise (2026); Streetsblog Chicago (2017)"
+  ],
+  "status": "Provisional",
+  "from": "w1",
+  "merged_from": [
+   "w1"
+  ]
+ },
+ {
+  "year": 2026,
+  "date": "2026",
+  "date_precision": "year",
+  "layer": null,
+  "title": "Englewood sculpture park reported (63rd/May-Racine)",
+  "description": "Englewood Arts Collective sculpture park reported along 63rd between May and Racine.",
+  "sources": [],
+  "status": "Provisional",
+  "from": "w4",
+  "merged_from": [
+   "w4"
+  ]
+ }
+]

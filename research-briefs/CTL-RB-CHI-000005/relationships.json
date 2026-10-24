@@ -1,0 +1,169 @@
+{
+  "brief_id": "CTL-RB-CHI-000005",
+  "generated": "2026-09-28",
+  "note": "Only VERIFIED relationships are eligible for verified-only graph ingestion; SUPPORTED grades are visibly retained here.",
+  "relationships": [
+    {
+      "id": "REL-001",
+      "subject": "ENT-PERSON-001",
+      "predicate": "led",
+      "object": "ENT-ORG-001",
+      "description": "Williams pastored Olivet Baptist from 1916 and built its migrant ministry.",
+      "grade": "VERIFIED",
+      "provenance": "Encyc. Chicago (Best)"
+    },
+    {
+      "id": "REL-002",
+      "subject": "ENT-ORG-001",
+      "predicate": "provided_housing_referrals_to",
+      "object": "ENT-EVENT-001",
+      "description": "Olivet directed first-wave migrants toward housing.",
+      "grade": "SUPPORTED",
+      "provenance": "Encyc. Chicago; Preservation Chicago"
+    },
+    {
+      "id": "REL-003",
+      "subject": "ENT-ORG-002",
+      "predicate": "housed",
+      "object": "ENT-EVENT-001",
+      "description": "Wabash YMCA lodged and trained newly arrived first-wave migrants.",
+      "grade": "VERIFIED",
+      "provenance": "NPS nomination"
+    },
+    {
+      "id": "REL-004",
+      "subject": "ENT-ORG-003",
+      "predicate": "encouraged",
+      "object": "ENT-EVENT-001",
+      "description": "The Defender's coverage encouraged first-wave migration; causal weight debated.",
+      "grade": "SUPPORTED",
+      "provenance": "CULtivate"
+    },
+    {
+      "id": "REL-005",
+      "subject": "ENT-PLACE-005",
+      "predicate": "anchored_arrival_for",
+      "object": "ENT-EVENT-001",
+      "description": "IC station at 12th & Michigan was the arrival point; settlement radiated from it.",
+      "grade": "SUPPORTED",
+      "provenance": "American Immigration Council"
+    },
+    {
+      "id": "REL-006",
+      "subject": "ENT-EVENT-004",
+      "predicate": "enforced_boundaries_of",
+      "object": "ENT-PLACE-001",
+      "description": "The 58 bombings policed the Black Belt's edges.",
+      "grade": "VERIFIED",
+      "provenance": "Commission on Race Relations (1922)"
+    },
+    {
+      "id": "REL-007",
+      "subject": "ENT-CONCEPT-002",
+      "predicate": "confined",
+      "object": "ENT-EVENT-001",
+      "description": "Covenants legally confined first-wave settlement to the Black Belt.",
+      "grade": "VERIFIED",
+      "provenance": "Sibling brief; Encyc. Chicago"
+    },
+    {
+      "id": "REL-008",
+      "subject": "ENT-CONCEPT-001",
+      "predicate": "housed_within",
+      "object": "ENT-PLACE-001",
+      "description": "Kitchenettes were the signature tenure form inside the Black Belt.",
+      "grade": "VERIFIED",
+      "provenance": "City landmark report"
+    },
+    {
+      "id": "REL-009",
+      "subject": "ENT-EVENT-002",
+      "predicate": "expanded_beyond",
+      "object": "ENT-PLACE-001",
+      "description": "The second wave expanded beyond the old Black Belt southward and westward.",
+      "grade": "SUPPORTED",
+      "provenance": "CULtivate; Facing History oral history"
+    },
+    {
+      "id": "REL-010",
+      "subject": "ENT-EVENT-002",
+      "predicate": "created",
+      "object": "ENT-PLACE-003",
+      "description": "Second-wave expansion made North Lawndale >90% Black by 1960.",
+      "grade": "SUPPORTED",
+      "provenance": "UIC CAGIS via Chicago Agent Magazine"
+    },
+    {
+      "id": "REL-011",
+      "subject": "ENT-CONCEPT-003",
+      "predicate": "exploited_buyers_in",
+      "object": "ENT-PLACE-003",
+      "description": "Contract selling targeted Black buyers in North Lawndale.",
+      "grade": "VERIFIED",
+      "provenance": "Sibling brief; Moyers documentary"
+    },
+    {
+      "id": "REL-012",
+      "subject": "ENT-PERSON-003",
+      "predicate": "co_founded",
+      "object": "ENT-ORG-006",
+      "description": "Clyde Ross joined/founded the Contract Buyers League in 1968.",
+      "grade": "VERIFIED",
+      "provenance": "Moyers & Company; Coates"
+    },
+    {
+      "id": "REL-013",
+      "subject": "ENT-ORG-005",
+      "predicate": "segregated",
+      "object": "ENT-EVENT-002",
+      "description": "CHA's Neighborhood Composition Rule concentrated second-wave public housing in Black areas.",
+      "grade": "SUPPORTED",
+      "provenance": "CULtivate"
+    },
+    {
+      "id": "REL-014",
+      "subject": "ENT-PERSON-004",
+      "predicate": "integrated",
+      "object": "ENT-PLACE-004",
+      "description": "Betty Howard's family integrated Trumbull Park Homes on July 30, 1953.",
+      "grade": "VERIFIED",
+      "provenance": "Encyc. Chicago; Hirsch 1995"
+    },
+    {
+      "id": "REL-015",
+      "subject": "ENT-CONCEPT-004",
+      "predicate": "accelerated_turnover_in",
+      "object": "ENT-PLACE-006",
+      "description": "Blockbusting tactics were documented in Chatham in 1959.",
+      "grade": "SUPPORTED",
+      "provenance": "Chicago Daily News via HUD history"
+    },
+    {
+      "id": "REL-016",
+      "subject": "ENT-EVENT-003",
+      "predicate": "prompted_creation_of",
+      "object": "ENT-ORG-004",
+      "description": "The 1919 riot led to the appointment of the Chicago Commission on Race Relations.",
+      "grade": "VERIFIED",
+      "provenance": "Encyc. Chicago"
+    },
+    {
+      "id": "REL-017",
+      "subject": "ENT-PERSON-006",
+      "predicate": "documented",
+      "object": "ENT-CONCEPT-001",
+      "description": "Wright documented kitchenette life in 12 Million Black Voices (1941).",
+      "grade": "VERIFIED",
+      "provenance": "UChicago; escholarship"
+    },
+    {
+      "id": "REL-018",
+      "subject": "ENT-PERSON-002",
+      "predicate": "described_boundaries_of",
+      "object": "ENT-PLACE-001",
+      "description": "Walter White's Oct. 1919 Crisis article mapped the Black Belt's 1919 boundaries.",
+      "grade": "VERIFIED",
+      "provenance": "The Crisis, Oct. 1919"
+    }
+  ]
+}

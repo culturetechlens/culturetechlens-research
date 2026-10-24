@@ -1,0 +1,1591 @@
+{
+ "project": "CTL-DR-INST-001",
+ "count": 159,
+ "events": [
+  {
+   "date": "1843",
+   "event": "Peter Ogden founds the Grand United Order of Odd Fellows in America after white lodges refuse recognition; member benefits cover burial, sickness, disability, and widowhood.",
+   "entities": [
+    "INST-A-009"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1880",
+   "event": "Thomas Stringer founds the Colored Knights of Pythias in Vicksburg, Mississippi, after exclusion from the white order; the order provides insurance, business networks, and civic training.",
+   "entities": [
+    "INST-A-008"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1881",
+   "event": "St. Elizabeth parish founded to serve Irish Catholics, on a site then outside the city limits.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1891",
+   "event": "Dr. Daniel Hale Williams founds Provident Hospital after Rev. Louis Reynolds's sister Emma is refused admission to Chicago-area nursing programs because she is Black.",
+   "entities": [
+    "INST-A-007"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1892-10-27",
+   "event": "Provident's first nursing class graduates: Lillian E. Haywood, Florence Phillips, Bertha I. Estes, Emma A. Reynolds.",
+   "entities": [
+    "INST-A-007"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1893",
+   "event": "Ida B. Wells founds the Ida B. Wells Woman's Club after finding mainstream women's clubs segregated; it promotes the 'elevation of woman, home, and community.'",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1893/1894",
+   "event": "St. Monica, the Black parish founded by Augustus Tolton, is established (founding year Disputed: 1893 vs 1894).",
+   "entities": [],
+   "evidence": "Disputed",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1896-1898",
+   "event": "Provident creates a visiting-nurse service to employ its Black nursing graduates after the Chicago Visiting Nurse Association denies an alumna work.",
+   "entities": [
+    "INST-A-007"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1897",
+   "event": "Alderman William Kent and his father Albert build The Forum at 318-328 E. 43rd Street as a social and political meeting hall; it becomes a Black civic and cultural commons.",
+   "entities": [
+    "INST-A-015"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1899-06-28",
+   "event": "Amanda Berry Smith opens the Amanda Smith Orphanage and Industrial Home for Abandoned and Destitute Colored Children in Harvey, Illinois (land purchased December 1895).",
+   "entities": [
+    "INST-A-019"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1899-10",
+   "event": "The Illinois Federation of Colored Women's Clubs is permanently organized at the Institutional Church (after a women's conference at Quinn Chapel); Mary Jane Jackson of Jacksonville is first president.",
+   "entities": [
+    "INST-A-012"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1900",
+   "event": "The Off The Street Club is founded (organization's own account); it will operate continuously into the present in West Garfield Park.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1900",
+   "event": "The Appomattox Club is founded as a club of Black Republicans and Black business elites.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1904",
+   "event": "The Frederick Douglass Center is established at 3032 Wabash Avenue by Celia Parker Woolley with Ida B. Wells, to foster interracial cooperation.",
+   "entities": [
+    "INST-A-018"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1904",
+   "event": "Celia Parker Woolley establishes the Frederick Douglass Center to promote opportunities for Black Chicagoans and interracial cooperation (some sources also credit Ida B. Wells).",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1904-06",
+   "event": "St. Bernard Hospital is founded in Englewood at the vision of Rev. Bernard Murray, with seven sisters of the Religious Hospitallers of St. Joseph (Kingston, Ontario).",
+   "entities": [
+    "INST-A-005"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1904/1905",
+   "event": "Pekin Theatre opens at 2700 S. State Street under Robert T. Motts (opening year Disputed: June 18, 1904 vs 1905).",
+   "entities": [],
+   "evidence": "Disputed",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1905",
+   "event": "Jenkin Lloyd Jones founds the Abraham Lincoln Centre (originally affiliated with All Souls Unitarian Church).",
+   "entities": [
+    "INST-A-017"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1905",
+   "event": "Jenkin Lloyd Jones founds the Abraham Lincoln Centre settlement (Wright/Perkins building dates to 1898-1903).",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1906",
+   "event": "Cordelia West convenes Chicago club presidents to form the City Federation of Colored Women's Clubs (14 founding clubs); the Frederick Douglass Woman's Club is also founded this year.",
+   "entities": [
+    "INST-A-013",
+    "INST-A-018"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1906",
+   "event": "The Frederick Douglass Woman's Club is founded at the Frederick Douglass Center; Ida B. Wells serves as vice president.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1908",
+   "event": "The Negro Fellowship League is organized following the Springfield, Illinois anti-Black violence.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1910-05-01",
+   "event": "The Negro Fellowship League's reading room and social center opens at 3005 S. State Street.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1911",
+   "event": "Robert T. Motts dies; Pekin Theatre's prestige and profitability decline as heirs lack his managerial capacity.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1911",
+   "event": "Cook County Physicians Association founded by Dr. George Cleveland Hall as the local chapter of the National Medical Association, to address racial, political, and economic barriers in medical care and education.",
+   "entities": [
+    "INST-C-001"
+   ],
+   "evidence": "",
+   "source": "ccpachicago.org (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1911",
+   "event": "Rube Foster founds the Chicago American Giants.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1911-05",
+   "event": "The Frederick Douglass Center donates sheets to the Phyllis Wheatley Home (pillowcases follow, April 1912) \u2014 material support between Black women's institutions.",
+   "entities": [
+    "INST-A-018",
+    "INST-A-023"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1913",
+   "event": "The Wabash Avenue YMCA is built at 3763 S. Wabash (opened 1913-14), funded by Julius Rosenwald's 1910 conditional gift plus community donations; it becomes the Great Migration's reception infrastructure.",
+   "entities": [
+    "INST-A-014"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1913-01-30",
+   "event": "Ida B. Wells founds the Alpha Suffrage Club; it meets in the Negro Fellowship League reading room.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1914",
+   "event": "Cook County Bar Association formed by Chicago's younger generation of Black lawyers after exclusion from the Chicago Bar Association; Edward H. Wright elected first president.",
+   "entities": [
+    "INST-C-002"
+   ],
+   "evidence": "",
+   "source": "cookcountybar.org, 'Our History' (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1914",
+   "event": "The Wabash Avenue YMCA opens with Julius Rosenwald's support, providing housing, job training, and social space for Black migrants.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1915",
+   "event": "The Association for the Study of Negro Life and History is founded at a meeting at the Wabash Avenue YMCA.",
+   "entities": [
+    "INST-A-014"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1916",
+   "event": "The Alpha Suffrage Club reaches about 200 members and supports Oscar DePriest's election.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1919",
+   "event": "Ada S. McKinley founds the South Side Settlement House at 32nd and Wabash from the Chicago Urban League's War Camp Community Service Soldiers and Sailors Club after wartime funding is cut; Liberty Life Insurance Company (later Supreme Life) is incorporated the same year.",
+   "entities": [
+    "INST-A-016",
+    "INST-A-010"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1919",
+   "event": "Ada S. McKinley founds Ada S. McKinley Community Services after War Recreation Board funding ends, investing her own resources and creating a board.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1920",
+   "event": "Rube Foster founds the Negro National League with the Chicago American Giants as a cornerstone franchise; the Appomattox Club is headquartered at 3632 Grand Boulevard by this year.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1920-03-05",
+   "event": "Cook County Bar Association formally incorporated by the State of Illinois.",
+   "entities": [
+    "INST-C-002"
+   ],
+   "evidence": "",
+   "source": "cookcountybar.org, 'Our History' (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1921",
+   "event": "The City Federation incorporates as the Chicago and Northern District Association of Colored Women's Clubs; Sadie L. Adams becomes president (1921-1933); the association establishes a clubhouse and a home for dependent children.",
+   "entities": [
+    "INST-A-013"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1921",
+   "event": "Baptist congregation purchases the Pilgrim Baptist Church building (built as a synagogue by Adler & Sullivan, 1891).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1921",
+   "event": "National Negro Insurance Association (later National Insurance Association) founded at North Carolina Mutual's Durham office by representatives of 13 Black insurers; C. C. Spaulding first president.",
+   "entities": [
+    "INST-C-011"
+   ],
+   "evidence": "",
+   "source": "Amistad Research Center finding aid",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1922/1923",
+   "event": "Ethiopian Art Theatre founded by Raymond O'Neil, sponsored by Mrs. Sherwood Anderson, with all-Black performers (founding year Disputed).",
+   "entities": [],
+   "evidence": "Disputed",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1924",
+   "event": "Roseland Community Hospital opens on the far South Side; construction begins on the National Pythian Temple in Bronzeville (designed by Walter T. Bailey).",
+   "entities": [
+    "INST-A-006",
+    "INST-A-008"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1924",
+   "event": "St. Monica merges with St. Elizabeth; Sisters of the Blessed Sacrament run the school and transfer to St. Elizabeth.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1925",
+   "event": "The Chicago Metropolitan Assurance Company is founded to provide burial insurance to working-class Black Chicagoans \u2014 the regulated commercial successor to fraternal burial societies.",
+   "entities": [
+    "INST-A-011"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1925",
+   "event": "Ethiopian Art Theatre ends (short-lived company, 1922/1923-1925).",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1925",
+   "event": "St. Elizabeth high school opens in the new parish area (first Black Catholic high school in the city).",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1925",
+   "event": "CCBA members C. Francis Stradford, Wendell E. Green, and Jesse N. Baker among the founders of the National Bar Association in Des Moines, Iowa.",
+   "entities": [
+    "INST-C-002"
+   ],
+   "evidence": "",
+   "source": "cookcountybar.org, 'Our History' (official)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1925",
+   "event": "Metropolitan Funeral Home Association established in Chicago (associated with Daniel M. Jackson) \u2014 the origin of the Chicago Metropolitan Mutual Assurance Company.",
+   "entities": [
+    "INST-C-009"
+   ],
+   "evidence": "",
+   "source": "Indiana Magazine of History review (scholarworks.iu.edu)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1926",
+   "event": "McKinley's organization is renamed the South Side Settlement House; Negro History Week is organized at the Wabash Avenue YMCA on February 7.",
+   "entities": [
+    "INST-A-016",
+    "INST-A-014"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1926",
+   "event": "The Savoy Big Five forms at the Savoy Ballroom from former Wendell Phillips players, playing paid pre-dance basketball.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1927",
+   "event": "Burr Oak Cemetery is established in Alsip, Illinois, as a Black-owned burial ground during cemetery segregation (established by the Black-owned Supreme Life Insurance Company per one account).",
+   "entities": [
+    "INST-A-004",
+    "INST-A-010"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1927",
+   "event": "Robert M. Cole buys and reorganizes the funeral-home business that becomes Chicago Metropolitan Mutual; the National Negro Bankers Association (later National Bankers Association) is founded after exclusion from the American Bankers Association.",
+   "entities": [
+    "INST-C-009",
+    "INST-C-012"
+   ],
+   "evidence": "",
+   "source": "Indiana Magazine of History review; encyclopedia.com",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1927-08-29",
+   "event": "Avalon Theater opens in what was then Avalon Park.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1928",
+   "event": "A pay dispute splits the Savoy Big Five; departing players form the team that becomes the Harlem Globetrotters.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1928-02",
+   "event": "Original Regal Theater opens at 4719 S. King Dr., Bronzeville (Balaban & Katz chain).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1931-02",
+   "event": "St. Elizabeth parish: 920 children enrolled in grammar school, 70 in high school (church rededication after fire).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1931/1933",
+   "event": "Chicago Negro Chamber of Commerce founded (1933 per the chamber's official history and FRB Chicago; circa 1931 per a 1956 press account) \u2014 founding year disputed.",
+   "entities": [
+    "INST-C-003"
+   ],
+   "evidence": "",
+   "source": "cosmochamber.org; Atlanta Daily World (ANP), 1956-10-19",
+   "verification": "Disputed",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1932-01",
+   "event": "George Cleveland Hall Branch Library opens: Bronzeville's first full-service CPL branch.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1933",
+   "event": "Rev. Andrew 'A.R.' Leak founds Leak's funeral home (later Leak & Sons) with a $500 loan from his wife Dottie and $500 saved from World's Fair work.",
+   "entities": [
+    "INST-A-001"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1934",
+   "event": "Illinois Service Federal Savings and Loan founded: 13 Black South Side men pool $7,000 to create a depositor-owned thrift making mortgages where white banks would not lend.",
+   "entities": [
+    "INST-C-004"
+   ],
+   "evidence": "",
+   "source": "propublica.org (2021)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1934",
+   "event": "Clifford Shaw founds the Chicago Area Project for neighborhood-based delinquency prevention through resident self-organization (some sources give 1932).",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1936-1938",
+   "event": "The South Side Writers' Group \u2014 core of the Chicago Black Renaissance, including Richard Wright \u2014 meets weekly at the Abraham Lincoln Centre.",
+   "entities": [
+    "INST-A-017"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1943",
+   "event": "William L. Dawson begins his 1943-1970 service in the U.S. House, heading the Black ward Democratic organization that delivers Black South Side votes to the Daley machine.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1944",
+   "event": "St. Elizabeth high school relocated to the former La Salle University building, 4062 S. Michigan.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1946",
+   "event": "Howalton Day School founded (Black private nonsectarian school).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1946",
+   "event": "Chicago Metropolitan Mutual expands from burial/funeral business into life insurance.",
+   "entities": [
+    "INST-C-009"
+   ],
+   "evidence": "",
+   "source": "Indiana Magazine of History review",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1947",
+   "event": "Ernest and Alyce Griffin purchase the Bell Auto and Undertaking Company from Stephen A. Griffin (becoming Griffin Funeral Home); A.A. Rayner Sr. resigns from 'the Met' to establish A.A. Rayner & Sons.",
+   "entities": [
+    "INST-A-002",
+    "INST-A-003"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1950",
+   "event": "The South Side Settlement House merges with the Good Neighbor Society.",
+   "entities": [
+    "INST-A-016"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1950s",
+   "event": "The South Shore Commission launches its 'managed integration' program in response to Black in-migration; the initiative is largely unsuccessful.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1951-1955",
+   "event": "Federation of Block Units and Neighborhood Clubs material is generated, later preserved in the Chicago Urban League Records at UIC.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1952-08-24",
+   "event": "Ada S. McKinley lays the cornerstone of the new Ada S. McKinley Community House at 34th and Michigan; she dies the next day, August 25, at Provident Hospital.",
+   "entities": [
+    "INST-A-016",
+    "INST-A-007"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1952-1968",
+   "event": "Attorney Abner Mikva works extensively with the West Side Organization, which organizes unemployed people, tenants, and welfare recipients.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1955",
+   "event": "WBEE begins broadcasting with an R&B format (later the WBGX gospel station).",
+   "entities": [
+    "INST-C-015"
+   ],
+   "evidence": "",
+   "source": "en.wikipedia.org, 'WBGX'",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1955-09-02",
+   "event": "Emmett Till's body arrives in Chicago; A.A. Rayner & Sons prepares it and hosts the first public viewing at 4141 S. Cottage Grove; Mamie Till-Mobley insists the Mississippi-sealed casket be opened \u2014 'Let the world see what they did to my boy.'",
+   "entities": [
+    "INST-A-003"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1955-09-03",
+   "event": "Till's funeral is held at Roberts Temple Church of God in Christ (4021 S. State St.); an estimated 100,000 people pass through over the viewing period.",
+   "entities": [
+    "INST-A-003",
+    "INST-A-004"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1955-09-06",
+   "event": "Emmett Till is buried at Burr Oak Cemetery after a fifty-car funeral procession from Roberts Temple \u2014 closing the Rayner \u2192 Roberts Temple \u2192 Burr Oak funeral chain.",
+   "entities": [
+    "INST-A-004"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1956",
+   "event": "Chicago Negro Chamber of Commerce drops 'Negro' from its name after 25 years and becomes the Cosmopolitan Chamber of Commerce.",
+   "entities": [
+    "INST-C-003"
+   ],
+   "evidence": "",
+   "source": "Atlanta Daily World (ANP), 1956-10-19; Baradaran, The Color of Money",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1961",
+   "event": "Original Regal Theater comes under Black ownership for the first time when S.B. Fuller purchases it.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1962",
+   "event": "Hales Franciscan High School opens to offer private education to African American young men; St. Elizabeth high school becomes an all-girls school.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1962",
+   "event": "WYNR adopts an all-Black format on 1390 AM under white owner Gordon McLendon \u2014 Black programming without Black ownership.",
+   "entities": [
+    "INST-C-016"
+   ],
+   "evidence": "",
+   "source": "chicagomusic.org",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1963",
+   "event": "In the mayoral election, 115,000 of Daley's 139,000-vote margin comes from Black wards in Dawson's district - the machine's peak demonstrated dependency on Black votes.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1964",
+   "event": "The West Side Organization for Full Employment is founded (per thesis; possibly a successor/rebrand of the earlier WSO).",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1965",
+   "event": "The Kenwood-Oakland Community Organization is founded by community and religious leaders (one KOCO page gives 1967).",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1966",
+   "event": "Provident's nurse training school closes after approximately 700 graduates.",
+   "entities": [
+    "INST-A-007"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1967",
+   "event": "Afro-Arts Theater established by Kelan Philip Cohran at 3900 S. Drexel.",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1967",
+   "event": "St. Elizabeth high school closes (the first Black Catholic high school).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1968",
+   "event": "Kuumba Workshop founded by Val Gray Ward as a nonprofit to revitalize the Black community through the arts.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1968",
+   "event": "Original Regal Theater closes (c. 1968; demolished 1973).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1968",
+   "event": "WBEE switches to an all-jazz format.",
+   "entities": [
+    "INST-C-015"
+   ],
+   "evidence": "",
+   "source": "en.wikipedia.org, 'WBGX'",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1968",
+   "event": "Bobby Rush and Bob Brown organize the Illinois chapter of the Black Panther Party; Rush recruits Fred Hampton. The chapter launches survival programs: free clinics, breakfast programs, prison-visit busing, sickle-cell testing.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1968-05",
+   "event": "The Afro-American Patrolmen's League is formed by Black officer Edward 'Buzz' Palmer, other Black officers, and civilian Tom Mitchell.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1969",
+   "event": "Griffin Funeral Home moves from Michigan Avenue to 3232 S. King Drive in Bronzeville, on the Civil War Camp Douglas site.",
+   "entities": [
+    "INST-A-002"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1969",
+   "event": "St. Mel and Providence merge to form Providence St. Mel; Sisters of Providence retain property ownership.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1969-12-04",
+   "event": "Police raid kills Fred Hampton and Mark Clark, destroying the Illinois Black Panther Party chapter.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1969-12-28",
+   "event": "Gwendolyn Brooks receives at the Afro-Arts Theater what she called the most stirring and significant tribute of her life.",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1970",
+   "event": "Highland Community Bank opens on Chicago's South Side as a Black-owned community bank.",
+   "entities": [
+    "INST-C-007"
+   ],
+   "evidence": "",
+   "source": "IDFPR closure notice (2015)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1971",
+   "event": "Paul Adams joins Providence St. Mel and becomes principal.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1971",
+   "event": "Joseph H. Haley founds Jackie Robinson West Little League on the South Side.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1973-11-01",
+   "event": "WJPC begins broadcasting \u2014 Johnson Publishing Company's $1.8M purchase of WGRT creates Chicago's first Black-owned radio station.",
+   "entities": [
+    "INST-C-013"
+   ],
+   "evidence": "",
+   "source": "en.wikipedia.org, 'Johnson Publishing Company'",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1974",
+   "event": "Mayor Daley intervenes against the closure of Providence St. Mel.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1975",
+   "event": "The Special Negro Collection and the Hall Branch archives transfer to the Carter G. Woodson Regional Library.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1975",
+   "event": "WKKC construction permit issued (City Colleges of Chicago); WVON moves to 1390 AM.",
+   "entities": [
+    "INST-C-014",
+    "INST-C-016"
+   ],
+   "evidence": "",
+   "source": "broadcast histories; chicagomusic.org",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1976",
+   "event": "Black Ensemble Theater founded by Jackie Taylor.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1978",
+   "event": "Archdiocese moves to close Providence St. Mel; Paul Adams launches a national fundraising campaign and converts it into an independent school.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1979",
+   "event": "Lu Palmer and Jorja Palmer found Chicago Black United Communities (CBUC), a 50+ organization coalition running Panther-modeled political education.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1979-07-31",
+   "event": "WKKC's reported first air date per some broadcast histories \u2014 conflicts with the 1975 permit-based date; disputed.",
+   "entities": [
+    "INST-C-014"
+   ],
+   "evidence": "",
+   "source": "conflicting broadcast histories",
+   "verification": "Disputed",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1981",
+   "event": "The Wabash Avenue YMCA closes; listed on the National Register of Historic Places in 1986.",
+   "entities": [
+    "INST-A-014"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1981",
+   "event": "The Wabash Avenue YMCA closes after declining membership and building deterioration.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1981",
+   "event": "Lu Palmer founds the Black Independent Political Organization (BIPO), growing out of CBUC.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1982",
+   "event": "CBUC's trained organizers power the voter-registration drive preceding Harold Washington's 1983 campaign (cross-reference SCI-004).",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1983",
+   "event": "Samuel A. Floyd Jr. founds the Center for Black Music Research at Columbia College Chicago.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1985",
+   "event": "Edward and Bettiann Gardner purchase the Avalon Theater for renovation.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1985",
+   "event": "Barack Obama becomes director of the Developing Communities Project, serving to 1988.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1986",
+   "event": "Howalton Day School closes.",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1986",
+   "event": "The Wabash Avenue YMCA building is listed on the National Register of Historic Places.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1987-05",
+   "event": "New Regal Theater receives a $1M Illinois Development Action Grant under the Harold Washington administration, part of a $4.1M package.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1987-10",
+   "event": "Renovated theater reopens as the New Regal Theater, in honor of the original Regal.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1990",
+   "event": "Ernest Griffin erects the Heritage Memorial Wall at the funeral home honoring his grandfather Charles Griffin (29th Colored Regiment, Company B); 500+ attend the May dedication with Ald. Bobby Rush and Mayor Richard M. Daley.",
+   "entities": [
+    "INST-A-002"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1990",
+   "event": "MPAACT (Ma'at Production Association of Afrikan Centered Theatre) founded; Shepsu Aakhu founding member.",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1990",
+   "event": "Distressed Chicago Metropolitan Mutual Assurance Company acquired by Atlanta Life Insurance Company.",
+   "entities": [
+    "INST-C-009"
+   ],
+   "evidence": "",
+   "source": "Indiana Magazine of History review",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1990s",
+   "event": "The Renaissance Collaborative undertakes a $9 million renovation of the Wabash Avenue YMCA building, preserving the physical plant after the institution's closure.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "1992-06-17",
+   "event": "New Regal Theater receives Chicago Landmark status.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1993",
+   "event": "Rev. A.R. Leak dies; his youngest son Spencer Leak Sr. takes over as president/owner and renames the firm Leak and Sons.",
+   "entities": [
+    "INST-A-001"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1994-12",
+   "event": "WJPC sold, ending Johnson Publishing's Black-owned radio operation.",
+   "entities": [
+    "INST-C-013"
+   ],
+   "evidence": "",
+   "source": "en.wikipedia.org, 'Johnson Publishing Company'",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1995",
+   "event": "Dr. Lyn Hughes founds the National A. Philip Randolph Pullman Porter Museum.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1995-12-18",
+   "event": "Rep. Bobby Rush's Congressional Record tribute honors Ernest Griffin: 60+ years as a licensed mortician, first African-American invited into the International Federation of Thanatologist Associations, 20+ years on the Lakeside Bank board.",
+   "entities": [
+    "INST-A-002"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "1996",
+   "event": "CPL begins operating the Chicago Bee Branch in the former Chicago Bee building.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "1997",
+   "event": "Illinois State Black Chamber of Commerce founded as a 501(c)(6) business league.",
+   "entities": [
+    "INST-C-017"
+   ],
+   "evidence": "",
+   "source": "ILBCC.org (official); ProPublica Nonprofit Explorer",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1998-10-05",
+   "event": "1390 AM (then WGCI-AM) flips to a gospel format.",
+   "entities": [
+    "INST-C-016"
+   ],
+   "evidence": "",
+   "source": "chicagomusic.org",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "1999",
+   "event": "Congo Square Theatre Company founded by Derrick Sanders and Reginald Nelson.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2003",
+   "event": "South Side Community Federal Credit Union founded; Great Lakes Radio buys WBEE, rebuilds it, and relaunches it as gospel WBGX.",
+   "entities": [
+    "INST-C-005",
+    "INST-C-015"
+   ],
+   "evidence": "",
+   "source": "chicagoreporter.com; en.wikipedia.org, 'WBGX'",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2003-06",
+   "event": "New Regal Theater closes after 18 years (low attendance, operating costs).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2004",
+   "event": "1390 AM takes the WGRB calls (gospel format, iHeartMedia control).",
+   "entities": [
+    "INST-C-016"
+   ],
+   "evidence": "",
+   "source": "chicagomusic.org",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2005",
+   "event": "Congo Square's Seven Guitars wins top 2005 Jeff Awards, the first such honor for an African American theatre company.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2006",
+   "event": "Deep Azure gives Congo Square its breakout: Chadwick Boseman receives a 2006 Jeff nomination; Urban Prep's Englewood campus opens; Pilgrim Baptist Church burns.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2007-12-31",
+   "event": "Griffin Funeral Home closes after six decades under the Griffin family.",
+   "entities": [
+    "INST-A-002"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "2008",
+   "event": "Covenant Bank established on Chicago's West Side after Rev. Bill Winston's purchase of Community Bank of Lawndale (per secondary accounts; charter date unverified).",
+   "entities": [
+    "INST-C-008"
+   ],
+   "evidence": "",
+   "source": "forestparkreview.com (2013)",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2011",
+   "event": "Bernard Loyd (Urban Juncture) purchases The Forum for restoration.",
+   "entities": [
+    "INST-A-015"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "2011",
+   "event": "Black Ensemble Theater's permanent cultural center opens.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2012",
+   "event": "CBMR faces elimination: 70% budget cut since 2006, interim provost recommends ending funding (Prioritization Initiative).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2013",
+   "event": "Hales Franciscan admits girls for the first time (returns to all-male 2015-16).",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2013-02-15",
+   "event": "Covenant Bank closed by regulators; Liberty Bank and Trust assumes all deposits.",
+   "entities": [
+    "INST-C-008"
+   ],
+   "evidence": "",
+   "source": "FDIC failed-bank records",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2014",
+   "event": "New Regal Theater sold for $100,000; new owner plans ~$10M restoration.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2014",
+   "event": "Jackie Robinson West's team is named Chicagoans of the Year by Chicago Magazine, with the league continued by Haley's widow Annie and son Bill.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "2015",
+   "event": "Obsidian Collection Archives founded by Angela Ford (approximate).",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2015-01-23",
+   "event": "Highland Community Bank closed by Illinois regulators; United Fidelity Bank assumes deposits and branches.",
+   "entities": [
+    "INST-C-007"
+   ],
+   "evidence": "",
+   "source": "IDFPR; FDIC failed-bank records",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2016",
+   "event": "Papa Kwesi Nduom and family invest $9 million in Illinois Service Federal; the thrift is demutualized and the family takes all stock \u2014 depositor ownership ends, Black ownership preserved.",
+   "entities": [
+    "INST-C-004"
+   ],
+   "evidence": "",
+   "source": "propublica.org (2021)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2017-12-08",
+   "event": "$37.2M National Museum of Gospel Music plans unveiled at Illinois Institute of Technology, targeting a 2020 opening.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2018",
+   "event": "Illinois Service Federal renamed GN Bank (OCC-approved).",
+   "entities": [
+    "INST-C-004"
+   ],
+   "evidence": "",
+   "source": "newrepublicliberia.com (2018)",
+   "verification": "Verified",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2019",
+   "event": "Hales Franciscan closes permanently after the 2018-19 school year.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2019-04-16",
+   "event": "The Forum is listed on the National Register of Historic Places.",
+   "entities": [
+    "INST-A-015"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  },
+  {
+   "date": "2022",
+   "event": "Smithsonian/Getty-led consortium completes purchase of the JPC (Ebony/Jet) archive; National Museum of Gospel Music receives $2.1M state funding, still unrealized.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2023",
+   "event": "It Takes A Village Family of Schools acquires the Hales Franciscan campus ($12M from IFF and Chicago Community Loan Fund); CPS revokes/declines Urban Prep charters amid contested misconduct allegations.",
+   "entities": [],
+   "evidence": "Verified",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2023",
+   "event": "For Members Only Federal Credit Union \u2014 sponsored by Alpha Kappa Alpha Sorority \u2014 covered in national press as a new Black sorority-chartered credit union (charter date unverified).",
+   "entities": [
+    "INST-C-006"
+   ],
+   "evidence": "",
+   "source": "americanbanker.com (2023)",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2024",
+   "event": "MPAACT documented as active (American Theatre 'Grown in Chicago' panel with founding member Shepsu Aakhu).",
+   "entities": [],
+   "evidence": "Provisional",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-b"
+  },
+  {
+   "date": "2024",
+   "event": "Ada S. McKinley Community Services publishes its 2024 annual report, documenting over a century of continuous operation; KOCO, DCP, block clubs, and the Abraham Lincoln Centre also remain active.",
+   "entities": [],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-d"
+  },
+  {
+   "date": "2025",
+   "event": "The Illinois Historic Sites Advisory Council recommends Burr Oak Cemetery for the National Register of Historic Places (listing delayed by the federal shutdown).",
+   "entities": [
+    "INST-A-004"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Provisional",
+   "provenance": "track-a"
+  },
+  {
+   "date": "2025-06-30",
+   "event": "OCC terminates the consent order on GN Bank (first issued to ISF in 2015, renewed 2020), declaring the bank safe and sound.",
+   "entities": [
+    "INST-C-004"
+   ],
+   "evidence": "",
+   "source": "ghanawebbers.com (2025), quoting OCC termination letter",
+   "verification": "Provisional",
+   "provenance": "track-c"
+  },
+  {
+   "date": "2026-05-31",
+   "event": "Spencer Leak Jr., third-generation vice president of Leak & Sons, dies at 56; the firm had handled Rev. Jesse Jackson Sr.'s funeral earlier that year.",
+   "entities": [
+    "INST-A-001"
+   ],
+   "evidence": "",
+   "source": "",
+   "verification": "Verified",
+   "provenance": "track-a"
+  }
+ ]
+}

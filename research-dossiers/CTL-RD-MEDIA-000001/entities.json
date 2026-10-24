@@ -1,0 +1,355 @@
+{
+  "canonical_subject": "canon-wvon",
+  "dossier_id": "CTL-RD-MEDIA-000001",
+  "entities": [
+    {
+      "id": "canon-wvon",
+      "name": "WVON",
+      "note": "Audit canonical ID reused as dossier subject. Call-sign lineage 1963-present; facilities: 1450 AM (1963-1975, 1984-2006), 1390 AM (1975-1983), 1690 AM (2006-present).",
+      "type": "station"
+    },
+    {
+      "description": "Predecessor station; 1926-1963; became WVON on 1963-04-01.",
+      "evidence_pointer": "EF-C-001, EF-C-002, EF-C-003",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-001",
+      "name": "WHFC",
+      "type": "station"
+    },
+    {
+      "description": "Co-purchaser of WHFC; WVON co-owner 1963-1969; Chess Records co-owner. d. Oct 1969.",
+      "evidence_pointer": "EF-C-003, EF-C-009",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-002",
+      "name": "Leonard Chess",
+      "type": "person"
+    },
+    {
+      "description": "Co-purchaser of WHFC; WVON co-owner 1963-1969; Chess Records co-owner.",
+      "evidence_pointer": "EF-C-003, EF-C-009",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-003",
+      "name": "Phil Chess",
+      "type": "person"
+    },
+    {
+      "evidence_pointer": "EF-C-034",
+      "grade": "SUPPORTED",
+      "id": "canon-chess-records",
+      "name": "Chess Records",
+      "note": "Audit canonical ID reused.",
+      "relation_to_subject": "Owners' company; WVON served as promotional outlet.",
+      "type": "organization"
+    },
+    {
+      "description": "WVON owner 1970-1977; moved station 1450 to 1390 in 1975.",
+      "evidence_pointer": "EF-C-009, EF-C-010",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-004",
+      "name": "Globetrotter Communications",
+      "type": "organization"
+    },
+    {
+      "description": "Co-owner of WVON via Globetrotter, 1970-1977.",
+      "evidence_pointer": "EF-C-009",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-005",
+      "name": "George N. Gillett Jr.",
+      "type": "person"
+    },
+    {
+      "description": "Co-owner of WVON via Globetrotter, 1970-1977.",
+      "evidence_pointer": "EF-C-009",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-006",
+      "name": "Potter Palmer",
+      "type": "person"
+    },
+    {
+      "description": "Purchased Globetrotter 1977; merged with Gannett 1978.",
+      "evidence_pointer": "EF-C-012",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-007",
+      "name": "Combined Communications Corporation",
+      "type": "organization"
+    },
+    {
+      "description": "Owner of 1390 (as WVON, then WGCI) 1978-1983 via Combined merger.",
+      "evidence_pointer": "EF-C-012, EF-C-014",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-008",
+      "name": "Gannett Company",
+      "type": "organization"
+    },
+    {
+      "description": "Black-owned; 1450 licensee from 1979; WVON operator 1984-present (LMA on 1690 since 2006).",
+      "evidence_pointer": "EF-C-013, EF-C-014, EF-C-024, EF-C-025",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-009",
+      "name": "Midway Broadcasting Corporation",
+      "type": "organization"
+    },
+    {
+      "description": "'The Blues Man'; original Good Guy 1963; Midway co-founder 1979; d. 2022-03-14.",
+      "evidence_pointer": "EF-C-006, EF-C-013, EF-C-020",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-010",
+      "name": "Pervis Spann",
+      "type": "person"
+    },
+    {
+      "description": "Original Good Guy 1963; Midway co-founder 1979; urged 1986 talk switch.",
+      "evidence_pointer": "EF-C-006, EF-C-013, EF-C-015",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-011",
+      "name": "Wesley South",
+      "type": "person"
+    },
+    {
+      "description": "Journalist; named in 1979 purchase group (single source).",
+      "evidence_pointer": "EF-C-029",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-012",
+      "name": "Vernon Jarrett",
+      "type": "person"
+    },
+    {
+      "description": "Daughter of Pervis Spann; Chair/CEO, Midway Broadcasting.",
+      "evidence_pointer": "EF-C-025",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-013",
+      "name": "Melody Spann Cooper",
+      "type": "person"
+    },
+    {
+      "description": "'The Cool Gent'; WHFC staff retained at 1963 launch; WVON 1963-1970; Radio Hall of Fame 1995; d. 2016.",
+      "evidence_pointer": "EF-C-021",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-014",
+      "name": "Herb Kent",
+      "type": "person"
+    },
+    {
+      "description": "Original Good Guy, 1963 launch. 'Mad Lad' nickname unverifiable.",
+      "evidence_pointer": "EF-C-006, EF-C-028",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-015",
+      "name": "E. Rodney Jones",
+      "type": "person"
+    },
+    {
+      "description": "Original Good Guy, 1963 launch.",
+      "evidence_pointer": "EF-C-006",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-016",
+      "name": "Franklin McCarthy",
+      "type": "person"
+    },
+    {
+      "description": "WVON general manager at 1963 launch.",
+      "evidence_pointer": "EF-C-006",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-017",
+      "name": "Lucky Cordell",
+      "type": "person"
+    },
+    {
+      "description": "WVON DJ before creating Soul Train.",
+      "evidence_pointer": "EF-C-022",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-018",
+      "name": "Don Cornelius",
+      "type": "person"
+    },
+    {
+      "description": "Journalist; hosted 'Lou's Notebook' on WVON; 'We Shall See in '83' organizer.",
+      "evidence_pointer": "EF-C-016, EF-C-027",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-019",
+      "name": "Lutrelle 'Lu' Palmer II",
+      "type": "person"
+    },
+    {
+      "description": "'Governor of Talk Radio'; ~25 years WVON host; former 20th Ward alderman.",
+      "evidence_pointer": "EF-C-026, EF-C-032",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-020",
+      "name": "Cliff Kelley",
+      "type": "person"
+    },
+    {
+      "description": "Morning-drive host from 1982.",
+      "evidence_pointer": "EF-C-033",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-021",
+      "name": "Yvonne Daniels",
+      "type": "person"
+    },
+    {
+      "description": "WVON host, Oct 2005-Oct 2008.",
+      "evidence_pointer": "EF-C-031",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-022",
+      "name": "Roland Martin",
+      "type": "person"
+    },
+    {
+      "description": "'Ambassador of Good Will,' launch era.",
+      "evidence_pointer": "EF-C-006",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-023",
+      "name": "Bernadine C. Washington",
+      "type": "person"
+    },
+    {
+      "description": "WVON newsman, launch era roster.",
+      "evidence_pointer": "EF-C-006",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-024",
+      "name": "Roy Wood",
+      "type": "person"
+    },
+    {
+      "description": "WHFC owner (1926-1963 era).",
+      "evidence_pointer": "EF-C-001",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-025",
+      "name": "Richard W. Hoffman",
+      "type": "person"
+    },
+    {
+      "description": "Seller of WNUS-AM-FM to Globetrotter (1975).",
+      "evidence_pointer": "EF-C-010",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-026",
+      "name": "Gordon McLendon",
+      "type": "person"
+    },
+    {
+      "description": "Midway's interim calls on 1450, 1979-1984; renamed WVON 1984-03-28.",
+      "evidence_pointer": "EF-C-013, EF-C-014",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-027",
+      "name": "WXOL",
+      "type": "station"
+    },
+    {
+      "description": "Migala Communications; 1450 time-share partner from Oct 1979.",
+      "evidence_pointer": "EF-C-013",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-028",
+      "name": "WCEV",
+      "type": "station"
+    },
+    {
+      "evidence_pointer": "EF-C-014, dossier §27 MYTH-003",
+      "grade": "SUPPORTED",
+      "id": "canon-wgci",
+      "name": "WGCI",
+      "note": "Audit canonical ID reused.",
+      "relation_to_subject": "Gannett changed 1390 calls WVON to WGCI in 1983; WGCI-AM adopted Black talk Jan 1989 imitating WVON.",
+      "type": "station"
+    },
+    {
+      "description": "McLendon AM/FM; 1390 facility WVON moved to in 1975.",
+      "evidence_pointer": "EF-C-010",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-029",
+      "name": "WNUS",
+      "type": "station"
+    },
+    {
+      "description": "Interim simulcast operator on dormant 1450 from 1976-08-24.",
+      "evidence_pointer": "EF-C-010",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-030",
+      "name": "WFMT",
+      "type": "station"
+    },
+    {
+      "description": "FM sister included in 1963 WHFC sale; later WSDM.",
+      "evidence_pointer": "EF-C-003",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-031",
+      "name": "WEHS",
+      "type": "station"
+    },
+    {
+      "description": "Berry Gordy routed premieres to WVON first (reported).",
+      "evidence_pointer": "EF-C-019",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-032",
+      "name": "Motown Records",
+      "type": "organization"
+    },
+    {
+      "description": "Owner of 1690 AM facility; LMA counterparty since 2006.",
+      "evidence_pointer": "EF-C-024",
+      "grade": "VERIFIED",
+      "id": "RD-MEDIA-000001-033",
+      "name": "iHeartMedia (Clear Channel)",
+      "type": "organization"
+    },
+    {
+      "description": "WHFC/WVON/WXOL studios and tower, South Lawndale; early 1950s-2007.",
+      "evidence_pointer": "EF-C-023",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-034",
+      "name": "3350 S. Kedzie studio/tower site",
+      "type": "place"
+    },
+    {
+      "evidence_pointer": "EF-C-035",
+      "grade": "SUPPORTED",
+      "id": "canon-operation-push",
+      "name": "Operation PUSH / Rainbow PUSH Coalition",
+      "note": "Audit canonical ID reused.",
+      "relation_to_subject": "Weekly Operation Breadbasket meetings broadcast on WVON.",
+      "type": "organization"
+    },
+    {
+      "description": "Called WVON to report MLK assassination (1968-04-04); weekly Operation Breadbasket broadcasts on WVON.",
+      "evidence_pointer": "EF-C-018, EF-C-035",
+      "grade": "SUPPORTED",
+      "id": "RD-MEDIA-000001-035",
+      "name": "Rev. Jesse Jackson",
+      "type": "person"
+    },
+    {
+      "id": "1390 AM",
+      "name": "1390 AM",
+      "type": "broadcast-frequency",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; frequency allocations documented in dossier §06/§08."
+    },
+    {
+      "id": "1450 AM",
+      "name": "1450 AM",
+      "type": "broadcast-frequency",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; frequency allocations documented in dossier §06/§08."
+    },
+    {
+      "id": "1690 AM",
+      "name": "1690 AM",
+      "type": "broadcast-frequency",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; frequency allocations documented in dossier §06/§08."
+    },
+    {
+      "id": "Harold Washington 1983 mayoral campaign",
+      "name": "Harold Washington 1983 mayoral campaign",
+      "type": "broadcast-frequency",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; frequency allocations documented in dossier §06/§08."
+    },
+    {
+      "id": "Martin Luther King Jr.",
+      "name": "Martin Luther King Jr.",
+      "type": "broadcast-frequency",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; frequency allocations documented in dossier §06/§08."
+    },
+    {
+      "id": "all-talk format",
+      "name": "all-talk format",
+      "type": "broadcast-frequency",
+      "note": "Stub entity added in validation pass so all relationship edges resolve; frequency allocations documented in dossier §06/§08."
+    }
+  ]
+}

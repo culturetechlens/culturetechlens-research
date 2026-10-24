@@ -1,0 +1,320 @@
+{
+  "brand": {
+    "project": "CultureTechLens",
+    "wordmark": "CULTURETECHLENS",
+    "slogan": "Culture, Clearly Seen.",
+    "descriptor": "Black Cultural Intelligence",
+    "research_id": "CTL-DR-BCI-001",
+    "title": "The Infrastructure of Black Chicago: The Institutions, Places, Networks and People That Built a Cultural Metropolis",
+    "version": "0.1-red-team-reviewed",
+    "date": "2026-09-28"
+  },
+  "count": 38,
+  "note": "ONLY verified relationships. Types per CTL-DR-BCI-001 prompt.",
+  "relationships": [
+    {
+      "evidence": "BlackPast.org: Abbott founded and published the Chicago Defender, first issue May 6, 1905; NMAAHC confirms Abbott's founding role.",
+      "from": "robert-s-abbott",
+      "source": "BlackPast.org; NMAAHC",
+      "to": "chicago-defender",
+      "type": "Person→Institution",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "NMAAHC: the Defender was located at 34th Street and Indiana Avenue on the South Side, 'Locals called the neighborhood \"Bronzeville.\"'",
+      "from": "chicago-defender",
+      "source": "NMAAHC",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "NPR/WCMU (2022): 'Black Americans began arriving on these blocks in 1916 as part of the Great Migration'; by the 1920s they had built the Bronzeville community.",
+      "from": "great-migration",
+      "source": "NPR/WCMU (2022-10-04)",
+      "to": "bronzeville",
+      "type": "Migration→Geography",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Capital University Law Review: Hansberry bought a house in the South Park subdivision in 1937, 'an allwhite territory surrounded by black communities,' which served as 'a blockade against encroachment by the black ghetto into white Woodlawn on the east.'",
+      "from": "hansberry-carl",
+      "source": "Capital University Law Review (c. 2017)",
+      "to": "woodlawn",
+      "type": "Person→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Wikipedia (Ida B. Wells Homes): the project was a CHA public housing project 'in the Bronzeville neighborhood on the South Side of Chicago.'",
+      "from": "cha",
+      "source": "Wikipedia — 'Ida B. Wells Homes'",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Wikipedia (Ida B. Wells Homes): 'a Chicago Housing Authority (CHA) public housing project in the Bronzeville neighborhood,' bounded by 35th Street, Pershing Road, King Drive, and Cottage Grove Avenue.",
+      "from": "wells-homes",
+      "source": "Wikipedia — 'Ida B. Wells Homes'",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Wikipedia (Contract Buyers League): 'formed in 1968 by residents of North Lawndale'; Chicago Reporter: first meeting January 1968 in Lawndale; meetings at Presentation Catholic Church.",
+      "from": "cbl",
+      "source": "Wikipedia; The Chicago Reporter",
+      "to": "north-lawndale",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Bill Moyers/Coates (2014): Ross joined the CBL in 1968 to fight contract sellers; Chicago Catholic (2017): Ross served as co-chairman of the newly formed Contract Buyers League.",
+      "from": "clyde-ross",
+      "source": "Bill Moyers/Coates (2014); Chicago Catholic (2017)",
+      "to": "cbl",
+      "type": "Person→Institution",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "The Citizen Newspaper Group (2013): on January 26, 1966 King moved to a third-floor apartment at 1550 South Hamlin in North Lawndale.",
+      "from": "martin-luther-king-jr",
+      "source": "The Citizen Newspaper Group (2013-08-28)",
+      "to": "north-lawndale",
+      "type": "Person→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Wikipedia (Marquette Park rallies): on August 5, 1966 King led 700 marchers through Marquette Park and Gage Park, where he was struck in the head with a rock.",
+      "from": "chicago-freedom-movement",
+      "source": "Wikipedia — 'Marquette Park rallies'",
+      "to": "marquette-park",
+      "type": "Event→Location",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Middlebury project: King 'moved into an apartment at 1550 South Hamlin Avenue in North Lawndale' as the base of the Chicago campaign; the movement 'assumed trusteeship' of a building at 1321 South Homan Avenue in February 1966.",
+      "from": "chicago-freedom-movement",
+      "source": "Middlebury — Chicago Freedom Movement project",
+      "to": "north-lawndale",
+      "type": "Event→Location",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Illinois Secretary of State memorial resolution (1988): Washington 'grew up in the Bronzeville neighborhood on the city's South Side.'",
+      "from": "harold-washington",
+      "source": "IL Secretary of State (1988-01-13)",
+      "to": "bronzeville",
+      "type": "Person→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "AAIHS: the University of Chicago sponsored the Hyde Park–Kenwood Urban Renewal Plan, approved by the city in 1958, covering 856 acres with 638 buildings demolished and 4,000 families displaced.",
+      "from": "uchicago",
+      "source": "AAIHS (c. 2021)",
+      "to": "hyde-park",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-barnett",
+      "to": "b-anp",
+      "type": "Person→Institution",
+      "evidence": "Barnett founded the Associated Negro Press March 2, 1919 (Wikipedia; Stanford King Institute; Nieman Reports).",
+      "source": "Wikipedia; Stanford King Institute",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-johnson",
+      "to": "b-jpc",
+      "type": "Person→Institution",
+      "evidence": "Johnson founded Johnson Publishing Company in 1942 (Chicago Architecture Center; Smithsonian NMAAHC).",
+      "source": "Chicago Architecture Center; Smithsonian NMAAHC",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-jackson",
+      "to": "b-olivet",
+      "type": "Person→Institution",
+      "evidence": "Jackson pastored Olivet 1941–1990 (Encyclopedia of Chicago / Chicago Historical Society ICHi-37946).",
+      "source": "Encyclopedia of Chicago",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-dyett",
+      "to": "b-dusable",
+      "type": "Person→Institution",
+      "evidence": "Dyett ran the renowned music program at DuSable (City of Chicago landmark report).",
+      "source": "City of Chicago landmark report",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-cornelius",
+      "to": "b-soultrain",
+      "type": "Person→Institution",
+      "evidence": "Cornelius created Soul Train, premiered on WCIU-TV Aug 17, 1970 (Wikipedia; Chicago City Council proclamation 2025).",
+      "source": "Wikipedia (Soul Train); Chicago City Council (2025)",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-cornelius",
+      "to": "b-wvon",
+      "type": "Person→Institution",
+      "evidence": "Cornelius was a newsreader and backup disc jockey at WVON before WCIU (Wikipedia Soul Train; BET).",
+      "source": "Wikipedia; BET.com",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-dusable",
+      "to": "b-johnson",
+      "type": "School→Alumni",
+      "evidence": "Johnson graduated DuSable High School with honors (Chicago Architecture Center; Wikipedia).",
+      "source": "Chicago Architecture Center",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "b-kennedy",
+      "to": "b-brooks",
+      "type": "School→Alumni",
+      "evidence": "Brooks was in Wilson Junior College's first graduating class, 1936 (City Colleges of Chicago Special Collections).",
+      "source": "City Colleges of Chicago Special Collections",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "chicago-defender",
+      "to": "b-brooks",
+      "type": "Publication→Journalist",
+      "evidence": "Brooks wrote for the Chicago Defender (Wikipedia, The Chicago Defender).",
+      "source": "Wikipedia (The Chicago Defender)",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "jesse-binga",
+      "to": "binga-bank",
+      "type": "Person→Institution",
+      "evidence": "NUPress 'Binga' and the Kansas City Fed document Binga's 1908 founding of the private bank and its 1921 state charter.",
+      "source": "Northwestern University Press; Federal Reserve Bank of Kansas City",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "anthony-overton",
+      "to": "douglass-national-bank",
+      "type": "Person→Institution",
+      "evidence": "The Kansas City Fed and BlackPast document Overton's opening of Douglass National Bank (1922/1923).",
+      "source": "Federal Reserve Bank of Kansas City; BlackPast.org",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "frank-gillespie",
+      "to": "supreme-life",
+      "type": "Person→Institution",
+      "evidence": "The Business History Review documents Gillespie heading the investment group that incorporated the company in 1919.",
+      "source": "Business History Review (Cambridge)",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "daniel-hale-williams",
+      "to": "provident-hospital",
+      "type": "Person→Institution",
+      "evidence": "Institutional histories document Williams's 1891 founding of Provident Hospital.",
+      "source": "Institutional histories of Provident Hospital",
+      "verification_status": "Verified"
+    },
+    {
+      "from": "woodson-library",
+      "to": "harsh-collection",
+      "type": "Institution→Archive",
+      "evidence": "CPL's archives blog and the BMRC exhibit text document the 1975 transfer of Harsh's collection to Woodson and its renaming.",
+      "source": "Chicago Public Library; UChicago BMRC",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Margaret Taylor-Burroughs co-founded the Ebony Museum of Negro History and Art (now DuSable) in 1961 and served as executive director for its first ten years.",
+      "from": "d-burroughs",
+      "source": "margaretburroughs.com; Wikipedia, 'DuSable Black History Museum'",
+      "to": "dusable-museum",
+      "type": "Person→Institution",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Burroughs was a key member of the Community Art Center Committee that raised funds for SSCAC's 1940 opening; DuSable CEO Perri Irmer calls SSCAC one of 'both of her wonderful institutions.'",
+      "from": "d-burroughs",
+      "source": "Newcity (2026); sscartcenter.org press release (Oct 2025)",
+      "to": "south-side-community-art-center",
+      "type": "Person→Institution",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Located at 3533 S. Giles Ave in the Black Metropolis-Bronzeville District; listed in the 'Black Metropolis TR' (thematic resource) on the National Register.",
+      "from": "d-eighth-regiment-armory",
+      "source": "Wikipedia, 'Eighth Regiment Armory (Chicago)'",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Erected 1927 by the State of Illinois in Bronzeville, home of the 'Fighting Eighth' Regiment; at 35th & King Drive, south end of the Bronzeville Walk of Fame.",
+      "from": "d-victory-monument",
+      "source": "Wikipedia, 'Victory Monument (Chicago)'; Mississippi River Country",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "At 3435 S. Indiana Ave in the Black Metropolis-Bronzeville District; housed the Chicago Defender 1920-1960.",
+      "from": "d-chicago-defender-building",
+      "source": "Wikipedia, 'Chicago Defender Building'; ConnectCRE",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "3831 S. Michigan Ave, Bronzeville; founded 1940 as WPA art center serving the Black Belt.",
+      "from": "south-side-community-art-center",
+      "source": "Wikipedia, 'South Side Community Art Center'; sscartcenter.org",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "91 bronze plaques embedded along King Drive, 25th-35th Streets, honoring Bronzeville residents.",
+      "from": "d-walk-of-fame",
+      "source": "UrbanMatter; Girl Scouts GCNWI guide",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "At 2600 S. King Drive, described as 'the historic entrance to Bronzeville.'",
+      "from": "d-migration-monument",
+      "source": "Duke Migration Memorials database",
+      "to": "bronzeville",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Current location 740 E. 56th Place, Washington Park community area (Hyde Park edge) since 1973.",
+      "from": "dusable-museum",
+      "source": "October Gallery; Wikipedia, 'DuSable Black History Museum'",
+      "to": "d-washington-park",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "Theater at 7558 S. Chicago Ave in Greater Grand Crossing; described as producing in the South Side's Greater Grand Crossing community.",
+      "from": "d-eta",
+      "source": "Chicago Public Library finding aid; thefreelibrary.com (Chicago theater article)",
+      "to": "d-greater-grand-crossing",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    },
+    {
+      "evidence": "1550 S. Hamlin Ave is in the North Lawndale community area; site of the 1966 King residence and current Dr. King Legacy Apartments.",
+      "from": "d-mlk-hamlin-residence",
+      "source": "Middlebury College Chicago Freedom Movement Sites; Chicago Magazine",
+      "to": "north-lawndale",
+      "type": "Institution→Neighborhood",
+      "verification_status": "Verified"
+    }
+  ]
+}

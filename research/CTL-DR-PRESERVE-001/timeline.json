@@ -1,0 +1,705 @@
+{
+ "project": "CTL-DR-PRESERVE-001",
+ "timeline": [
+  {
+   "id": "CTL-PRESERVE-T-001",
+   "date_or_era": "1919",
+   "title": "Chicago Whip founded",
+   "description": "Black weekly newspaper founded; circulation 65,000 within a year; later no documented archive.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Wikipedia/WTTW/NEH"
+  },
+  {
+   "id": "CTL-PRESERVE-T-002",
+   "date_or_era": "1921-06",
+   "title": "Tulsa Race Massacre",
+   "description": "Destruction of Greenwood - the canonical origin event for Black memory erasure.",
+   "related_entities": [
+    "CTL-PRESERVE-E-103"
+   ],
+   "verification_status": "Verified",
+   "source": "Tulsa Historical Society; Smithsonian"
+  },
+  {
+   "id": "CTL-PRESERVE-T-003",
+   "date_or_era": "1925",
+   "title": "Schomburg collection founded",
+   "description": "Arturo Schomburg's personal collection becomes the research library that would become the Schomburg Center.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "NYPL"
+  },
+  {
+   "id": "CTL-PRESERVE-T-004",
+   "date_or_era": "1932",
+   "title": "Vivian Harsh starts \"Special Negro Collection\"",
+   "description": "Unfunded weekly \"Book Hour\" and collection at Hall Branch; becomes the Harsh Research Collection.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "CPL; Harsh Collection history"
+  },
+  {
+   "id": "CTL-PRESERVE-T-005",
+   "date_or_era": "1953",
+   "title": "Vee-Jay Records founded",
+   "description": "First Black-owned, female-founded major indie label (Gary, Indiana).",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Wikipedia"
+  },
+  {
+   "id": "CTL-PRESERVE-T-006",
+   "date_or_era": "1955-08",
+   "title": "Emmett Till murdered; Roberts Temple funeral",
+   "description": "Till funeral at Roberts Temple Church of God in Christ, Chicago; open-casket photograph changes history. A.A. Rayner & Sons provided funeral services.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "NPS; A.A. Rayner & Sons firm site"
+  },
+  {
+   "id": "CTL-PRESERVE-T-007",
+   "date_or_era": "1961",
+   "title": "Muhammad Speaks founded",
+   "description": "Nation of Islam paper becomes the largest-circulating Black newspaper of its day; its own archive location undocumented.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Final Call historical account"
+  },
+  {
+   "id": "CTL-PRESERVE-T-008",
+   "date_or_era": "1963",
+   "title": "WVON launched as Black-oriented talk station",
+   "description": "WVON becomes the Voice of the Nation; its 1960s broadcast record survives almost entirely through private collectors' airchecks.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Internet Archive aircheck collections"
+  },
+  {
+   "id": "CTL-PRESERVE-T-009",
+   "date_or_era": "1966",
+   "title": "Lucky Cordell / Ed Cook WVON airchecks recorded",
+   "description": "Home recordings of WVON broadcasts - now the surviving record of the era.",
+   "related_entities": [
+    "CTL-PRESERVE-E-085"
+   ],
+   "verification_status": "Verified",
+   "source": "Internet Archive, \"Free the Airchecks!\""
+  },
+  {
+   "id": "CTL-PRESERVE-T-010",
+   "date_or_era": "1968-1970",
+   "title": "FBI/police raids seize Black Panther Party records",
+   "description": "Raids in Denver, Indianapolis, Des Moines, San Francisco, New Bedford, Toledo, New Orleans, Detroit seize \"file cabinets, party records\"; no centralized Panther archive exists.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Ward Churchill (academic; provenance caveats)"
+  },
+  {
+   "id": "CTL-PRESERVE-T-011",
+   "date_or_era": "1971",
+   "title": "DJ Screw born (Robert Earl Davis Jr.)",
+   "description": "Originator of chopped-and-screwed music; personal archive later becomes the UH Libraries DJ Screw Collection.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "UH Libraries"
+  },
+  {
+   "id": "CTL-PRESERVE-T-012",
+   "date_or_era": "1975",
+   "title": "Ovie Carter wins Pulitzer",
+   "description": "Chicago Tribune photographer (1969-2004); personal negative archive disposition undocumented.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Chicago Tribune archives"
+  },
+  {
+   "id": "CTL-PRESERVE-T-013",
+   "date_or_era": "1983",
+   "title": "Center for Black Music Research founded",
+   "description": "CBMR founded at Columbia College Chicago; library/archives 1990.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "CBMR/Columbia College"
+  },
+  {
+   "id": "CTL-PRESERVE-T-014",
+   "date_or_era": "1987",
+   "title": "Amistad Research Center moves to Tulane",
+   "description": "Amistad (founded 1966 at Fisk; independent 1969) relocates to Tulane University.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Amistad Research Center"
+  },
+  {
+   "id": "CTL-PRESERVE-T-015",
+   "date_or_era": "ca. 1995-2006",
+   "title": "Eyes on the Prize rights blackout",
+   "description": "The rights-driven withdrawal of the civil-rights documentary series (ca. 1995) and its return (2005-2006) - a decade-long rights blackout of a landmark series.",
+   "related_entities": [
+    "CTL-PRESERVE-E-084"
+   ],
+   "verification_status": "Verified",
+   "source": "Wikipedia; PBS"
+  },
+  {
+   "id": "CTL-PRESERVE-T-016",
+   "date_or_era": "ca. 1997",
+   "title": "WDCU license sale",
+   "description": "Howard University sells jazz station license - warning case of ownership change endangering Black cultural assets.",
+   "related_entities": [
+    "CTL-PRESERVE-E-091"
+   ],
+   "verification_status": "Verified",
+   "source": "FCC records; press coverage"
+  },
+  {
+   "id": "CTL-PRESERVE-T-017",
+   "date_or_era": "1998-06-12; 2001",
+   "title": "Teenie Harris dies; archive acquired by Carnegie Museum of Art",
+   "description": "Harris dies June 12, 1998; Carnegie Museum of Art acquires ~80,000 negatives from the family in 2001; decades-long public-identification program begins.",
+   "related_entities": [
+    "CTL-PRESERVE-E-089"
+   ],
+   "verification_status": "Verified",
+   "source": "Carnegie Museum of Art"
+  },
+  {
+   "id": "CTL-PRESERVE-T-018",
+   "date_or_era": "1999",
+   "title": "The HistoryMakers founded",
+   "description": "Julieanna Richardson founds The HistoryMakers in Chicago.",
+   "related_entities": [
+    "CTL-PRESERVE-E-098"
+   ],
+   "verification_status": "Verified",
+   "source": "The HistoryMakers"
+  },
+  {
+   "id": "CTL-PRESERVE-T-019",
+   "date_or_era": "2000",
+   "title": "DJ Screw dies",
+   "description": "Robert Earl Davis Jr. dies; family will steward his tapes until the 2011 UH donation.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "UH Libraries"
+  },
+  {
+   "id": "CTL-PRESERVE-T-020",
+   "date_or_era": "2001",
+   "title": "The Baltimore Collection donated to University of Delaware",
+   "description": "53 photographs of Black sitters arrive as \"found objects\" - no provenance.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "University of Delaware Library"
+  },
+  {
+   "id": "CTL-PRESERVE-T-021",
+   "date_or_era": "2001",
+   "title": "Partners for Sacred Places lists Pilgrim Baptist as a site to save",
+   "description": "\"Ten Sacred Places to Save\" (2001): Pilgrim Baptist's leaking roof needed $2.8M; fire would follow in 2006.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Partners for Sacred Places"
+  },
+  {
+   "id": "CTL-PRESERVE-T-022",
+   "date_or_era": "2003",
+   "title": "NMAAHC established by Congress",
+   "description": "National Museum of African American History and Culture established by Act of Congress.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Smithsonian Institution"
+  },
+  {
+   "id": "CTL-PRESERVE-T-023",
+   "date_or_era": "2005-08",
+   "title": "Hurricane Katrina floods Calhoun-McCormick archive",
+   "description": "Keith Calhoun and Chandra McCormick evacuate New Orleans with ~30 years of film in bins; return to waterlogged negatives.",
+   "related_entities": [
+    "CTL-PRESERVE-E-087"
+   ],
+   "verification_status": "Verified",
+   "source": "National Geographic, 2021"
+  },
+  {
+   "id": "CTL-PRESERVE-T-024",
+   "date_or_era": "2006-01",
+   "title": "Pilgrim Baptist Church fire",
+   "description": "Fire guts Pilgrim Baptist, birthplace of Black gospel music, destroying its music and records archive.",
+   "related_entities": [
+    "CTL-PRESERVE-E-078"
+   ],
+   "verification_status": "Verified",
+   "source": "Religion News Service, 2006-01-12"
+  },
+  {
+   "id": "CTL-PRESERVE-T-025",
+   "date_or_era": "2007",
+   "title": "BlackPast.org founded",
+   "description": "Quintard Taylor founds the digital encyclopedia of Black history.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "blackpast.org"
+  },
+  {
+   "id": "CTL-PRESERVE-T-026",
+   "date_or_era": "2008",
+   "title": "America's Black Holocaust Museum closes",
+   "description": "Museum closes; virtual museum launches 2012.",
+   "related_entities": [
+    "CTL-PRESERVE-E-092"
+   ],
+   "verification_status": "Verified",
+   "source": "ABHM"
+  },
+  {
+   "id": "CTL-PRESERVE-T-027",
+   "date_or_era": "2008-07",
+   "title": "Universal Studios vault fire destroys Chess masters",
+   "description": "UMG warehouse fire destroys master recordings including Chess; exact title losses contested.",
+   "related_entities": [
+    "CTL-PRESERVE-E-079"
+   ],
+   "verification_status": "Verified",
+   "source": "NYT Magazine, 2019"
+  },
+  {
+   "id": "CTL-PRESERVE-T-028",
+   "date_or_era": "2009",
+   "title": "2009-2011 BMRC survey documents underprocessing",
+   "description": "BMRC survey finds Chicago's Black collections systematically unprocessed/underprocessed.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "UChicago Library (BMRC exhibit text)"
+  },
+  {
+   "id": "CTL-PRESERVE-T-029",
+   "date_or_era": "2009-11",
+   "title": "Moorland-Spingarn closure scare",
+   "description": "Reports of MSRC's ~80% staff reduction; director Thomas C. Battle on record.",
+   "related_entities": [
+    "CTL-PRESERVE-E-093"
+   ],
+   "verification_status": "Verified",
+   "source": "Inside Higher Ed, 2009-11"
+  },
+  {
+   "id": "CTL-PRESERVE-T-030",
+   "date_or_era": "2011-08",
+   "title": "Google News Archive homepage removed",
+   "description": "First major platform-level disappearance of newspaper-digitization access.",
+   "related_entities": [
+    "CTL-PRESERVE-E-104"
+   ],
+   "verification_status": "Verified",
+   "source": "Google; press coverage"
+  },
+  {
+   "id": "CTL-PRESERVE-T-031",
+   "date_or_era": "2011",
+   "title": "DJ Screw Collection donation begins at UH",
+   "description": "Family donates DJ Screw's papers, 1,600+ records, original screw tapes to UH Libraries (finding aid 2010-023).",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "UH Libraries"
+  },
+  {
+   "id": "CTL-PRESERVE-T-032",
+   "date_or_era": "2011",
+   "title": "Black Archives Co begins",
+   "description": "Renata Cherlise starts Black Archives Co on Tumblr - 13+ year crowdsourced archive of Black-life photographs.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Stance Podcast, 2021-01-14"
+  },
+  {
+   "id": "CTL-PRESERVE-T-033",
+   "date_or_era": "2012",
+   "title": "CBMR defunding threat",
+   "description": "Columbia College prioritization proposes eliminating CBMR funding after ~70% budget cuts since 2006.",
+   "related_entities": [
+    "CTL-PRESERVE-E-094"
+   ],
+   "verification_status": "Verified",
+   "source": "Journal of Blacks in Higher Education, 2012"
+  },
+  {
+   "id": "CTL-PRESERVE-T-034",
+   "date_or_era": "2012",
+   "title": "Gates acquires Stony Island bank building",
+   "description": "Theaster Gates purchases the 1923 bank (vacant since the 1980s, slated for demolition) from the city for $1.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "dezeen.com; hyperallergic.com"
+  },
+  {
+   "id": "CTL-PRESERVE-T-035",
+   "date_or_era": "2013",
+   "title": "Mother Bethel records moved to Presbyterian Historical Society",
+   "description": "Mother Bethel AME's archives (founded 1794) outgrow church storage; moved to PHS.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "The Christian Post, 2021-02-11"
+  },
+  {
+   "id": "CTL-PRESERVE-T-036",
+   "date_or_era": "2014",
+   "title": "Library of Congress acquires The HistoryMakers",
+   "description": "LoC acquires the ~3,400-interview video oral history archive.",
+   "related_entities": [
+    "CTL-PRESERVE-E-098"
+   ],
+   "verification_status": "Verified",
+   "source": "Journal of Blacks in Higher Education, 2014"
+  },
+  {
+   "id": "CTL-PRESERVE-T-037",
+   "date_or_era": "2015-06-19",
+   "title": "Freedmen's Bureau Project launches",
+   "description": "19,000+ volunteers index 4M records in ~18 months.",
+   "related_entities": [
+    "CTL-PRESERVE-E-099"
+   ],
+   "verification_status": "Verified",
+   "source": "FamilySearch"
+  },
+  {
+   "id": "CTL-PRESERVE-T-038",
+   "date_or_era": "2015",
+   "title": "Stony Island Arts Bank opens",
+   "description": "Rebuild Foundation opens the Arts Bank with the JPC library, Frankie Knuckles vinyl, Edward J. Williams Collection, and 60,000+ UChicago lantern slides.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "dezeen.com; hyperallergic.com"
+  },
+  {
+   "id": "CTL-PRESERVE-T-039",
+   "date_or_era": "2016-09-24",
+   "title": "NMAAHC opens to the public",
+   "description": "Museum opens with 37,000-45,000 objects; 10,000+ digitized.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Smithsonian Institution"
+  },
+  {
+   "id": "CTL-PRESERVE-T-040",
+   "date_or_era": "2017-01",
+   "title": "Vine shuts down",
+   "description": "Vine shutdown and the cultural erasure of Black digital creative expression.",
+   "related_entities": [
+    "CTL-PRESERVE-E-083"
+   ],
+   "verification_status": "Verified",
+   "source": "ABC News; NPR"
+  },
+  {
+   "id": "CTL-PRESERVE-T-041",
+   "date_or_era": "2017-02",
+   "title": "John Hope Franklin estate sale",
+   "description": "Sale of the eminent scholar's personal library and archives - warning case.",
+   "related_entities": [
+    "CTL-PRESERVE-E-090"
+   ],
+   "verification_status": "Verified",
+   "source": "H-Net"
+  },
+  {
+   "id": "CTL-PRESERVE-T-042",
+   "date_or_era": "2017",
+   "title": "Obsidian Collection Archives founded",
+   "description": "Angela Ford founds Obsidian (Chicago) to digitize Black press photography.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Mic.com, 2018"
+  },
+  {
+   "id": "CTL-PRESERVE-T-043",
+   "date_or_era": "2018-01-01",
+   "title": "LOC Twitter archive goes selective",
+   "description": "End of comprehensive platform-scale tweet capture.",
+   "related_entities": [
+    "CTL-PRESERVE-E-106"
+   ],
+   "verification_status": "Verified",
+   "source": "Library of Congress"
+  },
+  {
+   "id": "CTL-PRESERVE-T-044",
+   "date_or_era": "2018-12-17",
+   "title": "Tumblr adult-content purge",
+   "description": "Platform purge and collateral data loss for Black digital archives on Tumblr.",
+   "related_entities": [
+    "CTL-PRESERVE-E-105"
+   ],
+   "verification_status": "Verified",
+   "source": "Tumblr; press coverage"
+  },
+  {
+   "id": "CTL-PRESERVE-T-045",
+   "date_or_era": "2019-03",
+   "title": "MySpace server-migration loss disclosed",
+   "description": "All user uploads 2003-2015 lost: ~50M songs from ~14M artists.",
+   "related_entities": [
+    "CTL-PRESERVE-E-082"
+   ],
+   "verification_status": "Verified",
+   "source": "The New York Times"
+  },
+  {
+   "id": "CTL-PRESERVE-T-046",
+   "date_or_era": "2019-04",
+   "title": "Johnson Publishing Company files Chapter 7",
+   "description": "Bankruptcy begins; Ebony/Jet archive faces auction.",
+   "related_entities": [
+    "CTL-PRESERVE-E-077"
+   ],
+   "verification_status": "Verified",
+   "source": "The Art Newspaper, 2019-08-02"
+  },
+  {
+   "id": "CTL-PRESERVE-T-047",
+   "date_or_era": "2019-07-25",
+   "title": "JPC archive auction; consortium purchase",
+   "description": "Four-foundation consortium buys the archive for just under $30M, forestalling private dispersal.",
+   "related_entities": [
+    "CTL-PRESERVE-E-077"
+   ],
+   "verification_status": "Verified",
+   "source": "The Art Newspaper, 2019-08-02"
+  },
+  {
+   "id": "CTL-PRESERVE-T-048",
+   "date_or_era": "2020",
+   "title": "Roberts Temple named to National Trust 11 Most Endangered",
+   "description": "Emmett Till funeral site listed among America's 11 Most Endangered Historic Places.",
+   "related_entities": [
+    "CTL-PRESERVE-E-109"
+   ],
+   "verification_status": "Verified",
+   "source": "National Trust for Historic Preservation"
+  },
+  {
+   "id": "CTL-PRESERVE-T-049",
+   "date_or_era": "2020-2022",
+   "title": "#BlackLivesMatter tweets decay (Pew study, 2023)",
+   "description": "Pew finds 18% of 2020-2022 #BLM tweets deleted or unavailable - first quantified decay rate for a Black movement's digital record.",
+   "related_entities": [
+    "CTL-PRESERVE-E-086"
+   ],
+   "verification_status": "Verified",
+   "source": "Pew Research Center, 2023"
+  },
+  {
+   "id": "CTL-PRESERVE-T-050",
+   "date_or_era": "2021-01",
+   "title": "Separate Cinema archive exhibited (PBS SoCal)",
+   "description": "Kisch's 37,000-item race-film memorabilia collection profiled before its 2025 museum acquisition.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "PBS SoCal, 2021"
+  },
+  {
+   "id": "CTL-PRESERVE-T-051",
+   "date_or_era": "2021",
+   "title": "Mother Bethel digitization completed",
+   "description": "Presbyterian Historical Society completes digitization of Mother Bethel AME records.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "The Christian Post, 2021-02-11"
+  },
+  {
+   "id": "CTL-PRESERVE-T-052",
+   "date_or_era": "2022-03",
+   "title": "BMRC Archives Portal launches",
+   "description": "Public portal aggregating 1,000+ Chicago Black-history collection records (Mellon-funded).",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "UChicago News"
+  },
+  {
+   "id": "CTL-PRESERVE-T-053",
+   "date_or_era": "2022-07",
+   "title": "JPC archive transfers to NMAAHC/Getty",
+   "description": "Joint ownership; $30M Getty commitment to processing and digitization.",
+   "related_entities": [
+    "CTL-PRESERVE-E-097"
+   ],
+   "verification_status": "Verified",
+   "source": "MacArthur Foundation; Getty, 2022"
+  },
+  {
+   "id": "CTL-PRESERVE-T-054",
+   "date_or_era": "2022-10-04",
+   "title": "Illinois burial-records rescue announced",
+   "description": "Comptroller + Bronzeville Historical Society: 140,000+ burial records from shuttered Black-owned funeral homes, transferred to the Harsh Collection.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Illinois Office of Comptroller, 2022-10-04"
+  },
+  {
+   "id": "CTL-PRESERVE-T-055",
+   "date_or_era": "2022",
+   "title": "Mellon $3.5M for Stony Island Archives Innovation Program",
+   "description": "Rebuild Foundation grant builds archival infrastructure for the Arts Bank collections.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Mellon Foundation, 2022"
+  },
+  {
+   "id": "CTL-PRESERVE-T-056",
+   "date_or_era": "2023",
+   "title": "Twitter/X research API paywall",
+   "description": "Spring 2023 restriction breaks the dominant digital-memory research infrastructure.",
+   "related_entities": [
+    "CTL-PRESERVE-E-085"
+   ],
+   "verification_status": "Verified",
+   "source": "NPR; The Conversation"
+  },
+  {
+   "id": "CTL-PRESERVE-T-057",
+   "date_or_era": "2023",
+   "title": "HBCU Radio Preservation Project $5M grant",
+   "description": "Mellon grant to WYSO with NEDCC to preserve 29 HBCU radio stations' archives.",
+   "related_entities": [
+    "CTL-PRESERVE-E-107"
+   ],
+   "verification_status": "Verified",
+   "source": "cassiuslife.com, Jan 2023; NEDCC, 2026"
+  },
+  {
+   "id": "CTL-PRESERVE-T-058",
+   "date_or_era": "2023-07-25",
+   "title": "Emmett Till and Mamie Till-Mobley National Monument established",
+   "description": "Presidential proclamation; Roberts Temple among the sites.",
+   "related_entities": [
+    "CTL-PRESERVE-E-102"
+   ],
+   "verification_status": "Verified",
+   "source": "National Park Service"
+  },
+  {
+   "id": "CTL-PRESERVE-T-059",
+   "date_or_era": "2024-02",
+   "title": "Mellon $2M Harsh digitization grant",
+   "description": "Ends the Harsh Collection's in-person-only era.",
+   "related_entities": [
+    "CTL-PRESERVE-E-100"
+   ],
+   "verification_status": "Verified",
+   "source": "Mellon Foundation, 2024"
+  },
+  {
+   "id": "CTL-PRESERVE-T-060",
+   "date_or_era": "2024-06",
+   "title": "MTV News archive wipe",
+   "description": "Viacom/Paramount takes the MTV News archive offline.",
+   "related_entities": [
+    "CTL-PRESERVE-E-081"
+   ],
+   "verification_status": "Verified",
+   "source": "Variety; Los Angeles Times"
+  },
+  {
+   "id": "CTL-PRESERVE-T-061",
+   "date_or_era": "2024-09",
+   "title": "King and King funeral-home records recovered",
+   "description": "Indiana Landmarks' Black Heritage Preservation Program recovers the records before demolition; deposited at Indiana Historical Society.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Indiana Landmarks, 2024-09"
+  },
+  {
+   "id": "CTL-PRESERVE-T-062",
+   "date_or_era": "2024-11",
+   "title": "Knoxville College building fire",
+   "description": "Fire destroys a historic building on the closed HBCU campus; records custody undocumented.",
+   "related_entities": [
+    "CTL-PRESERVE-E-095"
+   ],
+   "verification_status": "Verified",
+   "source": "WVLT, 2024-11-05"
+  },
+  {
+   "id": "CTL-PRESERVE-T-063",
+   "date_or_era": "2025-01",
+   "title": "Separate Cinema Archive acquired by Lucas Museum",
+   "description": "37,000-item private collection enters a national museum's permanent collection.",
+   "related_entities": [
+    "CTL-PRESERVE-E-108"
+   ],
+   "verification_status": "Verified",
+   "source": "Hyperallergic, 2025"
+  },
+  {
+   "id": "CTL-PRESERVE-T-064",
+   "date_or_era": "2025",
+   "title": "John Simmons garage fire",
+   "description": "Fire/water damage destroys most of John Simmons's negatives during a move; partial salvage ongoing.",
+   "related_entities": [
+    "CTL-PRESERVE-E-088"
+   ],
+   "verification_status": "Verified",
+   "source": "Hyperallergic, 2025"
+  },
+  {
+   "id": "CTL-PRESERVE-T-065",
+   "date_or_era": "2025-09-21",
+   "title": "Quintard Taylor dies",
+   "description": "Founder of BlackPast.org dies - key-person risk for a major ungated Black-history reference site.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "History News Network; blackpast.org"
+  },
+  {
+   "id": "CTL-PRESERVE-T-066",
+   "date_or_era": "2025-11",
+   "title": "Fisk Rosenwald Fund Archive portal launches",
+   "description": "Amistad/John Hope Franklin Research Center portal: ~30,000 documents.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "Duke University; Amistad Research Center"
+  },
+  {
+   "id": "CTL-PRESERVE-T-067",
+   "date_or_era": "2026-09-08",
+   "title": "Internet Archive releases BET rescue explorer",
+   "description": "Pilot explorer for 199,000+ preserved BET.com articles.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "infoDOCKET, 2026-09-08"
+  },
+  {
+   "id": "CTL-PRESERVE-T-068",
+   "date_or_era": "2026-09-19",
+   "title": "Shorefront reporting (NPR Illinois)",
+   "description": "Shorefront Legacy Center's role in Evanston's cash reparations reported; Trump administration suing to end reparations.",
+   "related_entities": [],
+   "verification_status": "Verified",
+   "source": "NPR Illinois, 2026-09-19"
+  },
+  {
+   "id": "CTL-PRESERVE-T-069",
+   "date_or_era": "2026-09",
+   "title": "Mellon $2M Moorland-Spingarn grant",
+   "description": "Five positions, processing, conservation-lab plan, AV digitization at MSRC.",
+   "related_entities": [
+    "CTL-PRESERVE-E-101"
+   ],
+   "verification_status": "Verified",
+   "source": "thedig.howard.edu, 2026-09"
+  },
+  {
+   "id": "CTL-PRESERVE-T-070",
+   "date_or_era": "2026-09",
+   "title": "BET.com digital article wipe",
+   "description": "BET Digital permanently removes its entire written news archive as a \"video-first pivot.\"",
+   "related_entities": [
+    "CTL-PRESERVE-E-080"
+   ],
+   "verification_status": "Verified",
+   "source": "Black Enterprise, 2026-09-09"
+  }
+ ]
+}

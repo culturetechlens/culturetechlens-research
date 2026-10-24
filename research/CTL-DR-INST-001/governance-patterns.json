@@ -1,0 +1,241 @@
+{
+ "claims": [
+  {
+   "contradictory_evidence": "The Regal was nonetheless the premier showcase for Black entertainers and audiences throughout the Black-owned and white-owned periods; cultural centrality did not require ownership.",
+   "evidence": "City of Chicago landmark report for the New Regal Theater documents that the original Regal Theater (4719 S. King Drive, opened 1928) was controlled by a white theater chain until Black businessman S.B. Fuller purchased it in 1961; Fuller lost the theater in 1968, after which it closed and was demolished in 1973.",
+   "id": "GOV-01",
+   "sources": [
+    {
+     "citation": "City of Chicago, New Regal Theater Landmark Designation Report",
+     "publication_date": null,
+     "type": "primary",
+     "url": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf"
+    },
+    {
+     "citation": "Encyclopedia of Chicago, 'Regal Theater'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "http://encyclopedia.chicagohistory.org:80/pages/3492.html"
+    }
+   ],
+   "uncertainty": "Exact chain name and 1961 purchase terms not confirmed in the sources reviewed; year of Fuller's loss (1968) per city report.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": null,
+   "evidence": "The Wabash Avenue YMCA (1913) was built with major support from Julius Rosenwald's philanthropy, serving as the anchor Black YMCA of the Great Migration era. After its 1981 closure, its rehabilitation as supportive housing by the Renaissance Collaborative relied on HUD, TIF, Federal Home Loan Bank, and community-loan financing per City of Chicago Department of Housing reporting (2023). In both eras, the institution's physical existence depended on outside capital rather than accumulated community equity.",
+   "id": "GOV-02",
+   "sources": [
+    {
+     "citation": "City of Chicago Department of Housing, 'Chicago issues $5.9 million for permanent supportive housing' (April 2023)",
+     "publication_date": "2023-04",
+     "type": "primary",
+     "url": "https://www.chicago.gov/content/city/en/depts/doh/provdrs/renters/news/2023/april/chicago-issues--5-9-million-for-permanent-supportive-housing-in-.html"
+    },
+    {
+     "citation": "Wabash Avenue YMCA \u2014 Wikipedia (Rosenwald funding; closure 1981)",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Wabash_Avenue_YMCA"
+    }
+   ],
+   "uncertainty": "Precise dollar share of Rosenwald's contribution to the 1913 construction not established in sources reviewed.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": "The Chicago Defender title and online editorial operation survive; the Ebony brand continues under new ownership. What was lost was local family control and the Chicago publishing operation, not the mastheads.",
+   "evidence": "The Chicago Defender was sold out of Sengstacke family ownership to a Real Times investor group in 2003, converted from daily to weekly, and ended print in 2019 to focus on digital (Editor & Publisher; The Oak Eagle). Johnson Publishing sold Ebony and Jet to Clear View Group (private equity) in 2016 and filed Chapter 7 bankruptcy in 2019 (NPR Illinois; Columbia Journalism Review).",
+   "id": "GOV-03",
+   "sources": [
+    {
+     "citation": "Editor & Publisher, 'The revival of the Black press in America'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://www.editorandpublisher.com/stories/the-revival-of-the-black-press-in-america,27852"
+    },
+    {
+     "citation": "Columbia Journalism Review, 'Rebrand: Ebony, Jet and the Black press' (Bridgeman)",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php"
+    },
+    {
+     "citation": "NPR Illinois, 'Jet and Ebony sold, ending a 71-year run' (2016)",
+     "publication_date": "2016-06-19",
+     "type": "secondary",
+     "url": "https://www.nprillinois.org/2016-06-19/jet-and-ebony-sold-ending-a-71-year-run-as-a-voice-for-african-americans"
+    }
+   ],
+   "uncertainty": "Exact terms and valuations of the 2003 Defender sale and 2016 Johnson Publishing sale not established in sources reviewed.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": "Regulators' stated priority in each case was protecting depositors and preserving services; the displacement of Black ownership was a consequence of the resolution method, not its stated aim.",
+   "evidence": "Seaway National Bank was closed by regulators in January 2017; State Bank of Texas assumed deposits and acquired assets, then sold $240 million in deposits and nine branches to Self-Help Federal Credit Union while retaining the O'Hare branch and ~$200 million loan portfolio (Banking Exchange). ShoreBank was closed by the FDIC on August 20, 2010; Urban Partnership Bank acquired deposits and branches, then merged into Providence Bank & Trust in January 2019 (FDIC; Next City). In both cases the Black-owned charter and local deposit-to-loan allocation function ended while depositor access continued.",
+   "id": "GOV-04",
+   "sources": [
+    {
+     "citation": "Banking Exchange, 'Minority-owned institutions dwindling'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://m.bankingexchange.com/news-feed/item/6807-minority-owned-institutions-dwindling?Itemid=635"
+    },
+    {
+     "citation": "FDIC Failed Bank List: ShoreBank, Chicago, IL (closed August 20, 2010)",
+     "publication_date": "2010-08-20",
+     "type": "primary",
+     "url": "https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/shorebank.html"
+    },
+    {
+     "citation": "Next City, 'Building on Chicago's legacy of community development banking'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://nextcity.org/urbanist-news/building-on-chicagos-legacy-of-community-development-banking"
+    }
+   ],
+   "uncertainty": "Precise regulatory findings behind each closure not reviewed in this track; cause of failure not graded here.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": "Ada S. McKinley Community Services, founded 1919 as the South Side Settlement, still operates 70+ sites \u2014 public funding does not mechanically produce collapse; Hull House's specific 85% public-revenue dependence and post-2008 fundraising failure were the proximate drivers.",
+   "evidence": "Jane Addams Hull House Association derived as much as 85% of revenue from public sources; after the 2008 downturn it could not close the gap, announced closure January 19, 2012, shut January 27, 2012, and filed for bankruptcy (Wikipedia; Chronicle of Philanthropy; NPR). In K-12, CPS closed Dyett High School in 2015 despite community opposition; it reopened only after a 34-day hunger strike, and not under the community-demanded curriculum (Chicago Reporter; KOCO).",
+   "id": "GOV-05",
+   "sources": [
+    {
+     "citation": "Hull House \u2014 Wikipedia (closure section, citing IRS/AG financial statements)",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Hull_House"
+    },
+    {
+     "citation": "Chronicle of Philanthropy, 'Chicago's Hull House Charity to Close After 123 Years' (AP, Jan 20, 2012)",
+     "publication_date": "2012-01-20",
+     "type": "secondary",
+     "url": "https://staging.philanthropy.com/news/chicagos-hull-house-charity-to-close-after-123-years/"
+    },
+    {
+     "citation": "Chicago Reporter, 'When Chicago closed her kids' school, she decided to fight back' (Dyett)",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "http://www.chicagoreporter.com/when-chicago-closed-her-kids-school-she-decided-to-fight-back/"
+    },
+    {
+     "citation": "KOCO, 'The Fight for Dyett High School'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://kocoonline.org/initiatives/the-fight-for-dyett-high-school/"
+    }
+   ],
+   "uncertainty": "Hull House's exact revenue mix by year not independently verified in this track; '85 percent' figure is attributed to Wikipedia's summary of filed financial statements.",
+   "verification_status": "Provisional"
+  },
+  {
+   "contradictory_evidence": "Operation PUSH institutionalized much of Breadbasket's economic program (covenants with businesses) and survives today as Rainbow PUSH; the function migrated with the leader rather than vanishing.",
+   "evidence": "Operation Breadbasket was institutionally a department of the SCLC, publicly identified with Jesse Jackson. Jackson resigned in December 1971 and carried much of the program's staff, corporate-covenant strategy, and public identity into Operation PUSH (archive.org summary of the Breadbasket history, reporting 15 covenants and an estimated $57 million in annual new income by year six \u2014 an attributed estimate).",
+   "id": "GOV-06",
+   "sources": [
+    {
+     "citation": "Archive.org, 'Operation Breadbasket' history summary (Depp)",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://archive.org/details/operationbreadba0000depp"
+    }
+   ],
+   "uncertainty": "The '$57 million annual new income' figure is an attributed estimate from the book summary, not an audited fact; do not cite as a hard number.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": "Cross-subsidy worked for two decades and built durable assets (Overton Hygienic Building, a Chicago Landmark). The ecosystem's fragility became visible only at succession.",
+   "evidence": "Anthony Overton linked the Chicago Bee newspaper, Overton Hygienic cosmetics company, Victory Life/Overton banking interests, and the Overton Hygienic Building into one cross-subsidized ecosystem. After Overton's death the Bee continued briefly under his sons and closed in 1947; very little of its run survives, compounding the loss with an archival loss (Wikipedia, Chicago Bee).",
+   "id": "GOV-07",
+   "sources": [
+    {
+     "citation": "Chicago Bee \u2014 Wikipedia",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Chicago_Bee"
+    }
+   ],
+   "uncertainty": "The Bee's founding year (commonly cited as 1925) and the exact mechanics of cross-subsidy are not established in the sources reviewed; grade Provisional on details.",
+   "verification_status": "Provisional"
+  },
+  {
+   "contradictory_evidence": "Adaptive reuse preserved architecturally significant buildings that would otherwise have been demolished; the trade-off is function, not fabric.",
+   "evidence": "The National Pythian Temple (3735-45 S. State, the largest structure financed, designed, and built by African Americans at its 1930 completion) was acquired by the WPA during the Depression and repositioned as multifamily housing after financial difficulties; it was vacated in the 1970s and demolished in 1980 (City of Chicago Morning Star Baptist landmark report). The Eighth Regiment Armory (1914-15, first U.S. armory built for a Black regiment) closed as an armory in the early 1960s and reopened in 1999 as the Chicago Military Academy-Bronzeville public high school (Wikipedia). The Wabash Avenue YMCA (closed 1981) was rehabilitated as 101 units of supportive housing plus recreation/office space (City of Chicago DOH, 2023).",
+   "id": "GOV-08",
+   "sources": [
+    {
+     "citation": "City of Chicago, Morning Star Baptist Church Landmark Report (Pythian Temple history)",
+     "publication_date": null,
+     "type": "primary",
+     "url": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Morning_Star_Baptist_Final_Report.pdf"
+    },
+    {
+     "citation": "Eighth Regiment Armory (Chicago) \u2014 Wikipedia",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://en.wikipedia.org/wiki/Eighth_Regiment_Armory_(Chicago)"
+    },
+    {
+     "citation": "City of Chicago Department of Housing (April 2023), Wabash YMCA supportive housing",
+     "publication_date": "2023-04",
+     "type": "primary",
+     "url": "https://www.chicago.gov/content/city/en/depts/doh/provdrs/renters/news/2023/april/chicago-issues--5-9-million-for-permanent-supportive-housing-in-.html"
+    }
+   ],
+   "uncertainty": "Whether specific lost functions (job placement, fraternal assembly, regimental assembly) were truly unreplaced versus migrating informally is unresolved \u2014 see notes.md.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": "The Dyett hunger strike did force CPS to reopen a neighborhood high school \u2014 community pressure altered the outcome materially, just not on the community's full terms.",
+   "evidence": "After CPS closed Dyett High School in 2015, a 34-day hunger strike and sustained organizing won a reopened Dyett High School for the Arts (2016) \u2014 but CPS retained control of curriculum and governance, and the community's demanded program was not adopted (Chicago Reporter; KOCO).",
+   "id": "GOV-09",
+   "sources": [
+    {
+     "citation": "Chicago Reporter, 'When Chicago closed her kids' school, she decided to fight back'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "http://www.chicagoreporter.com/when-chicago-closed-her-kids-school-she-decided-to-fight-back/"
+    },
+    {
+     "citation": "KOCO, 'The Fight for Dyett High School'",
+     "publication_date": null,
+     "type": "secondary",
+     "url": "https://kocoonline.org/initiatives/the-fight-for-dyett-high-school/"
+    }
+   ],
+   "uncertainty": "The precise curriculum differences between community demands and the reopened school's program are not detailed in sources reviewed.",
+   "verification_status": "Verified"
+  },
+  {
+   "contradictory_evidence": "Groupe Nduom's acquisition saved Illinois Service Federal from likely closure in 2016 (it was in jeopardy from delinquent loans); transnational capital preserved the charter where domestic capital did not step in.",
+   "evidence": "Illinois Service Federal Savings and Loan (founded 1934 by 13 Black men) was acquired by Ghanaian-owned Groupe Nduom in April 2016 and renamed GN Bank effective July 2018 (OCC CRA evaluations). The OCC terminated its consent order on June 30, 2025, declaring the bank safe and sound (TodayGH). The bank's own 2018 rebranding statement committed to serving 'African-American, African, Caribbean and Latino communities.' Chicago's Black-American-owned bank count fell from five in 2001 to two by 2017 (Chicago Fed Economic Perspectives 2017-4); after Seaway (2017), Urban Partnership (2019), and the ISF acquisition, no Black-American-owned bank charter remains headquartered in Chicago.",
+   "id": "GOV-10",
+   "sources": [
+    {
+     "citation": "OCC CRA Evaluation, Charter No. 703395 (GN Bank, formerly Illinois-Service Federal)",
+     "publication_date": "2019-02",
+     "type": "primary",
+     "url": "http://occ.gov/static/cra/craeval/feb19/703395.pdf"
+    },
+    {
+     "citation": "Chicago Fed Economic Perspectives 2017-4 (minority depository institutions)",
+     "publication_date": "2017",
+     "type": "primary",
+     "url": "https://www.chicagofed.org/~/media/publications/economic-perspectives/2017/ep2017-4-pdf.pdf"
+    },
+    {
+     "citation": "Kumasi Online TV, 'Groupe Nduom rebrands US-based ISF Bank, it's now GN Bank' (2018)",
+     "publication_date": "2018",
+     "type": "secondary",
+     "url": "https://kumasionlinetv.com/groupe-nduom-rebrands-us-based-isf-bank-its-now-gn-bank/?utm_source=rss&utm_medium=rss&utm_campaign=groupe-nduom-rebrands-us-based-isf-bank-its-now-gn-bank"
+    }
+   ],
+   "uncertainty": "'No Black-American-owned bank remains headquartered in Chicago' is an inference from the Chicago Fed's 2017 count plus documented closures/acquisitions through 2019; a fresh FDIC MDI list check is recommended before public-facing use.",
+   "verification_status": "Provisional"
+  }
+ ],
+ "project": "CTL-DR-INST-001",
+ "track": "E",
+ "track_title": "Cross-type systems synthesis: governance, control, and funding patterns"
+}

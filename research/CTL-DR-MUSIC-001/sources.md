@@ -1,0 +1,474 @@
+# Sources — CTL-DR-MUSIC-001
+
+Aggregated 465 unique source references across all tracks. Primary vs secondary labels come from the worker tracks.
+
+## Primary sources (46)
+
+- AACM Chicago (https://www.aacmchicago.org/guides/nicole-mitchell) _(cited 2×)_
+- Chicago LGBT Hall of Fame (https://chicagolgbthalloffame.org/knuckles-frankie/) _(cited 1×)_
+- Chicago LGBT Hall of Fame (https://chicagolgbthalloffame.org/knuckles-frankie/); Grammy.com (https://www.grammy.com/news/record-store-recs-chicago-house-hero-marshall-jefferson-representation-dance-music/) _(cited 1×)_
+- City of Chicago Chess Records Office and Studio landmark report (chicago.gov); Wikipedia "Chess Records" _(cited 1×)_
+- City of Chicago Chess landmark report; tsimon.com _(cited 1×)_
+- City of Chicago New Regal Theater report _(cited 1×)_
+- City of Chicago Warehouse report; Red Bull Music Academy Daily (2015-05) _(cited 1×)_
+- City of Chicago Warehouse report; Wikipedia "Hot Mix 5" _(cited 1×)_
+- City of Chicago, 'The Warehouse' landmark designation report _(cited 5×)_
+- City of Chicago, 'The Warehouse' landmark designation report (chicago.gov) _(cited 1×)_
+- Congressional Record (https://www.congress.gov/congressional-record/volume-150/issue-123/extensions-of-remarks-section/article/E1793-3) _(cited 1×)_
+- Congressional Record (https://www.congress.gov/congressional-record/volume-150/issue-123/extensions-of-remarks-section/article/E1793-3); NPR via WUGA (https://www.wuga.org/national-news/2009-06-04/blues-queen-koko-taylor-dies-at-80) _(cited 1×)_
+- Discogs release 709986 _(cited 3×)_
+- Gridface (https://www.gridface.com/vince-lawrence/) _(cited 1×)_
+- Marzette Griffith official bio (https://www.marzettegriffith.com/_files/ugd/9d8324_37173b953e1142cc9ae528250a68f967.pdf) _(cited 1×)_
+- Red Bull (https://www.youtube.com/watch?v=qM0EBBtVWdU) _(cited 4×)_
+- Smithsonian Institution Archives (https://www.si.edu/object/archives/components/sova-nmah-ac-0408-ref1071?destination=object/archives/sova-nmah-ac-0408%3Fpage%3D20) _(cited 1×)_
+- U.S. Congressional Record _(cited 4×)_
+- U.S. Congressional Record (congress.gov) _(cited 1×)_
+- U.S. Congressional Record; proviseast72.org _(cited 1×)_
+- WCSU (https://www.wcsufm.org/2023-03-02/from-the-warehouse-to-the-world-chicago-and-the-birth-of-house-music) _(cited 4×)_
+- WCSU (https://www.wcsufm.org/2023-03-02/from-the-warehouse-to-the-world-chicago-and-the-birth-of-house-music); Gridface (https://www.gridface.com/vince-lawrence/) _(cited 1×)_
+- WCSU (https://www.wcsufm.org/2023-03-02/from-the-warehouse-to-the-world-chicago-and-the-birth-of-house-music); Gridface interview (https://www.gridface.com/vince-lawrence/) _(cited 1×)_
+- Wikipedia "Regal Theater, Chicago"; City of Chicago New Regal Theater report _(cited 1×)_
+- https://5mag.net/news/with-love-5-mag-vinyl-compilation-chicago-house-music/ _(cited 1×)_
+- https://bacol.todayz.workers.dev/host-https-www.chicago.gov/content/dam/city/depts/dcd/Zoning%20Application/ExhibADuSablFinalReport.pdf _(cited 1×)_
+- https://guides.lib.uchicago.edu/c.php?g=525812&p=3616764 _(cited 3×)_
+- https://ia600604.us.archive.org/21/items/CityOfChicagoLandmarkDesignationReports/FirstChurchOfDeliverance_text.pdf _(cited 2×)_
+- https://metra.com/newsroom/take-metra-to-chosen-few-picnic-and-festival _(cited 1×)_
+- https://primaryinformation.org/pi/wp-content/uploads/2025/01/20250125_PI_THING_DJ.pdf _(cited 2×)_
+- https://smartbarchicago.com/ _(cited 1×)_
+- https://southsidedrivemag.com/my-journey-to-founding-the-chicago-gospel-music-festival-by-sasha-doltonn/ _(cited 1×)_
+- https://www.alligator.com/about/ _(cited 1×)_
+- https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_bluesfestival.html _(cited 1×)_
+- https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_jazzfestival.html _(cited 1×)_
+- https://www.chicago.gov/content/city/en/depts/dcd/provdrs/hist/news/2023/june/landmark-status-approved-for--the-warehouse--building--known-as-.html _(cited 1×)_
+- https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf _(cited 2×)_
+- https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Pilgrim_Baptist_Church.pdf _(cited 1×)_
+- https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf _(cited 2×)_
+- https://www.congress.gov/congressional-record/volume-159/issue-118/extensions-of-remarks-section/article/E1274-2 _(cited 1×)_
+- https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2 _(cited 1×)_
+- https://www.congress.gov/congressional-record/volume-167/issue-222/extensions-of-remarks-section/article/E1401-1 _(cited 1×)_
+- https://www.il.ngb.army.mil/News/News-Article-View/Article/4133061/student-selected-as-2025-walter-dyett-award-recipient/ _(cited 3×)_
+- https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/ _(cited 1×)_
+- https://www.thehistorymakers.org/sites/default/files/A2002_071_EAC.pdf _(cited 3×)_
+- https://www.thehistorymakers.org/sites/default/files/A2007_156_EAC.pdf _(cited 2×)_
+
+## Secondary sources (419)
+
+- 'Chicago – Soul Music Odyssey USA 1968' (pressbooks.library.yorku.ca) _(cited 5×)_
+- 'Chicago – Soul Music Odyssey USA 1968' (pressbooks.library.yorku.ca) _(cited 1×)_
+- 'Everything House Music & More... The Podcast,' Ep. 50: DJ Lori Branch (YouTube description) _(cited 1×)_
+- 'Malcolm Chisholm: an evaluation of traditional audio engineering' (thefreelibrary.com) _(cited 1×)_
+- 'Malcolm Chisholm: an evaluation of traditional audio engineering' (thefreelibrary.com, academic journal article) _(cited 1×)_
+- 'Sample and Hold – The House Sound of Chicago' (music.hyperreal.org) _(cited 2×)_
+- 56thst.com (Chuck Berry history) _(cited 1×)_
+- 56thst.com; Wikipedia "Chess Records" _(cited 1×)_
+- AXS TV (https://axs.tv/artists/da-brat/) _(cited 1×)_
+- African American Registry (https://aaregistry.org/story/albertina-walker-gospel-singer-born/); Hymnary.org (https://hymnary.org/person/Walker_Albertina) _(cited 1×)_
+- All About Jazz _(cited 2×)_
+- All About Jazz (https://www.allaboutjazz.com/sun-ra-arkestra-at-sfjazz-center); Spectrum Culture (https://spectrumculture.com/2021/04/15/sun-ras-chicago-by-william-sites-review/) _(cited 1×)_
+- All About Jazz — Little Walter (http://www.allaboutjazz.com/musicians/little-walter) _(cited 2×)_
+- AllMusic (http://www.allmusic.com/artist/dinah-washington-mn0000260038) _(cited 1×)_
+- AllMusic (http://www.allmusic.com/artist/dinah-washington-mn0000260038); Rhino (https://www.rhino.com/article/dinah-washington) _(cited 1×)_
+- AllMusic (https://www.allmusic.com/artist/the-chi-lites-mn0000762731) _(cited 4×)_
+- AllMusic — Muhal Richard Abrams (https://www.allmusic.com/artist/muhal-richard-abrams-mn0000605840/biography) _(cited 1×)_
+- American Music Pioneers — Willie Dixon (https://www.americanmusicpioneers.com/musicians/blues/willie-dixon) _(cited 2×)_
+- Amy Absher, 'The Black Musician and the White City' (2014) _(cited 1×)_
+- Audio Fraternity, 'A Breif History of House Music' _(cited 1×)_
+- Bandcamp Daily (2026-09-21); Wikipedia, 'Dance Mania (record label)' _(cited 1×)_
+- Bandcamp Daily, 'A Journey Through Ghetto House and Juke' (2026-09-21); Red Bull Music Academy (2016) _(cited 1×)_
+- Boomerang Books listing for Dolins, 'Can I Get a Witness!' (2026) _(cited 1×)_
+- Britannica (https://www.britannica.com/biography/Curtis-Mayfield) _(cited 2×)_
+- Britannica (https://www.britannica.com/biography/Curtis-Mayfield); Soulwalking (http://www.soulwalking.co.uk/Gene%20Chandler.html) _(cited 1×)_
+- Britannica (https://www.britannica.com/biography/Curtis-Mayfield); Soulwalking (http://www.soulwalking.co.uk/Jerry%20Butler.html) _(cited 1×)_
+- Britannica — Muddy Waters biography (https://www.britannica.com/biography/Muddy-Waters) _(cited 3×)_
+- Calkins (2019), 'More than Sound: Record Stores in Majority Black Neighborhoods' (sci-hub hosted PDF) _(cited 1×)_
+- Chicago House Music Oral History Project, Center for Black Music Research (Celeste Alexander interview) _(cited 1×)_
+- Chicago House Music Oral History Project, Center for Black Music Research (Micah Salkind interview); OkayAfrica _(cited 1×)_
+- Chicago Magazine (Dec 2020); Britannica ('Disco Demolition Night'). _(cited 1×)_
+- Chicago Reader via coperisper.pages.dev; Wikipedia 'Al Benson' _(cited 1×)_
+- Chicago Tribune via WYND Radio _(cited 1×)_
+- Chicago Tribune, 'Chess Records marks its 75th anniversary' (via pagesuite PDF) _(cited 1×)_
+- City of Chicago Warehouse landmark report; Resident Advisor (ra.co/news/10915); Red Bull Music Academy (2015-05). _(cited 1×)_
+- City of Chicago Warehouse report (1977–82 timeline); Britannica. _(cited 1×)_
+- City of Chicago Warehouse report; Red Bull Music Academy (2015-05). _(cited 1×)_
+- City of Chicago, Landmark Designation Report for The Warehouse _(cited 2×)_
+- City of Chicago, Landmark Designation Report for The Warehouse (chicago.gov) _(cited 1×)_
+- City of Chicago, Landmark Designation Report for The Warehouse; 5 Magazine, 'Robert Williams Music Box Memoirs' _(cited 1×)_
+- Cobra Records history (https://en.wikipedia.org/wiki/Cobra_Records) _(cited 2×)_
+- Cobra Records history (https://en.wikipedia.org/wiki/Cobra_Records); PRX exchange piece (http://exchange.prx.org/pieces/446963?m=false) _(cited 2×)_
+- DJ Disc Jockey (2022); DJ Mag (2020) _(cited 1×)_
+- DJ Disc Jockey (2022); DJ Mag (2020); GO BANG Magazine (2020-04-09). _(cited 1×)_
+- DJ Mag _(cited 6×)_
+- DJ Mag (2020) _(cited 4×)_
+- DJ Mag (2020); GO BANG Magazine (2020-04-09) _(cited 3×)_
+- DJ Mag (Espinoza obituary; Jones account). _(cited 1×)_
+- DMC World Magazine (2024); 5 Magazine (2015, 2019); Resident Advisor (2013) _(cited 1×)_
+- Dazed, 'DJ Deeon and Parris Mitchell on how Dance Mania changed house forever' (2015/2023); Bandcamp Daily (2026-09-21) _(cited 1×)_
+- Discogs (Common artist page) _(cited 3×)_
+- Discogs; elsewhere.co.nz (2011-08-30) _(cited 1×)_
+- Donald Clarke Music Box (http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=694); NPR via KMUC (https://www.kmuc.org/2019-03-17/nat-king-cole-still-remains-one-of-the-great-gifts-of-nature-100-years-later) _(cited 1×)_
+- EBSCO Research Starters; GMWA history _(cited 1×)_
+- Earshot Jazz (https://www.earshot.org/makaya-mccravenapril2019/) _(cited 1×)_
+- Encyclopedia.com (https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/sam-cooke) _(cited 1×)_
+- Encyclopedia.com (https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/sam-cooke); EBSCO (https://www.ebsco.com/research-starters/history/sam-cooke) _(cited 1×)_
+- Flying Out (https://www.flyingout.co.nz/products/makaya-mccraven-universal-beings-2xlp) _(cited 1×)_
+- Flying Out (https://www.flyingout.co.nz/products/makaya-mccraven-universal-beings-2xlp); Earshot Jazz (https://www.earshot.org/makaya-mccravenapril2019/) _(cited 1×)_
+- General discographic record (no single URL verified in this pass) _(cited 1×)_
+- Georgia Entertainment (2017-02) _(cited 3×)_
+- Georgia Entertainment (2017-02); MusicRadar _(cited 1×)_
+- Georgia Entertainment (2017-02); MusicRadar — both document the TB-303 sound origin, neither substantiates the LSD naming claim. _(cited 1×)_
+- Grammy.com (https://live.grammy.com/news/chance-rapper-interview-coloring-book-magnificent-coloring-world-film) _(cited 2×)_
+- Grammy.com (https://www.grammy.com/news/record-store-recs-chicago-house-hero-marshall-jefferson-representation-dance-music/) _(cited 1×)_
+- Grooveist (2022); 5 Magazine (2015, 2019); Resident Advisor (2013, 2015) _(cited 1×)_
+- HiFi News (https://hifinews.com/content/roberta-flack-donny-hathaway?qt-related_posts=1) _(cited 2×)_
+- Hymnary.org (https://hymnary.org/person/Walker_Albertina); NEA (https://www.arts.gov/honors/heritage/albertina-walker) _(cited 1×)_
+- Illinois Rock & Roll Museum on Route 66 (https://roadtorock.org/artist/chester-burnett-aka-howlin-wolf/) _(cited 2×)_
+- Jazz88 (https://www.jazz88.fm/2024/09/19/celebrating-muhal/) _(cited 1×)_
+- Jazz88 (https://www.jazz88.fm/2024/09/19/celebrating-muhal/); Pi Recordings (http://pirecordings.com/artists/muhal-richard-abrams/) _(cited 1×)_
+- KACU (https://www.kacu.org/2017-11-15/to-be-rare-true-and-free) _(cited 1×)_
+- KACU (https://www.kacu.org/2017-11-15/to-be-rare-true-and-free); Wikipedia (https://en.wikipedia.org/wiki/Noname_(rapper)) _(cited 1×)_
+- KWBU / Baylor 'Shout: Black Gospel Music Moments' (https://www.kwbu.org/show/shout-black-gospel-music-moments/2022-11-27/shout-black-gospel-music-moments-sallie-martin) _(cited 1×)_
+- Kenta Kepage biography (https://kentakepage.com/mahalia-jackson-queen-of-gospel/) _(cited 1×)_
+- LA Sentinel (https://lasentinel.net/black-history-month-thomas-a-dorsey.html) _(cited 1×)_
+- LA Sentinel (https://lasentinel.net/buddy-guy-looks-to-the-future-of-the-blues.html) _(cited 1×)_
+- Last.fm (https://www.last.fm/music/Dinah+Washington/+wiki) _(cited 1×)_
+- Last.fm — Dinah Washington (https://www.last.fm/music/Dinah+Washington/+wiki) _(cited 1×)_
+- Legacy.com (https://www.legacy.com/news/nat-king-cole-unforgettable) _(cited 1×)_
+- Louder Sound (https://www.loudersound.com/features/mavis-staples-the-life-and-soul-of-a-legend) _(cited 2×)_
+- Making Music Fun biography (https://makingmusicfun.net/public/assets/pdf/printit-biographies/louis-armstrong-printit-biography.pdf); Scribd biography summary _(cited 1×)_
+- Mark Guarino, 'The legacy of Chicago's Bandit Records' (mark-guarino.com) _(cited 3×)_
+- Masters of Traditional Arts (http://www.mastersoftraditionalarts.org/artists/312?selected_facets=) _(cited 1×)_
+- Masters of Traditional Arts (http://www.mastersoftraditionalarts.org/artists/312?selected_facets=); Louder Sound (https://www.loudersound.com/features/mavis-staples-the-life-and-soul-of-a-legend) _(cited 1×)_
+- Mix (https://www.mixonline.com/recording/classic-tracks/classic-track-best-my-love-emotions-428504) _(cited 2×)_
+- Multiple secondary biographies; see All About Jazz (http://www.allaboutjazz.com/musicians/little-walter) _(cited 1×)_
+- Multiple secondary biographies; see RA (https://ra.co/dj/ronhardy/biography) _(cited 1×)_
+- MusicGateway (https://www.musicgateway.com/blog/h-how-to/jamila-woods-biography) _(cited 1×)_
+- MusicRadar _(cited 2×)_
+- MusicRadar (acid house history); Georgia Entertainment (2017-02). _(cited 1×)_
+- MusicRadar; Georgia Entertainment (2017-02) _(cited 1×)_
+- MusicianGuide (https://www.musicianguide.com/biographies/1608004546/twista.html) _(cited 3×)_
+- NEA (https://www.arts.gov/honors/heritage/albertina-walker); African American Registry (https://aaregistry.org/story/albertina-walker-gospel-singer-born/) _(cited 1×)_
+- NEA (https://www.arts.gov/honors/heritage/albertina-walker); Wikipedia (https://en.wikipedia.org/wiki/Albertina_Walker) _(cited 2×)_
+- NME _(cited 1×)_
+- NME (30-year 'Ride on Time' history). _(cited 1×)_
+- NME (observed 2026-09-28) _(cited 1×)_
+- NPR Illinois (https://www.nprillinois.org/the-x/2016-09-16/classic-dose-larry-heard) _(cited 3×)_
+- NPR via KMUC (2012-06-29); Resident Advisor _(cited 1×)_
+- NPR via KMUC (https://www.kmuc.org/2019-03-17/nat-king-cole-still-remains-one-of-the-great-gifts-of-nature-100-years-later); Donald Clarke Music Box (http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=694) _(cited 1×)_
+- NPR via NPR Illinois (https://www.nprillinois.org/2023-04-26/remembering-pianist-and-nea-jazz-master-ahmad-jamal) _(cited 2×)_
+- NPR via NPR Illinois (https://www.nprillinois.org/2023-04-26/remembering-pianist-and-nea-jazz-master-ahmad-jamal); WWFM (https://www.wwfm.org/jazz-news/2008-08-29/ahmad-jamal-on-piano-jazz?_amp=true) _(cited 1×)_
+- NPR/KMUC, 'This Old Chicago House: EDM's Family Roots' (2012) _(cited 1×)_
+- NPR/KVNF, 'Hardcore Traxx' (2014); Bandcamp Daily (2026-09-21) _(cited 1×)_
+- NPR/MTPR, 'Arizona Dranes, Forgotten Mother Of The Gospel Beat' (2012) _(cited 1×)_
+- NPR/WUTC, 'Revisiting The Soul-Stirring Sounds Of Decades-Old Gospel Music' (2015) _(cited 1×)_
+- NTS (https://www.nts.live/artists/4860-ron-hardy) _(cited 5×)_
+- NYU Tisch (https://tisch.nyu.edu/clive-davis-institute/people0/residencies-1/jamila-woods); Roam Artists (https://roamartists.com/artists/jamila-woods/) _(cited 1×)_
+- New Georgia Encyclopedia _(cited 3×)_
+- New Georgia Encyclopedia (georgiaencyclopedia.org) _(cited 1×)_
+- New Georgia Encyclopedia; Michael W. Harris, 'The Rise of Gospel Blues'. _(cited 1×)_
+- Not verified in this pass _(cited 20×)_
+- Old Time Blues (http://oldtimeblues.net/tag/king-oliver/) _(cited 2×)_
+- Old Town School of Folk Music (https://www.oldtownschool.org/concerts/2018/02-09-2018-gdp-black-history-month/) _(cited 2×)_
+- Opal Louis Nations research document (1999) _(cited 2×)_
+- Opal Louis Nations, 'Specialty Singles: Gospel Side of Specialty Records' (2011); Alan Young, 'Woke Me Up This Morning' via archive.org (1996) _(cited 1×)_
+- PSU legal history (Vaidhyanathan); ledzepnews.com (2025-04-12) _(cited 1×)_
+- Pi Recordings (http://pirecordings.com/artists/muhal-richard-abrams/) _(cited 1×)_
+- PicoBlog Armstrong biography (https://gregoden.s3.uk.io.cloud.ovh.net/louis-armstrong-biography-jazz-musician-satchmo.html) _(cited 2×)_
+- PicoBlog Armstrong biography (https://gregoden.s3.uk.io.cloud.ovh.net/louis-armstrong-biography-jazz-musician-satchmo.html); YouTube Gennett session notes _(cited 1×)_
+- Read the Plaque (https://www.readtheplaque.com/plaque/thomas-a-dorsey-father-of-gospel) _(cited 1×)_
+- Read the Plaque (https://www.readtheplaque.com/plaque/thomas-a-dorsey-father-of-gospel); LA Sentinel (https://lasentinel.net/black-history-month-thomas-a-dorsey.html) _(cited 1×)_
+- Recording history (https://en.wikipedia.org/wiki/Move_On_Up_a_Little_Higher) _(cited 1×)_
+- Red Bull Music Academy Daily (2015-05) _(cited 1×)_
+- Resident Advisor (https://ra.co/dj/ronhardy/biography); NTS (https://www.nts.live/artists/4860-ron-hardy) _(cited 1×)_
+- Resident Advisor (ra.co/news/10915); Wikipedia "On & On (Jesse Saunders song)" _(cited 1×)_
+- Resident Advisor; NPR via KMUC (kmuc.org, 2012-06-29) _(cited 1×)_
+- Resident Advisor; Wikipedia 'On & On (Jesse Saunders song)'; Wikipedia 'Your Love (Jamie Principle song)'. _(cited 1×)_
+- SA Hip Hop Mag (https://sahiphopmag.co.za/2019/07/noname-teams-up-with-saba-and-smino-in-new-single/) _(cited 2×)_
+- SA Hip Hop Mag (https://sahiphopmag.co.za/2019/07/noname-teams-up-with-saba-and-smino-in-new-single/); KACU (https://www.kacu.org/2017-11-15/to-be-rare-true-and-free) _(cited 1×)_
+- SPIN, 'Burning Down the House' (Nov. 1986) _(cited 1×)_
+- SPIN, 'Teklife Forever' (2014); Wikipedia, 'DJ Rashad' _(cited 1×)_
+- Selmer (https://www.selmer.fr/en/blogs/artistes/von-freeman) _(cited 1×)_
+- Selmer (https://www.selmer.fr/en/blogs/artistes/von-freeman); WEKU (https://www.weku.org/2010-04-20/von-freemans-core-corps-captured-in-germany?_amp=true) _(cited 1×)_
+- Smithsonian Folklife Festival, 'R&B on the Airwaves: Radio'; Wikipedia 'Al Benson' _(cited 1×)_
+- Socast radio article, 'Black-Owned Record Stores Have Been in Decline' (2023); Vinyl Me Please via Milled (2021) _(cited 1×)_
+- Sonichits (https://sonichits.com/album/Earl_Hines/Complete_Jazz_Series_1937_-_1939) _(cited 1×)_
+- Sonichits (https://sonichits.com/album/Earl_Hines/Complete_Jazz_Series_1937_-_1939); PA Center for the Book (http://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/hines__earl_fatha) _(cited 1×)_
+- Soulwalking (http://www.soulwalking.co.uk/Gene%20Chandler.html) _(cited 2×)_
+- Soulwalking (http://www.soulwalking.co.uk/Ramsey%20Lewis.html); Popdose (https://popdose.com/soul-serenade-ramsey-lewis-trio-the-in-crowd/) _(cited 1×)_
+- Spectrum Culture (https://spectrumculture.com/2021/04/15/sun-ras-chicago-by-william-sites-review/) _(cited 1×)_
+- Tape Op Magazine, 'Recording 1960s Avant-Garde Jazz in Chicago' _(cited 2×)_
+- The Ford music database (https://www.theford.com/musicdb/artists/2215/buddy-guy); LA Sentinel (https://lasentinel.net/buddy-guy-looks-to-the-future-of-the-blues.html) _(cited 1×)_
+- The HistoryMakers, Finding Aid to Video Oral History with George Daniels (A2007_156) _(cited 3×)_
+- The TRiiBE (2026-09) _(cited 1×)_
+- The TRiiBE, 'George's Music Room is in conceptual phase' (2024) _(cited 1×)_
+- TheBlues-ThatJazz (http://www.theblues-thatjazz.com/pl/jazz/2284-earl-hines/8089-earl-fatha-hines-the-classic-years-2001.pdf) _(cited 1×)_
+- TheCityCeleb (https://www.thecityceleb.com/biography/celebrity/rapper/common-biography-early-life-career-relationships-net-worth/); Red Bull (https://www.youtube.com/watch?v=qM0EBBtVWdU) _(cited 1×)_
+- TheCityCeleb (https://www.thecityceleb.com/biography/celebrity/rapper/noname-biography/); Grammy.com (https://live.grammy.com/news/chance-rapper-interview-coloring-book-magnificent-coloring-world-film) _(cited 1×)_
+- Tsimon.com (http://www.tsimon.com/lance.htm); Soulwalking (http://www.soulwalking.co.uk/Major%20Lance.html) _(cited 1×)_
+- Tsimon.com — Major Lance (http://www.tsimon.com/lance.htm) _(cited 1×)_
+- Univ. of Michigan Press TOC (2014); rebiun catalog entry for Miller, 'Union Divided' (2024) _(cited 1×)_
+- Vaidhyanathan, Penn State legal history (PDF); ledzepnews.com (2025-04-12). _(cited 1×)_
+- Vinyl Me Please via Milled, 'Support these Black-owned record stores in the Midwest' (2021) _(cited 1×)_
+- WBBM Newsradio via Puget Sound Radio (2019); Chicago Talks (Columbia College) _(cited 1×)_
+- WBEZ Reset via Player FM, 'Get To Know Chicago Footwork With The Era Footwork Crew' _(cited 1×)_
+- WFMT (2017-01-11); All About Jazz _(cited 1×)_
+- WFMT (2017-01-11); All About Jazz; mahalia-jackson.com. _(cited 1×)_
+- WLS-TV Chicago stepping coverage (URL not captured in this pass) _(cited 1×)_
+- WYND Radio / Chicago Tribune _(cited 1×)_
+- WYND Radio / Chicago Tribune (wynd-radio.com) _(cited 1×)_
+- Wikipedia "2120 South Michigan Avenue" _(cited 1×)_
+- Wikipedia "Chess Records" _(cited 5×)_
+- Wikipedia "Chess Records"; GlobeSt.com (2005-09-18) _(cited 1×)_
+- Wikipedia "Curtom Records" _(cited 1×)_
+- Wikipedia "Curtom Records"; divabetic.org _(cited 1×)_
+- Wikipedia "Duke of Earl" _(cited 1×)_
+- Wikipedia "Duke of Earl"; Wikipedia "Gene Chandler" _(cited 1×)_
+- Wikipedia "Earth, Wind & Fire"; pastemagazine.com _(cited 1×)_
+- Wikipedia "Earth, Wind & Fire"; pastemagazine.com (2016-02-04) _(cited 1×)_
+- Wikipedia "Father Stretch My Hands" _(cited 1×)_
+- Wikipedia "Hot Mix 5" _(cited 7×)_
+- Wikipedia "James Cleveland" _(cited 2×)_
+- Wikipedia "James Cleveland"; EBSCO Research Starters _(cited 1×)_
+- Wikipedia "Maybellene" _(cited 4×)_
+- Wikipedia "Maybellene"; 56thst.com _(cited 1×)_
+- Wikipedia "On & On (Jesse Saunders song)" _(cited 2×)_
+- Wikipedia "Regal Theater, Chicago" _(cited 2×)_
+- Wikipedia "Regal Theater, Chicago"; All About Jazz _(cited 1×)_
+- Wikipedia "Resurrection (Common album)" _(cited 3×)_
+- Wikipedia "Resurrection (Common song)" _(cited 1×)_
+- Wikipedia "Soul Train"; U.S. Congressional Record _(cited 1×)_
+- Wikipedia "Twista" _(cited 5×)_
+- Wikipedia "Your Love (Jamie Principle song)" _(cited 1×)_
+- Wikipedia "Your Love (Jamie Principle song)"; Resident Advisor _(cited 1×)_
+- Wikipedia 'Your Love (Jamie Principle song)'. _(cited 1×)_
+- Wikipedia (http://en.wikipedia.org/wiki/Lupe_Fiasco) _(cited 2×)_
+- Wikipedia (http://en.wikipedia.org/wiki/Ramsey_Lewis); Soulwalking (http://www.soulwalking.co.uk/Ramsey%20Lewis.html) _(cited 2×)_
+- Wikipedia (https://en.wikipedia.org/wiki/Chaka_Khan) _(cited 3×)_
+- Wikipedia (https://en.wikipedia.org/wiki/Chief_Keef) _(cited 1×)_
+- Wikipedia (https://en.wikipedia.org/wiki/Chief_Keef); Last.fm (https://www.last.fm/music/Chief+Keef/+wiki) _(cited 1×)_
+- Wikipedia (https://en.wikipedia.org/wiki/Da_Brat) _(cited 1×)_
+- Wikipedia (https://en.wikipedia.org/wiki/Johnny_Griffin) _(cited 2×)_
+- Wikipedia (https://en.wikipedia.org/wiki/Minnie_Riperton) _(cited 3×)_
+- Wikipedia — Ramsey Lewis (http://en.wikipedia.org/wiki/Ramsey_Lewis); Soulwalking (http://www.soulwalking.co.uk/Ramsey%20Lewis.html) _(cited 1×)_
+- Wikipedia, 'Chess Records' _(cited 7×)_
+- Wikipedia, 'Chess Records'; Mark Guarino, 'The legacy of Chicago's Bandit Records' _(cited 1×)_
+- Wikipedia, 'Chicago stepping'; The TRiiBE (2026-09) _(cited 2×)_
+- Wikipedia, 'DJ Rashad' _(cited 4×)_
+- Wikipedia, 'DJ Rashad'; Red Bull Music Academy lecture notes (2016) _(cited 1×)_
+- Wikipedia, 'DJ Rashad'; SPIN, 'Teklife Forever' (2014) _(cited 1×)_
+- Wikipedia, 'Dance Mania (record label)'; Rush Hour Records (Strut reissue notes) _(cited 1×)_
+- Wikipedia, 'Footwork (genre)' _(cited 2×)_
+- Wikipedia, 'Footwork (genre)'; Red Bull Music Academy lecture notes (2016) _(cited 1×)_
+- Wikipedia, 'Footwork (genre)'; SPIN, 'These Feet Were Made for Workin'' (2012) _(cited 1×)_
+- Wikipedia, 'History of radio disc jockeys' _(cited 1×)_
+- Wikipedia, 'Hot Mix 5' _(cited 1×)_
+- Wikipedia, 'Hot Mix 5'; YouTube archive bio (IvoryJoeMixes) _(cited 1×)_
+- Wikipedia, 'Hot Mix 5'; YouTube archive descriptions (IvoryJoeMixes) _(cited 1×)_
+- Wikipedia, 'Richard Long (sound designer)' _(cited 1×)_
+- YouTube archive bio, 'Farley Jackmaster Funk On WBMX (1985)' (IvoryJoeMixes) _(cited 3×)_
+- YouTube/Hitones description; divabetic.org _(cited 1×)_
+- arteriorshome.co.uk (observed 2026-09-28) _(cited 1×)_
+- blackamericaweb.com (2019); Pollstar (2012-02-02) _(cited 1×)_
+- blackamericaweb.com (2019); blackenterprise.com _(cited 1×)_
+- boardroom.tv (2022) _(cited 1×)_
+- divabetic.org _(cited 1×)_
+- elsewhere.co.nz (2011-08-30) _(cited 2×)_
+- fakeshoredrive.com (2012) _(cited 1×)_
+- fakeshoredrive.com (2012); mic.com (2022) _(cited 1×)_
+- faroutmagazine.co.uk _(cited 1×)_
+- faroutmagazine.co.uk; internationaltimes.it _(cited 1×)_
+- faroutmagazine.co.uk; nedrock.org; parade.com _(cited 1×)_
+- filestein.com; divabetic.org _(cited 1×)_
+- http://chicago.gov/content/city/en/depts/dca/provdrs/attractions_eventsandexhibitions/news/2024/september/warehouse.html _(cited 2×)_
+- http://djmag.com/news/chicago-house-musics-queer-history-explored-thing-zine-anthology _(cited 2×)_
+- http://metallungies.com/2008/08/beat-drop-curtis-mayfield/ _(cited 2×)_
+- http://music.hyperreal.org/library/sample_and_hold.html _(cited 1×)_
+- http://music.hyperreal.org/library/sample_and_hold.html _(cited 5×)_
+- http://news.uchicago.edu/story/whpk-hosted-commonkanye-faceoff-they-were-stars _(cited 2×)_
+- http://www.arts.gov/stories/jazz-moments/muhal-richard-abrams-founding-aacm _(cited 2×)_
+- http://www.chicagomusic.org/tag/1390-am/ _(cited 1×)_
+- http://www.hotshotwhizkids.com/tag/flo-rida/ _(cited 1×)_
+- http://www.madeinchicagomuseum.com/single-post/vee-jay-records/ _(cited 4×)_
+- http://www.soulwalking.co.uk/Major%20Lance.html _(cited 3×)_
+- http://www.tsimon.com/lance.htm _(cited 4×)_
+- https://5mag.net/featured/chicago-house-music-festival-2018/ _(cited 1×)_
+- https://ajwoodson.substack.com/p/from-soul-to-substance-curtis-mayfields _(cited 1×)_
+- https://bandweblogs.com/blog/2013/04/23/sam-cooke-a-change-is-gonna-come-songwriters-hall-of-fame-award/ _(cited 1×)_
+- https://blog.history.in.gov/tag/the-spaniels/ _(cited 1×)_
+- https://chicago.citycast.fm/explainers/maxwell-street-decline _(cited 1×)_
+- https://chicagolivereport.com/site/festivals/features/housemusic-fest-2026 _(cited 1×)_
+- https://christiansongbook.ca/product/precious-lord-take-my-hand-piano-solo/ _(cited 1×)_
+- https://daily.bandcamp.com/features/ghetto-house-juke-album-guide?from=homepage&ui_context=featured_editorial _(cited 1×)_
+- https://daily.bandcamp.com/features/traxman-chicago-footwork-dance-music-history _(cited 1×)_
+- https://digitalcommons.colum.edu/cmbr_guides/index.9.html _(cited 1×)_
+- https://digitalcommons.colum.edu/house/index.12.html _(cited 2×)_
+- https://djmag.com/news/dj-international-records-co-founder-benji-espinoza-has-died _(cited 1×)_
+- https://djmag.com/news/legendary-house-label-trax-records-co-founder-larry-sherman-has-died-aged-70 _(cited 3×)_
+- https://dubiks.com/2018/07/04/summer-of-love-3cd-mix-from-paul-oakenfold/ _(cited 3×)_
+- https://ecommons.luc.edu/luc_diss/688/ _(cited 1×)_
+- https://ecommons.luc.edu/luc_diss/688/ _(cited 1×)_
+- https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come _(cited 1×)_
+- https://en.wikipedia.org/wiki/Alligator_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/Austin,_Chicago _(cited 1×)_
+- https://en.wikipedia.org/wiki/Bill_Putnam _(cited 3×)_
+- https://en.wikipedia.org/wiki/Bo_Diddley _(cited 2×)_
+- https://en.wikipedia.org/wiki/Brunswick_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/Bud_Billiken_Parade _(cited 1×)_
+- https://en.wikipedia.org/wiki/Buddy_Guy%27s_Legends _(cited 2×)_
+- https://en.wikipedia.org/wiki/Carl_Davis_(record_producer) _(cited 1×)_
+- https://en.wikipedia.org/wiki/Chatham,_Chicago _(cited 1×)_
+- https://en.wikipedia.org/wiki/Checkerboard_Lounge _(cited 3×)_
+- https://en.wikipedia.org/wiki/Checkerboard_Lounge _(cited 2×)_
+- https://en.wikipedia.org/wiki/Chess_Records _(cited 12×)_
+- https://en.wikipedia.org/wiki/Chess_Records _(cited 5×)_
+- https://en.wikipedia.org/wiki/Chi-Sound_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/Chicago_Defender _(cited 1×)_
+- https://en.wikipedia.org/wiki/Chicago_soul _(cited 14×)_
+- https://en.wikipedia.org/wiki/Chicago_stepping _(cited 9×)_
+- https://en.wikipedia.org/wiki/Chicago_stepping _(cited 1×)_
+- https://en.wikipedia.org/wiki/Clarence_H._Cobbs _(cited 13×)_
+- https://en.wikipedia.org/wiki/Club_DeLisa _(cited 2×)_
+- https://en.wikipedia.org/wiki/Cobra_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/Crazy_in_Love_(Beyonce_Knowles_song) _(cited 3×)_
+- https://en.wikipedia.org/wiki/Curtis_(album) _(cited 2×)_
+- https://en.wikipedia.org/wiki/Curtom_Records _(cited 11×)_
+- https://en.wikipedia.org/wiki/Curtom_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/DJ_International_Records _(cited 3×)_
+- https://en.wikipedia.org/wiki/DJ_International_Records _(cited 2×)_
+- https://en.wikipedia.org/wiki/Dakar_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/Disco_Demolition_Night _(cited 4×)_
+- https://en.wikipedia.org/wiki/Disco_Demolition_Night _(cited 2×)_
+- https://en.wikipedia.org/wiki/Don_Cornelius _(cited 1×)_
+- https://en.wikipedia.org/wiki/DownBeat _(cited 2×)_
+- https://en.wikipedia.org/wiki/Englewood,_Chicago _(cited 1×)_
+- https://en.wikipedia.org/wiki/Frankie_Knuckles _(cited 2×)_
+- https://en.wikipedia.org/wiki/Good_Feeling_(song) _(cited 3×)_
+- https://en.wikipedia.org/wiki/Grand_Terrace_Cafe _(cited 1×)_
+- https://en.wikipedia.org/wiki/Green_Mill_Cocktail_Lounge _(cited 3×)_
+- https://en.wikipedia.org/wiki/Hot_Mix_5 _(cited 1×)_
+- https://en.wikipedia.org/wiki/Howlin%27_Wolf _(cited 2×)_
+- https://en.wikipedia.org/wiki/Jacking_(dance) _(cited 1×)_
+- https://en.wikipedia.org/wiki/Jazz_Record_Mart _(cited 2×)_
+- https://en.wikipedia.org/wiki/King_Oliver _(cited 1×)_
+- https://en.wikipedia.org/wiki/Lu_Palmer _(cited 2×)_
+- https://en.wikipedia.org/wiki/Move_Your_Body_(Marshall_Jefferson_song) _(cited 1×)_
+- https://en.wikipedia.org/wiki/Music_Box_(club) _(cited 1×)_
+- https://en.wikipedia.org/wiki/North_Lawndale,_Chicago _(cited 1×)_
+- https://en.wikipedia.org/wiki/Oldies-45 _(cited 3×)_
+- https://en.wikipedia.org/wiki/On_%26_On_(Jesse_Saunders_song) _(cited 3×)_
+- https://en.wikipedia.org/wiki/One-derful!_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/Pilgrim_Baptist_Church _(cited 1×)_
+- https://en.wikipedia.org/wiki/Roberts_Show_Club _(cited 2×)_
+- https://en.wikipedia.org/wiki/Ron_Hardy _(cited 3×)_
+- https://en.wikipedia.org/wiki/SAR_Records _(cited 4×)_
+- https://en.wikipedia.org/wiki/Savoy_Ballroom _(cited 2×)_
+- https://en.wikipedia.org/wiki/Smartbar _(cited 1×)_
+- https://en.wikipedia.org/wiki/Soul_Train _(cited 1×)_
+- https://en.wikipedia.org/wiki/Sunset_Cafe _(cited 1×)_
+- https://en.wikipedia.org/wiki/Super_Fly_(soundtrack) _(cited 1×)_
+- https://en.wikipedia.org/wiki/Sutherland_Lounge _(cited 1×)_
+- https://en.wikipedia.org/wiki/Theresa%27s_Lounge _(cited 1×)_
+- https://en.wikipedia.org/wiki/Thomas_A._Dorsey _(cited 1×)_
+- https://en.wikipedia.org/wiki/Through_the_Wire _(cited 2×)_
+- https://en.wikipedia.org/wiki/Trax_Records _(cited 5×)_
+- https://en.wikipedia.org/wiki/Vee-Jay_Records _(cited 1×)_
+- https://en.wikipedia.org/wiki/WGCI-FM _(cited 2×)_
+- https://en.wikipedia.org/wiki/WGRB _(cited 1×)_
+- https://en.wikipedia.org/wiki/WVON _(cited 1×)_
+- https://en.wikipedia.org/wiki/Walter_H._Dyett_High_School _(cited 1×)_
+- https://en.wikipedia.org/wiki/Wendell_Phillips_Academy_High_School _(cited 1×)_
+- https://en.wikipedia.org/wiki/Woodlawn,_Chicago _(cited 1×)_
+- https://gdestefano.ag-sites.net/attachments/Contrary_to_Popular_Belief.pdf _(cited 1×)_
+- https://gramaphonerecords.com/ _(cited 1×)_
+- https://guitar.com/reviews/album/the-genius-of-hoodoo-man-blues-by-junior-wells-chicago-blues-band/ _(cited 2×)_
+- https://illinoisentertainer.com/2006/01/birthplace-of-gospel-music-destroyed/ _(cited 1×)_
+- https://mail.otrr.org/FILES/Articles/Ryan_Ellett_Articles/ChicagoBlackRadio.pdf _(cited 4×)_
+- https://media.dream13.com/syl-johnson-1936-2022/ _(cited 7×)_
+- https://music.fandom.com/wiki/Major_Lance _(cited 3×)_
+- https://news.pollstar.com/2005/11/21/chicago-back-in-check/ _(cited 1×)_
+- https://nightlife.fandom.com/wiki/House _(cited 3×)_
+- https://nmaahc.si.edu/object/nmaahc_2015.134.1a-g _(cited 1×)_
+- https://picturingblackhistory.org/muddy-waters-aint-that-a-man/ _(cited 2×)_
+- https://producelikeapro.com/blog/muddy-waters/ _(cited 1×)_
+- https://pt-br.ra.co/news/82855 _(cited 3×)_
+- https://ra.co/news/29946 _(cited 1×)_
+- https://ra.co/news/31536 _(cited 1×)_
+- https://rollingstonesdata.com/articles/when-the-rolling-stones-recorded-at-chess-studios-chicago-1964/ _(cited 6×)_
+- https://shec.ashp.cuny.edu/items/show/1598 _(cited 3×)_
+- https://shop.secretstashrecords.com/products/one-derful-collection-mar-v-lus-records _(cited 1×)_
+- https://stpaulferney.com/2026/08/09/precious-lord-take-my-hand/ _(cited 2×)_
+- https://thetriibe.com/2026/09/the-worlds-largest-steppers-set-is-this-weekend-keeping-the-chicago-dances-legacy-alive/ _(cited 2×)_
+- https://ucsdguardian.org/2019/01/24/chicago-hip-hop/ _(cited 3×)_
+- https://washburnreview.org/21752/uncategorized/chess-recordings-of-etta-james-contain-her-best/ _(cited 1×)_
+- https://www.CurtisMayfield.com/currents.html _(cited 6×)_
+- https://www.americanbluesscene.com/2021/05/delmark-records-founder-owner-bob-koester-dies-aged-88/ _(cited 1×)_
+- https://www.beachwoodreporter.com/music/chicago_history_museum_makes_t/ _(cited 1×)_
+- https://www.bet.com/photo-gallery/wj54j3/10-times-just-blaze-made-us-love-sampling/eltemo _(cited 1×)_
+- https://www.britannica.com/topic/Maxwell-Street-Market _(cited 1×)_
+- https://www.brooklynvegan.com/syl-johnson-much-sampled-soul-and-blues-legend-dies-at-85/ _(cited 1×)_
+- https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/New_Regal_Theater_Report.pdf _(cited 3×)_
+- https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/The_Warehouse_Report.pdf _(cited 12×)_
+- https://www.choosechicago.com/articles/chicago-music/your-guide-to-gospel-music-in-chicago/ _(cited 1×)_
+- https://www.choosechicago.com/articles/chicago-music/your-guide-to-gospel-music-in-chicago/ _(cited 2×)_
+- https://www.congress.gov/congressional-record/volume-159/issue-118/extensions-of-remarks-section/article/E1274-2 _(cited 3×)_
+- https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2 _(cited 9×)_
+- https://www.deejay.de/The_Chi_Lites_TOO_GOOD_TO_BE_FORGOTTEN_DEMREC974__993538 _(cited 9×)_
+- https://www.discogs.com/label/10023-Dakar _(cited 1×)_
+- https://www.discogs.com/label/24662-Delmark _(cited 1×)_
+- https://www.discogs.com/label/25640-Curtom _(cited 1×)_
+- https://www.discogs.com/label/26727-Chi-Sound _(cited 1×)_
+- https://www.discogs.com/release/253843-Curtis-Mayfield-Super-Fly _(cited 4×)_
+- https://www.discogs.com/release/3694981-Junior-Wells-Chicago-Blues-Band-Hoodoo-Man-Blues _(cited 1×)_
+- https://www.discogs.com/search/?q=sutherland+lounge&type=all _(cited 1×)_
+- https://www.ekklesia.co.uk/content_news/article_06018pilgrim-shtml/ _(cited 1×)_
+- https://www.energyflashrecords.co.uk/catalogue/title.phtml?product_id=138108 _(cited 1×)_
+- https://www.explorepinebluff.com/posts/sam-cooke-&-the-launch-of-his-career-in-pine-bluff _(cited 3×)_
+- https://www.grammy.com/news/record-store-recs-chicago-house-hero-marshall-jefferson-representation-dance-music/ _(cited 1×)_
+- https://www.gridface.com/jesse-saunders-on-and-on/ _(cited 2×)_
+- https://www.hmdb.org/m.asp?m=299646 _(cited 1×)_
+- https://www.honeypotperformance.org/about-the-cbscm _(cited 2×)_
+- https://www.iheart.com/podcast/1119-the-history-of-the-worlds-117401452/episode/warehouse-music-box-chicago-119671688/ _(cited 3×)_
+- https://www.ilovesteppin.com/news.php?id=94 _(cited 1×)_
+- https://www.iowapublicradio.org/2021-11-10/digging-into-the-legacy-of-chicagos-gramaphone-records _(cited 3×)_
+- https://www.kmuc.org/npr-music/2012-06-29/this-old-chicago-house-edms-family-roots _(cited 1×)_
+- https://www.knkx.org/2023-03-01/from-the-warehouse-to-the-world-chicago-and-the-birth-of-house-music _(cited 9×)_
+- https://www.kwit.org/2023-07-24/how-chicago-rap-became-a-home-for-controversial-visionary-stars _(cited 2×)_
+- https://www.lsureveille.com/217787/entertainment/new-chicago-steppin-dance-lessons-offered-as-leisure-class/ _(cited 1×)_
+- https://www.ndinsider.com/story/news/2004/12/13/muddy-waters-creates-a-new-blues-sound-in-chicago/26135644007/ _(cited 2×)_
+- https://www.nprillinois.org/2022-02-06/syl-johnson-chicago-soul-singer-widely-sampled-in-hip-hop-is-dead-at-85 _(cited 2×)_
+- https://www.nps.gov/locations/lowermsdeltaregion/howlin-wolf.htm _(cited 2×)_
+- https://www.pbssocal.org/shows/artbound/timeline-the-roots-and-growth-of-gospel-music-in-los-angeles _(cited 3×)_
+- https://www.pbssocal.org/shows/gospel/clip/thomas-dorseys-legacy _(cited 2×)_
+- https://www.preservationchicago.org/wttw-chicago-bronzeville-the-black-metropolis/ _(cited 1×)_
+- https://www.revolt.tv/article/2019-06-27/93813/chaka-khan-says-kanye-west-sampling-her-on-through-the-wire-was-stupid _(cited 1×)_
+- https://www.smithsonianmag.com/history/the-black-record-label-that-introduced-the-beatles-to-america-180979606/ _(cited 5×)_
+- https://www.smithsonianmag.com/smithsonian-institution/chicago-impressions-180958906/ _(cited 3×)_
+- https://www.soulandjazzandfunk.com/reviews/major-lance-aint-no-soul-rpm/ _(cited 2×)_
+- https://www.spinmagazine.com/2014/04/burning-down-the-house-chicago-club-80s/ _(cited 2×)_
+- https://www.spinmagazine.com/2014/04/burning-down-the-house-chicago-club-80s/ _(cited 1×)_
+- https://www.thewire.co.uk/news/48785/aacm-founder-muhal-richard-abrams-has-died _(cited 2×)_
+- https://www.udiscovermusic.com/stories/chess-records-mini-documentary/ _(cited 2×)_
+- https://www.wcbe.org/music/2012-07-09/conquering-reverb-behind-recorded-musics-oldest-sound-effect _(cited 2×)_
+- https://www.wcmu.org/music/2007-08-21/the-success-and-undoing-of-vee-jay-records _(cited 1×)_
+- https://www.whosampled.com/Curtis-Mayfield/ _(cited 6×)_
+- https://www.whosampled.com/sample/236/Kanye-West-Lupe-Fiasco-Touch-the-Sky-Curtis-Mayfield-Move-on-Up/ _(cited 2×)_
+- https://www.youtube.com/watch?v=f3EsL1_Cjg4&list=RDf3EsL1_Cjg4 _(cited 2×)_
+- https://www.youtube.com/watch?v=lJNMbidHM_I _(cited 1×)_
+- ilovesteppin.com, 'Chicago's Darrel Davis... The Key in the Center of the Alpha and the Omega' (2015) _(cited 1×)_
+- internationaltimes.it; faroutmagazine.co.uk _(cited 1×)_
+- mahalia-jackson.com (official estate history) _(cited 1×)_
+- mic.com (2022) _(cited 2×)_
+- mic.com (2022); hotnewhiphop.com _(cited 1×)_
+- parade.com _(cited 1×)_
+- parade.com; Chess Records histories _(cited 1×)_
+- pastemagazine.com (2016-02-04) _(cited 1×)_
+- proviseast72.org; Wikipedia "WVON" _(cited 1×)_
+- reverb.com _(cited 2×)_
+- reverb.com (citing Todd Mayfield, 'Traveling Soul') _(cited 1×)_
+- signaturesoundsonline.com _(cited 2×)_
+- signaturesoundsonline.com (Vee-Jay history); harlemworldmagazine.com (Black Swan history). _(cited 1×)_
+- thatericalper.com (2021-08-08) _(cited 1×)_
+- thatericalper.com (2021-08-08); EBSCO Research Starters _(cited 1×)_
+- thehistorymakers.org _(cited 2×)_
+- tsimon.com _(cited 4×)_
+- tviv.org; Wikipedia "Soul Train" _(cited 1×)_
+- undertheradarmag.com _(cited 1×)_

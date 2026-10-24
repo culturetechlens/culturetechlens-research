@@ -1,0 +1,2534 @@
+{
+  "project": "CTL-DR-PRESERVE-001",
+  "entities": [
+    {
+      "id": "CTL-PRESERVE-E-001",
+      "name": "Physical Deterioration",
+      "type": "risk",
+      "description": "Physical deterioration of carriers: mold, water damage, vinegar syndrome, magnetic-tape decay, and fragile newsprint destroying Black cultural materials, concentrated where storage is improvised and conservation staff absent.",
+      "claims": [
+        {
+          "claim": "Mold damage to African American Collection photographs at Emory University",
+          "evidence": "Emory Libraries' Preservation Office received photographic items from the Stuart A. Rose Manuscript, Archives, and Rare Book Library's African American Collection for mold treatment: sixteen studio prints, four tintypes, three ambrotypes, and two larger convex photographs. Mold covered the images due to moisture damage and inappropriate housing, growing between items and open plastic sleeves. Conservation staff cleaned, HEPA-vacuumed, and encapsulated the items; surface stains associated with mold deterioration remained on some pieces. Evidence: Institutional conservation blog with before/after treatment photographs documents moisture damage and inappropriate housing as the cause. Damage mechanism (mold between items and sleeves) is stated directly by the preservation staff.",
+          "source": "Emory Libraries, 'Rescuing Moldy Photographs' (Woodruff Libraries blog) — https://scholarblogs.emory.edu/woodruff/news/rescuing-moldy-photographs",
+          "primary": true,
+          "publication_date": "Treatment documented circa 2019 (blog post; last crawl context); damage accumulated over an indeterminate prior period",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Hurricane Katrina flood damage to the Calhoun–McCormick photographic archive (Black New Orleans)",
+          "evidence": "In 2005, documentary photographers Keith Calhoun and Chandra McCormick evacuated ahead of Hurricane Katrina, placing ~30 years of photographic work (film) in Rubbermaid bins on top of tables in their Lower Ninth Ward home/studio. They returned to toppled bins and waterlogged negatives: decades documenting Black New Orleanians — second-line parades, the prison industrial complex, everyday joy and struggle — were flood-damaged. Evidence: National Geographic (2021) interview with the photographers directly quoting their account of the bins, the waterlogging, and the loss. Partial salvage/restoration followed; the event is presented as personal/collective loss, not total destruction — some material was salvaged and exhibited.",
+          "source": "National Geographic, 'Warped and Waterlogged, a Damaged Photo Collection Takes on New Life' (2021) — https://www.nationalgeographic.com/photography/article/warped-and-waterlogged-a-damaged-photo-collection-takes-on-new-life",
+          "primary": false,
+          "publication_date": "August–September 2005 (Hurricane Katrina)",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "HBCU radio broadcast tapes deteriorating beyond repair",
+          "evidence": "Radio producer Jocelyn Robinson's survey of HBCU radio station archives (NPR, Feb 2020) found cassette tapes and floppy disks thrown into unlabeled boxes or bags and reel-to-reel tape 'past repair' at some schools; at one school, nothing was saved from over 40 years of broadcasting. The Northeast Document Conservation Center's HBCU Radio Preservation Project (Mellon-funded, 2026 field reporting) confirms that broadcasts documenting campus life, local communities, music, news, and the Black experience survive on deteriorating audio formats. Evidence: NPR reporting (WUOT/WEKU, Feb 16, 2020) quoting Robinson directly with specific examples; NEDCC field archivist reporting (Aug 20, 2026) describing format-by-format deterioration. Both are institutional/press sources with named staff. Some tapes are already irrecoverable — extent across all HBCUs is not quantified in these sources (gap noted).",
+          "source": "NPR/WUOT, 'One Woman's Quest To Preserve The Radio Archives At Historically Black Colleges' (Feb 16, 2020) — https://www.wuot.org/2020-02-16/one-womans-quest-to-preserve-the-radio-archives-at-historically-black-colleges",
+          "primary": false,
+          "publication_date": "Surveys 2019–2026; materials date from the 1960s onward",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-002",
+      "name": "Institutional Closure",
+      "type": "risk",
+      "description": "Closure (or near-closure) of the Black-led institution holding a collection, converting archives into bankruptcy assets, dispersed property, or unfunded orphans.",
+      "claims": [
+        {
+          "claim": "Johnson Publishing Company bankruptcy and closure (Chicago) — archive endangered",
+          "evidence": "Chicago-based Johnson Publishing Company, publisher of Ebony (founded 1945) and Jet (founded 1951), filed for Chapter 7 bankruptcy on April 9, 2019, owing $13.6 million to Capital V Holdings (controlled by George Lucas and Mellody Hobson). Its archive — 4–4.5 million prints and negatives, ~10,000 audio/visual recordings, thousands of hours of video footage, and business records — was put up for auction July 2019 to pay creditors. There was extended public anxiety the archive would be won by private collectors and closed to research. A consortium of four foundations (Ford, J. Paul Getty Trust, MacArthur, Mellon) purchased it for just under $30 million and donated it to the Smithsonian NMAAHC and the Getty Research Institute. Evidence: Multiple corroborating outlets (Hyperallergic, CJR, Smithsonian Magazine, NPR/KHSU, Hilco Streambank's own sale announcement via ABL Advisor) agree on bankruptcy date, creditor, auction timing, price, and buyers. Outcome (preservation) is confirmed; the risk phase (auction jeopardy) is documented contemporaneously. Note: the collection was appraised at $46–47 million in 2015 (Hyperallergic/CNN) but sold for ~$30M.",
+          "source": "Hyperallergic, 'An Essential History Immortalized in the Archive of Ebony and Jet' (2019) — https://hyperallergic.com/ebony-and-jet-archive-sale/",
+          "primary": false,
+          "publication_date": "April–July 2019 (bankruptcy and auction)",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "America's Black Holocaust Museum (Milwaukee) closed 2008; reopened as virtual museum 2012",
+          "evidence": "The Black Holocaust Museum in Milwaukee, founded by lynching survivor James Cameron as a memorial to enslavement, closed in 2008 due to financial difficulties. It reopened in 2012 as a virtual museum; its physical collection's disposition during the closure is the risk event. (A physical museum later reopened in Milwaukee in 2022 — outside the scope of the closure event itself.) Evidence: Hyperallergic's 'Resting in Pieces: The Scattered Fate of Closed Museums' documents the 2008 closure and 2012 virtual reopening. Single-source for this entry; corroboration not obtained in this research pass — flagged as a follow-up.",
+          "source": "Hyperallergic, 'Resting in Pieces: The Scattered Fate of Closed Museums' — https://hyperallergic.com/resting-in-pieces-the-scattered-fate-of-closed-museums/",
+          "primary": false,
+          "publication_date": "2008 closure; 2012 virtual reopening",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        },
+        {
+          "claim": "WDCU radio license sold by University of the District of Columbia during financial crisis",
+          "evidence": "The University of the District of Columbia — an HBCU — sold its radio station WDCU's broadcast license for $13 million to C-SPAN during a financial crisis (reported by NPR in Feb 2020 as 'twenty-three years ago,' i.e., ~1997), eliminating the station as a going concern. Curator Judith Korey and colleagues physically carried over what they could: ~14,000 recordings (LPs, CDs, cassettes, tapes), business records, membership lists, program guides, photographs. What could not be carried over was lost. Evidence: NPR (WUOT/WEKU) reporting with named sources (Jocelyn Robinson, Judith Korey) and specific figures ($13M, 14,000 recordings). Date is derived ('twenty-three years ago' from Feb 2020), not stated as a calendar year — noted as an approximation.",
+          "source": "NPR/WUOT, 'One Woman's Quest To Preserve The Radio Archives At Historically Black Colleges' (Feb 16, 2020) — https://www.wuot.org/2020-02-16/one-womans-quest-to-preserve-the-radio-archives-at-historically-black-colleges",
+          "primary": false,
+          "publication_date": "~1997 (per NPR reporting, Feb 2020)",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Single source (NPR/WUOT, Feb 2020); FCC-record corroboration exists under E-091 but is not cited here.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        },
+        {
+          "claim": "Moorland-Spingarn Research Center closure scare (Howard University, 2009) — threatened but did not close",
+          "evidence": "In November 2009, Howard University's student newspaper reported that the Moorland-Spingarn Research Center — described as one of the foremost repositories of artifacts and manuscripts related to Black history — could close due to inadequate budget and staff shortages. The report prompted national outcry (including The Root). Howard's associate provost stated the university had no plans to close the center, and retiring director Thomas C. Battle said his comments had been misinterpreted and he did not believe it would close. Battle did confirm chronic trouble: staff cut by more than half since the early 1990s (an ~80% personnel reduction over 15 years), only 10 staff remaining, inadequate storage and processing space. Evidence: Inside Higher Ed contemporaneous reporting (Nov 11, 2009) with on-the-record statements from Battle and Howard's associate provost. This is a documented closure THREAT, not a closure — recorded here as evidence of the risk mechanism, not as a loss.",
+          "source": "Inside Higher Ed, 'Black History At Risk?' (Nov 11, 2009) — https://www.insidehighered.com/news/2009/11/11/black-history-risk",
+          "primary": false,
+          "publication_date": "November 2009",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Single source (Inside Higher Ed, Nov 2009) for the closure scare and the ~80% staff-reduction figure.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-003",
+      "name": "Building Demolition",
+      "type": "risk",
+      "description": "Demolition of a building destroying the records inside it. No documented case found in this research pass - recorded as an explicit negative finding; uncataloged materials destroyed in demolitions would leave no paper trail.",
+      "claims": [
+        {
+          "claim": "No documented case found",
+          "evidence": "No documented case was found in this research pass of a building demolition that destroyed Black archival records or collections. Adjacent documented losses exist: (a) the 1921 fire that destroyed most of the 1890 U.S. Census, creating a lasting documentation gap for descendants of formerly enslaved people (the census is the only federal enumeration of the post-emancipation generation); and (b) documented demolition of Black historic sites, e.g., dozens of Black historic sites demolished in Wilmington, NC (Beacon Journal, 2022), and the 1857 demolition of Seneca Village, the predominantly Black community razed for Central Park. These are site/building losses, not records-destruction-by-demolition. Evidence: Two rounds of targeted web searches (Sept 2026) returned no case of demolition destroying Black records. Adjacent cases cited are from secondary sources. This gap is a candidate for deeper archival/oral-history research.",
+          "source": "Beacon Journal, 'Preserving Black history: Why dozens of Black historic sites are gone in Wilmington' (Feb 2022) — https://www.beaconjournal.com/story/news/2022/02/21/preserving-black-history-why-dozens-black-historic-sites-gone-wilmington/6721916001/",
+          "primary": false,
+          "publication_date": "Research pass completed September 2026",
+          "uncertainty": "No documented case found in this research pass; recorded as an explicit negative finding.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-004",
+      "name": "Ownership Change",
+      "type": "risk",
+      "description": "Ownership or control changes - bankruptcy sales, corporate acquisitions, strategy pivots - that endanger or erase Black cultural holdings. Corporate-held Black memory is revocable memory.",
+      "claims": [
+        {
+          "claim": "BET Digital written archive deleted after Paramount Skydance ownership change (2026)",
+          "evidence": "Following Paramount's ownership of BET (the company using the Paramount Skydance name at the time of the deletion), BET Digital permanently removed its entire written news archive from BET.com in early September 2026 as part of a 'video-first pivot,' without warning. Years of Black journalism, cultural critique, and political reporting vanished from the live web; many writers lost their only record of their work. The Internet Archive had preserved 199,000+ BET articles and released a searchable pilot explorer (wayback-labs.sf.archive.org/bet-explorer/) on September 8, 2026. Evidence: HuffPost (first report, via Phil Lewis) quoted by multiple outlets; Black Enterprise (Sept 9, 2026, Selena Hill) confirms; infoDOCKET documents the Internet Archive's 199,000-article rescue and explorer launch. Floyd Webb's Substack essay (a Chicago filmmaker, secondary commentary) notes the contrast: Jet's archive was sold for $30M and preserved; BET's was deleted. Corroborated across four outlets — deletion itself is not disputed; framing ('digital gentrification') is commentary.",
+          "source": "Black Enterprise, 'Years Of Black Journalism Disappeared From BET\\u2019s Website' (Sept 9, 2026) — https://www.blackenterprise.com/years-of-black-journalism-disappeared-bet-digital/",
+          "primary": false,
+          "publication_date": "September 2026 (reported Sept 9, 2026)",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "MTV News archive wiped under Paramount ownership (2024)",
+          "evidence": "In June 2024, Paramount scrubbed the MTV News website, deleting over two decades of music and pop-culture journalism to avoid web-server and maintenance costs. The archive included extensive coverage of hip-hop and Black popular music. Evidence: Reported by The A.V. Club and referenced in infoDOCKET and TheHub.news coverage of the BET deletion. This entry relies on secondhand references in the BET coverage; the original A.V. Club report was not directly fetched — flagged for follow-up verification.",
+          "source": "infoDOCKET (Sept 8, 2026), citing A.V. Club — https://www.infodocket.com/2026/09/08/internet-archive-releases-archive-of-bet-journalism-removed-from-the-web/",
+          "primary": false,
+          "publication_date": "June 2024",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        },
+        {
+          "claim": "Johnson Publishing Company archive bankruptcy auction (2019) — see institutional_closure entry",
+          "evidence": "Cross-reference: the JPC bankruptcy auction (July 2019, ~$30M sale to Ford/Getty/MacArthur/Mellon consortium, donation to NMAAHC and Getty Research Institute) is both an institutional closure and an ownership-change risk event. Full detail recorded under institutional_closure. Evidence: See institutional_closure entry.",
+          "source": "See institutional_closure entry: Johnson Publishing Company bankruptcy and closure (Chicago)",
+          "primary": false,
+          "publication_date": "2019",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-005",
+      "name": "Obsolete Formats",
+      "type": "risk",
+      "description": "Carriers whose playback and migration paths are disappearing: reel-to-reel and cassette tape, U-matic and half-inch video, floppy disks, unlabeled CDs, MiniDV/DAT with dead transfer software.",
+      "claims": [
+        {
+          "claim": "HBCU radio archives stranded on reel-to-reel, cassette, and floppy disk",
+          "evidence": "See physical_deterioration entry. The same evidence documents the format dimension: HBCU broadcasts survive on reel-to-reel tape, cassettes, floppy disks, and unlabeled CDs — formats whose playback equipment is disappearing and whose media is chemically degrading. The NEDCC's 2026 field report details the specific carriers (open-reel, cassette, DAT-era media) and their failure modes. Evidence: NEDCC field archivist reporting (Aug 2026); NPR (Feb 2020).",
+          "source": "NEDCC, '40 Years of HBCU Radio Broadcast Formats' (Aug 20, 2026) — https://www.nedcc.org/about/nedcc-stories/hbcu-formats",
+          "primary": true,
+          "publication_date": "1960s–present holdings; surveyed 2019–2026",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Chicago 'guerrilla television' tapes: half-inch open reel and U-matic endangered (UChicago)",
+          "evidence": "A UChicago Library project (reported ~2025) is digitizing the archive of the 1960s–70s guerrilla television movement, including videotapes documenting the lives of Black and Latinx youth and community issues. The project prioritizes 'highly endangered half-inch open reel and U-matics' — first- and second-generation 1970s videotapes. Technicians must repair physically broken tapes and sometimes bake them to remove moisture before real-time digitization. Evidence: UChicago News institutional reporting quoting project faculty (James Chandler) and describing the technical workflow. Chicago-anchored.",
+          "source": "UChicago News, 'The hidden history of guerrilla television: UChicago scholars preserve decades-old videos' — http://news.uchicago.edu/story/hidden-history-guerrilla-television-uchicago-scholars-preserve-decades-old-videos",
+          "primary": true,
+          "publication_date": "Tapes from 1960s–1970s; preservation project circa 2025",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Johnson Publishing archive: ~10,000 audio/visual recordings on legacy media",
+          "evidence": "The JPC archive included roughly 10,000 audio and visual recordings (HNN) / 'several thousand hours of video footage' (CNN via EURweb), plus 200 boxes of business records and 4.5M prints/negatives — much of it on legacy formats. At the time of the 2019 sale, 'very few' of the photographs had been digitized (CNN via EURweb), implying the A/V holdings were largely inaccessible on original carriers. Evidence: HNN digitization-progress article and CNN/EURweb sale reporting give the counts; 'very few digitized' is from CNN via EURweb. Exact format breakdown (how much is U-matic, VHS, 16mm, etc.) is not public in these sources — gap noted.",
+          "source": "History News Network, 'Progress Digitizing the Johnson Publishing Archive' — https://www.hnn.us/article/progress-digitizing-the-johnson-publishing-archive",
+          "primary": false,
+          "publication_date": "Holdings span 1940s–2010s; assessed 2019",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-006",
+      "name": "Website Disappearance",
+      "type": "risk",
+      "description": "Deliberate or negligent removal of Black cultural content from the live web by its operator, with no warning or export path.",
+      "claims": [
+        {
+          "claim": "BET Digital written archive deleted (September 2026)",
+          "evidence": "Cross-reference: full detail under ownership_change. BET Digital permanently removed its entire written news archive from the live web in September 2026 ('video-first pivot'); Internet Archive preserved 199,000+ articles via Wayback Machine and a pilot explorer. Evidence: Corroborated by HuffPost (first report), Black Enterprise, infoDOCKET, TheHub.news.",
+          "source": "See ownership_change entry: BET Digital written archive deleted (2026)",
+          "primary": false,
+          "publication_date": "September 2026",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "MTV News archive deleted (June 2024)",
+          "evidence": "Cross-reference: full detail under ownership_change. Paramount deleted the MTV News website's 20+ year archive. Evidence: Secondhand via infoDOCKET citing A.V. Club; original report not directly fetched.",
+          "source": "See ownership_change entry: MTV News archive wiped (2024)",
+          "primary": false,
+          "publication_date": "June 2024",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-007",
+      "name": "Domain Expiration",
+      "type": "risk",
+      "description": "Loss of Black cultural-memory content through domain expiry. No documented case found in this research pass - recorded as an explicit negative finding; the exposure surface (small archives, personal sites, no IT staff) is real.",
+      "claims": [
+        {
+          "claim": "No documented case found",
+          "evidence": "No documented case was found in this research pass of a Black cultural-memory website losing its content because its domain expired. The closest adjacent case: the NAACP accidentally allowed defensive domains (nigger.com/.org/.net, held ~20 years to keep them from hate groups) to expire; they went to a NameJet auction (72 bids, $10,000 high bid) before the NAACP reclaimed them (Domain Incite, ~2017). No cultural-memory content was lost in that incident — the risk was reputational/hijack, and the domains were recovered. Evidence: Two rounds of targeted searches returned no Black cultural-memory domain-expiration loss. The NAACP incident is documented by Domain Incite. This remains an open research gap.",
+          "source": "Domain Incite, 'Nigger.com returned to NAACP after expiration prompts $10,000 auction' — https://domainincite.com/21537-nigger-com-returned-to-naacp-after-expiration-prompts-10000-auction",
+          "primary": false,
+          "publication_date": "Research pass completed September 2026; adjacent incident ~2017",
+          "uncertainty": "No documented case found in this research pass; recorded as an explicit negative finding.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-008",
+      "name": "Platform Shutdown",
+      "type": "risk",
+      "description": "Shutdowns, migrations, or policy purges on commercial platforms destroying user-uploaded Black cultural content with no preservation contract.",
+      "claims": [
+        {
+          "claim": "MySpace server migration deleted 50M+ songs (2003–2015 uploads), including early Black artists' work",
+          "evidence": "In March 2019 MySpace disclosed that a server migration had deleted 'any photos, videos, and audio files you uploaded more than three years ago' — over 50 million songs uploaded between 2003 and 2015, from ~14 million artists (The Guardian via NPR/MTPR; Advanced Television). MySpace called it an accident; critics (e.g., Andy Baio) publicly doubted that. The Internet Archive later hosted ~450,000 recovered MP3s (the 'MySpace Music Dragon Hoard,' collected 2008–2010 by an academic group studying music networks) — under 1% of the estimated loss. Evidence: NPR/MTPR (March 18, 2019) and Advanced Television report the 50M/14M figures; TechCrunch (April 3, 2019) documents the 450K-song partial recovery and names recovered Black artists. Whether the deletion was accidental or a cost-cutting measure is disputed — both positions are on record; the fact of the loss is not.",
+          "source": "NPR/MTPR, 'MySpace Says It Lost Years Of User-Uploaded Music' (Mar 18, 2019) — https://www.mtpr.org/2019-03-18/myspace-says-it-lost-years-of-user-uploaded-music",
+          "primary": false,
+          "publication_date": "Loss disclosed March 2019; uploads spanned 2003–2015",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Vine shutdown (2017) — Black creator culture stranded",
+          "evidence": "Twitter shut down the Vine app in January 2017. Vine had been a major platform for Black comedic and creative expression ('Black Vine' was a recognized cultural phenomenon). Twitter kept the Vine archive viewable online for a time, then took the full Vine archive offline in 2019. This entry is included as a Provisional case: the cultural significance is well documented, but this research pass did not verify the specifics of what was lost versus preserved from a Black-cultural-memory standpoint. Evidence: Shutdown dates are widely reported; the Black-cultural-memory loss dimension was not sourced to a specific citation in this pass — flagged as needing verification before being treated as more than Provisional.",
+          "source": null,
+          "primary": false,
+          "publication_date": "App shutdown January 2017; archive offline 2019",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-009",
+      "name": "Poor Metadata",
+      "type": "risk",
+      "description": "Unprocessed and underprocessed backlogs, orphaned context, and thin description that make saved Black collections unfindable, unusable, and undefendable - the stage where the chain breaks worst by the numbers.",
+      "claims": [
+        {
+          "claim": "BMRC Survey Initiative (2009–2011): Chicago Black collections unprocessed and inaccessible",
+          "evidence": "The Black Metropolis Research Consortium's Mellon-funded Survey Initiative (2009–2011) identified and assessed 'irreplaceable primary resources of African American and African related archival materials' across Chicago. Although the survey revealed 'a treasure trove of previously unknown historical material,' UChicago News reports that 'many collections weren't processed or accessible to the public' — i.e., they existed in backlogs without finding aids or catalog records. The BMRC responded with the Color Curtain Processing Project and, later, a cross-institutional Archives Portal. Evidence: BMRC's own program pages (bmrc.lib.uchicago.edu) describe the survey methodology and goals; UChicago News (institutional) states the 'weren't processed or accessible' finding; the BMRC exhibit text (lib.uchicago.edu PDF) describes initial studies of backlogs in processing Black historical collections. Chicago-anchored, multi-source, consistent.",
+          "source": "BMRC, '2009-2011 Landmark Survey Initiative' — http://bmrc.lib.uchicago.edu/programs/survey-initiative/",
+          "primary": true,
+          "publication_date": "Survey 2009–2011; portal launched ~2025",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "'Hidden collections': hundreds of linear feet of Black history uncataloged in secure shelving",
+          "evidence": "A Bunk History essay by an archivist describes 'hundreds of linear feet of Black history... stacked in secure shelving, unbeknownst and inaccessible to implicated communities,' including single-box collections titled 'Miscellaneous Slavery Documents' (Freedmen's Bureau papers and bills of sale encountered without meaningful description). The essay argues institutions respond by prioritizing digitization-as-images 'without full description or detailed metadata, the things that guide digital discovery.' Evidence: Single-source practitioner essay; the specific encounters ('Miscellaneous Slavery Documents') are anecdotal and the author's identity/institution were not captured in this pass. Treat as Provisional pending identification of the essay's provenance.",
+          "source": "Bunk History, 'The House Archives Built' — https://www.bunkhistory.org/resources/the-house-archives-built",
+          "primary": false,
+          "publication_date": "Essay published circa 2024–2026 (exact date not captured)",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        },
+        {
+          "claim": "NHPRC/Shift Collective survey (2020): small and diverse archives face discovery and sustainability gaps",
+          "evidence": "The National Historical Publications and Records Commission funded Shift Collective to survey small and diverse archives (community-based archives, historical societies, HBCUs, tribal libraries, public libraries, civic/activist groups) in 2020 on funding, collections discovery, access, use, and long-term sustainability. The published report documents systemic under-resourcing of the institutions most likely to hold Black community records. Evidence: Primary report PDF from Shift Collective (hosted on Squarespace). Findings are survey-based; specific percentages were not extracted in this pass — follow-up should pull the numbers.",
+          "source": "Shift Collective, 'Needs Assessment to Identify Hidden Collections Documenting America's Diverse Culture and History' (report to NHPRC, 2021) — https://static1.squarespace.com/static/5f077037c9ef6a2f026bdd70/t/6068f6de78b53070e6d3d913/1617491685095/Shift-NHPRC+survey+report-2021.pdf",
+          "primary": true,
+          "publication_date": "Survey April–October 2020; report 2021",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Teenie Harris archive: ~80,000 negatives largely untitled and undated",
+          "evidence": "When Carnegie Museum of Art acquired Charles 'Teenie' Harris's archive in 2001, few of his negatives were titled or dated. The museum has since run a years-long public-identification project (displays, oral historians, online response forms, NEH 'We the People' designation in 2007) to supply the missing metadata for 70,000+ images. Evidence: Carnegie Museum of Art's own archive pages and the Crowley Company preservation case study both state the negatives were untitled/undated at acquisition; the public-identification program is documented by CMOA and the Pittsburgh History & Landmarks Foundation (NEH grant reporting).",
+          "source": "Carnegie Museum of Art, 'About the Charles Teenie Harris Archive' (via stores.carnegiemuseums.org) — https://stores.carnegiemuseums.org/carnegie-museum-of-art/current-exhibitions/charles-teenie-harris-in-sharp-focus-/?price_min=0&price_max=14&sort=featured",
+          "primary": true,
+          "publication_date": "Acquisition 2001; identification work 2001–present",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-010",
+      "name": "Unknown Ownership",
+      "type": "risk",
+      "description": "Orphan collections and found materials whose makers, subjects, provenance, or legal owners are unknown - blocking cataloging, digitization, and access decisions.",
+      "claims": [
+        {
+          "claim": "The Baltimore Collection: 53 'found' photographs of Black sitters, makers unknown",
+          "evidence": "In 2001, fifty-three photographs predominantly featuring Black sitters, obtained in Maryland, were donated to the University of Delaware Library as 'found objects' — no photographers, sitters, dates, or provenance known. They became 'The Baltimore Collection.' University seminars (2017, 2021, 2023) have since researched the objects to build metadata, grappling with 'the archival and theoretical challenges' of making such collections public, including biases in classification. Evidence: University of Delaware Library's Baltimore Collection project pages document the 'found objects' provenance and the seminar-based metadata-building effort.",
+          "source": "University of Delaware Library, 'Curating Hidden Collections & the Black Archive: Project Seminar | The Baltimore Collection' — https://sites.udel.edu/baltimorecollection/curating-hidden-collections-the-black-archive/",
+          "primary": true,
+          "publication_date": "Donated 2001; research 2017–2023",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Teenie Harris negatives: decades of images with unknown subjects (ownership secured, context orphaned)",
+          "evidence": "Cross-reference: see poor_metadata entry. Ownership of the physical archive was secured by Carnegie Museum of Art (purchase from the Harris family, 2001), but the intellectual context — who is pictured, where, when — was orphaned. The museum's ongoing public-identification program is effectively an orphan-works rescue operation. Evidence: CMOA archive pages; PHLF grant reporting.",
+          "source": "See poor_metadata entry: Teenie Harris archive",
+          "primary": true,
+          "publication_date": "2001–present",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Shorefront Legacy Center (Evanston, IL): rescuing orphaned Black suburban records from a church basement",
+          "evidence": "The Shorefront Legacy Center, a small archive in the basement of Evanston's historic Black Lula B. Sherman Church, has spent ~30 years collecting records of Black life in Chicago's northern suburbs — boxes of papers, photos, news clippings, local NAACP minutes, letters documenting segregation. NPR (Sept 19, 2026) reports the archive is 'filled from the floor to almost the ceiling' with materials that would otherwise be orphaned in attics, basements, and closing organizations. Its records were used to document Evanston's history of racial discrimination, supporting the city's 2021 reparations program. Evidence: NPR/KRPS reporting (Sept 19, 2026) with on-site reporting and quotes from archivist Laurice Bell. Chicago-anchored.",
+          "source": "NPR/KRPS, 'How Shorefront Legacy Center saves Black history from a church basement in Evanston' (Sept 19, 2026) — https://www.krps.org/2026-09-19/how-shorefront-legacy-center-saves-black-history-from-a-church-basement-in-evanston",
+          "primary": false,
+          "publication_date": "Founded ~1990s; reported September 2026",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Single source (NPR/KRPS, Sept 2026); no second independent outlet cited.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-011",
+      "name": "Copyright Uncertainty",
+      "type": "risk",
+      "description": "Orphan works, expired licenses, and adverse precedent chilling digitization, publication, and classroom use of Black historical materials.",
+      "claims": [
+        {
+          "claim": "Orphan works chill digitization of Black historical collections — Duke University Libraries filing to the Copyright Office (2013)",
+          "evidence": "In comments to the U.S. Copyright Office's 2012 Notice of Inquiry on orphan works and mass digitization, Duke University Libraries stated that its online digital collections 'undoubtedly contain orphan works,' specifically naming 'a collection of images from articles and advertising of mainline Protestant children and families, and another that documents African-American life in the Jim Crow South.' Duke described facing 'this uncertain situation every time we consider a digitization' decision, because rightsholders cannot be found and infringement liability (up to $150,000 per work) deters institutions from digitizing or publishing such materials. Evidence: Primary source: Duke's filed comments (PDF on copyright.gov) name the African-American-life collection explicitly and describe the chilling effect on digitization decisions. The Copyright Office's later recommendation (pay 'reasonable compensation' if owners surface) did not resolve the deterrent, per Chronicle reporting.",
+          "source": "Duke University Libraries, Comments in response to Copyright Office Notice of Inquiry on Orphan Works and Mass Digitization (Jan 2013) — https://www.copyright.gov/orphan/comments/noi_10222012/Duke-University-Libraries.pdf",
+          "primary": true,
+          "publication_date": "Filing January 2013",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Hachette v. Internet Archive (2023): precedent discouraging controlled digital lending of orphan works",
+          "evidence": "The Second Circuit unanimously affirmed (2023) that the Internet Archive's controlled digital lending — scanning print books in full and lending digital copies — was not fair use. Library Journal noted the ruling 'may set a discouraging precedent' for controlled digital lending, 'particularly as a way to preserve and circulate orphan works (for which the copyright holders are unknown) or books that are still under copyright but unlikely to ever be offered digitally.' Evidence: Library Journal's legal reporting quotes the unanimous panel. The connection to Black collections specifically is inferential (the ruling is content-neutral) — noted as such; the orphan-works link is stated in the source.",
+          "source": "Library Journal, 'Internet Archive Loses Appeal in Copyright Case' — https://www.libraryjournal.com/story/Book+News/internet-archive-loses-appeal-in-copyright-case",
+          "primary": false,
+          "publication_date": "District ruling 2023; appeal affirmed (reported by Library Journal)",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-012",
+      "name": "Lack Of Digitization",
+      "type": "risk",
+      "description": "Analog-only or inaccessible holdings: rescued collections still hostage to a single physical location, years or decades behind digitization.",
+      "claims": [
+        {
+          "claim": "Johnson Publishing archive: 'very few' of 4M+ images digitized at time of 2019 sale",
+          "evidence": "At the July 2019 bankruptcy auction, reporting (CNN via EURweb) noted that of the archive's ~1 million printed images, 3 million negatives/contact sheets, and thousands of hours of video, 'very few have been digitized.' The Getty Trust subsequently committed $30 million to the organization and digitization of the archive; HNN later reported digitization progress from the Chicago warehouse. Evidence: CNN via EURweb contemporaneous reporting ('very few have been digitized'); Hyperallergic on the Getty's $30M digitization commitment; HNN on digitization progress. Consistent across sources.",
+          "source": "EURweb, 'Ebony and Jet Magazine\\u2019s Photo Archives Auctioned Off in Private Sale' (2019) — https://eurweb.com/ebony-and-jet-magazines-photo-archives-auctioned-off-in-private-sale/",
+          "primary": false,
+          "publication_date": "2019 (sale); digitization ongoing from ~2021",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "Vivian G. Harsh Research Collection: 300,000 pieces in-person-only until 2024 Mellon grant (Chicago)",
+          "evidence": "The Vivian G. Harsh Research Collection at Chicago Public Library's Woodson Regional Library — 'the largest cache of African American history and literature in the midwestern United States' — was historically available only for in-person viewing. In February 2024 the Mellon Foundation awarded CPL $2 million to digitize 300,000 pieces, with full digitization expected within three years. Evidence: Journal of Blacks in Higher Education reporting on the Mellon grant with the 300,000-piece figure and 'only available in person' history. Chicago-anchored.",
+          "source": "The Journal of Blacks in Higher Education, 'Chicago Library Receives $2 Million to Digitize Collection of African American History and Literature' (Feb 2024) — https://jbhe.com/2024/02/chicago-library-receives-2-million-to-digitize-collection-of-african-american-history-and-literature/",
+          "primary": false,
+          "publication_date": "Collection built from 1932 onward; digitization grant February 2024",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Single source (JBHE, Feb 2024); the Mellon grant announcement itself is not cited as institutional evidence.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        },
+        {
+          "claim": "Obsidian Collection: Black press photo legacy effectively invisible online",
+          "evidence": "Chicagoan Angela Ford founded the Obsidian Collection Archives (2015) after discovering she could not find online any images of her grandmother — a Bronzeville businesswoman covered extensively by the Chicago Defender — via Google or other search engines. 'Digital dead-ends became a pattern whenever Ford sought images to illustrate black history.' The nonprofit now digitizes images from the Defender, Baltimore Afro-American, and 15+ other Black newspapers, partnering with Google Arts & Culture. Evidence: Mic.com profile of Ford with direct quotes and the specific grandmother anecdote; Essence and Nonprofit Quarterly corroborate the organization's mission and Google partnership. Anecdotal but specific and corroborated as to the organization's existence and purpose.",
+          "source": "Mic, 'Obsidian Collection Archives is digitizing the rich photo legacy of the black press' — https://www.mic.com/articles/189710/obsidian-collection-archives-is-digitizing-the-rich-photo-legacy-of-the-black-press",
+          "primary": false,
+          "publication_date": "Founded 2015; Google partnership from 2018",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-013",
+      "name": "Collector Death",
+      "type": "risk",
+      "description": "Death of the private collector/custodian with no succession plan: the mortality-driven window in which estates are dispersed, discarded, or sold before any institution intervenes.",
+      "claims": [
+        {
+          "claim": "Teenie Harris dies (1998); ~80,000-negative archive sold by family to Carnegie Museum of Art (2001)",
+          "evidence": "Charles 'Teenie' Harris (1908–1998), Pittsburgh Courier photographer and one of the most prolific Black photographers of the 20th century, died of a heart attack on June 12, 1998, just shy of his 90th birthday. In 2001, Carnegie Museum of Art acquired the full archive — nearly 80,000 photographic negatives spanning ~1935–1975 — from the Harris family, 'honoring Harris' longstanding wish,' and began a multiyear preservation/cataloguing/digitization project (70,000+ images digitized; 75,000+ viewable online). Evidence: Crowley Company preservation case study (working from CMOA sources) gives the death date and acquisition narrative; CMOA's archive pages confirm the purchase from the family and the scale (70,000+ images). Multiple corroborating institutional sources.",
+          "source": "The Crowley Company, 'Accessing the Archive: Charles Teenie Harris and the Power of Preservation' (case study) — https://thecrowleycompany.com/wp-content/uploads/2025/10/CMOA-Accessing-the-Archive-Charles-Teenie-Harris-and-the-Power-of-Preservation_04_Interactive.pdf",
+          "primary": true,
+          "publication_date": "Death June 12, 1998; acquisition 2001",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "John Hope Franklin estate sale disperses personal library (2017)",
+          "evidence": "Historian John Hope Franklin (1915–2009), the scholar of African American history whose work reshaped how the world thinks about slavery, died in 2009. In February 2017, an estate sale at his Durham, NC home dispersed thousands of books (hundreds on slavery, the South, Civil War, and Reconstruction — his specialty), signed volumes (including a book inscribed to Franklin by Rosa Parks's and MLK's attorney Fred Gray), awards, and household effects to the general public. NPR's report notes the bittersweet reaction of attendees who felt some items 'should belong in a museum.' Evidence: NPR (WUNC, Feb 27, 2017, via NPR Illinois) on-the-scene reporting with named attendees and specific items. IMPORTANT CAVEAT: the report covers the estate sale of household effects and books; it does not state where Franklin's scholarly papers went (widely reported elsewhere as Duke University, donated before his death — not verified in this research pass). This entry therefore documents dispersal of the personal collection, not loss of the core papers — graded Provisional on the scope of what was lost.",
+          "source": "NPR Illinois/WUNC, 'Estate Sale-Goers Discover Treasures In Home Of Historian John Hope Franklin' (Feb 27, 2017) — https://www.nprillinois.org/2017-02-27/estate-sale-goers-discover-treasures-in-home-of-historian-john-hope-franklin",
+          "primary": false,
+          "publication_date": "Death 2009; estate sale February 2017",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-014",
+      "name": "Lost Organizational Records",
+      "type": "risk",
+      "description": "Organizational records destroyed by state action (raids, seizures), disaster, or dissolution - leaving movements with no centralized archive.",
+      "claims": [
+        {
+          "claim": "Black Panther Party: no centralized archive; records seized and destroyed in raids",
+          "evidence": "The Black Panther Party (founded 1966, dissolved early 1980s) left no centralized institutional archive. Former Panther Billy Jennings (Daily Nebraskan) stated: 'party members are dying every year, and there is no archive for all the great work the movement had done,' prompting his personal collecting effort (now ~2,000 underground newspapers in his home). Separately, historian Ward Churchill documents that police/FBI raids 'cleaned out' Panther offices — 'furniture, bedding, clothing, file cabinets, party records' — in Denver, Indianapolis, Des Moines, San Francisco, New Bedford, Toledo, New Orleans, and Detroit (1968–1970), a pattern of seizure and destruction of the Party's own records. FBI wiretap tapes relevant to the Geronimo ji-Jaga (Pratt) case were also claimed destroyed by the FBI. Evidence: Churchill's documented raid accounts (hosted PDF of academic work; cites case-by-case sources); Jennings's direct quote in the Daily Nebraskan; Flint Taylor/In These Times on the FBI's 200-volume BPP file production in the Hampton/Clark litigation (showing the state's archive dwarfs the movement's). The Churchill source's hosting site (a band website) is non-ideal provenance — the underlying work is academic; flagged for stronger citation in follow-up.",
+          "source": "Ward Churchill, 'To Disrupt, Discredit, and Destroy' (PDF) — http://propagandhi.com/wp-content/empires/Ward_Churchill.pdf",
+          "primary": false,
+          "publication_date": "Raids 1968–1970; party dissolved early 1980s; Jennings collecting from mid-1990s",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Raid-seizure portion rests on a single contentious secondary source (Churchill PDF on a non-ideal host); Jennings quote single-sourced to Daily Nebraskan.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        },
+        {
+          "claim": "Hurricane flooding destroyed FBI files on the National Negro Labor Council and Chicago's Claude Lightfoot",
+          "evidence": "Flooding during a hurricane at the FBI's archives in Alexandria, Virginia destroyed hundreds of thousands of pages of historical files. Among the documented losses (revealed via FOIA response, reported by the National Security Archive's blog): 41 volumes (likely 8,000+ pages) of the FBI's main headquarters file on the National Negro Labor Council — 'one of the most important civil rights organizations of the early 1950s, driven out of existence by anti-communist pressure' — and 24 volumes (~5,000 pages) of the FBI's Chicago field office file on Claude Lightfoot, 'a prominent black communist for almost 60 years.' Also lost: 1/5 to 1/3 of the 62,000-page Birmingham file on the United Klans of America. Evidence: Gizmodo (2014) reporting Trevor Griffey's National Security Archive blog post, which was based on the FBI's FOIA response. The specific volume/page counts come from that reporting. The underlying FOIA response was not directly reviewed in this pass — the chain is FOIA → NSA blog → Gizmodo.",
+          "source": "Gizmodo, 'Thousands Of FBI Documents About Civil Rights Era Destroyed By Flooding' (2014) — https://gizmodo.com/thousands-of-fbi-documents-about-civil-rights-era-destr-1635448055",
+          "primary": false,
+          "publication_date": "Flooding during Hurricane Sandy, 2012; loss revealed ~2014",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-015",
+      "name": "Johnson Publishing Company Archive (Ebony/Jet)",
+      "type": "collection",
+      "description": "The photographic and business archive of Johnson Publishing Company (Ebony, Jet): 4M+ prints and negatives, ~9,000-10,000 AV recordings, 200 boxes of business records - the defining visual archive of 20th-century Black American life.",
+      "claims": [
+        {
+          "claim": "JPC archive reached a 2019 bankruptcy auction and was rescued by a four-foundation consortium for just under $30M, then transferred to joint NMAAHC/Getty ownership (July 2022); Getty committed a further $30M to processing and digitization.",
+          "evidence": "Chapter 7 bankruptcy April 2019; auction July 25, 2019; documented fear of private-collector dispersal; transfer completed 2022; digitization in progress.",
+          "source": "The Art Newspaper, 2019-08-02; MacArthur Foundation and Getty press releases, 2022; Hyperallergic, 2024",
+          "primary": false,
+          "publication_date": "2019-2022",
+          "uncertainty": "Totals vary by source (4M vs. 4.5M images; 9,000 vs. 10,000 AV). Consortium counted as four foundations by NMAAHC; some sources count five parties.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Johnson Publishing Company Archive (Ebony/Jet photographic and business archive)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-016",
+      "name": "Chicago Defender Photo Morgue",
+      "type": "collection",
+      "description": "The photographic morgue of the Chicago Defender (1905-): ~250,000 images counted by volunteer Angela Ford; the visual record of the Great Migration era.",
+      "claims": [
+        {
+          "claim": "The Defender morgue survived through volunteer labor, not institutional acquisition: Angela Ford organized it, raised $143,000 herself, counted 250,000 images, and founded Obsidian Collection Archives (2017) to digitize it.",
+          "evidence": "Mic.com, 2018; NPQ/WBEZ, 2018. Physical custody of originals after the paper changed hands out of the family is not fully public.",
+          "source": "Mic.com, 2018",
+          "primary": false,
+          "publication_date": "2018",
+          "uncertainty": "Custody/licensing not fully public; later digitization totals unconfirmed.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Chicago Defender photographic morgue (newspaper photo archive)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-017",
+      "name": "Obsidian Collection Archives",
+      "type": "collection",
+      "description": "Chicago nonprofit (founded 2017 by Angela Ford) digitizing Black press photography from the Defender, Afro-American, and 12+ other Black newspapers, with Google Arts & Culture exhibits.",
+      "claims": [
+        {
+          "claim": "Obsidian is digitizing the Black press photo legacy - ~250,000 Defender images counted, 9 million images across partner papers - but only 136 images and 8 photo stories were publicly live as of 2018 reporting; planned Lu Palmer Mansion home (zoning approved ca. 2023) has no confirmed restoration completion.",
+          "evidence": "Mic.com, 2018; NPQ/WBEZ, 2018; Chicago Community Trust, 2021; Preservation Chicago; The TRiiBE, 2023-06.",
+          "source": "Mic.com, 2018",
+          "primary": false,
+          "publication_date": "2017-2023",
+          "uncertainty": "Current (2026) digitization totals and preservation-grade storage/backups not publicly documented - verify before citing as active.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Obsidian Collection Archives"
+    },
+    {
+      "id": "CTL-PRESERVE-E-018",
+      "name": "Vivian G. Harsh Research Collection",
+      "type": "collection",
+      "description": "The oldest and largest Black history collection in the Midwest, at Chicago Public Library's Carter G. Woodson Regional Library: 70,000-80,000+ books, 250+ manuscript collections, built from Vivian Harsh's unfunded 1932 \"Special Negro Collection.\"",
+      "claims": [
+        {
+          "claim": "The Harsh Collection holds 250+ manuscript collections (CPL, 2025) including Hughes and Wright manuscripts, the Timuel D. Black Papers (~260 boxes), and the Abbott-Sengstacke Family Papers; book counts conflict across sources (70,000 vs. 80,000+) and are treated as a documented range.",
+          "evidence": "UChicago BMRC exhibit text; CPL blog, Feb 2025; BlackPast.org; WBEZ, 2007.",
+          "source": "CPL blog, 2025",
+          "primary": true,
+          "publication_date": "2025",
+          "uncertainty": "Point values conflict; range reflects growth over time and differing counts.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        },
+        {
+          "claim": "The Midwest's largest Black history collection was in-person-only until a $2M Mellon digitization grant in February 2024.",
+          "evidence": "CPL (the holding institution) announced the $2M Mellon grant to digitize the Harsh Collection; JBHE corroborates the grant and that the collection was historically in-person-only.",
+          "source": "Chicago Public Library, \"Chicago Public Library is Awarded a $2 Million Grant from the Mellon Foundation to Make Black History More Accessible to the Public\" (chipublib.org); Journal of Blacks in Higher Education, \"Chicago Library Receives $2 Million to Digitize Collection of African American History and Literature\" (Feb 2024)",
+          "primary": true,
+          "publication_date": "2024-02",
+          "uncertainty": "Red-team 2026-09-28: replaced self-citation (\"Risks track\") with institutional + corroborating sources; grade Verified stands.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Vivian G. Harsh Research Collection of Afro-American History and Literature"
+    },
+    {
+      "id": "CTL-PRESERVE-E-019",
+      "name": "Schomburg Center for Research in Black Culture",
+      "type": "collection",
+      "description": "The world's leading research library devoted to Black history and culture (NYPL, Harlem): 10-11 million items across five divisions, founded 1925 from Arturo Schomburg's personal collection.",
+      "claims": [
+        {
+          "claim": "Schomburg holds 10-11 million items (10M per Wikipedia; 11M per NYPL's 2025 centennial page) across five divisions: research & reference, manuscripts/archives/rare books, photographs & prints, moving image & recorded sound, art & artifacts.",
+          "evidence": "NYPL centennial page, 2025; Wikipedia.",
+          "source": "NYPL, 2025",
+          "primary": true,
+          "publication_date": "2025",
+          "uncertainty": "Point values conflict as single numbers; range reflects growth.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Schomburg Center for Research in Black Culture"
+    },
+    {
+      "id": "CTL-PRESERVE-E-020",
+      "name": "Moorland-Spingarn Research Center",
+      "type": "collection",
+      "description": "One of the world's largest repositories on the global Black experience (Howard University, est. 1914): 175,000+ volumes; 17,000-18,000+ linear feet of manuscripts; documented staffing collapse (~80% reduction) and a 2026 Mellon rescue grant.",
+      "claims": [
+        {
+          "claim": "MSRC lost roughly 80% of staff over 15 years (reported 2009) while collections grew; in September 2026 Mellon awarded $2M for five new positions, processing, a conservation-lab plan, and AV digitization.",
+          "evidence": "Inside Higher Ed, Nov 2009 (director Thomas C. Battle, on record); thedig.howard.edu, Sept 2026.",
+          "source": "Inside Higher Ed, 2009-11",
+          "primary": false,
+          "publication_date": "2009; 2026",
+          "uncertainty": "\"80%\" is the director's characterization via the reporter (Verified as reported speech, Provisional as exact headcount). Whether the 2026 grant restores functional staffing is not yet knowable.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Moorland-Spingarn Research Center (Library Division + Manuscript Division)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-021",
+      "name": "NMAAHC Collection",
+      "type": "collection",
+      "description": "The Smithsonian National Museum of African American History and Culture's collection (est. by Congress 2003; opened Sept 24, 2016): 37,000-45,000 objects; 10,000+ digitized; joint custodian of the JPC archive.",
+      "claims": [
+        {
+          "claim": "NMAAHC holds 37,000-45,000 objects (37,000 per Smithsonian newsdesk; 45,000+ per fellowships page), ~3,000 on display, 10,000+ digitized; 70% of early acquisitions came from \"basements, trunks, and attics\" (Lonnie Bunch).",
+          "evidence": "Smithsonian Institution; Harvard Gazette, 2019.",
+          "source": "Smithsonian Institution",
+          "primary": true,
+          "publication_date": "2021-2025",
+          "uncertainty": "Point values conflict; range reflects growth over time.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "NMAAHC permanent collection"
+    },
+    {
+      "id": "CTL-PRESERVE-E-022",
+      "name": "Amistad Research Center",
+      "type": "collection",
+      "description": "The nation's oldest and largest independent archive of African American history (founded 1966 at Fisk; independent nonprofit since 1969; at Tulane since 1987): ~800-900 manuscript collections; 250,000 photographs; ~14,000 microfilm reels.",
+      "claims": [
+        {
+          "claim": "Amistad holds ~800-900 manuscript collections, 250,000 photographs (1860s-present), ~14,000 microfilm reels, ~8,000 moving-image/sound items, with online finding aids via ArchivesSpace.",
+          "evidence": "Amistad 60th-anniversary campaign video, 2026 (primary); Tulane; Wikipedia.",
+          "source": "Amistad Research Center, 2026",
+          "primary": true,
+          "publication_date": "2026",
+          "uncertainty": "800 vs. 900 collections across sources.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Amistad Research Center holdings"
+    },
+    {
+      "id": "CTL-PRESERVE-E-023",
+      "name": "The HistoryMakers",
+      "type": "collection",
+      "description": "The largest video oral history archive of African American life (~3,400 interviews / ~11,000 hours), founded 1999 in Chicago by Julieanna Richardson; permanently housed at the Library of Congress since 2014.",
+      "claims": [
+        {
+          "claim": "The HistoryMakers was acquired by the Library of Congress in 2014; ~3,400 interviews from 413 cities (2021); access is institutional subscription (180+ colleges) or LoC reading room - not fully open online. Conversion of analog holdings was still incomplete and underfunded.",
+          "evidence": "JBHE, 2014; BusinessWire, 2021; founder interviews.",
+          "source": "Journal of Blacks in Higher Education, 2014",
+          "primary": false,
+          "publication_date": "2014; 2021",
+          "uncertainty": "Interview counts grow over time; latest dated figure 2021.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "The HistoryMakers Digital Archive / Video Oral History Collection"
+    },
+    {
+      "id": "CTL-PRESERVE-E-024",
+      "name": "Shorefront Legacy Center",
+      "type": "collection",
+      "description": "A ~30-year community archive in a church basement in Evanston, Illinois, documenting 100+ years of Black suburban North Shore life (NAACP minutes, segregation correspondence); its records underpinned Evanston's first-in-the-nation cash reparations program.",
+      "claims": [
+        {
+          "claim": "Shorefront's records supported Evanston's discrimination report leading to the city's apology and $25,000 cash reparations payments; the archive operates in a contested political climate (Trump administration sued summer 2026 to end reparations).",
+          "evidence": "NPR Illinois (Adrian Florido), aired 2026-09-19.",
+          "source": "NPR Illinois, 2026-09-19",
+          "primary": false,
+          "publication_date": "2026-09-19",
+          "uncertainty": "Single secondary source; litigation status evolves. Red-team re-audit 2026-09-28 (Provisional): Single secondary source (NPR Illinois, 2026-09-19); the claim's own uncertainty field admits single sourcing.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Shorefront Legacy Center community archive"
+    },
+    {
+      "id": "CTL-PRESERVE-E-025",
+      "name": "BMRC Archives Portal",
+      "type": "collection",
+      "description": "The Chicago consortium's public discovery portal (launched March 2022; Mellon-funded): 1,000+ collection records across 28 member institutions - a discovery layer, not a preservation repository.",
+      "claims": [
+        {
+          "claim": "The BMRC portal aggregates 1,000+ collection records from Chicago repositories; its 2009-2011 survey found Chicago's Black collections systematically unprocessed or underprocessed due to staffing, money, and expertise gaps.",
+          "evidence": "UChicago News; BMRC 15th-anniversary exhibit text (UChicago Library, primary).",
+          "source": "UChicago Library (BMRC exhibit text)",
+          "primary": true,
+          "publication_date": null,
+          "uncertainty": "Exact founding year and portal completeness unresolved.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Black Metropolis Research Consortium (BMRC) Archives Portal"
+    },
+    {
+      "id": "CTL-PRESERVE-E-026",
+      "name": "Pilgrim Baptist Church Archive (destroyed)",
+      "type": "collection",
+      "description": "The music and records archive of Pilgrim Baptist Church, Chicago - birthplace of modern Black gospel music under Thomas A. Dorsey - destroyed in the January 2006 fire that gutted the building.",
+      "claims": [
+        {
+          "claim": "The January 2006 fire destroyed sheet music, announcements, concert and program notes, and Sunday school attendance books dating to the church's 1922 opening; Partners for Sacred Places had listed the leaking-roof building among \"Ten Sacred Places to Save\" in 2001 ($2.8M needed).",
+          "evidence": "Religion News Service, 2006-01-12; NPR, 2006-01-12.",
+          "source": "Religion News Service, 2006-01-12",
+          "primary": false,
+          "publication_date": "2006-01-12",
+          "uncertainty": "Volunteer Glenn Broadhead noted \"it's not as if every record of Dorsey went up in smoke\" - the precise boundary between destroyed and surviving material was never published.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Pilgrim Baptist Church music and records archive (destroyed)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-027",
+      "name": "Chess Records Masters (destroyed)",
+      "type": "collection",
+      "description": "The master recordings of Chess Records (Chuck Berry, Muddy Waters, Howlin' Wolf, et al.), destroyed in the July 2008 Universal Studios vault fire; exact Chess title-by-title losses contested.",
+      "claims": [
+        {
+          "claim": "The July 2008 UMG warehouse fire destroyed masters including Chess recordings; UMG's internal \"Vault Loss Meeting\" document cited 100,000+ masters and ~500,000 song titles destroyed across labels, contradicting UMG's public \"we had copies\" claims.",
+          "evidence": "NYT Magazine, \"The Day the Music Burned\" (2019), via Discogs/audiokarma mirrors; Wikipedia.",
+          "source": "NYT Magazine, 2019",
+          "primary": false,
+          "publication_date": "2008; 2019",
+          "uncertainty": "Exact list of destroyed Chess masters contested: UMG public statements vs. internal loss memo. Red-team re-audit 2026-09-28 (Disputed): Single strong source (NYT Magazine, 2019) plus Wikipedia mirror, and UMG's public statements contradict the internal loss memo on the facts.",
+          "contradictory_evidence": "UMG's public claim that copies existed vs. the internal loss assessment.",
+          "verification_status": "Disputed"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Chess Records masters (destroyed in 2008 Universal Studios fire)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-028",
+      "name": "Vee-Jay Records Masters",
+      "type": "collection",
+      "description": "The master tapes and chronological master book of Vee-Jay Records (Gary, Indiana, 1953-1966) - the first Black-owned, female-founded major indie label (Little Richard, John Lee Hooker, Jimmy Reed, the Staple Singers, the Dells; first U.S. label to release the Beatles). Current custody and condition undocumented.",
+      "claims": [
+        {
+          "claim": "After Vee-Jay's 1966 bankruptcy, assets passed through Vee-Jay International and licensees (Buddah, Springboard); no current repository for the 5,000+ master tapes or the master book was found in this pass.",
+          "evidence": "Wikipedia; RareBeatles.com discography research.",
+          "source": "Wikipedia",
+          "primary": false,
+          "publication_date": null,
+          "uncertainty": "Masters may survive in licensee vaults, private hands, or be lost; commercial availability of the music does not imply preservation of masters.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Vee-Jay Records masters and master book"
+    },
+    {
+      "id": "CTL-PRESERVE-E-029",
+      "name": "Teenie Harris Archive",
+      "type": "collection",
+      "description": "Charles \"Teenie\" Harris's ~80,000 negatives - \"the largest and most complete portrait of African-American urban life\" - acquired by Carnegie Museum of Art from the family in 2001, three years after his death; decades-long public-identification program continues.",
+      "claims": [
+        {
+          "claim": "Harris died June 12, 1998; CMOA purchased ~80,000 negatives from the family in 2001. The negatives arrived with orphaned context - few titled or dated - and a decades-long public-identification program continues.",
+          "evidence": "The Crowley Company preservation case study (from CMOA sources); CMOA archive pages.",
+          "source": "Carnegie Museum of Art",
+          "primary": true,
+          "publication_date": "2001",
+          "uncertainty": "Scale reported as 70,000+ to ~80,000 across sources.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Charles \"Teenie\" Harris archive"
+    },
+    {
+      "id": "CTL-PRESERVE-E-030",
+      "name": "BlackPast.org",
+      "type": "collection",
+      "description": "Digital encyclopedia of Black history (founded 2007 by Quintard Taylor): 7,200 entries, ~1,000 contributors, 6.5M annual visitors (2023); founder died September 21, 2025.",
+      "claims": [
+        {
+          "claim": "BlackPast.org is a major ungated Black-history reference site whose founder died in 2025; organizational continuity asserted by the site; succession and backup/escrow documentation not public - key person-dependency risk.",
+          "evidence": "blackpast.org (site statements, FAQ); History News Network; WGRZ/Cox Media Group, 2026.",
+          "source": "blackpast.org",
+          "primary": true,
+          "publication_date": "2025-2026",
+          "uncertainty": "Long-term backup policy undocumented (Unresolved, not assumed safe).",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "BlackPast.org"
+    },
+    {
+      "id": "CTL-PRESERVE-E-031",
+      "name": "John Simmons Negatives",
+      "type": "collection",
+      "description": "The life's-work negatives of John Simmons, Emmy-winning cinematographer and chronicler of Black Chicago - nearly all lost when a garage fire destroyed negatives stored in a friend's garage during a move; partial salvage ongoing.",
+      "claims": [
+        {
+          "claim": "Simmons's negatives - stored in a friend's garage during a move - were destroyed or stuck together by fire and water damage; he is still salvaging images, some only via scans friends send of prints he gifted.",
+          "evidence": "Hyperallergic, 2025.",
+          "source": "Hyperallergic, 2025",
+          "primary": false,
+          "publication_date": "2025",
+          "uncertainty": "No inventory of what survived. Red-team re-audit 2026-09-28 (Provisional): Single source (Hyperallergic, 2025); no inventory or second outlet cited.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "John Simmons photographic negatives (partially destroyed)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-032",
+      "name": "Ovie Carter and Bob Black Negative Archives",
+      "type": "collection",
+      "description": "Personal negative archives of octogenarian Black photojournalists Ovie Carter (Pulitzer 1975, Chicago Tribune 1969-2004) and Bob Black (Chicago Defender from 1965, Chicago Sun-Times 1968-2006); disposition not publicly documented.",
+      "claims": [
+        {
+          "claim": "Documentary footage shows Carter examining negatives, indicating personal holdings; no archive-transfer or finding-aid announcement found. Both photographers are in their 80s - the mortality-driven risk in its purest form.",
+          "evidence": "PetaPixel, 2026-08-31 (\"Voices in the Mirror\").",
+          "source": "PetaPixel, 2026-08-31",
+          "primary": false,
+          "publication_date": "2026-08-31",
+          "uncertainty": "\"Personal holdings\" inferred from photograph and context, not stated outright; living individuals - privacy applies; do not over-claim.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Ovie Carter and Bob Black personal negative archives"
+    },
+    {
+      "id": "CTL-PRESERVE-E-033",
+      "name": "WVON Airchecks",
+      "type": "collection",
+      "description": "The surviving 1960s broadcast record of WVON (Chicago Black radio) exists almost entirely through private collectors' home recordings (1966 Lucky Cordell and Ed Cook airchecks; Richard Pegue tapes 1980s-1990s) - not station archives.",
+      "claims": [
+        {
+          "claim": "WVON's 1960s record survives via hobbyist recording: Internet Archive's \"Free the Airchecks!\" collection and YouTube aircheck museums circulate collector tapes; no WVON station archive was found documented. Provenance metadata is thin.",
+          "evidence": "archive.org item pages; YouTube collector descriptions.",
+          "source": "Internet Archive, \"Free the Airchecks!\"",
+          "primary": true,
+          "publication_date": "1966 tapes; ongoing",
+          "uncertainty": "Chain of custody unverified for some items; Chicago collector network otherwise undocumented.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "WVON airchecks held by private collectors"
+    },
+    {
+      "id": "CTL-PRESERVE-E-034",
+      "name": "AFRO-American Newspapers Chain Archive",
+      "type": "collection",
+      "description": "The 130-year-old family-owned AFRO newspaper chain's archive: ~3 million photos, clips, cartoons, event programs, letters, reporter notebooks - in inaccessible state storage, ~5% processed.",
+      "claims": [
+        {
+          "claim": "The AFRO archive sits in a state-owned storage facility not open to the public; a three-person team led by archivist Megan McShea had processed ~5% since October 2022; Afro Charities plans a move to a restored mansion in Baltimore's Upton neighborhood, not yet begun.",
+          "evidence": "The Baltimore Banner, ca. 2023.",
+          "source": "The Baltimore Banner",
+          "primary": false,
+          "publication_date": "2023",
+          "uncertainty": "Counts are estimates (\"an estimated 3 million\"). Red-team re-audit 2026-09-28 (Provisional): Single source (The Baltimore Banner, ca. 2023); counts are estimates from that one report.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "AFRO-American Newspapers chain archive (Afro Charities)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-035",
+      "name": "Muhammad Speaks Archive",
+      "type": "collection",
+      "description": "The archive/morgue of Muhammad Speaks (1961-1975), the Nation of Islam's paper and the largest-circulating Black newspaper of its day: custodianship undocumented.",
+      "claims": [
+        {
+          "claim": "No archive or morgue location for Muhammad Speaks was found in this pass; holdings may rest with the Nation of Islam (private religious organization - privacy constrains inquiry) or be dispersed.",
+          "evidence": "Final Call historical account; negative search.",
+          "source": "Final Call",
+          "primary": false,
+          "publication_date": "2009",
+          "uncertainty": "Unresolved: may survive privately.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        },
+        {
+          "claim": "A separate, documented holding: the Black Archives of Mid-America holds an 18-box Muhammad Speaks run (1967-1997) on fragile newsprint (finding aid AC58) - a Tier 3 framework case, not the paper's own archive.",
+          "evidence": "Black Archives of Mid-America finding aid AC58; framework EX-04.",
+          "source": "Black Archives of Mid-America",
+          "primary": true,
+          "publication_date": null,
+          "uncertainty": "Provisional framework assessment; completeness unverified.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Muhammad Speaks newspaper archives"
+    },
+    {
+      "id": "CTL-PRESERVE-E-036",
+      "name": "Chicago Whip Morgue",
+      "type": "collection",
+      "description": "The morgue and business records of the Chicago Whip (1919-1939; 65,000 circulation within a year; \"Don't Spend Money Where You Can't Work\" campaign): no publicly documented archive located.",
+      "claims": [
+        {
+          "claim": "No archive, morgue, or finding aid for the Chicago Whip surfaced in targeted searches; surviving runs may exist in library microfilm (not confirmed here).",
+          "evidence": "Wikipedia (citing WTTW/NEH); negative search.",
+          "source": "Wikipedia",
+          "primary": false,
+          "publication_date": null,
+          "uncertainty": "Unresolved.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Chicago Whip newspaper morgue and business records"
+    },
+    {
+      "id": "CTL-PRESERVE-E-037",
+      "name": "Binga State Bank and Supreme Life Records",
+      "type": "collection",
+      "description": "Corporate records of Jesse Binga's Binga State Bank (1921-1930) and Supreme Life Insurance Company - central to Black Metropolis economic life: no publicly documented Chicago custodianship.",
+      "claims": [
+        {
+          "claim": "Supreme Life board minutes (1953-1964) are cited in Cambridge Business History Review scholarship, proving records existed and were accessible to at least one researcher, but the footnotes point to company-held minutes, not a public repository.",
+          "evidence": "Business History Review (Cambridge); BlackPast.org.",
+          "source": "Business History Review (Cambridge)",
+          "primary": false,
+          "publication_date": null,
+          "uncertainty": "Records may survive in family hands, corporate-successor files, or state insurance-regulator files; existence plausible but unverified.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Supreme Life Insurance / Binga State Bank corporate records"
+    },
+    {
+      "id": "CTL-PRESERVE-E-038",
+      "name": "A.A. Rayner & Sons Records",
+      "type": "collection",
+      "description": "Historical records of A.A. Rayner & Sons (Chicago Black funeral home, founded 1947; handled Emmett Till's funeral arrangements): no publicly documented archival custodianship.",
+      "claims": [
+        {
+          "claim": "Searches located business listings and current operations but no archive, finding aid, or records-transfer announcement; the firm's own site confirms it provided funeral services for the Till family.",
+          "evidence": "aaraynerandsonsfuneralhome.com (primary); negative search.",
+          "source": "A.A. Rayner & Sons (firm site)",
+          "primary": true,
+          "publication_date": null,
+          "uncertainty": "Records may exist privately, may have been lost, or may be held by family. Cannot verify without private inquiry. Flagged as the single highest-value unresolved lead for Chicago: Till-related business records would be first-order civil-rights evidence. Privacy applies absolutely.",
+          "contradictory_evidence": null,
+          "verification_status": "Unresolved"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "A.A. Rayner & Sons Funeral Home historical records"
+    },
+    {
+      "id": "CTL-PRESERVE-E-039",
+      "name": "Knoxville College Records",
+      "type": "collection",
+      "description": "Institutional records and campus heritage of Knoxville College (HBCU, founded 1875; lost accreditation 1997; campus closed 2017; historic building lost to fire November 2024): records custody undocumented.",
+      "claims": [
+        {
+          "claim": "Knoxville College: HBCU founded 1875; lost accreditation 1997; campus closed 2017; historic building lost to fire Nov 2024; records custody undocumented. Framework assessment Tier 2 (Provisional): records-specific threat inferential; board cooperating with preservation planners; essentially no funds.",
+          "evidence": "WVLT, 2024-11-05; JBHE, 2018; Inside Higher Ed; Knoxville News Sentinel, 2018; framework EX-03.",
+          "source": "WVLT, 2024-11-05",
+          "primary": false,
+          "publication_date": "2024",
+          "uncertainty": "Provisional: campus decay and 2024 fire documented; records-specific threat inferential; uniqueness unverified.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Knoxville College institutional records and campus heritage"
+    },
+    {
+      "id": "CTL-PRESERVE-E-040",
+      "name": "Oscar Micheaux Film Elements",
+      "type": "collection",
+      "description": "Surviving elements of 40+ Oscar Micheaux features (1918-1948): ~30 lost; ~10 survive, several as single incomplete nitrate prints scattered across archives and private hands.",
+      "claims": [
+        {
+          "claim": "Micheaux prints survived largely in private collections and foreign archives; surviving titles exist as single or partial nitrate prints with active nitrate decomposition. Framework assessment Tier 1 (Emergency): Risk Critical, Significance Exceptional, Uniqueness Sole copy.",
+          "evidence": "KOLUMN Magazine, 2025; Smithsonian Magazine; Il Cinema Ritrovato festival notes; Indiana University ScholarWorks; framework EX-07.",
+          "source": "KOLUMN Magazine, 2025",
+          "primary": false,
+          "publication_date": "2025",
+          "uncertainty": "Scattered holdings; specialist restoration; murky rights; high cost. ~30 lost titles should be named as document-only.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Surviving Oscar Micheaux film elements"
+    },
+    {
+      "id": "CTL-PRESERVE-E-041",
+      "name": "DJ Screw Collection",
+      "type": "collection",
+      "description": "The archive of Robert Earl Davis Jr. / DJ Screw (1971-2000), originator of chopped-and-screwed: personal papers, 1,600+ records, original screw tapes; donated by family from 2011; cataloged and partially digitized at UH Libraries.",
+      "claims": [
+        {
+          "claim": "At the 2011 acquisition decision point (private family custody, degrading tape) this rated Tier 2; family donation, cataloging, and partial digitization moved it to Tier 4 (Monitor) - the framework's documented intervention success case.",
+          "evidence": "UH Libraries finding aid 2010-023; UH Digital Collections; BET, 2011; framework EX-06.",
+          "source": "UH Libraries finding aid 2010-023",
+          "primary": true,
+          "publication_date": "2011",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "DJ Screw Collection, University of Houston Libraries"
+    },
+    {
+      "id": "CTL-PRESERVE-E-042",
+      "name": "Mother Bethel AME Church Records",
+      "type": "collection",
+      "description": "Records of Mother Bethel AME Church, Philadelphia (founded 1794 by Richard Allen; founding congregation of the first independent Black denomination in America): outgrew storage in 2013; moved to Presbyterian Historical Society; digitization completed 2021.",
+      "claims": [
+        {
+          "claim": "Mother Bethel's archives outgrew space in 2013 (no climate control; move-or-lose point); moved to the Presbyterian Historical Society; digitization completed 2021. Framework retrospective: Tier 2 at the 2013 decision point, Tier 4 (Monitor) today - Tier 2 correctly triggered action that resolved the risk.",
+          "evidence": "The Christian Post, 2021-02-11; Presbyterian Historical Society; framework EX-08.",
+          "source": "The Christian Post, 2021-02-11",
+          "primary": false,
+          "publication_date": "2013; 2021",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Mother Bethel AME Church records"
+    },
+    {
+      "id": "CTL-PRESERVE-E-043",
+      "name": "The Baltimore Collection",
+      "type": "collection",
+      "description": "53 photographs of Black sitters at the University of Delaware Library (donated 2001) that arrived as \"found objects\" - no photographers, sitters, dates, or provenance; seminars (2017-2023) reconstructing metadata.",
+      "claims": [
+        {
+          "claim": "The Baltimore Collection arrived with no photographers, sitters, dates, or provenance; University of Delaware seminars (2017-2023) are reconstructing metadata - a documented orphan-collection case.",
+          "evidence": "University of Delaware Library project pages (primary).",
+          "source": "University of Delaware Library",
+          "primary": true,
+          "publication_date": "2017-2023",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "The Baltimore Collection"
+    },
+    {
+      "id": "CTL-PRESERVE-E-044",
+      "name": "Black Panther Party Records (absence)",
+      "type": "collection",
+      "description": "The absent centralized archive of the Black Panther Party: no single repository exists; offices were raided (1968-1970) with \"file cabinets, party records\" seized; former Panther Billy Jennings: \"party members are dying every year, and there is no archive for all the great work the movement had done.\"",
+      "claims": [
+        {
+          "claim": "Ward Churchill documents police/FBI raids (1968-1970) that \"cleaned out\" Panther offices - \"file cabinets, party records\" seized - in Denver, Indianapolis, Des Moines, San Francisco, New Bedford, Toledo, New Orleans, Detroit.",
+          "evidence": "Ward Churchill (academic; hosting site non-ideal).",
+          "source": "Ward Churchill",
+          "primary": false,
+          "publication_date": "1968-1970",
+          "uncertainty": "Verified with provenance caveats: the Churchill text's hosting site is non-ideal; underlying work is academic; primary sourcing of raid citations needs corroboration. Red-team 2026-09-28: single source (Ward Churchill), non-ideal hosting, contentious author; treat with caution. Provisional at best.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-045",
+      "name": "HBCU Radio Archives",
+      "type": "collection",
+      "description": "Broadcast archives of 29 HBCU radio stations: reel-to-reel, cassettes, floppy disks, unlabeled CDs - some tapes already \"past repair\"; at one school, nothing saved from 40+ years of broadcasting. A $5M Mellon grant (2023) funds the HBCU Radio Preservation Project.",
+      "claims": [
+        {
+          "claim": "Jocelyn Robinson's NPR-documented survey found reel-to-reel tape \"past repair\" at some HBCUs; NEDCC 2026 field reporting describes format-by-format deterioration; the HBCU Radio Preservation Project ($5M Mellon grant to WYSO with NEDCC) targets 29 stations.",
+          "evidence": "NPR/WUOT, Feb 16, 2020; NEDCC, Aug 20, 2026; cassiuslife.com, Jan 2023.",
+          "source": "NPR/WUOT, 2020-02-16",
+          "primary": false,
+          "publication_date": "2020; 2026",
+          "uncertainty": "Extent across all HBCUs not quantified.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "HBCU radio station archives (aggregate, 29 stations)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-046",
+      "name": "Center for Black Music Research",
+      "type": "collection",
+      "description": "The Center for Black Music Research (Columbia College Chicago, founded 1983; library/archives 1990): 72 archival collections; 5,400+ books; 11,000 sound recordings - survived a 2012 defunding threat after ~70% budget cuts since 2006.",
+      "claims": [
+        {
+          "claim": "In 2012 Columbia's prioritization process proposed eliminating the Center's funding after its budget had been cut ~70% since 2006 (JBHE); current funding stability unresolved - a documented near-loss event.",
+          "evidence": "Journal of Blacks in Higher Education, 2012; Columbia College Chicago.",
+          "source": "Journal of Blacks in Higher Education, 2012",
+          "primary": false,
+          "publication_date": "2012",
+          "uncertainty": "Current stability UNRESOLVED; holdings figures date to ~2010s.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Center for Black Music Research (CBMR) Library and Archives"
+    },
+    {
+      "id": "CTL-PRESERVE-E-047",
+      "name": "Stony Island Arts Bank Collections",
+      "type": "collection",
+      "description": "Theaster Gates's Rebuild Foundation stewardship of four Black-focused collections in a rescued 1923 bank building (purchased from the city for $1; reopened 2015): the JPC reference library (12,000-15,000+ vols.), Frankie Knuckles's vinyl, the Edward J. Williams \"negrobilia\" collection (~4,000 artifacts), 60,000+ UChicago glass lantern slides.",
+      "claims": [
+        {
+          "claim": "The 1923 bank sat vacant since the 1980s and was slated for demolition before Gates purchased it (2012/2013); Mellon granted $3.5M (2022) for an Archives Innovation Program building archival infrastructure. Catalog/finding-aid status unresolved.",
+          "evidence": "papercitymag.com; dezeen.com; hyperallergic.com; thevinylfactory.com (2015-2018); Mellon Foundation, 2022.",
+          "source": "Mellon Foundation, 2022",
+          "primary": true,
+          "publication_date": "2022",
+          "uncertainty": "Exact JPC library volume counts vary by source (12,000 vs. 15,000+).",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Stony Island Arts Bank collections (Johnson Publishing Library; Frankie Knuckles vinyl collection; Edward J. Williams Collection; UChicago glass lantern slides)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-048",
+      "name": "BET Digital Written Archive (deleted)",
+      "type": "collection",
+      "description": "The entire written news archive of BET Digital, permanently removed from the live web in September 2026 as a \"video-first pivot\" under Paramount ownership - no warning; many writers lost their only copy of their work. The Internet Archive had preserved 199,000+ articles and released a searchable explorer on September 8, 2026.",
+      "claims": [
+        {
+          "claim": "BET Digital permanently removed its entire written news archive from the live web in September 2026; the Internet Archive's crawls (199,000+ articles) are the surviving record, released with a pilot explorer September 8, 2026.",
+          "evidence": "HuffPost; Black Enterprise, Sept 9, 2026; infoDOCKET, Sept 8, 2026; TheHub.news.",
+          "source": "Black Enterprise, 2026-09-09",
+          "primary": false,
+          "publication_date": "2026-09",
+          "uncertainty": "Floyd Webb's contrast: \"JET's archive was sold for $30 million and preserved. BET's archive was deleted.\"",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-049",
+      "name": "Black Archives Co",
+      "type": "collection",
+      "description": "Renata Cherlise's crowdsourced archive of mid-20th-century Black-life photographs (begun on Tumblr, then Instagram; 554,000 followers April 2024; book 2023) - a 13+ year archive whose primary home is a rented platform with no institutional export documented.",
+      "claims": [
+        {
+          "claim": "Black Archives Co has operated since 2011 with 554,000 Instagram followers (April 2024) and a 2023 book as print backstop; the corpus lives on Instagram with no documented institutional backup.",
+          "evidence": "Imaginations Journal; Stance Podcast, 2021-01-14.",
+          "source": "Stance Podcast, 2021-01-14",
+          "primary": false,
+          "publication_date": "2021; 2024",
+          "uncertainty": "Backup status Unresolved. Red-team re-audit 2026-09-28 (Provisional): The April 2024 follower figure (554,000) is not covered by the cited 2021-era sources (Stance Podcast 2021; Imaginations Journal).",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Black Archives Co (Instagram)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-050",
+      "name": "Freedmen's Bureau Records (NARA)",
+      "type": "collection",
+      "description": "The Bureau of Refugees, Freedmen, and Abandoned Lands records (RG 105, 1865-1872) at NARA - registers of freedpeople, marriage registers, labor agreements, complaint registers, Black veterans' rosters, school and hospital records; microfilmed in 17 M-numbered publications; 4M records crowdsourced-indexed by the Freedmen's Bureau Project (2015).",
+      "claims": [
+        {
+          "claim": "NARA holds the Freedmen's Bureau records (RG 105, 1865-1872), the richest federal records of Black life in the Reconstruction South; first records arrived at the National Archives in 1939; 17 microfilm publications (M1869, M1875, M1900-M1914, M2029).",
+          "evidence": "NARA press release, 2007; NARA Black History Guide.",
+          "source": "NARA",
+          "primary": true,
+          "publication_date": "2007",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Freedmen's Bureau Records (RG 105); related Black-history federal records"
+    },
+    {
+      "id": "CTL-PRESERVE-E-051",
+      "name": "Calhoun-McCormick Photographic Archive",
+      "type": "collection",
+      "description": "The ~30-year film archive of photographers Keith Calhoun and Chandra McCormick documenting Black New Orleanians - evacuated in bins during Hurricane Katrina (2005); returned to waterlogged negatives; partial salvage followed.",
+      "claims": [
+        {
+          "claim": "In 2005 the photographers evacuated New Orleans with ~30 years of film stored in bins; they returned to waterlogged negatives. Partial salvage/restoration followed; presented as personal/collective loss, not total destruction - some material salvaged and exhibited.",
+          "evidence": "National Geographic, 2021.",
+          "source": "National Geographic, 2021",
+          "primary": false,
+          "publication_date": "2005; 2021",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Citation-only single source (National Geographic, 2021); fuller primary-testimony evidence is documented under E-001 - merge candidate.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Calhoun-McCormick photographic archive (Black New Orleans)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-052",
+      "name": "King and King Funeral Home Records",
+      "type": "collection",
+      "description": "Records of King and King Funeral Home (Black Indianapolis funeral home, 1930s-1980s) - death certificates, applications, financial records - recovered before a building demolition and deposited at the Indiana Historical Society.",
+      "claims": [
+        {
+          "claim": "Indiana Landmarks' Black Heritage Preservation Program received the records after school officials acquiring the site invited a survey before demolition; deposited at the Indiana Historical Society for condition/privacy analysis before processing.",
+          "evidence": "Indiana Landmarks, 2024-09 (primary).",
+          "source": "Indiana Landmarks, 2024-09",
+          "primary": true,
+          "publication_date": "2024-09",
+          "uncertainty": "Processing status pending at publication.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "King and King Funeral Home records (Indianapolis)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-053",
+      "name": "Rescued Illinois Black Funeral-Home Burial Records",
+      "type": "collection",
+      "description": "140,000+ burial records from shuttered Black-owned funeral homes (dating to the 1880s), rescued by the Illinois Office of Comptroller and the Bronzeville Historical Society (10-person processing team) and transferred to CPL's Vivian G. Harsh Research Collection.",
+      "claims": [
+        {
+          "claim": "The Illinois Comptroller's office collaborated with the Bronzeville Historical Society to obtain burial records from shuttered Black-owned funeral homes \"before the historical records were lost forever\"; database exceeds 140,000 records with death records dating to the 1880s; transferred to the Harsh Collection.",
+          "evidence": "Illinois Office of Comptroller press release, 2022-10-04 (primary).",
+          "source": "Illinois Office of Comptroller, 2022-10-04",
+          "primary": true,
+          "publication_date": "2022-10-04",
+          "uncertainty": "Names of the shuttered funeral homes not published (privacy). Extent approximate (\"more than 140,000\").",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Rescued burial records from shuttered Black-owned funeral homes (Illinois)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-054",
+      "name": "Separate Cinema Archive",
+      "type": "collection",
+      "description": "John Duke Kisch's 37,000-item private collection of African American film memorabilia (1904-2019; race films through Black Panther) - \"the most extensive private collection of African American film memorabilia in the world\" - acquired by the Lucas Museum of Narrative Art (announced January 2025).",
+      "claims": [
+        {
+          "claim": "Kisch built the collection over four decades; the Lucas Museum of Narrative Art acquired it for its permanent collection (announced Jan 2025) - the private-collector-to-institution pipeline working at national scale.",
+          "evidence": "PBS SoCal, 2021; Hyperallergic, 2025.",
+          "source": "PBS SoCal, 2021",
+          "primary": false,
+          "publication_date": "2021; 2025",
+          "uncertainty": "Item count is the museum's announced figure.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": [],
+      "memory_map_match": "Separate Cinema Archive (John Duke Kisch)"
+    },
+    {
+      "id": "CTL-PRESERVE-E-055",
+      "name": "Smithsonian National Museum of African American History and Culture",
+      "type": "custodian",
+      "description": "Congress-established museum (2003; opened September 24, 2016); joint custodian of the JPC archive with Getty.",
+      "claims": [
+        {
+          "claim": "NMAAHC opened September 24, 2016; holds 37,000-45,000 objects; ~70% of early acquisitions from basements/trunks/attics.",
+          "evidence": "Smithsonian Institution; Harvard Gazette, 2019.",
+          "source": "Smithsonian Institution",
+          "primary": true,
+          "publication_date": "2021-2025",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-056",
+      "name": "Getty Research Institute",
+      "type": "custodian",
+      "description": "Joint custodian of the Johnson Publishing Company archive with NMAAHC; committed $30M to processing and digitization.",
+      "claims": [
+        {
+          "claim": "Getty/NMAAHC joint ownership of the JPC archive; $30M Getty commitment to cataloging, digitization, and conservation.",
+          "evidence": "MacArthur Foundation and Getty press releases, 2022; Hyperallergic, 2024.",
+          "source": "Getty Trust / MacArthur Foundation",
+          "primary": true,
+          "publication_date": "2022",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-057",
+      "name": "Chicago Public Library",
+      "type": "custodian",
+      "description": "Custodian of the Vivian G. Harsh Research Collection (Carter G. Woodson Regional Library) and the rescued Illinois burial records.",
+      "claims": [
+        {
+          "claim": "CPL holds the Harsh Collection and the rescued burial records; $2M Mellon digitization grant (Feb 2024).",
+          "evidence": "CPL; Mellon Foundation, 2024.",
+          "source": "Chicago Public Library",
+          "primary": true,
+          "publication_date": "2024",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-058",
+      "name": "Howard University (Moorland-Spingarn Research Center)",
+      "type": "custodian",
+      "description": "Custodian of the Moorland-Spingarn Research Center; $2M Mellon grant (Sept 2026) for staff and conservation infrastructure.",
+      "claims": [
+        {
+          "claim": "Howard holds MSRC; Mellon $2M grant Sept 2026 funds five positions, processing, and a conservation-lab plan.",
+          "evidence": "thedig.howard.edu, Sept 2026.",
+          "source": "thedig.howard.edu",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-059",
+      "name": "Carnegie Museum of Art",
+      "type": "custodian",
+      "description": "Acquired Charles \"Teenie\" Harris's ~80,000 negatives from the family in 2001; runs public-identification program.",
+      "claims": [
+        {
+          "claim": "CMOA purchased the Harris negatives in 2001; identification program continues.",
+          "evidence": "Carnegie Museum of Art.",
+          "source": "Carnegie Museum of Art",
+          "primary": true,
+          "publication_date": "2001",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-060",
+      "name": "Lucas Museum of Narrative Art",
+      "type": "custodian",
+      "description": "Acquired John Duke Kisch's 37,000-item Separate Cinema Archive (announced January 2025).",
+      "claims": [
+        {
+          "claim": "Lucas Museum acquired the Separate Cinema Archive, announced Jan 2025.",
+          "evidence": "Hyperallergic, 2025.",
+          "source": "Lucas Museum of Narrative Art",
+          "primary": true,
+          "publication_date": "2025-01",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-061",
+      "name": "Indiana Historical Society",
+      "type": "custodian",
+      "description": "Repository for the King and King Funeral Home records recovered before a building demolition (2024).",
+      "claims": [
+        {
+          "claim": "IHS received the King and King records via Indiana Landmarks' Black Heritage Preservation Program for condition/privacy analysis before processing.",
+          "evidence": "Indiana Landmarks, 2024-09.",
+          "source": "Indiana Landmarks",
+          "primary": true,
+          "publication_date": "2024-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-062",
+      "name": "University of Illinois Chicago - Library Special Collections",
+      "type": "custodian",
+      "description": "Repository for the Roy L. Clay Sr. papers, George N. Leighton papers, and Chicago Park District records.",
+      "claims": [
+        {
+          "claim": "UIC Library holds the Clay and Leighton papers and Park District records; Leighton papers (2009) document desegregation jurisprudence.",
+          "evidence": "UIC Library; American History, April 2017.",
+          "source": "UIC Library",
+          "primary": true,
+          "publication_date": "2009-2017",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-063",
+      "name": "Center for Southeast Louisiana Studies",
+      "type": "custodian",
+      "description": "Custodian of the Richard Funeral Home records (Lake Charles, Louisiana).",
+      "claims": [
+        {
+          "claim": "Center for Southeast Louisiana Studies holds Richard Funeral Home records (family-owned Black funeral home, ca. 1920-2000).",
+          "evidence": "Center for Southeast Louisiana Studies.",
+          "source": "Center for Southeast Louisiana Studies",
+          "primary": true,
+          "publication_date": null,
+          "uncertainty": null,
+          "contradictory_evidence": "Verified",
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-064",
+      "name": "Presbyterian Historical Society",
+      "type": "custodian",
+      "description": "Custodian of the Mother Bethel AME Church records since 2013; digitization completed 2021.",
+      "claims": [
+        {
+          "claim": "PHS holds Mother Bethel's records since 2013; digitization completed 2021.",
+          "evidence": "The Christian Post, 2021-02-11.",
+          "source": "Presbyterian Historical Society",
+          "primary": true,
+          "publication_date": "2013; 2021",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-065",
+      "name": "University of Houston Libraries",
+      "type": "custodian",
+      "description": "Repository of the DJ Screw Collection (finding aid 2010-023; cataloged, partially digitized).",
+      "claims": [
+        {
+          "claim": "UH Libraries holds the DJ Screw Collection, donated by the family from 2011.",
+          "evidence": "UH Libraries finding aid 2010-023.",
+          "source": "University of Houston Libraries",
+          "primary": true,
+          "publication_date": "2011",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-066",
+      "name": "Black Archives of Mid-America",
+      "type": "custodian",
+      "description": "Holds an 18-box run of Muhammad Speaks (1967-1997) on fragile newsprint (finding aid AC58).",
+      "claims": [
+        {
+          "claim": "BAMA holds the 18-box Muhammad Speaks run (1967-1997), finding aid AC58.",
+          "evidence": "Black Archives of Mid-America finding aid AC58.",
+          "source": "Black Archives of Mid-America",
+          "primary": true,
+          "publication_date": null,
+          "uncertainty": null,
+          "contradictory_evidence": "Provisional",
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-067",
+      "name": "Library of Congress",
+      "type": "custodian",
+      "description": "Permanent repository of The HistoryMakers archive (acquired 2014).",
+      "claims": [
+        {
+          "claim": "LoC acquired The HistoryMakers in 2014; access via reading room or institutional subscription.",
+          "evidence": "Journal of Blacks in Higher Education, 2014.",
+          "source": "Journal of Blacks in Higher Education",
+          "primary": false,
+          "publication_date": "2014",
+          "uncertainty": " Red-team 2026-09-28: single source (JBHE), primary=false; fails the package Verified bar.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-068",
+      "name": "Rebuild Foundation (Stony Island Arts Bank)",
+      "type": "custodian",
+      "description": "Theaster Gates's Rebuild Foundation, steward of the Stony Island Arts Bank collections.",
+      "claims": [
+        {
+          "claim": "Rebuild Foundation stewards the Arts Bank collections; Mellon $3.5M Archives Innovation Program grant, 2022.",
+          "evidence": "Mellon Foundation, 2022.",
+          "source": "Mellon Foundation",
+          "primary": true,
+          "publication_date": "2022",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-069",
+      "name": "Internet Archive",
+      "type": "custodian",
+      "description": "Nonprofit digital library functioning as a backstop for Black digital memory: rescued and released an explorer for 199,000+ BET.com articles (Sept 8, 2026); hosts WVON aircheck collections.",
+      "claims": [
+        {
+          "claim": "Internet Archive crawls preserved 199,000+ BET.com articles; pilot explorer released Sept 8, 2026.",
+          "evidence": "infoDOCKET, Sept 8, 2026.",
+          "source": "infoDOCKET",
+          "primary": true,
+          "publication_date": "2026-09-08",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-070",
+      "name": "Black Metropolis Research Consortium",
+      "type": "custodian",
+      "description": "Chicago consortium of Black-history repositories; operates the BMRC Archives Portal (1,000+ collection records).",
+      "claims": [
+        {
+          "claim": "BMRC's portal aggregates 1,000+ records; 2009-2011 survey documented systemic underprocessing.",
+          "evidence": "UChicago Library (BMRC exhibit text).",
+          "source": "UChicago Library",
+          "primary": true,
+          "publication_date": null,
+          "uncertainty": null,
+          "contradictory_evidence": "Verified",
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-071",
+      "name": "Obsidian Collection Archives (org)",
+      "type": "custodian",
+      "description": "Chicago digitization nonprofit founded 2017 by Angela Ford to digitize Black press photography.",
+      "claims": [
+        {
+          "claim": "Obsidian digitizes Defender/Afro-American photography; Google Arts & Culture exhibits; 136 images + 8 photo stories live in 2018 reporting.",
+          "evidence": "Mic.com, 2018; Chicago Community Trust, 2021.",
+          "source": "Mic.com",
+          "primary": false,
+          "publication_date": "2018; 2021",
+          "uncertainty": "Current (2026) status undocumented.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-072",
+      "name": "Angela Ford",
+      "type": "person",
+      "description": "Founder of the Obsidian Collection Archives; volunteer organizer who counted the Defender's 250,000 images.",
+      "claims": [
+        {
+          "claim": "Ford organized the Defender morgue as a volunteer, raised $143,000, counted 250,000 images, founded Obsidian (2017).",
+          "evidence": "Mic.com, 2018; NPQ/WBEZ, 2018.",
+          "source": "Mic.com",
+          "primary": false,
+          "publication_date": "2018",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-073",
+      "name": "Julieanna L. Richardson",
+      "type": "person",
+      "description": "Founder of The HistoryMakers (1999).",
+      "claims": [
+        {
+          "claim": "Richardson founded The HistoryMakers in Chicago in 1999.",
+          "evidence": "The HistoryMakers; JBHE, 2014.",
+          "source": "The HistoryMakers",
+          "primary": true,
+          "publication_date": "2014",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-074",
+      "name": "Theaster Gates",
+      "type": "person",
+      "description": "Artist and founder of the Rebuild Foundation; rescued the Stony Island Arts Bank (purchased from the city for $1).",
+      "claims": [
+        {
+          "claim": "Gates purchased the 1923 bank building and reopened it as the Stony Island Arts Bank in 2015.",
+          "evidence": "dezeen.com; hyperallergic.com.",
+          "source": "dezeen.com",
+          "primary": false,
+          "publication_date": "2015",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-075",
+      "name": "John Duke Kisch",
+      "type": "person",
+      "description": "Collector of the 37,000-item Separate Cinema Archive over four decades; acquired by the Lucas Museum (2025).",
+      "claims": [
+        {
+          "claim": "Kisch built the collection over four decades; acquired by Lucas Museum, announced Jan 2025.",
+          "evidence": "PBS SoCal, 2021; Hyperallergic, 2025.",
+          "source": "PBS SoCal",
+          "primary": false,
+          "publication_date": "2021; 2025",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-076",
+      "name": "Sherry Williams",
+      "type": "person",
+      "description": "Founder of the Bronzeville Historical Society; 10-person team processed rescued Illinois funeral-home burial records.",
+      "claims": [
+        {
+          "claim": "Williams's Bronzeville Historical Society and the Illinois Comptroller processed 140,000+ rescued burial records.",
+          "evidence": "Illinois Office of Comptroller, 2022-10-04.",
+          "source": "Illinois Office of Comptroller",
+          "primary": true,
+          "publication_date": "2022-10-04",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-077",
+      "name": "Johnson Publishing Company bankruptcy and archive auction",
+      "type": "event",
+      "description": "(2019-04 to 2019-07) Chapter 7 bankruptcy (April 2019) and the July 25, 2019 auction at which a four-foundation consortium bought the Ebony/Jet archive for just under $30M, forestalling private dispersal.",
+      "claims": [
+        {
+          "claim": "JPC filed Chapter 7 April 2019; archive auctioned July 25, 2019; consortium purchase just under $30M.",
+          "evidence": "The Art Newspaper, 2019-08-02; Hyperallergic, 2024.",
+          "source": "The Art Newspaper",
+          "primary": false,
+          "publication_date": "2019-08-02",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-078",
+      "name": "Pilgrim Baptist Church fire",
+      "type": "event",
+      "description": "(2006-01) The January 2006 fire that gutted Pilgrim Baptist Church, Chicago - birthplace of Black gospel music - destroying its music and records archive.",
+      "claims": [
+        {
+          "claim": "Fire destroyed sheet music, concert/program notes, and records dating to 1922; $2.8M had been needed for repairs.",
+          "evidence": "Religion News Service, 2006-01-12.",
+          "source": "Religion News Service",
+          "primary": false,
+          "publication_date": "2006-01-12",
+          "uncertainty": " Red-team 2026-09-28: single source (RNS 2006); fails the package Verified bar (needs >=2 independent sources or primary evidence).",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-079",
+      "name": "Universal Studios vault fire (Chess masters destroyed)",
+      "type": "event",
+      "description": "(2008-07) The July 2008 UMG warehouse fire that destroyed master recordings including the Chess Records masters.",
+      "claims": [
+        {
+          "claim": "Fire destroyed 100,000+ masters / ~500,000 song titles per UMG internal loss memo (public claims contested).",
+          "evidence": "NYT Magazine, 2019.",
+          "source": "NYT Magazine",
+          "primary": false,
+          "publication_date": "2008; 2019",
+          "uncertainty": "Exact Chess title-by-title losses contested. Red-team re-audit 2026-09-28 (Disputed): Single source (NYT Magazine, 2019); UMG's public claims vs. the internal loss memo is an unresolved factual contradiction.",
+          "contradictory_evidence": "UMG public claims vs. internal memo.",
+          "verification_status": "Disputed"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-080",
+      "name": "BET.com digital article wipe",
+      "type": "event",
+      "description": "(2026-09) BET Digital's permanent removal of its entire written news archive (September 2026) as a \"video-first pivot\"; Internet Archive rescue (199,000+ articles, explorer Sept 8, 2026).",
+      "claims": [
+        {
+          "claim": "BET removed its entire written news archive Sept 2026; no warning to writers.",
+          "evidence": "HuffPost; Black Enterprise, Sept 9, 2026.",
+          "source": "Black Enterprise",
+          "primary": false,
+          "publication_date": "2026-09-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-081",
+      "name": "MTV News archive wipe",
+      "type": "event",
+      "description": "(2024-06) Viacom/Paramount's 2024 shutdown of the MTV News archive.",
+      "claims": [
+        {
+          "claim": "MTV News archive taken offline in June 2024.",
+          "evidence": "Variety; Los Angeles Times.",
+          "source": "Variety",
+          "primary": false,
+          "publication_date": "2024-06",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-082",
+      "name": "MySpace server-migration loss",
+      "type": "event",
+      "description": "(2019-03) The disclosed loss of all user-uploaded content from 2003-2015 - ~50M songs from ~14M artists - in a MySpace server migration.",
+      "claims": [
+        {
+          "claim": "MySpace disclosed loss of 2003-2015 uploads: ~50M songs from ~14M artists.",
+          "evidence": "Reddit announcement; The New York Times.",
+          "source": "The New York Times",
+          "primary": false,
+          "publication_date": "2019-03",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-083",
+      "name": "Vine shutdown",
+      "type": "event",
+      "description": "(2017-01) Shutdown of the Vine app (January 2017) and the subsequent cultural erasure of Black digital creative expression.",
+      "claims": [
+        {
+          "claim": "Vine shut down Jan 2017; cited as digital-era memory loss for Black creators.",
+          "evidence": "ABC News; NPR.",
+          "source": "ABC News",
+          "primary": false,
+          "publication_date": "2017-01",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-084",
+      "name": "Eyes on the Prize rights blackout",
+      "type": "event",
+      "description": "(ca. 1995-2005) The rights-driven withdrawal of the civil-rights documentary series (ca. 1995-2005) and its return (2005-2006).",
+      "claims": [
+        {
+          "claim": "Series withdrawn ca. 1995-2005 over rights; returned 2005-2006.",
+          "evidence": "Wikipedia; PBS.",
+          "source": "PBS",
+          "primary": false,
+          "publication_date": "2005-2006",
+          "uncertainty": "Exact dates approximate. Red-team re-audit 2026-09-28 (Provisional): Wikipedia does not count as an independent source, leaving PBS as the sole substantive citation.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-085",
+      "name": "Twitter/X research API paywall",
+      "type": "event",
+      "description": "(2023) Twitter's restriction of research API access (spring 2023), breaking the dominant digital-memory research infrastructure for Black cultural expression.",
+      "claims": [
+        {
+          "claim": "Twitter restricted research API access in spring 2023.",
+          "evidence": "NPR; The Conversation; academic commentary.",
+          "source": "NPR",
+          "primary": false,
+          "publication_date": "2023",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-086",
+      "name": "#BlackLivesMatter tweet decay",
+      "type": "event",
+      "description": "(2023) Pew Research Center's 2023 finding that 18% of 2020-2022 #BlackLivesMatter tweets were deleted or otherwise unavailable - the first quantified decay rate for a Black social movement's digital record.",
+      "claims": [
+        {
+          "claim": "Pew: 18% of 2020-2022 #BLM tweets deleted or unavailable.",
+          "evidence": "Pew Research Center, 2023.",
+          "source": "Pew Research Center",
+          "primary": true,
+          "publication_date": "2023",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-087",
+      "name": "Hurricane Katrina - Calhoun-McCormick archive flooded",
+      "type": "event",
+      "description": "(2005-08) Photographers Keith Calhoun and Chandra McCormick evacuated New Orleans with ~30 years of film in bins; returned to waterlogged negatives.",
+      "claims": [
+        {
+          "claim": "Evacuation with bins of film; waterlogged negatives on return; partial salvage.",
+          "evidence": "National Geographic, 2021.",
+          "source": "National Geographic",
+          "primary": false,
+          "publication_date": "2005; 2021",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Citation-only single source (National Geographic, 2021); duplicate of E-001's Verified claim - merge candidate.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-088",
+      "name": "John Simmons garage fire",
+      "type": "event",
+      "description": "(2025) Fire (and water damage) at a friend's garage destroyed most of John Simmons's photographic negatives during a move.",
+      "claims": [
+        {
+          "claim": "Negatives destroyed or stuck together by fire/water damage; partial salvage ongoing.",
+          "evidence": "Hyperallergic, 2025.",
+          "source": "Hyperallergic",
+          "primary": false,
+          "publication_date": "2025",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Single source (Hyperallergic, 2025); no inventory of what survived.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-089",
+      "name": "Teenie Harris death and archive acquisition",
+      "type": "event",
+      "description": "(1998; 2001) Harris died June 12, 1998; Carnegie Museum of Art acquired ~80,000 negatives from the family in 2001.",
+      "claims": [
+        {
+          "claim": "Death 1998; acquisition 2001.",
+          "evidence": "Carnegie Museum of Art.",
+          "source": "Carnegie Museum of Art",
+          "primary": true,
+          "publication_date": "1998; 2001",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-090",
+      "name": "John Hope Franklin estate sale",
+      "type": "event",
+      "description": "(2017-02) The February 2017 sale of John Hope Franklin's personal library and archives - a warning case about eminent scholars' materials.",
+      "claims": [
+        {
+          "claim": "Estate sale Feb 2017 included personal library/archive.",
+          "evidence": "H-Net; scholarly commentary.",
+          "source": "H-Net",
+          "primary": false,
+          "publication_date": "2017-02",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): H-Net plus unnamed 'scholarly commentary'; sources.md itself lists the Franklin papers' disposition as a Provisional example.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-091",
+      "name": "WDCU license sale",
+      "type": "event",
+      "description": "(ca. 1997) Howard University's sale of the WDCU jazz station license (ca. 1997) - a warning case of academic/ownership change endangering Black cultural assets.",
+      "claims": [
+        {
+          "claim": "License sale ca. 1997; preservation of broadcast history uncertain.",
+          "evidence": "FCC records; press coverage.",
+          "source": "FCC records",
+          "primary": false,
+          "publication_date": "ca. 1997",
+          "uncertainty": "Details approximate.",
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-092",
+      "name": "America's Black Holocaust Museum closure",
+      "type": "event",
+      "description": "(2008) Closure of America's Black Holocaust Museum (2008); virtual museum launched 2012.",
+      "claims": [
+        {
+          "claim": "Museum closed 2008; virtual museum launched 2012.",
+          "evidence": "ABHM.",
+          "source": "ABHM",
+          "primary": true,
+          "publication_date": "2008; 2012",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-093",
+      "name": "Moorland-Spingarn closure scare",
+      "type": "event",
+      "description": "(2009-11) November 2009 reports of MSRC's ~80% staff reduction - the documented institutional-collapse warning at a major Black repository.",
+      "claims": [
+        {
+          "claim": "Reported ~80% staff reduction over 15 years (director on record).",
+          "evidence": "Inside Higher Ed, Nov 2009.",
+          "source": "Inside Higher Ed",
+          "primary": false,
+          "publication_date": "2009-11",
+          "uncertainty": "Exact headcount provisional. Red-team re-audit 2026-09-28 (Provisional): Single source (Inside Higher Ed, Nov 2009); the claim's own uncertainty field flags the headcount as provisional.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-094",
+      "name": "CBMR defunding threat",
+      "type": "event",
+      "description": "(2012) Columbia College's 2012 prioritization process proposing to eliminate the Center for Black Music Research's funding after ~70% budget cuts since 2006.",
+      "claims": [
+        {
+          "claim": "Funding elimination proposed 2012; budget cut ~70% since 2006.",
+          "evidence": "Journal of Blacks in Higher Education, 2012.",
+          "source": "Journal of Blacks in Higher Education",
+          "primary": false,
+          "publication_date": "2012",
+          "uncertainty": " Red-team re-audit 2026-09-28 (Provisional): Single source (JBHE, 2012); institutional corroboration exists under E-046 but is not cited here.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-095",
+      "name": "Knoxville College building fire",
+      "type": "event",
+      "description": "(2024-11) November 2024 fire that destroyed a historic building on the closed Knoxville College campus.",
+      "claims": [
+        {
+          "claim": "Historic building lost to fire Nov 2024; records custody undocumented.",
+          "evidence": "WVLT, 2024-11-05.",
+          "source": "WVLT",
+          "primary": false,
+          "publication_date": "2024-11-05",
+          "uncertainty": "Records-specific threat inferential. Red-team re-audit 2026-09-28 (Provisional): Single local source (WVLT, 2024); the records-specific threat is inferential per the claim's own uncertainty field.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-096",
+      "name": "JPC archive transfer to NMAAHC/Getty",
+      "type": "event",
+      "description": "(2022-07) Completion (July 2022) of the Johnson Publishing Company archive's transfer to joint NMAAHC/Getty ownership with $30M committed to processing/digitization.",
+      "claims": [
+        {
+          "claim": "Transfer completed July 2022; $30M Getty commitment.",
+          "evidence": "MacArthur Foundation; Getty, 2022.",
+          "source": "Getty Trust",
+          "primary": true,
+          "publication_date": "2022-07",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-097",
+      "name": "The HistoryMakers acquired by Library of Congress",
+      "type": "event",
+      "description": "(2014) The Library of Congress's 2014 acquisition of The HistoryMakers archive.",
+      "claims": [
+        {
+          "claim": "LoC acquired the collection in 2014.",
+          "evidence": "Journal of Blacks in Higher Education, 2014.",
+          "source": "Journal of Blacks in Higher Education",
+          "primary": false,
+          "publication_date": "2014",
+          "uncertainty": " Red-team 2026-09-28: single source (JBHE), primary=false; also redundant with E-067; fails the package Verified bar.",
+          "contradictory_evidence": null,
+          "verification_status": "Provisional"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-098",
+      "name": "Freedmen's Bureau Project launch",
+      "type": "event",
+      "description": "(2015-06-19) The June 19, 2015 launch of the Freedmen's Bureau Project - 19,000+ volunteers indexing 4M records in ~18 months.",
+      "claims": [
+        {
+          "claim": "Launched June 19, 2015; 19,000+ volunteers indexed 4M records in ~18 months.",
+          "evidence": "FamilySearch; African American Intellectual History Society.",
+          "source": "FamilySearch",
+          "primary": true,
+          "publication_date": "2015-06-19",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-099",
+      "name": "Fisk Rosenwald Fund Archive portal launch",
+      "type": "event",
+      "description": "(2025-11) The November 2025 launch of the Fisk Rosenwald Fund Archive portal (Amistad/John Hope Franklin Research Center).",
+      "claims": [
+        {
+          "claim": "Portal launched November 2025; ~30,000 documents.",
+          "evidence": "Duke University; Amistad Research Center.",
+          "source": "Duke University",
+          "primary": true,
+          "publication_date": "2025-11",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-100",
+      "name": "Mellon $2M Harsh digitization grant",
+      "type": "event",
+      "description": "(2024-02) The February 2024 Mellon grant funding Harsh Collection digitization - ending its in-person-only era.",
+      "claims": [
+        {
+          "claim": "$2M Mellon grant Feb 2024 for Harsh digitization.",
+          "evidence": "Mellon Foundation, 2024.",
+          "source": "Mellon Foundation",
+          "primary": true,
+          "publication_date": "2024-02",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-101",
+      "name": "Mellon $2M Moorland-Spingarn grant",
+      "type": "event",
+      "description": "(2026-09) The September 2026 Mellon grant for five MSRC positions, processing, conservation-lab planning, and AV digitization.",
+      "claims": [
+        {
+          "claim": "$2M Mellon grant Sept 2026.",
+          "evidence": "thedig.howard.edu, Sept 2026.",
+          "source": "thedig.howard.edu",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-102",
+      "name": "Emmett Till and Mamie Till-Mobley National Monument established",
+      "type": "event",
+      "description": "(2023-07-25) Presidential proclamation (July 25, 2023) establishing the Till monument at Roberts Temple and other sites.",
+      "claims": [
+        {
+          "claim": "Monument established July 25, 2023 at Roberts Temple, Graball Landing, Tallahatchie County Courthouse.",
+          "evidence": "NPS.",
+          "source": "National Park Service",
+          "primary": true,
+          "publication_date": "2023-07-25",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-103",
+      "name": "Tulsa Race Massacre",
+      "type": "event",
+      "description": "(1921-06) The 1921 Tulsa Race Massacre and the destruction of Greenwood - the canonical origin event for Black memory erasure.",
+      "claims": [
+        {
+          "claim": "Greenwood destroyed June 1921; memory suppressed for decades.",
+          "evidence": "Tulsa Historical Society; Smithsonian.",
+          "source": "Smithsonian Institution",
+          "primary": false,
+          "publication_date": "1921",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-104",
+      "name": "Google News Archive homepage removed",
+      "type": "event",
+      "description": "(2011-08) Google's August 2011 removal of its News Archive homepage - the first major platform-level disappearance of newspaper-digitization access.",
+      "claims": [
+        {
+          "claim": "Homepage removed August 2011.",
+          "evidence": "Google; press coverage.",
+          "source": "Google",
+          "primary": true,
+          "publication_date": "2011-08",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-105",
+      "name": "Tumblr adult-content purge",
+      "type": "event",
+      "description": "(2018-12-17) Tumblr's December 17, 2018 purge and the resulting data loss for Black digital archives hosted on the platform.",
+      "claims": [
+        {
+          "claim": "Purge Dec 17, 2018; collateral data loss.",
+          "evidence": "Tumblr; press coverage.",
+          "source": "Tumblr",
+          "primary": true,
+          "publication_date": "2018-12-17",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-106",
+      "name": "Library of Congress Twitter archive goes selective",
+      "type": "event",
+      "description": "(2018-01-01) The LOC's shift to selective tweet collection effective January 1, 2018 - the end of comprehensive platform-scale capture.",
+      "claims": [
+        {
+          "claim": "Selective collection from Jan 1, 2018.",
+          "evidence": "Library of Congress.",
+          "source": "Library of Congress",
+          "primary": true,
+          "publication_date": "2018-01-01",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-107",
+      "name": "HBCU Radio Preservation Project $5M grant",
+      "type": "event",
+      "description": "(2023) The $5M Mellon grant (2023) to WYSO with NEDCC to preserve 29 HBCU radio stations' archives.",
+      "claims": [
+        {
+          "claim": "$5M Mellon grant 2023; 29 stations.",
+          "evidence": "cassiuslife.com, Jan 2023; NEDCC, 2026.",
+          "source": "cassiuslife.com",
+          "primary": false,
+          "publication_date": "2023",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-108",
+      "name": "Separate Cinema Archive acquired by Lucas Museum",
+      "type": "event",
+      "description": "(2025-01) The Lucas Museum's acquisition of John Duke Kisch's 37,000-item Separate Cinema Archive (announced January 2025).",
+      "claims": [
+        {
+          "claim": "Acquisition announced Jan 2025.",
+          "evidence": "Hyperallergic, 2025.",
+          "source": "Lucas Museum of Narrative Art",
+          "primary": true,
+          "publication_date": "2025-01",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-109",
+      "name": "Roberts Temple named to National Trust 11 Most Endangered",
+      "type": "event",
+      "description": "(2020) Roberts Temple Church of God in Christ named to the National Trust's 2020 list of America's 11 Most Endangered Historic Places.",
+      "claims": [
+        {
+          "claim": "Listed 2020; Emmett Till funeral site.",
+          "evidence": "National Trust for Historic Preservation.",
+          "source": "National Trust for Historic Preservation",
+          "primary": true,
+          "publication_date": "2020",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-110",
+      "name": "Memory Chain Stage: MEMORY CREATED",
+      "type": "concept",
+      "description": "Lived experience happens; memory is created in the community. Holding verdict: STRONGEST-supported by numbers - the memory exists in abundance.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: MEMORY CREATED is the strongest-supported stage by the numbers - the memory exists in abundance.",
+          "evidence": "Chain track synthesis (10 stages; stage evidence audit).",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-111",
+      "name": "Memory Chain Stage: RECORDED",
+      "type": "concept",
+      "description": "Whether the memory gets recorded at all (who records, with what means, in what format). Holding verdict: second-strongest.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: RECORDED is the second-strongest stage.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-112",
+      "name": "Memory Chain Stage: COLLECTED",
+      "type": "concept",
+      "description": "Whether recorded memory is gathered and kept (collectors, morgues, private holdings). Holding verdict: strong.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: COLLECTED is strong - many collections exist in private and institutional hands.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-113",
+      "name": "Memory Chain Stage: CATALOGED",
+      "type": "concept",
+      "description": "Whether collected memory is described, indexed, and findable. Holding verdict: the worst-supported stage by hard evidence/backlog: the AFRO archive (~5% processed), Baltimore Collection orphans, BMRC underprocessing findings.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: CATALOGED is the worst-supported stage by hard evidence/backlog.",
+          "evidence": "Chain track synthesis; BMRC survey; AFRO (~5% processed since Oct 2022); Baltimore Collection orphans.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-114",
+      "name": "Memory Chain Stage: PRESERVED",
+      "type": "concept",
+      "description": "Whether the carriers are stabilized and housed for the long term. Holding verdict: mixed - major rescues alongside active loss.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: PRESERVED is mixed - rescues (JPC, King and King, burial records) alongside active loss (fires, mold, vinegar syndrome).",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-115",
+      "name": "Memory Chain Stage: DIGITIZED",
+      "type": "concept",
+      "description": "Whether the collection is converted to sustainable digital form. Holding verdict: patchy - Harsh in-person-only until 2024; HistoryMakers behind.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: DIGITIZED is patchy.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-116",
+      "name": "Memory Chain Stage: CONNECTED",
+      "type": "concept",
+      "description": "Whether digitized material is linked across institutions and knowledge graphs. Holding verdict: second-thinnest evidence - CTL project rationale.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: CONNECTED is the second-thinnest-evidence stage; the project's rationale.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-117",
+      "name": "Memory Chain Stage: DISCOVERABLE",
+      "type": "concept",
+      "description": "Whether the memory can be found by those who need it. Holding verdict: the thinnest-evidence stage overall.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: DISCOVERABLE is the thinnest-evidence stage overall.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-118",
+      "name": "Memory Chain Stage: USED",
+      "type": "concept",
+      "description": "Whether the memory is used in research, teaching, and public life. Holding verdict: strong where discoverable.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: USED is strong where discoverable.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    },
+    {
+      "id": "CTL-PRESERVE-E-119",
+      "name": "Memory Chain Stage: TRANSMITTED",
+      "type": "concept",
+      "description": "Whether the memory is carried forward to future generations and creators. Holding verdict: strong.",
+      "claims": [
+        {
+          "claim": "Chain-stage verdict: TRANSMITTED is strong.",
+          "evidence": "Chain track synthesis.",
+          "source": "Chain track, CTL-DR-PRESERVE-001",
+          "primary": true,
+          "publication_date": "2026-09",
+          "uncertainty": null,
+          "contradictory_evidence": null,
+          "verification_status": "Verified"
+        }
+      ],
+      "related_projects": []
+    }
+  ]
+}

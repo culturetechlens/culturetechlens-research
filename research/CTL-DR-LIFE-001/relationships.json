@@ -1,0 +1,376 @@
+{
+ "project": "CTL-DR-LIFE-001",
+ "count": 46,
+ "rule": "verified-only",
+ "relationships": [
+  {
+   "evidence": "Drake and Cayton's kitchenette description ('single rooms, rented furnished and without a lease... no cooking facilities despite the name') quoted in eScholarship dissertation",
+   "from": "Kitchenette apartment living",
+   "source": "eScholarship dissertation quoting Black Metropolis (1945)",
+   "to": "Black Metropolis (Drake & Cayton, 1945)",
+   "type": "documented_in",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Phyllis Wheatley Club used rent parties and fundraising drives to pay the mortgage of the Phyllis Wheatley Home (eScholarship article)",
+   "from": "Rent parties",
+   "source": "eScholarship article on the Phyllis Wheatley Club",
+   "to": "Kitchenette apartment living",
+   "type": "economic_response_to",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Parade initiated by Defender staffer David Kellum; organized by Chicago Defender Charities since 1946",
+   "from": "Bud Billiken Parade and Picnic",
+   "source": "Wikipedia; encyclopedia2.thefreedictionary.com",
+   "to": "Chicago Defender (1905-2019 print)",
+   "type": "sponsored_by",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Bud Billiken character and youth section published in the Chicago Defender from 1923",
+   "from": "Bud Billiken Club (Chicago Defender youth section)",
+   "source": "Wikipedia; aaregistry.org",
+   "to": "Chicago Defender (1905-2019 print)",
+   "type": "published_in",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Cooper created 'Search for Missing Persons' in 1938 (Radio Hall of Fame; Wikipedia)",
+   "from": "Search for Missing Persons (radio program)",
+   "source": "radiohalloffame.com; Wikipedia",
+   "to": "Jack L. Cooper and The All-Negro Hour",
+   "type": "created_by",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Timuel Black oral history: couples dressed up and went to the Regal Theater on dates (Daily Northwestern, 2001)",
+   "from": "Regal Theater (dating and leisure destination)",
+   "source": "Timuel Black oral history via Daily Northwestern (2001)",
+   "to": "Dating on the Stroll (47th Street promenade)",
+   "type": "venue_for",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Tracy N. Poe (1999): soul food traditions carried to Chicago and served at Sunday tables; Sunday spreads recalled as 'chicken and cobbler'",
+   "from": "Soul food cooking in migration-era Chicago",
+   "source": "Poe (1999); Bronzeville documentary narration",
+   "to": "Sunday dinner",
+   "type": "feeds_into",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Rollins was children's librarian at Hall Branch under Vivian Harsh; published Christmas Gif' (1963); discussed on WFMT with Terkel",
+   "from": "Christmas in Black Chicago",
+   "source": "Chicago Magazine (2014)",
+   "to": "Hall Branch Library and Vivian Harsh Collection",
+   "type": "associated_with",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Terkel-Rollins broadcast reading from Christmas Gif' archived via Chicago Magazine / archive.org",
+   "from": "Christmas in Black Chicago",
+   "source": "Chicago Magazine (2014)",
+   "to": "Studs Terkel Radio Archive (WFMT)",
+   "type": "documented_in",
+   "workstream": "w1-home-family"
+  },
+  {
+   "evidence": "Gill: salons were \"both a public and private institution\" where beauticians had economic and physical autonomy to encourage clientele to act politically; beauty schools taught politics.",
+   "from": "Beauty shop as Black women's political and economic space",
+   "source": "The Free Library (review of Gill, Beauty Shop Politics); The Collegian (TCC)",
+   "to": "Hair-care routines at home — from hot combs and Ultra Sheen to Afro Sheen and the natural",
+   "type": "practice — practice",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "evidence": "Johnson Products sponsorship \"helped the program grow from a local show to a nationally syndicated cultural icon.\"",
+   "from": "Johnson Products Company (Afro Sheen / Ultra Sheen)",
+   "source": "Wikipedia; AP (2026-07-07)",
+   "to": "Soul Train (local Chicago dance show → national)",
+   "type": "institution — institution (sponsorship)",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "evidence": "Chicago History Museum's \"Inspiring Beauty\" exhibition states the Fair reflected \"the goals and objectives of Johnson Publishing Company to visually showcase and celebrate the best of black life.\"",
+   "from": "Ebony Fashion Fair (Johnson Publishing Company)",
+   "source": "Spotlight on Lake (Hindman catalog)",
+   "to": "Chicago Defender / Ebony / Jet advertisements as evidence of Black consumer practice",
+   "type": "institution — source_collection",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "evidence": "Meida McNeal (Chicago Black Social Culture Map): house-music lineage runs through \"the black lounge, blues, whatever scene here in Chicago or had their own kind of lounges or taverns or mom and pop record stores\" — the same house-party/social-club spaces documented as everyday nightlife.",
+   "from": "House parties and basement parties — ordinary Black nightlife",
+   "source": "KEDM/NPR (2023-03-02)",
+   "to": "Chicago Black social dance culture as everyday lineage — bop to house",
+   "type": "practice — practice (seedbed)",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "evidence": "SITES exhibition: \"Of the over 180 businesses listed in Chicago, nearly 80% were in the Bronzeville District.\"",
+   "from": "Traveling with the Negro Motorist Green Book — Chicago as destination",
+   "source": "GlobeNewswire/SITES (2023-01-12)",
+   "to": "47th Street shopping and strolling — Bronzeville's Black consumer corridor",
+   "type": "practice — place (mapping)",
+   "workstream": "w2-commerce-leisure"
+  },
+  {
+   "evidence": "T Dog Media (2013): WVON 'suspended music temporarily in 1968 for wall-to-wall news coverage of the assassination of Dr. Martin Luther King Jr... [it] was a calming presence in a sea of tension.' Congressional Record (2013): station personalities 'called for calm and peace. And people began to listen to them.'",
+   "from": "Listening to Black radio DJs as daily companionship (the 'Good Guys' era)",
+   "source": "Congressional Record H2072–H2073 (2013); T Dog Media (2013)",
+   "to": "WVON radio as a listened-to Black Chicago institution",
+   "type": "practice → institution",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "evidence": "Stax/NPR (2021): the 35,000-disc collection is 'mainly of rare records by lesser-known artists from Chicago's culturally rich South Side community from the 1960s and 1970s... with addresses on the labels.'",
+   "from": "The 45-RPM single",
+   "source": "Stax Museum press release (2021); NPR (May 19, 2021)",
+   "to": "Record collecting as community archiving (Chicago soul 45s)",
+   "type": "object → practice",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "evidence": "Chicago Magazine (Sept 2016): Urban League-era coaching included signs like 'Don't Lean Off the Porch' — porch comportment was an early block-club concern.",
+   "from": "Block clubs",
+   "source": "Chicago Magazine (Sept 2016)",
+   "to": "Porch-sitting",
+   "type": "institution → practice (norm-setting)",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "evidence": "Congressional Record S1080 (2016): the museum 'with the help of DePaul University... launched a new online registry' of Black railroad workers' oral histories.",
+   "from": "A. Philip Randolph Pullman Porter Museum",
+   "source": "Congressional Record, vol. 162, S1080 (2016)",
+   "to": "Pullman porter work",
+   "type": "institution → practice (memory preservation)",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "evidence": "Chicago History Museum contracted WFMT to publish the tapes online; Library of Congress digitized. First 1,200+ programs at studsterkel.wfmt.com (May 2018).",
+   "from": "Studs Terkel Radio Archive (WFMT / Chicago History Museum)",
+   "source": "infoDOCKET (2018); Wikipedia",
+   "to": "Black police work in Chicago (Renault Robinson) [tape preserved in the archive]",
+   "type": "source_collection → practice (documents)",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "evidence": "WBEZ/NPR (2023): Cornelius's launch pitch references 'a message from the Johnson Products Company' — the Chicago Black hair-care firm sponsored Soul Train from its first Chicago airing.",
+   "from": "Johnson Products Company",
+   "source": "WBEZ/NPR (Sept 10, 2023)",
+   "to": "Watching Soul Train (the Chicago years)",
+   "type": "institution → program (sponsorship)",
+   "workstream": "w3-media-ritual"
+  },
+  {
+   "evidence": "NMAAHC collection record for object 2014.125.2 lists the museum as holder and Eden Enterprise, Inc. of Skokie, Illinois as distributor.",
+   "from": "Afro pick (fist-handle hair pick)",
+   "relationship": "held_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+   "to": "National Museum of African American History and Culture",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC record 2014.125.2 names Eden Enterprise, Inc., Skokie, Illinois as distributor of the accessioned pick.",
+   "from": "Afro pick (fist-handle hair pick)",
+   "relationship": "distributed_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+   "to": "Eden Enterprise, Inc. (Skokie, IL)",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "MoMA collection record for object 215.2019 (Black Power Afro pick hair comb, 1972-1976).",
+   "from": "Afro pick (fist-handle hair pick)",
+   "relationship": "held_by",
+   "source": "https://www.moma.org/collection/works/401235",
+   "to": "Museum of Modern Art",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC catalogs object 2014.125.2 under the topics Black Power, hair, and identity and the movement 'Black is Beautiful'; the Fitzwilliam Museum's 2013 'Origins of the Afro Comb' exhibition presented the fist comb as a symbol of the 1970s U.S. Black Civil Rights/Power movement.",
+   "from": "Afro pick (fist-handle hair pick)",
+   "relationship": "symbol_of",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.125.2",
+   "to": "Black Power / Black is Beautiful movements",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC collection record for object 2011.59.48ab; rights: No Known Copyright Restrictions.",
+   "from": "Hot comb / pressing comb",
+   "relationship": "held_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+   "to": "National Museum of African American History and Culture",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC record 2011.59.48ab: 'Gift honoring Edna Stevens McIntyre.'",
+   "from": "Hot comb set (Solar, 2011.59.48ab)",
+   "relationship": "gift_honoring",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2011.59.48ab",
+   "to": "Edna Stevens McIntyre",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC collection search: 'Hot comb from a travel hair care kit used by Anna Mae Queen Holmes,' manufactured by Reck-Junior, on view in the Cultural Expressions gallery.",
+   "from": "Hot comb (Reck-Junior, Holmes travel kit)",
+   "relationship": "owned_by",
+   "source": "https://nmaahc.si.edu/explore/collection/search?edan_q=%2A%3A%2A&edan_fq%5B0%5D=set_name%3A%22Cultural%2BExpressions%22&op=Search&page=1",
+   "to": "Anna Mae Queen Holmes (1926-2013)",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC's 'Sizzle' essay states it is a misconception that Madam C.J. Walker invented the hot comb and that the exact origin is difficult to determine.",
+   "from": "Madam C.J. Walker",
+   "note": "A verified negative relationship: the conventional inventor account is explicitly rejected by NMAAHC. Recorded because refutations are evidence.",
+   "relationship": "misattribution_refuted",
+   "source": "https://nmaahc.si.edu/explore/stories/sizzle",
+   "to": "Hot comb (invention)",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Sixth Floor Museum collection record for object 2018.018.0001 (1968 'Freedom Fighters' funeral fan, creator Ferguson Funeral Home).",
+   "from": "Funeral-home advertising church fan",
+   "relationship": "held_by",
+   "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+   "to": "The Sixth Floor Museum at Dealey Plaza",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Sixth Floor Museum record: front of the 1968 fan depicts Martin Luther King Jr., John F. Kennedy, and Robert F. Kennedy.",
+   "from": "'Freedom Fighters' funeral fan (1968)",
+   "relationship": "depicts",
+   "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+   "to": "Martin Luther King Jr.; John F. Kennedy; Robert F. Kennedy",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Sixth Floor Museum record lists Ferguson Funeral Home as creator of the 1968 fan.",
+   "from": "'Freedom Fighters' funeral fan (1968)",
+   "relationship": "created_by",
+   "source": "https://emuseum.jfk.org/objects/54314/funeral-fan-featuring-dr-martin-luther-king-jr-and-john-a",
+   "to": "Ferguson Funeral Home",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "MTSU digital archive essay: typical church fans carried local-business ads on the reverse; many Black funeral homes advertised on them.",
+   "from": "Funeral-home advertising church fan (type)",
+   "relationship": "advertised",
+   "source": "https://digital.mtsu.edu/digital/api/collection/aamcd/id/35/download",
+   "to": "Black funeral homes (local businesses)",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Smithsonian Institution collection record: 'Trade catalogs from Sears, Roebuck and Co. Inc.'; Place: Chicago, Illinois; Location: Trade Literature at the American History Museum Library.",
+   "from": "Mail-order catalog (Sears)",
+   "relationship": "held_by",
+   "source": "https://www.si.edu/object/trade-catalogs-sears-roebuck-and-co-inc%3ASILNMAHTL_18420",
+   "to": "Smithsonian Libraries Trade Literature Collections",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "City of Chicago landmark report: Richard Sears wrote nearly all the catalog copy himself until his 1908 retirement; early covers declared 'Book of Bargains: A Money Saver for Everyone' and 'Cheapest Supply House on Earth.'",
+   "from": "Sears mail-order catalog",
+   "relationship": "created_by",
+   "source": "https://www.chicago.gov/content/dam/city/depts/zlup/Historic_Preservation/Publications/Sears_Roebuck_and_Co_District.pdf",
+   "to": "Richard Sears",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Finance & Commerce (2018): Rosenwald's 1912 partnership with Booker T. Washington funded more than 5,000 Rosenwald schools serving some 663,000 Black students.",
+   "from": "Julius Rosenwald",
+   "relationship": "philanthropic_partnership_with",
+   "source": "https://finance-commerce.com/2018/11/how-sears-helped-more-people-feel-like-americans/",
+   "to": "Booker T. Washington (1912)",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Historian Einav Rabinovitch-Fox, quoted in Finance & Commerce (2018): mail-order catalog buying 'allowed African-Americans to assert their right to participate as equals in the market.'",
+   "from": "Mail-order catalog",
+   "relationship": "used_as_resistance_by",
+   "source": "https://finance-commerce.com/2018/11/how-sears-helped-more-people-feel-like-americans/",
+   "to": "Black consumers under Jim Crow",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Smithsonian Magazine reports the Regency TR-1 hit stores October 18, 1954 at $50 and that the National Museum of American History holds a TR-1 donated in 1984 by Dr. Willis A. Adcock of Texas Instruments, plus a prototype.",
+   "from": "Transistor radio (Regency TR-1)",
+   "relationship": "held_by",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+   "to": "National Museum of American History",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Smithsonian Magazine: Dr. Willis A. Adcock (Texas Instruments) donated the TR-1 in 1984.",
+   "from": "Regency TR-1 (Smithsonian example)",
+   "relationship": "donated_by",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+   "to": "Dr. Willis A. Adcock",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Smithsonian Magazine documents the Texas Instruments/Regency development of the TR-1.",
+   "from": "Regency TR-1",
+   "relationship": "manufactured_by",
+   "source": "https://www.smithsonianmag.com/smithsonian-institution/the-transistor-radio-launches-the-portable-electronic-age-110761753/",
+   "to": "Texas Instruments / Regency Division of I.D.E.A.",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC collection record for object 2011.137.1: 1973 Cadillac Eldorado created by General Motors, owned and driven by Chuck Berry, on view in Musical Crossroads.",
+   "from": "1973 Cadillac Eldorado",
+   "relationship": "held_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+   "to": "National Museum of African American History and Culture",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC record 2011.137.1: owned and driven by Chuck Berry.",
+   "from": "1973 Cadillac Eldorado (NMAAHC 2011.137.1)",
+   "relationship": "owned_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2011.137.1",
+   "to": "Chuck Berry",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "Columbia Journalism Review quotes Ebony's 1949 essay 'Why Negroes Buy Cadillacs': the car represented aspiration to be treated as a 'first class American.'",
+   "from": "Cadillac (as cultural object)",
+   "relationship": "documented_symbolism_in",
+   "source": "https://www.cjr.org/business_of_news/rebrand-ebony-jet-black-press-bridgeman.php",
+   "to": "Ebony magazine, 1949",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC collection record for object 2014.261ab: tin of Murray's Superior Hair Dressing Pomade, manufactured by Murray's Worldwide, Inc. (founded 1925), gift of Marva P. Wiley, on view in the Cultural Expressions gallery.",
+   "from": "Murray's Superior Hair Dressing Pomade (tin)",
+   "relationship": "held_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+   "to": "National Museum of African American History and Culture",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC record 2014.261ab: 'Gift of Marva P. Wiley.'",
+   "from": "Murray's pomade tin (NMAAHC 2014.261ab)",
+   "relationship": "donated_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2014.261ab",
+   "to": "Marva P. Wiley",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC collection record for object 2017.99.2: 1955 Allen University 'Yellow Jacket,' published by Taylor Publishing Company, public domain.",
+   "from": "Yearbook (1955 Allen University 'Yellow Jacket')",
+   "relationship": "held_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+   "to": "National Museum of African American History and Culture",
+   "workstream": "w4-object-biographies"
+  },
+  {
+   "evidence": "NMAAHC records 2017.99.2 and 2018.15.3 list Taylor Publishing Company as publisher of both yearbooks.",
+   "from": "Yearbook (Allen 1955; East High 1970)",
+   "relationship": "published_by",
+   "source": "https://nmaahc.si.edu/object/nmaahc_2017.99.2",
+   "to": "Taylor Publishing Company",
+   "workstream": "w4-object-biographies"
+  }
+ ]
+}

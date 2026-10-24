@@ -1,0 +1,204 @@
+{
+ "graph_rule": "Only VERIFIED relationships are eligible for verified-only graph ingestion. SUPPORTED edges carry their grade visibly and must not be ingested as verified.",
+ "project": "CTL-RB-CHI-000002",
+ "relationships": [
+  {
+   "evidence": "NPS census table; UIC report (+148%, 1910-1920); Yale lecture",
+   "grade": "SUPPORTED",
+   "ingestion": "supported-only",
+   "object": "Historic Bronzeville corridor",
+   "object_id": "CTL-RB-CHI-000002-PL03",
+   "provenance": "new",
+   "relationship": "SUPPLIED_POPULATION_TO",
+   "subject": "The Great Migration to Bronzeville (force)",
+   "subject_id": "CTL-RB-CHI-000002-F01"
+  },
+  {
+   "evidence": "chicago.gov Black Renaissance report (40-block corridor, covenants/redlining); Hansberry v. Lee; HOLC D74",
+   "grade": "SUPPORTED",
+   "ingestion": "supported-only",
+   "object": "Historic Bronzeville corridor",
+   "object_id": "CTL-RB-CHI-000002-PL03",
+   "provenance": "sibling+new",
+   "relationship": "CONSTRAINED_POPULATION_WITHIN",
+   "subject": "Confinement complex (force)",
+   "subject_id": "CTL-RB-CHI-000002-F02"
+  },
+  {
+   "evidence": "Richardson (2016): Great Northern Drive 1917; porter distribution network",
+   "grade": "SUPPORTED",
+   "ingestion": "supported-only",
+   "object": "The Great Migration to Bronzeville (force)",
+   "object_id": "CTL-RB-CHI-000002-F01",
+   "provenance": "new",
+   "relationship": "RECRUITED_AND_CHANNELED",
+   "subject": "Defender migration infrastructure (force)",
+   "subject_id": "CTL-RB-CHI-000002-F01b"
+  },
+  {
+   "evidence": "Grossman, Land of Hope (1989)",
+   "grade": "SUPPORTED",
+   "ingestion": "supported-only",
+   "object": "Defender migration infrastructure (force)",
+   "object_id": "CTL-RB-CHI-000002-F01b",
+   "provenance": "sibling",
+   "relationship": "AMPLIFIED_RATHER_THAN_ORIGINATED",
+   "subject": "The Great Migration to Bronzeville (force)",
+   "subject_id": "CTL-RB-CHI-000002-F01"
+  },
+  {
+   "evidence": "Sibling entity records (churches, YMCA, schools, press)",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "The Great Migration to Bronzeville (force)",
+   "object_id": "CTL-RB-CHI-000002-F01",
+   "provenance": "sibling",
+   "relationship": "ABSORBED",
+   "subject": "Anchor institutions (force)",
+   "subject_id": "CTL-RB-CHI-000002-F03"
+  },
+  {
+   "evidence": "NPS: Wabash YMCA completed 1913; ASNLH founded there Sept 1915",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Carter G. Woodson",
+   "object_id": "CTL-RB-CHI-000002-P05",
+   "provenance": "sibling",
+   "relationship": "HOSTED_FOUNDING_OF",
+   "subject": "Wabash Avenue YMCA",
+   "subject_id": "CTL-RB-CHI-000002-O03"
+  },
+  {
+   "evidence": "NPS nomination: Overton commissioned Hygienic Building (1922)",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "State Street Black-owned core (35th-39th)",
+   "object_id": "CTL-RB-CHI-000002-PL01",
+   "provenance": "sibling",
+   "relationship": "BUILT_ANCHOR_OF",
+   "subject": "Anthony Overton",
+   "subject_id": "CTL-RB-CHI-000002-P04"
+  },
+  {
+   "evidence": "NPS text; Regal opened Feb 4, 1928 (National Theater Corp.); Fuller purchase 1961",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "47th Street / South Parkway entertainment complex",
+   "object_id": "CTL-RB-CHI-000002-PL02",
+   "provenance": "sibling",
+   "relationship": "DEVELOPED_AND_FINANCED_UNTIL_1961",
+   "subject": "White developers (National Theater Corp.; Balaban & Katz)",
+   "subject_id": "CTL-RB-CHI-000002-X01"
+  },
+  {
+   "evidence": "Encyclopedia of Chicago 'Bronzeville' entry; sibling package",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Chicago Defender",
+   "object_id": "CTL-RB-CHI-000002-O01",
+   "provenance": "sibling+new",
+   "relationship": "CARRIED_NAMING_CAMPAIGN_TO",
+   "subject": "James J. Gentry",
+   "subject_id": "CTL-RB-CHI-000002-P02"
+  },
+  {
+   "evidence": "Sibling venue records; IIT booklet (Oliver 1922; Armstrong/Vendome 1925)",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Cultural production systems (force)",
+   "object_id": "CTL-RB-CHI-000002-F05",
+   "provenance": "sibling",
+   "relationship": "MOVED_THROUGH",
+   "subject": "Louis Armstrong",
+   "subject_id": "CTL-RB-CHI-000002-P09"
+  },
+  {
+   "evidence": "Sibling entity records; Chicago landmarks Ebenezer report (2011)",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Cultural production systems (force)",
+   "object_id": "CTL-RB-CHI-000002-F05",
+   "provenance": "sibling",
+   "relationship": "INSTITUTIONALIZED_GOSPEL_WITHIN",
+   "subject": "Thomas A. Dorsey",
+   "subject_id": "CTL-RB-CHI-000002-P06"
+  },
+  {
+   "evidence": "Encyclopedia of Chicago; sibling package",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Political concentration (force)",
+   "object_id": "CTL-RB-CHI-000002-F06",
+   "provenance": "sibling",
+   "relationship": "CONVERTED_INTO",
+   "subject": "Confinement complex (force)",
+   "subject_id": "CTL-RB-CHI-000002-F02"
+  },
+  {
+   "evidence": "Hansberry v. Lee 311 U.S. 32; Shelley v. Kraemer 334 U.S. 1; sibling house position",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Confinement complex (force)",
+   "object_id": "CTL-RB-CHI-000002-F02",
+   "provenance": "sibling",
+   "relationship": "UNWOUND_AFTER_1948",
+   "subject": "Covenant litigation arc (1927-1948)",
+   "subject_id": "CTL-RB-CHI-000002-EV01"
+  },
+  {
+   "evidence": "Brief sections 07-09 causal model; supported by F1-F7 evidence chain",
+   "grade": "SUPPORTED",
+   "ingestion": "supported-only",
+   "object": "Cultural production systems (force)",
+   "object_id": "CTL-RB-CHI-000002-F05",
+   "provenance": "new (interpretive)",
+   "relationship": "PRODUCED_CRITICAL_MASS_FOR",
+   "subject": "Confinement complex (force)",
+   "subject_id": "CTL-RB-CHI-000002-F02"
+  },
+  {
+   "evidence": "NPS: Depression 'closed down most of its black-owned banks, insurance companies'; Binga closed June 1930",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Black capital formation (force)",
+   "object_id": "CTL-RB-CHI-000002-F04",
+   "provenance": "sibling",
+   "relationship": "DESTROYED",
+   "subject": "Depression destruction of Black banks (1929-1930)",
+   "subject_id": "CTL-RB-CHI-000002-EV04"
+  },
+  {
+   "evidence": "Sibling person records (Boone, Walker; Harsh; Gaines; Davis; Joyner; Burroughs)",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Anchor institutions (force)",
+   "object_id": "CTL-RB-CHI-000002-F03",
+   "provenance": "sibling",
+   "relationship": "BUILT_BY_WOMEN_INCLUDING",
+   "subject": "Bertie Boone and Maggie Walker",
+   "subject_id": "CTL-RB-CHI-000002-P13"
+  },
+  {
+   "evidence": "Richardson (2016)",
+   "grade": "SUPPORTED",
+   "ingestion": "supported-only",
+   "object": "Chicago Defender",
+   "object_id": "CTL-RB-CHI-000002-O01",
+   "provenance": "new",
+   "relationship": "DISTRIBUTED",
+   "subject": "Brotherhood of Sleeping Car Porters",
+   "subject_id": "CTL-RB-CHI-000002-O04"
+  },
+  {
+   "evidence": "NPS Wabash YMCA page; sibling package",
+   "grade": "VERIFIED",
+   "ingestion": "verified",
+   "object": "Wabash Avenue YMCA",
+   "object_id": "CTL-RB-CHI-000002-O03",
+   "provenance": "sibling+new",
+   "relationship": "PARTIALLY_FUNDED",
+   "subject": "Julius Rosenwald (Sears, Roebuck)",
+   "subject_id": "CTL-RB-CHI-000002-X02"
+  }
+ ]
+}

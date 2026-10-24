@@ -1,0 +1,813 @@
+{
+  "project": "CTL-DR-TECH-001",
+  "count": 8,
+  "case_studies": [
+    {
+      "pair": "radio → Black broadcasting",
+      "technology": "AM radio broadcasting: transmitters, licensed stations, and sponsored block-time programming (a white-owned, white-addressed medium in 1920s America).",
+      "actors": [
+        {
+          "name": "Jack L. Cooper",
+          "role": [
+            "operator",
+            "entrepreneur",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of radio; transformed its use."
+        },
+        {
+          "name": "Herb Kent",
+          "role": [
+            "operator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of radio; transformed its address."
+        },
+        {
+          "name": "Leonard Chess and Phil Chess",
+          "role": [
+            "entrepreneur"
+          ],
+          "note": "White owners who financed the Black-format station; entrepreneurs, not cultural transformers of the on-air form."
+        },
+        {
+          "name": "E. Rodney Jones, Pervis Spann, Franklin McCarthy, Wesley South",
+          "role": [
+            "operator"
+          ],
+          "note": "WVON 'Good Guys' on-air staff."
+        }
+      ],
+      "mechanism": "Radio arrived as a white-owned, white-addressed medium: 1920s stations sold time to sponsors and programmed minstrelsy for Black audiences while barring Black ownership, management, and announcers. The transformation mechanism was time-brokerage plus vernacular address. Jack L. Cooper - vaudeville performer turned Chicago Defender theater critic - bought block time on WSBC's 'ethnic appeal' operation and on November 3, 1929 premiered The All-Negro Hour, the first program with an exclusively Black cast, explicitly banning the minstrel stereotypes that defined Black representation on air. He then converted the DJ booth into community infrastructure: he played gramophone records over the air on his own phonograph - gospel and jazz, among the first record-playing on American radio; added Black community news; launched Search for Missing Persons (1938) to reunite Great Migration families; and built a mobile news team for Black Chicago. By 1947 his company controlled 40 hours a week on four Chicago stations - ownership-by-accumulation without a license. The second-wave mechanism was format consolidation: on April 1, 1963, Chess Records owners Leonard and Phil Chess bought 1,000-watt WHFC-1450 AM and relaunched it as WVON, 'Voice of the Negro,' with an all-Black on-air staff ('The Good Guys' - Herb Kent, E. Rodney Jones, Pervis Spann and others). WVON fused three functions: hit-testing for Chess and Motown (Berry Gordy test-pressed records there), vernacular companionship (Kent's 'Cool Gent' persona broke the Temptations, Minnie Ripperton, Curtis Mayfield), and civil-rights switchboard - MLK used it as a bully pulpit, and after his assassination WVON DJs took loudspeakers onto trucks to calm the West Side. The mechanism, in short: excluded from ownership, Black broadcasters rented the medium by the hour, then reprogrammed its address - who speaks, in what vernacular, to whom, and to what civic end - until the rented hours became an institution. Cooper is the cultural transformer; the inventors of radio are not.",
+      "claims": [
+        {
+          "claim": "The All-Negro Hour premiered November 3, 1929 on WSBC Chicago, hosted/created by Jack L. Cooper; first radio program with an exclusively African American cast; Cooper regarded as first African-American radio broadcaster/DJ ('undisputed patriarch of black radio'), inducted into the National Radio Hall of Fame 2012.",
+          "evidence": "Wikipedia 'The All-Negro Hour' (premiered Nov 3, 1929, WSBC 'ethnic appeal' station, Cooper creator of 'black appeal'/black radio); Wikipedia 'Jack L. Cooper' (first African-American DJ, Hall of Fame 2012); TeachRock 'Pioneers of Early Black Radio' (Nov 3, 1929, WSBC, off air 1935).",
+          "source": "https://en.wikipedia.org/wiki/The_All-Negro_Hour ; https://en.wikipedia.org/wiki/Jack_L._Cooper ; https://teachrock.org/wp-content/uploads/Pioneers-of-Early-Black-Radio.pdf",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "One old-timer article (OTRR/Ryan Ellett) prints 'WGBS' once - treated as typo against the majority 'WSBC'.",
+          "contradictory_evidence": "None on date/station."
+        },
+        {
+          "claim": "Cooper was one of the first (if not the first) to broadcast gramophone records, including gospel and jazz, using his own phonograph; created Search for Missing Persons (1938); by 1947 his production company controlled 40 hours/week of programming on 4 Chicago stations; retired 1959.",
+          "evidence": "Wikipedia 'Jack L. Cooper' (phonograph record-playing; Search for Missing Persons 1938; mobile news team; WSBC Southtown Studios as 'Only All-Negro Studios in the Nation'); Civic Media/WISS Feb 2025 profile (40 hours/week on 4 stations by 1947; retired 1959; died Chicago 1970).",
+          "source": "https://en.wikipedia.org/wiki/Jack_L._Cooper ; https://wiss.fm/news/2025/02/14/jack-l-cooper-made-radio-history-for-black-americans",
+          "primary": false,
+          "pub_date": "2025-02-14 (profile); accessed 2026-09-28 (wiki)",
+          "verification": "Verified",
+          "uncertainty": "'First to play records' is a priority claim - see unresolved.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "WVON launched April 1, 1963: Leonard and Phil Chess bought WHFC-1450 AM (1,000-watt, Cicero IL), renamed it WVON ('Voice of the Negro'); launch staff 'The Good Guys' included Franklin McCarthy, E. Rodney Jones, Herb Kent, Wesley South, Pervis Spann; Don Cornelius later joined the roster.",
+          "evidence": "Congressional Record Vol. 159 (Rep. Danny K. Davis, 50th anniversary tribute): launch date, purchase, call-letter meaning, full Good Guys roster, later roster incl. Don Cornelius; Senate Vol. 165 tribute corroborates.",
+          "source": "https://www.congress.gov/congressional-record/volume-159/issue-52/house-section/article/H2072-2",
+          "primary": true,
+          "pub_date": "2013",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "WVON functioned as a hit-testing and civil-rights hub: Berry Gordy used it to test Motown records; the station drew white listeners; DJs calmed the West Side after King's assassination via truck loudspeakers; MLK and others used it as a bully pulpit.",
+          "evidence": "NPR 'A Racial Divide, Diminished' (2013-07-10): Herb Kent interview - Motown test pressings, white listeners, playing Dion/Lesley Gore; Congressional Record Senate tribute: King interviews, Jesse Jackson's assassination call-in, DJs with loudspeakers calming riots.",
+          "source": "https://www.kwit.org/2013-07-10/a-racial-divide-diminished-what-was-on-the-radio-in-1963 ; https://www.congress.gov/congressional-record/volume-165/issue-46/senate-section/article/S1891-7",
+          "primary": true,
+          "pub_date": "2013-07-10; 2019",
+          "verification": "Verified",
+          "uncertainty": "Kent's WVON dates given as '1962-1970' in the HistoryMakers finding aid - one year before the station's 1963 launch; likely inclusive/approximate.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Herb Kent, 'the Cool Gent,' was credited by broadcasting peers with helping launch the Temptations, Minnie Ripperton, Curtis Mayfield, and Smokey Robinson via on-air embrace of their music.",
+          "evidence": "The HistoryMakers finding aid for Herb Kent (A2000_026): 'greatly helped to launch the careers of such R&B artists as The Temptations, Minnie Ripperton, Curtis Mayfield, and Smokey Robinson'; JBHE obituary (2016) confirms 70+ year Chicago radio career.",
+          "source": "https://www.thehistorymakers.org/sites/default/files/A2000_026_EAD.pdf ; https://jbhe.com/2016/11/in-memoriam-herbert-rogers-kent-1928-2016/",
+          "primary": false,
+          "pub_date": "2023-05-30 (finding aid); 2016-11 (obituary)",
+          "verification": "Verified",
+          "uncertainty": "'Helped launch' is peer attribution, not a sole-cause claim.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Priority dispute: whether Cooper was literally the first person to play records over the radio (competing early-radio claims exist; sources hedge with 'one of the first, if not the first').",
+        "No known surviving audio of the earliest All-Negro Hour broadcasts; exact program content 1929-1935 is reconstructed from press, not recordings.",
+        "Postwar milestones (WDIA Memphis 1948 all-Black announcing staff; WERD Atlanta 1949 first Black-owned station) confirmed via TeachRock secondary only - not independently re-verified this pass."
+      ]
+    },
+    {
+      "pair": "turntables/mixers → DJ culture",
+      "technology": "Turntables (phonograph playback hardware) and DJ mixers (blending/cueing hardware) - designed for faithful reproduction and smooth transitions.",
+      "actors": [
+        {
+          "name": "Clive 'Kool Herc' Campbell",
+          "role": [
+            "operator",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of the turntable; invented the breakbeat DJ technique."
+        },
+        {
+          "name": "Joseph 'Grandmaster Flash' Saddler",
+          "role": [
+            "operator",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of the turntable; engineered DJ precision techniques and the slip mat."
+        },
+        {
+          "name": "Theodore 'Grand Wizard Theodore' Livingston",
+          "role": [
+            "operator",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of the turntable; invented scratching."
+        },
+        {
+          "name": "Frankie Knuckles",
+          "role": [
+            "operator",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "Translated turntablism into Chicago house via reel-to-reel re-edits."
+        },
+        {
+          "name": "Ron Hardy",
+          "role": [
+            "operator",
+            "cultural-transformer"
+          ],
+          "note": "Music Box selector; DJ-as-A&R mechanism."
+        },
+        {
+          "name": "Robert Williams",
+          "role": [
+            "entrepreneur"
+          ],
+          "note": "Opened the Warehouse; provided the venue, not the technique."
+        },
+        {
+          "name": "Cindy Campbell",
+          "role": [
+            "entrepreneur"
+          ],
+          "note": "Promoted the Aug 11, 1973 party that launched Herc's technique."
+        }
+      ],
+      "mechanism": "The turntable was designed for faithful playback; the mixer for blending. Black DJs in the Bronx and Chicago turned both into instruments by violating their intended use. Clive 'Kool Herc' Campbell's August 11, 1973 back-to-school party at 1520 Sedgwick Avenue introduced the Merry-Go-Round: two copies of the same record on two turntables, back-cueing to loop the percussive break - seconds of James Brown's 'Give It Up or Turnit a Loose' or the Incredible Bongo Band's 'Bongo Rock' stretched into minutes - while he talked over the mix on the mic. Joseph 'Grandmaster Flash' Saddler then engineered precision: the Quick Mix Theory ('take two copies of the same record on two different turntables and repeat the climactic part... over and over'), clock theory for locating break segments, and punch phrasing to drop phrases in rhythmically; he replaced the rubber platter mat with a homemade felt pad - the slip mat - so records could be manipulated with less friction, and documented the system on 'The Adventures of Grandmaster Flash on the Wheels of Steel' (1981). Twelve-year-old Theodore Livingston, interrupted mid-practice by his mother in 1975, discovered the baby scratch by moving the record back and forth under the needle and practiced it into a rhythmic technique. Chicago translated turntablism into house: Frankie Knuckles, resident at the Warehouse (1977-82), learned reel-to-reel and TR-909 and - with Erasmo Rivera from 1979 - re-edited disco tracks to extend grooves for his floor, the club's name compressing into 'house music' at the Imports, Etc. record bins. Ron Hardy at the Music Box (1982-86) pushed further: tape-deck pause-button edits (per associate Reggie, not razor splices), constant EQ tweaking, records pitched to +8, extreme volume - and he functioned as A&R, debuting acetates by Marshall Jefferson, Larry Heard, and Phuture and breaking 'Acid Tracks' by playing it four times in one night. The mechanism: treat playback hardware as a performance instrument, extend the break by duplication and manipulation, and let the dancefloor adjudicate - the crowd's response, not the manufacturer, defined what the gear was for.",
+      "claims": [
+        {
+          "claim": "August 11, 1973: DJ Kool Herc (Clive Campbell) and sister Cindy Campbell's back-to-school party at 1520 Sedgwick Avenue, Bronx; Herc debuted the 'Merry-Go-Round' - two copies of the same record, isolating/extending breakbeats (James Brown 'Give It Up or Turnit a Loose,' Incredible Bongo Band 'Bongo Rock') - and MC'd over the mix.",
+          "evidence": "iHeart 'August 11 in Hip-Hop History' (party date/address, Merry-Go-Round description, both records named); Christie's 'DJ Kool Herc & the Birth of Hip-Hop' (July 2022): back-cueing two copies, break extended for b-boys.",
+          "source": "https://wjbt.iheart.com/content/2022-08-09-august-11-in-hip-hop-history-hip-hop-is-born-at-a-party-in-the-bronx/ ; https://www.christies.com/en/stories/dj-kool-herc-birth-of-hip-hop-c8f08de3a82e42859a227ce779ed80ec",
+          "primary": false,
+          "pub_date": "2022-08-09; 2022-07-06",
+          "verification": "Verified",
+          "uncertainty": "None material; the canonical hip-hop origin account.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Grandmaster Flash created the Quick Mix Theory (repeating the break via two copies), clock theory, and punch phrasing; distinguished 'cutting' from scratching; replaced the rubber mat with a homemade felt slip mat; documented techniques on 'The Adventures of Grandmaster Flash on the Wheels of Steel' (1981).",
+          "evidence": "NPR Fresh Air (2023-08-28): Flash's own words on Quick Mix Theory ('repeat the climactic part of the record over and over'), punch phrasing ('Good Times,' 'Freedom'), cutting-vs-scratching distinction; Sweetwater 'History of Turntablism': felt slip-mat refinement.",
+          "source": "https://www.publicradioeast.org/2023-08-28/fresh-air-celebrates-50-years-of-hip-hop-grandmaster-flash ; https://www.sweetwater.com/insync/the-history-of-turntablism/",
+          "primary": true,
+          "pub_date": "2023-08-28",
+          "verification": "Verified",
+          "uncertainty": "Exact year Flash formalized Quick Mix Theory (commonly 1975-77) not pinned in these sources.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Grand Wizard Theodore (Theodore Livingston) invented scratching in 1975 at age 12 in the Bronx: startled by his mother mid-practice, he moved the record back and forth under the needle ('baby scratch'), then practiced it into a rhythmic technique; joined the L Brothers in 1977.",
+          "evidence": "Red Bull Music Academy interview (2017): Theodore's first-person account ('That was like, 1975, '76... I studied it for a couple of months, until I actually figured out what I wanted to do with it. Then that's when it became a scratch'); OCDE Newsroom and Discogs corroborate 1975/age-12.",
+          "source": "https://daily.redbullmusicacademy.com/2017/03/grand-wizard-theodore-interview/ ; https://newsroom.ocde.us/inventor-of-the-record-scratch-dj-grand-wizzard-theodore-inspires-students-to-learn-all-they-can/",
+          "primary": true,
+          "pub_date": "2017-03",
+          "verification": "Verified",
+          "uncertainty": "1975 vs 1976 - Theodore himself gives the range.",
+          "contradictory_evidence": "None found; Flash confirms Theodore's primacy on scratching in the Fresh Air interview."
+        },
+        {
+          "claim": "Frankie Knuckles moved to Chicago in 1977, resident DJ at the Warehouse (206 South Jefferson St.) until its 1982 closure, then the Power Plant; learned reel-to-reel and TR-909 to re-edit and extend disco breaks; re-edited tracks on reel-to-reel with Erasmo Rivera from 1979; 'house music' derives from the Warehouse (Imports, Etc. bins); block renamed Honorary Frankie Knuckles Way (2004); Grammy Remixer of the Year 1998 (inaugural).",
+          "evidence": "DJ Mag 'Frankie Knuckles forever' (1977 move, Warehouse to 1982, Power Plant, reel-to-reel + TR-909 re-edits, 1998 Grammy); Red Bull Music Academy '10 Mixes' (re-edits with Erasmo Rivera from 1979); Good Black News (206 S. Jefferson, Imports Etc. coinage, 2004 street renaming).",
+          "source": "http://djmag.com/features/frankie-knuckles-forever-20-essential-tracks-and-mixes-godfather-of-house ; https://daily.redbullmusicacademy.com/2015/01/ten-mixes-frankie-knuckles/ ; https://goodblacknews.org/2014/04/01/r-i-p-godfather-of-house-music-and-dj-legend-frankie-knuckles/",
+          "primary": false,
+          "pub_date": "2025-01-21 (DJ Mag); 2015-01 (RBMA); 2014-04-01",
+          "verification": "Verified",
+          "uncertainty": "Whether the TR-909 was used in live sets vs. studio re-edits is not specified.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Ron Hardy, Music Box resident 1982-86, played reel-to-reel edits with constant EQ tweaks at extreme volume; associate Reggie states Hardy made his edits on a tape deck with the pause button ('some of that was put on reel to reel as well'), disputing the razor-splice legend; debuted acetates by Marshall Jefferson, Larry Heard, Adonis, DJ Pierre, Chip E.",
+          "evidence": "TurntableLab 'Muzic Box Classics #4' (resident '82-'86, own edits off reel-to-reel as secret weapons); Gridface 'Memories of Ron Hardy' interview with Reggie: 'from Ron's mouth, Ron did his edits off the tape deck... With a pause button? Right'; Wikipedia 'Ron Hardy' (debuted producers' tracks).",
+          "source": "https://turntablelab.com/products/ron-hardy-muzic-box-classics-4-cd ; http://www.gridface.com/features/memories_of_ron_hardy.html",
+          "primary": true,
+          "pub_date": "2012-09; undated (Gridface)",
+          "verification": "Provisional",
+          "uncertainty": "Reggie's testimony is first-hand but single-source; the broader literature says 'reel-to-reel edits.'",
+          "contradictory_evidence": "Standard accounts credit razor-splice reel-to-reel editing; Reggie explicitly disputes that for Hardy."
+        }
+      ],
+      "unresolved": [
+        "Hardy's backwards-playing technique: Theo Parrish's account (needle upside-down on a cylinder) vs. Stacey Collins's (via reel-to-reel) - contradictory; marked Disputed in mechanism, not resolved.",
+        "Who first used the term 'house music' (Warehouse shortening vs. Imports Etc. bin labels) - multiple folk etymologies, not adjudicated here.",
+        "Derrick May's recollection of Hardy pitching a Stevie Wonder cut to +8 is single-source (via Wikipedia) - Provisional.",
+        "Mixer/crossfader hardware engineers (the tools' actual inventors) not researched this pass."
+      ]
+    },
+    {
+      "pair": "drum machines/synthesizers → electronic/house music",
+      "technology": "Roland drum machines (TR-707, TR-727, TR-808) and the TB-303 Bass Line synthesizer - cheap Japanese electronic instruments, the 303 designed as a bass-guitar practice aid for solo guitarists.",
+      "actors": [
+        {
+          "name": "Ikutaro Kakehashi",
+          "role": [
+            "inventor",
+            "engineer",
+            "entrepreneur"
+          ],
+          "note": "Roland founder; inventor of the instruments, NOT of their cultural use. Provisional - widely documented, not independently verified this session."
+        },
+        {
+          "name": "Nathaniel Pierre Jones ('DJ Pierre')",
+          "role": [
+            "operator",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of the TB-303; invented acid house's misuse of it."
+        },
+        {
+          "name": "Earl 'Spanky' Smith Jr.",
+          "role": [
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "Phuture co-founder; sourced the secondhand 303."
+        },
+        {
+          "name": "Herbert 'Herb J' Jackson",
+          "role": [
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "Phuture co-founder."
+        },
+        {
+          "name": "Marshall Jefferson",
+          "role": [
+            "engineer",
+            "adopter"
+          ],
+          "note": "Produced 'Acid Tracks' for Trax; slowed the BPM."
+        },
+        {
+          "name": "Ron Hardy",
+          "role": [
+            "operator"
+          ],
+          "note": "Music Box selector who broke the track - the A&R mechanism."
+        }
+      ],
+      "mechanism": "Roland built the TB-303 as a practice aid - a bass-guitar replacement for solo guitarists - and priced its drum machines for hobbyists; both flopped commercially and flooded secondhand shops. Chicago teenagers bought them cheap (DJ Pierre: Spanky found a 303 that was 'making all these crazy sounds' for about $40) and misused them into a genre. Phuture - Earl 'Spanky' Smith Jr., Nathaniel Pierre Jones (DJ Pierre), and Herbert 'Herb J' Jackson, formed in 1985 after Spanky took Pierre to hear Ron Hardy - programmed the 303's tone sequencer and modulated resonance, cutoff, and slide in real time, producing the squelching, liquid bassline nobody at Roland intended; under it they laid Roland TR-707 and TR-727 drum patterns. Their 1985 track 'In Your Mind' went on tape to Hardy, who played it four times in one Music Box night - the dancers left the floor on the first play and were frenzied by the fourth. Bootlegged as 'Ron Hardy's Acid Track,' it was re-cut with Marshall Jefferson producing (he slowed the BPM) and released by Trax Records in 1987 as 'Acid Tracks' - a 12-minute instrumental widely credited as the first acid house record. Hundreds of local imitations followed, and the sound crossed to Britain's rave scene. Pierre later said they called it 'acid' for the sound itself, not the drug - a naming dispute that persists. The mechanism is misuse-as-invention: take a failed commercial product, ignore the manual, perform the parameter changes live, test unfinished tapes on a dancefloor the same night, and let a DJ-selector (Hardy) function as the A&R filter. The cultural transformer here is triply not the inventor: Roland's engineers designed a rehearsal tool; Black Chicago teenagers made it the voice of a global genre, with the TR-707/727's machine-funk becoming house's rhythmic chassis.",
+      "claims": [
+        {
+          "claim": "Phuture formed in Chicago in 1985: Earl 'Spanky' Smith Jr., Nathaniel Pierre Jones (DJ Pierre), Herbert 'Herb J' Jackson; credited with inventing/defining acid house via the 1987 release 'Acid Tracks.'",
+          "evidence": "Wikipedia 'Phuture' (origin Chicago, founded 1985, members, 'renowned for inventing and defining the sound of acid house' with 1987 'Acid Tracks'); DJ Mag obituary for Spanky (2016) corroborates founding trio and 1987 release as 'the first house record to feature the Roland TB-303.'",
+          "source": "https://en.wikipedia.org/wiki/Phuture ; https://djmag.com/news/acid-house-pioneer-dj-spank-spank-has-died",
+          "primary": false,
+          "pub_date": "2016 (DJ Mag); accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "'Acid Tracks': 12:15 instrumental, Trax Records 1987, produced by Marshall Jefferson (who slowed the BPM); acid sound from real-time modulation of TB-303 tone sequences (resonant, squelchy); drums via Roland TR-707 and TR-727.",
+          "evidence": "Wikipedia 'Acid Tracks' (release 1987, Trax, length 12:15, Jefferson producer, BPM slowed, 303 technique, 707/727 drums); Wikipedia 'Phuture' corroborates.",
+          "source": "https://en.wikipedia.org/wiki/Acid_Tracks ; https://en.wikipedia.org/wiki/Phuture",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "The track began as 'In Your Mind' (1985), given on tape to Ron Hardy, who played it at the Music Box - dancers initially left the floor, then went crazy by the fourth play in one night; it was bootlegged as 'Ron Hardy's Acid Track' before the official Trax release.",
+          "evidence": "Wikipedia 'Acid Tracks' ('supposedly already in 1985' played by Hardy; audience not receptive at first, popular over the night; bootlegged as 'Ron Hardy's Acid Track'); YouTube/Ron Hardy video description (Hardy played it three more times that night, 'by the fourth time the audience was going crazy').",
+          "source": "https://en.wikipedia.org/wiki/Acid_Tracks ; https://www.youtube.com/watch?v=GmI6ZZfJbSE",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Provisional",
+          "uncertainty": "The 1985 date carries Wikipedia's own 'supposedly'; the four-plays-in-one-night story is folk history repeated across sources.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "DJ Pierre's first-person account: the group bought a ~$40 secondhand TB-303 that was 'making all these crazy sounds'; they named it 'acid' for the sound, not for psychedelic connotations; other producers immediately tried to copy the 303 sound (Pierre and Spanky misdirected askers about the synth).",
+          "evidence": "MusicRadar (Future) feature quoting Pierre: 'I've got the 303 but I don't know how to work it - it's making all these crazy sounds!'... 'the 40-dollar machine that Phuture bought'; Discogs editorial (ADE 2023 panel): Pierre said 'acid' named for the distinctive sound rather than psychedelic connotations; misdirection anecdote.",
+          "source": "https://www.musicradar.com/tutorials/music-production-tutorials/ive-got-the-303-but-i-dont-know-how-to-work-it-its-making-all-these-crazy-sounds-how-a-small-group-of-chicago-producers-invented-house-and-changed-music-forever ; https://www.discogs.com/release/56461-Phuture-Acid-Trax",
+          "primary": true,
+          "pub_date": "2024 (MusicRadar feature)",
+          "verification": "Verified",
+          "uncertainty": "Price '$40' is Pierre's recollection decades later.",
+          "contradictory_evidence": "Popular association of 'acid' with LSD persists in secondary literature; Pierre disputes it."
+        },
+        {
+          "claim": "The TB-303 was marketed as a bassline machine for solo guitarists (a bass-guitar replacement), not as a dance-music instrument.",
+          "evidence": "Rubadub product editorial ('marketed as a bassline machine for solo guitarists'); syncrophone.fr ('high-pitched squelch of the Roland TB-303 synthesizer (marketed as a bassline machine for solo guitarists)').",
+          "source": "https://rubadub.co.uk/products/acid-tracks-red-vinyl ; https://www.syncrophone.fr/1-phuture-acid-tracks/",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Exact date of Hardy's first Music Box play of 'In Your Mind' (1985 vs. later - Wikipedia hedges).",
+        "Detroit techno's parallel adaptation (Juan Atkins/Model 500, Derrick May, Kevin Saunderson and the 808/909) not researched this pass - flagged for follow-up; do not treat Chicago as the sole site.",
+        "Larry Heard/Mr. Fingers deep-house synthesizer work not verified this pass.",
+        "Ikutaro Kakehashi/Tadao Kikumoto inventor details not independently verified this session."
+      ]
+    },
+    {
+      "pair": "television → Black media",
+      "technology": "Broadcast television: licensed VHF/UHF stations, national networks, and (from 1980) cable/satellite distribution - a medium whose ownership and address were white.",
+      "actors": [
+        {
+          "name": "Don Cornelius",
+          "role": [
+            "operator",
+            "entrepreneur",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of television; transformed who owns and addresses the medium."
+        },
+        {
+          "name": "Robert L. Johnson",
+          "role": [
+            "entrepreneur",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of cable; built the first Black-targeted cable network."
+        },
+        {
+          "name": "George Johnson (Johnson Products)",
+          "role": [
+            "entrepreneur"
+          ],
+          "note": "Black hair-care manufacturer whose sponsorship financed syndication."
+        },
+        {
+          "name": "Ed Gordon",
+          "role": [
+            "operator"
+          ],
+          "note": "Anchored BET News (1988), first half-hour news program directed at a Black audience."
+        },
+        {
+          "name": "Nat King Cole",
+          "role": [
+            "adopter",
+            "cultural-transformer"
+          ],
+          "note": "First African American to host a nationally broadcast TV variety show - precedent."
+        },
+        {
+          "name": "Cheryl D. Miller",
+          "role": [
+            "engineer"
+          ],
+          "note": "Designed the BET star logo ('Black Star Power')."
+        }
+      ],
+      "mechanism": "Television's mechanism of exclusion was ownership plus address: networks programmed Black people as comic relief (or not at all) and no Black producer controlled a national slot. Don Cornelius attacked both. A South Side Chicago native, WVON backup DJ (hired 1966) turned WCIU-TV news and sports reporter (1967), Cornelius had been touring Chicago-area high schools with 'Soul Train' record hops since 1969. With Sears sponsorship, he premiered Soul Train on WCIU-TV Channel 26 on August 17, 1970 - a live, black-and-white, weekday-afternoon local show (first guests included Jerry Butler, the Chi-Lites, and the Emotions) built as a Black answer to American Bandstand. Johnson Products (Afro Sheen/Ultra Sheen) co-sponsored national syndication: on October 2, 1971 Soul Train went national in seven cities - Atlanta, Birmingham, Cleveland, Detroit, Houston, Los Angeles, Philadelphia - adding eighteen more markets by season's end. The transformation mechanism was Black ownership of the means of representation: Don Cornelius Productions owned the show outright; Black dancers - not just performers - transmitted fashion and dance nationally via the Soul Train line (the Robot, the Hustle, the Bus Stop taught to a national audience; hip-hop acts introduced in the 1980s); 1,117 episodes ran to 2006, and Chicago's City Council (2025) calls it the first nationally broadcast music-variety show to feature predominantly Black acts and dancers. Robert L. Johnson ran the parallel cable play: a Freeport, Illinois native and former cable-industry lobbyist who saw the programming vacuum, he raised a $15,000 loan plus $500,000 from John Malone and launched Black Entertainment Television on January 25, 1980 as a two-hour weekly block on the Madison Square Garden Sports Network - music videos and Black sitcom reruns - expanding to 24 hours and, in 1983, a full-time channel. BET News (1988, anchored by Ed Gordon) added a Black-directed newscast; in 1991 BET became the first Black-controlled company listed on the NYSE. The mechanism: don't petition the gatekeepers - buy or build parallel distribution (a sponsored local slot, a cable block), own the production company, and program the culture the networks wouldn't. Neither Cornelius nor Johnson invented television; both reinvented what it was for.",
+      "claims": [
+        {
+          "claim": "Soul Train premiered August 17, 1970 on WCIU-TV Chicago (Channel 26) - live, black-and-white, weekday afternoons, low budget; created/hosted/produced by Don Cornelius (Don Cornelius Productions); after a year local, syndicated nationally from October 2, 1971 to March 25, 2006 (1,117 episodes).",
+          "evidence": "Wikipedia 'Soul Train' (WCIU 1970-71, syndication 1971-2006, 1,117 episodes, Cornelius creator/host/EP); thedrop.fm (Aug 17, 1970 WCIU premiere); Chicago City Council proclamation Dec 10, 2025 (debut 1970, filmed at Chicago Board of Trade building, aired on WCIU).",
+          "source": "https://en.wikipedia.org/wiki/Soul_Train ; https://thedrop.fm/soul-train-premieres-on-wciu-tv-black-history-month/ ; https://occprodstoragev1.blob.core.usgovcloudapi.net/matterattachmentspublic/3b256341-b1a3-454e-9c3c-349c5da0e6f8.pdf",
+          "primary": true,
+          "pub_date": "2025-12-10 (proclamation); accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material on dates.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Cornelius: South Side/Bronzeville Chicago native (born Sept 27, 1936); WVON backup DJ/newsreader hired 1966, WCIU-TV news/sports reporter 1967 ('A Black's View of the News'); toured 'Soul Train' record hops at Chicago-area high schools from 1969; Sears sponsorship launched the TV show; Johnson Products (Afro Sheen) co-sponsored syndication; initial 7 syndication cities, 18 more by end of season one.",
+          "evidence": "blackamericaweb (WVON 1966, WCIU-TV 1967, born 1936 Bronzeville); zenopy (1967 WCIU hire, 1969 record hops, Sears deal, Johnson Products co-sponsorship, 7 cities named, 18 more by season end); ifelicious (Sears via George O'Hare).",
+          "source": "https://blackamericaweb.com/2019/09/27/little-known-black-history-fact-don-cornelius-2/ ; https://www.zenopy.com/topic/soul-train ; http://ifelicious.com/2012/02/01/don-cornelius-1936-2012-tribute-highlights-from-his-life-from-soul-train-and-beyond/",
+          "primary": false,
+          "pub_date": "2019-09-27; accessed 2026-09-28",
+          "verification": "Provisional",
+          "uncertainty": "Sears-via-George-O'Hare is single-source (ifelicious); first-guest list disputed - see unresolved.",
+          "contradictory_evidence": "workers.org lists Curtis Mayfield, Staple Singers, B.B. King, O'Jays on the first show vs. zenopy's Jerry Butler/Chi-Lites/Emotions."
+        },
+        {
+          "claim": "BET launched January 25, 1980 by Robert L. Johnson (Freeport, IL native; ex-cable lobbyist) with a $15,000 loan and $500,000 from John Malone; began as 2 hrs/week on the Madison Square Garden Sports Network; logo by Cheryl D. Miller ('Black Star Power'); full-time channel 1983; BET News 1988 with Ed Gordon; first Black-controlled company on the NYSE (1991).",
+          "evidence": "Wikipedia 'BET' (dates, financing, Malone, 2-hr block, Miller logo); BlackPast (Jan 25, 1980; expansion to 24h; BET News 1988/Ed Gordon); miempowerment (full-time channel July 1, 1983); Fandom wiki (1991 NYSE first).",
+          "source": "https://en.wikipedia.org/wiki/BET_(television) ; https://blackpast.org/african-american-history/black-entertainment-television-bet-1980/ ; http://miempowerment.com/bet/",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "1991 NYSE-first claim via Fandom wiki only - Provisional.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Nat King Cole was the first African American to host a nationally broadcast TV variety show - the precedent Cornelius and Johnson worked against and beyond.",
+          "evidence": "NPR 'A Racial Divide, Diminished' (2013-07-10): 'Cole... was the first African-American to host a nationally broadcast TV variety show.'",
+          "source": "https://www.kwit.org/2013-07-10/a-racial-divide-diminished-what-was-on-the-radio-in-1963",
+          "primary": false,
+          "pub_date": "2013-07-10",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Soul Train premiere guest list: zenopy (Jerry Butler, Chi-Lites, Emotions) vs. workers.org (Curtis Mayfield, Staple Singers, B.B. King, O'Jays) - Disputed; not resolved this pass.",
+        "BET's 2003 Viacom sale price (widely cited $3B; single weak source this pass) - Provisional.",
+        "WGPR-TV Detroit (1975, first Black-owned TV station) not researched this pass - flagged; sibling track (people/institutions) may hold it."
+      ]
+    },
+    {
+      "pair": "personal computers → digital production",
+      "technology": "Digital samplers and sampling workstations (E-MU SP-12/SP-1200, E-MU Emulator, Akai MPC60) - computer-based instruments that collapsed the recording studio into a box.",
+      "actors": [
+        {
+          "name": "Roger Linn",
+          "role": [
+            "inventor",
+            "engineer"
+          ],
+          "note": "Designed the LM-1, LinnDrum, and the MPC60 with Akai; inventor of the tools, NOT of their hip-hop transformation."
+        },
+        {
+          "name": "Dave Rossum / E-MU Systems",
+          "role": [
+            "inventor",
+            "engineer"
+          ],
+          "note": "SP-12/SP-1200 and Emulator; inventors, not transformers."
+        },
+        {
+          "name": "Marley Marl",
+          "role": [
+            "operator",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of the sampler; invented the trigger/curation working method."
+        },
+        {
+          "name": "DJ Premier, Hank Shocklee, Prince Paul, Pete Rock, Dr. Dre, J Dilla, Kanye West",
+          "role": [
+            "adopter",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "Pushed the MPC past its design brief; Dilla's unquantized feel ('Dilla time')."
+        },
+        {
+          "name": "Stevie Wonder",
+          "role": [
+            "adopter"
+          ],
+          "note": "Took delivery of the very first E-MU Emulator (1981) - early Black adoption."
+        }
+      ],
+      "mechanism": "The sampler was engineered as a studio shortcut - a way to replay expensive sounds cheaply. Black hip-hop producers inverted it into a compositional instrument, and the mechanism ran through three hardware generations. First, the E-MU SP-12 (1985) and SP-1200 (1987) put sampling in reach; Stevie Wonder took delivery of the very first E-MU Emulator after reviewing it in 1981 - early Black adoption of the technology. Marley Marl, the Queensbridge producer, then invented a working method: influenced by Giorgio Moroder's sequencing, he discovered he could fire the Roland TR-808's trigger pulse into separate samplers around the room - MC Shan's 1986 'The Bridge' is, in his words, 'all trigger music.' He bought three cheap samplers at Sam Ash, kept a reel-to-reel tape striped 'leader, snare, leader, kick, leader' as a pre-digital sound library, and had artists pick their kick and snare off the reel - the same reel, lost at Power Play Studios, that supplied 'The Bridge Is Over.' Sampling, in his hands, was curation plus sequencing, not theft. Then Roger Linn's Akai MPC60 (1988) - 16 velocity-sensitive pads, 12-bit/40kHz crunch, 13 seconds of sampling (26 expandable), a 99-track sequencer, $5,000 - fused sampler and sequencer in one box, and producers (DJ Premier, Hank Shocklee, Prince Paul, Pete Rock, Dr. Dre, J Dilla, Kanye West) pushed it past its design brief: recording long passages, triggering them from pads, recording at different speeds. 'Chopping' entered the musical lexicon; the MPC's swing - Linn's simple percentage-shift of 16th notes toward triplet timing - became a feel; Dilla switched quantization off entirely ('Dilla time'). The mechanism: treat the machine's limits (short memory, gritty converters) as aesthetic material, build the studio around the producer's ear instead of the studio around the machine, and shrink the means of production to a bedroom - the inverse of the industry's console-and-tape-room model. Linn invented the box; Marl and the MPC generation reinvented what it was for.",
+      "claims": [
+        {
+          "claim": "Akai MPC60 (1988), designed by Roger Linn with Akai: 16 velocity-sensitive pads (4x4), 12-bit/40kHz sampling, 13 seconds (26 expandable), 99-track sequencer, $5,000; adopted by DJ Premier, Hank Shocklee, Prince Paul, Pete Rock, Dr. Dre, J Dilla, Kanye West, Lord Finesse; 'chopping' entered the lexicon; MPC swing is a percentage-shift of 16ths toward triplet timing (per Linn); Dilla turned quantization off ('Dilla time').",
+          "evidence": "MusicRadar '808s, MPCs and Auto-Tune' (1988, pads, 12-bit, 13/26s, users incl. Premier/Shocklee/Prince Paul, swing explanation); 5mag 'Magic Box' (60,000-note capacity, 99-track sequencer, $5,000, chopping); MusicRadar 'Heart of my studio' (Linn quote: hip-hop not specifically targeted; users list; Dilla quantization).",
+          "source": "https://www.musicradar.com/news/808s-mpcs-auto-tune-hip-hop ; https://5mag.net/gear/magic-box-akai-mpc-history/ ; https://www.musicradar.com/music-tech/its-the-heart-of-my-studio-the-story-of-the-akai-mpc-from-the-mpc60-to-the-mpc-live-iii",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "E-MU SP-12 (1985) was the first sampling drum machine embraced by hip-hop; SP-1200 (1987) became the hip-hop sampling drum machine of choice; Stevie Wonder took delivery of the very first E-MU Emulator (8-bit, 5.25-inch floppy) after reviewing it in 1981.",
+          "evidence": "MusicRadar '18 landmark sampling moments' (SP-12 1985, SP-1200 1987 'hip-hop sampling drum machine of choice'; Emulator 1982 delivery to Wonder after 1981 review).",
+          "source": "https://www.musicradar.com/tuition/tech/18-landmark-sampling-moments-in-music-history-199759",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Marley Marl's method (in his own words): MC Shan's 1986 'The Bridge' was 'all trigger music' - the TR-808's trigger pulse fired separate samplers around the room; he bought three cheap samplers at Sam Ash; kept a reel-to-reel striped 'leader, snare, leader, kick, leader' as a pre-disc sound library; artists picked kick/snare off the reel; the same reel (lost at Power Play Studios) supplied 'The Bridge Is Over.' Sequencing influence: Giorgio Moroder.",
+          "evidence": "NPR Microphone Check interview (2013-09-12), Marl's first-person account (808 pulse into sampler, Sam Ash samplers, reel-to-reel leader/snare layout, Moroder as hero: 'I was a sequence head').",
+          "source": "https://www.wprl.org/npr-music/2013-09-12/marley-marl-on-the-bridge-wars-ll-cool-j-and-discovering-sampling?_amp=true",
+          "primary": true,
+          "pub_date": "2013-09-12",
+          "verification": "Verified",
+          "uncertainty": "Marl's 'first' claims about sampling priority are his own framing - see unresolved.",
+          "contradictory_evidence": "None on the technique itself."
+        },
+        {
+          "claim": "Marl's 808-centric production praised by peers: Big Daddy Kane on pairing 808 drums with sampled drums for a 'gritty feel... heavy bottom and warm feel'; Biz Markie account of the stuck 808 button on 'Make the Music with Your Mouth, Biz.'",
+          "evidence": "wbssmedia artist profile (Kane quote; Biz Markie stuck-button anecdote).",
+          "source": "https://wbssmedia.com/artists/detail/2395",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "Anecdotal; single secondary source.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Priority dispute: whether Marley Marl was literally the 'first' hip-hop producer to sample drums - competing claims exist; treated as Disputed, not adjudicated.",
+        "The DAW/bedroom-studio era (Fruity Loops/FL Studio and Black producers like 9th Wonder, Lex Luger) not researched this pass - flagged for follow-up.",
+        "Personal-computer (as distinct from sampler-workstation) adoption specifics - e.g., early PC-based sequencing - not separated out this pass."
+      ]
+    },
+    {
+      "pair": "internet → independent publishing",
+      "technology": "The World Wide Web and dial-up/ISP infrastructure: near-zero-cost publishing and many-to-many communication.",
+      "actors": [
+        {
+          "name": "Omar Wasow",
+          "role": [
+            "entrepreneur",
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of the web; built the first major Black social network on it."
+        },
+        {
+          "name": "Benjamin Sun",
+          "role": [
+            "entrepreneur"
+          ],
+          "note": "Community Connect CEO; co-builder of BlackPlanet."
+        },
+        {
+          "name": "Damon Young and Panama Jackson",
+          "role": [
+            "entrepreneur",
+            "cultural-transformer"
+          ],
+          "note": "NOT inventors of blogging; transformed the blog into a Black literary-career pipeline."
+        },
+        {
+          "name": "Henry Louis Gates Jr.",
+          "role": [
+            "entrepreneur",
+            "adopter"
+          ],
+          "note": "Co-founded The Root with Washington Post Co."
+        },
+        {
+          "name": "Donald Graham",
+          "role": [
+            "entrepreneur"
+          ],
+          "note": "Washington Post Company CEO; co-founded The Root."
+        }
+      ],
+      "mechanism": "The web's publishing mechanism - near-zero distribution cost - mattered less than who controlled the venue. Black builders used it to route around two gatekeepers at once: the white-owned press and the Black press's own editorial hierarchies. Omar Wasow, who had run a pre-web dial-up community (New York Online, 1993), co-founded BlackPlanet on September 1, 1999 with Benjamin Sun's Community Connect: home-grown software built for social connection rather than passive consumption - profile pages threaded into message boards (Current Events, Heritage & Identity, Relationships, Religion & Spirituality). It became the leading social network for African Americans (~3 million monthly users; 6 million uniques by 2008), and Wasow notes the MySpace founders were quoted in Businessweek saying they studied BlackPlanet as the model for a 'general market version' - the Black social network preceded and tutored the mainstream ones. Community Connect sold to Radio One for $38 million in 2008. The blog wave then lowered the bar from platform to person: Damon Young (Pittsburgh) and Panama Jackson (D.C.) launched VerySmartBrothas in 2008 after connecting over instant messenger - before ever meeting - and built a humor-as-protest essay form ('humor is vital as a method of protest,' Young said) that drew 200,000 monthly uniques, 350 comments per post, and two Black Weblog Awards by 2010; the path ran from self-published book to a $1 million Ecco book deal (2016) to sale to Univision - mainstream literary careers without the traditional pipeline. Henry Louis Gates Jr. and Washington Post CEO Donald Graham co-founded The Root in January 2008 as, Gates said, 'a daily black national - indeed, international - magazine... that would link black communities throughout the country, across class and regional lines,' explicitly invoking the Defender and the Amsterdam News as models. The mechanism: own the venue (code, domain, editorial line), address the community directly, and convert attention into institutional leverage - the inverse of seeking a column in someone else's paper. None of these actors invented the internet; all of them reinvented who publishes on it.",
+      "claims": [
+        {
+          "claim": "BlackPlanet launched September 1, 1999 by Omar Wasow (with Benjamin Sun's Community Connect, which also ran AsianAvenue and MiGente); home-grown software joining profile pages to message boards; leading social network for African Americans (~3M/month; 6M uniques/month 2008); sold to Radio One for $38 million (April 2008); now owned by Urban One.",
+          "evidence": "Wikipedia 'BlackPlanet' (launch date, founders, Community Connect, forums, 6M uniques 2008, $38M Radio One sale, Urban One ownership); Princeton Magazine profile (Wasow, 3M/month, pre-web New York Online 1993).",
+          "source": "https://en.wikipedia.org/wiki/BlackPlanet ; https://www.princetonmagazine.com/omar-wasows-life-shaping-question/",
+          "primary": false,
+          "pub_date": "accessed 2026-09-28",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "MySpace's founders were quoted in Businessweek saying they looked at BlackPlanet as the model for MySpace - 'a general market version of what BlackPlanet was' (Wasow's account via Complex, relayed by NPR's Tell Me More, 2013).",
+          "evidence": "NPR Illinois/Tell Me More 'Blacks in Tech' (2013-12-20): Wasow quote via Complex on the Businessweek citation.",
+          "source": "https://www.nprillinois.org/2013-12-20/the-blacks-in-tech-series-wraps-but-lets-keep-talking",
+          "primary": true,
+          "pub_date": "2013-12-20",
+          "verification": "Verified",
+          "uncertainty": "Self-reported by Wasow; the underlying Businessweek quote was not re-verified this pass.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "VerySmartBrothas founded 2008 by Damon Young (Pittsburgh) and Panama Jackson (D.C.), who connected via instant messenger before meeting; 200,000 monthly uniques, 750+ posts, ~350 comments/post, two Black Weblog Awards (2010); self-published book (2011); $1M Ecco multi-book deal (2016); sold to Univision; Young departed 2021 after 13 years.",
+          "evidence": "Black Enterprise 'Black Blogger Month' (2011-05-24): IM origin, traffic, awards; Pittsburgh Magazine (2021-05-07): Ecco deal, Univision sale, 13-year farewell; Inverse: growth to millions of readers.",
+          "source": "https://www.blackenterprise.com/black-blogger-month-very-smart-brothas/ ; https://www.pittsburghmagazine.com/damon-young-says-farewell-to-very-smart-brothas/ ; https://www.inverse.com/culture/56127-damon-young-very-smart-brothas-interview",
+          "primary": false,
+          "pub_date": "2011-05-24; 2021-05-07",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "The Root co-founded January 2008 by Henry Louis Gates Jr. and Washington Post Company CEO Donald Graham, published by the Washington Post Company; Gates's stated ambition: 'a daily black national - indeed, international - magazine... that would link black communities throughout the country, across class and regional lines,' modeled on the Defender, Amsterdam News, and Du Bois's Crisis.",
+          "evidence": "Wikipedia 'Henry Louis Gates Jr.' (Jan 2008, Washington Post Company); Nieman Reports (2011-09-09) quoting Gates's ambition and the Defender/Amsterdam News/Crisis lineage.",
+          "source": "https://en.wikipedia.org/wiki/Henry_Louis_Gates_Jr. ; https://niemanreports.org/black-journalism-takes-root-in-contemporary-times/",
+          "primary": true,
+          "pub_date": "2011-09-09",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Pre-2008 Black blogosphere pioneers (e.g., Jack and Jill Politics 2006, Bossip's founding details) not researched this pass.",
+        "BlackPlanet's exact peak metrics vary by source (3M vs 6M monthly) - directionally consistent, not reconciled.",
+        "Afropunk's early web presence (2002, James Spooner/Matthew Morgan) not researched this pass."
+      ]
+    },
+    {
+      "pair": "social platforms → cultural distribution",
+      "technology": "Social platforms (Facebook, Twitter, TikTok, Dubsmash/Funimate): engagement-optimized feeds, hashtags, and short-form video - built for generic sociality and ad inventory.",
+      "actors": [
+        {
+          "name": "Alicia Garza",
+          "role": [
+            "cultural-transformer",
+            "innovator"
+          ],
+          "note": "NOT the inventor of Facebook; authored the post that became the movement frame."
+        },
+        {
+          "name": "Patrisse Cullors",
+          "role": [
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "Appended the hashtag; organized Ferguson mobilization."
+        },
+        {
+          "name": "April Reign",
+          "role": [
+            "cultural-transformer",
+            "innovator"
+          ],
+          "note": "NOT the inventor of Twitter; created the shaming frame that reformed the Academy."
+        },
+        {
+          "name": "Jalaiah Harmon",
+          "role": [
+            "cultural-transformer",
+            "innovator"
+          ],
+          "note": "Choreographer; forced the credit machinery to correct itself."
+        },
+        {
+          "name": "Charli D'Amelio and Addison Rae",
+          "role": [
+            "adopter"
+          ],
+          "note": "Amplified Harmon's choreography without credit - the appropriation side of the mechanism."
+        }
+      ],
+      "mechanism": "Social platforms were engineered for engagement; Black users re-engineered them into organizing and distribution infrastructure, with the hashtag as the key adaptation. In July 2013, after George Zimmerman's acquittal in the killing of Trayvon Martin, organizer Alicia Garza posted on Facebook - 'black people, I love you... our lives matter' - and Patrisse Cullors appended a hashtag; #BlackLivesMatter became an organizing project that, after Ferguson (2014), moved hundreds of people across the country into street protest - the mechanism being hashtag-as-assembly-point, converting a feed into a mobilization list. On January 15, 2015, attorney April Reign watched the Oscar nominations - all 20 acting nods white - and tweeted '#OscarsSoWhite they asked to touch my hair.' By lunchtime it was trending worldwide; when the same shutout repeated in 2016, boycott threats from Spike Lee and the Smiths forced the Academy's January 2016 'sweeping' membership reforms. Reign called it 'very organic, it wasn't intentional' - the mechanism being a naming-and-shaming frame compact enough to travel faster than the institution could ignore. TikTok revealed the labor economics underneath: 14-year-old Jalaiah Harmon choreographed the Renegade to K Camp's 'Lottery' on September 25, 2019, posting to Funimate then Instagram (~13,000 views); another user reposted it to TikTok that October, and Charli D'Amelio and Addison Rae rode it to fame without crediting her. Harmon's comments asking for credit went unnoticed until a New York Times profile (February 2020) corrected the record - followed by a UTA signing and a performance at the 2020 NBA All-Star Game in Chicago - and the pattern (Black choreography, white virality) later triggered a 2021 creator 'strike' over Megan Thee Stallion's 'Thot Shit.' The mechanism across all three: Black users supply the platform's most potent content - the organizing frame, the shaming frame, the dance - and then build corrective distribution (the hashtag, the callout, the strike) when the platform's credit machinery fails them. The inventors built timelines; the transformers built movements on top of them.",
+      "claims": [
+        {
+          "claim": "#BlackLivesMatter began July 2013: after Zimmerman's acquittal in Trayvon Martin's killing, Alicia Garza posted on Facebook ('black people, I love you, I love us, we got us and our lives matter'); Patrisse Cullors added the hashtag; after Michael Brown's killing (Ferguson, 2014), Cullors organized hundreds to travel there - the slogan became a movement.",
+          "evidence": "YR Media/NPR 'Black Lives Matter Slogan Becomes a Bigger Movement' (2014-12-04): Garza and Cullors first-person accounts, Ferguson mobilization; Black Enterprise interview with Garza (2013 organizing-project origin).",
+          "source": "https://www.wcbe.org/2014-12-04/black-lives-matter-slogan-becomes-a-bigger-movement ; https://www.blackenterprise.com/blacklivesmatter-woman-hashtag/amp/",
+          "primary": true,
+          "pub_date": "2014-12-04",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "#OscarsSoWhite: January 15, 2015, April Reign tweeted '#OscarsSoWhite they asked to touch my hair' after all-20 acting nominations went to white actors; trending worldwide by lunchtime; repeat shutout in 2016 revived it; Academy announced 'sweeping' diversity reforms January 22, 2016 (doubling women/diverse members by 2020); boycott threats from Spike Lee, Jada Pinkett and Will Smith.",
+          "evidence": "TheWrap (2016): tweet text with embed, Jan 2015 origin, 2016 resurgence, Academy Jan 22 reforms, protest plans; ThinkProgress interview with Reign (first tweet Jan 2015); socast retrospective (Reign: 'very organic, it wasn't intentional'; trending by lunch).",
+          "source": "http://www.thewrap.com/oscarssowhite-protest-planned-for-oscars-sunday/ ; https://d2464.cms.socastsrm.com/2023/02/23/how-these-3-hashtags-from-black-twitter-changed-america/",
+          "primary": true,
+          "pub_date": "2016-02; 2023-02-23",
+          "verification": "Verified",
+          "uncertainty": "The '8% to 36% voting members of color in five years' stat is single-source (socast) - Provisional.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Renegade: Jalaiah Harmon (14, Atlanta) choreographed the dance September 25, 2019 to K Camp's 'Lottery'; posted to Funimate then Instagram (~13,000 views); reposted to TikTok October 2019 by @global.jones; popularized uncredited by Charli D'Amelio and Addison Rae; Harmon's credit requests ignored until the New York Times profile (Taylor Lorenz, February 2020); then UTA signing (2020), NBA All-Star Chicago performance (Feb 2020), K Camp's public thanks.",
+          "evidence": "Wikipedia 'Jalaiah Harmon' (Sept 25 2019, Funimate/Instagram, @global.jones Oct 2019, D'Amelio/Rae uncredited, NYT Feb 2020, UTA); Revolt (NBA All-Star Feb 2020 performance); PAPER Magazine (K Camp thanks); thelist.com (Harmon quotes on wanting credit).",
+          "source": "https://en.wikipedia.org/wiki/Jalaiah_Harmon ; https://www.revolt.tv/article/2020-02-17/80847/jalaiah-harmon-performs-renegade-dance-at-all-star-game ; https://www.papermag.com/renegade-dance-tiktok",
+          "primary": false,
+          "pub_date": "2020-02",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "The credit pattern generalized: June 2021 Black TikTok creators 'struck' (refused to choreograph Megan Thee Stallion's 'Thot Shit'); Addison Rae performed Black-created dances on The Tonight Show without crediting.",
+          "evidence": "indy100 (2021): 'Thot Shit' strike, Addison Rae/Fallon segment without credit, Renegade as the canonical prior case.",
+          "source": "https://www.indy100.com/viral/tiktok-dance-trends-black-strike-b1872923",
+          "primary": false,
+          "pub_date": "2021",
+          "verification": "Verified",
+          "uncertainty": "Strike participation scale not quantified in source.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Coinage and dating of the term 'Black Twitter' itself not researched this pass.",
+        "Opal Tometi's co-founder role in BLM not independently verified this session - omitted from actors rather than asserted.",
+        "Academy membership diversity statistics (8% to 36%) single-source - Provisional."
+      ]
+    },
+    {
+      "pair": "AI → cultural knowledge systems",
+      "technology": "Machine-learning systems: commercial facial-analysis APIs, large language models, and the conference/lab institutions that produce them - a field that treated bias as a data-cleaning problem.",
+      "actors": [
+        {
+          "name": "Timnit Gebru",
+          "role": [
+            "innovator",
+            "cultural-transformer",
+            "entrepreneur"
+          ],
+          "note": "NOT the inventor of AI/ML; co-founded Black in AI, co-authored Gender Shades, founded DAIR."
+        },
+        {
+          "name": "Joy Buolamwini",
+          "role": [
+            "innovator",
+            "cultural-transformer"
+          ],
+          "note": "NOT the inventor of facial recognition; invented the intersectional audit method."
+        },
+        {
+          "name": "Deborah Raji",
+          "role": [
+            "innovator"
+          ],
+          "note": "Co-authored 'Actionable Auditing' follow-up on Amazon Rekognition."
+        },
+        {
+          "name": "Rediet Abebe",
+          "role": [
+            "innovator",
+            "entrepreneur"
+          ],
+          "note": "Co-founded Black in AI (2017)."
+        },
+        {
+          "name": "Ruha Benjamin",
+          "role": [
+            "cultural-transformer"
+          ],
+          "note": "Scholar; 'Race After Technology' (2019) supplied critical vocabulary; presented at 2019 Black in AI event."
+        }
+      ],
+      "mechanism": "AI arrived as a field that treated bias as a data-cleaning problem and diversity as a pipeline problem. Black researchers transformed it into an accountability regime - auditing the systems, building parallel institutions, and changing what counts as AI knowledge. The mechanism had three parts. First, community infrastructure: in March 2017 Timnit Gebru and Rediet Abebe founded Black in AI ('an alarming absence of black researchers'; Gebru's mailing list began 'Hi, I'm Timnit. I'm black person number two'), holding the first workshop at NeurIPS that December - a space where Joy Buolamwini could present early results on commercial face recognition and undergraduate Deborah Raji could find respite from the conference's culture. In 2021 the group, with Queer in AI and Widening NLP, publicly refused Google funding over the company's treatment of Gebru, Margaret Mitchell, and April Christina Curley. Second, actionable auditing: Buolamwini - whose own face went undetected unless she wore a white mask - and Gebru's 2018 Gender Shades study showed IBM, Microsoft, and Face++ (Megvii) gender classifiers failing darker-skinned women 20-34% of the time while near-perfect on white men, with training sets 77% male and over 83% white; Raji and Buolamwini's 2019 'Actionable Auditing' follow-up found the same in Amazon's Rekognition (it even misclassified Michelle Obama). The audits, shipped back to the vendors, correlated with product moratoria - Amazon's one-year police-sales pause in 2020 - and with federal bills (Algorithmic Accountability Act, No Biometric Barriers Act). Third, institutional exit: after Google pushed Gebru out in December 2020 over her large-language-model ethics paper, she founded the Distributed AI Research Institute (DAIR) in 2021 - community-rooted AI research outside Big Tech - while Ruha Benjamin's Race After Technology (2019) supplied the field's critical vocabulary. The mechanism: don't just diversify the lab - audit its products in public, refuse its money when it retaliates, and build a rival lab. The cultural transformers are not the inventors of the models; they are the people who made the models answerable.",
+      "claims": [
+        {
+          "claim": "Black in AI founded March 2017 by Timnit Gebru and Rediet Abebe over 'an alarming absence of black researchers'; first workshop at NeurIPS December 2017; Buolamwini presented early Gender Shades results there; Raji attended as an undergraduate; 2021 public refusal of Google funding (with Queer in AI, Widening NLP) over treatment of Gebru, Mitchell, Curley.",
+          "evidence": "Entrepreneur (2019): March 2017 founding, Abebe/Gebru co-founders, 'alarming absence'; MIT Technology Review (2021-06-14): Dec 2017 first NeurIPS workshop, Buolamwini/Raji participation, Gebru mailing-list quote; Wikipedia 'Black in AI': 2021 Google-funding refusal.",
+          "source": "https://www.entrepreneur.com/article/319228 ; https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/ ; https://en.wikipedia.org/wiki/Black_in_AI",
+          "primary": false,
+          "pub_date": "2019; 2021-06-14",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Gender Shades (2018, Buolamwini & Gebru): IBM, Microsoft, and Face++/Megvii gender classifiers failed darker-skinned women 20-34% of the time vs. near-100% accuracy on white men; training data 77% male, >83% white; Buolamwini's own face was not detected unless she wore a white mask; findings sent to the vendors.",
+          "evidence": "Entrepreneur (accuracy gaps, training-set composition); MIT Technology Review (white-mask origin; first workshop submission); Nature (d41586-022-03050-7) on the audit's field-changing role; Physics World (findings sent to companies).",
+          "source": "https://www.entrepreneur.com/article/319228 ; https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/ ; https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/",
+          "primary": false,
+          "pub_date": "2018 (study); 2019-2022 (coverage)",
+          "verification": "Verified",
+          "uncertainty": "None material.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "'Actionable Auditing' (2019, Raji & Buolamwini, AIES '19): Amazon Rekognition showed the same flaws (misclassified Michelle Obama); original three vendors had improved; the work contributed to Amazon's one-year police moratorium (2020) and Microsoft/IBM/Amazon pauses; spurred federal bills (Algorithmic Accountability Act, No Biometric Barriers Act) and state bills (NY, MA).",
+          "evidence": "Physics World (2019 follow-up, Michelle Obama misclassification, vendor improvements, bills); MIT Technology Review (moratorium 'in part because of that work').",
+          "source": "https://physicsworld.com/a/fighting-algorithmic-bias-in-artificial-intelligence/ ; https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/",
+          "primary": false,
+          "pub_date": "2019 (study); 2021 (coverage)",
+          "verification": "Verified",
+          "uncertainty": "Causality is partial by the sources' own framing ('in part'); vendor decisions had multiple inputs.",
+          "contradictory_evidence": "None found."
+        },
+        {
+          "claim": "Gebru left Google December 2020 after conflict over her paper on ethical issues in large language models; founded the Distributed AI Research Institute (DAIR) in 2021 as a community-rooted alternative to Big Tech labs; Ruha Benjamin's 'Race After Technology' (2019) featured at the 2019 Black in AI event.",
+          "evidence": "twournal/MIT TR coverage of Dec 2020 departure over the language-model ethics paper; MIT Technology Review (June 2021) describes DAIR as 'very much a product of Gebru's own initiative'; Wikipedia 'Black in AI' (Benjamin's book at 2019 event).",
+          "source": "https://twournal.com/leading-ai-ethics-researcher-says-google-fired-her/ ; https://www.technologyreview.com/2021/06/14/1026148/ai-big-tech-timnit-gebru-paper-ethics/ ; https://en.wikipedia.org/wiki/Black_in_AI",
+          "primary": false,
+          "pub_date": "2020-12; 2021-06-14",
+          "verification": "Provisional",
+          "uncertainty": "Exact DAIR launch date not pinned in these sources (2021 per coverage); the paper's title ('On the Dangers of Stochastic Parrots') widely documented but not in-session verified.",
+          "contradictory_evidence": "None found."
+        }
+      ],
+      "unresolved": [
+        "Exact DAIR launch date (announced December 2021 per general knowledge - not verified this pass).",
+        "'Stochastic Parrots' paper title and timeline not verified from in-session sources - Provisional.",
+        "Causal weight of the audits vs. other pressures (2020 protests, internal activism) in vendor moratoria - contested; sources say 'in part.'",
+        "Benjamin's 'New Jim Code' coinage and the Algorithmic Justice League's full scope not verified this pass."
+      ]
+    }
+  ]
+}

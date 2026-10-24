@@ -2,6 +2,18 @@
 
 ## October 2026
 
+### Corpus deposit and citation infrastructure — October 24, 2026
+
+The corpus the website has always pointed to is now actually here. A link audit of culturetechlens.com (2026-10-24) found all 49 per-item GitHub source links returning 404 — the site linked to `research-briefs/`, `research-dossiers/`, and `research/` folders that did not exist in this repository. They do now:
+
+- `research-briefs/` — 26 research briefs in their governed packages (full text, claim ledgers, entities, relationships, sources, red-team, gaps), with a section index. CTL-RB-MUS-000006 is a deposit note only: the brief is a completed draft pending founder publication approval, and its package is not disclosed until publication.
+- `research-dossiers/` — all 9 dossiers in their governed packages.
+- `research/` — the 14 flagship Deep Research packages (CTL-DR series). The pre-existing `RESEARCH/` (Index record, Sports lane) is untouched.
+- Text and data only. Photographs stay on culturetechlens.com; each package's `visuals.md` carries the per-image provenance and rights record.
+
+Citation infrastructure added the same day: `CITATION.cff` (powers GitHub's "Cite this repository" widget), and a `citation/` folder — BibTeX, CodeMeta, a corpus manifest (CSV + JSON, one row per item), a Dublin Core collection record, and suggested LCSH headings. Staged packs, not submitted anywhere: `wiki/` (Wikidata statement sheet for Q141705779; a Wikipedia draft with an honest notability self-assessment) and `huggingface/` (a ready-to-push dataset pack carrying the Knowledge Graph Public Edition data). Brand furniture added under `assets/brand/` (Cornerstone wordmark header; a social-preview image awaiting a web-UI upload). Repository topics set. All 49 previously dead links re-checked after the deposit: HTTP 200.
+
+
 ### Sports lane dossiers — October 7, 2026
 
 Five research dossiers for the Sports lane ("The Black Athletic Record") added under `RESEARCH/sports-lane/`:

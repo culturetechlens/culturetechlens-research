@@ -1,0 +1,45 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "CultureTechLens Research Corpus",
+  "description": "Public research corpus of CultureTechLens NFP (Chicago): flagship Deep Research packages, research briefs, and dossiers on Black cultural history. Every claim evidence-graded (VERIFIED / SUPPORTED / PROVISIONAL / DISPUTED / UNRESOLVED) with named sources, structured entities/relationships, and a public corrections record.",
+  "url": "https://culturetechlens.com",
+  "codeRepository": "https://github.com/culturetechlens/culturetechlens-research",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "William",
+      "familyName": "Maxey",
+      "@id": "https://orcid.org/0009-0004-2837-8037",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "CultureTechLens NFP"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "CultureTechLens NFP"
+  },
+  "datePublished": "2026-09-28",
+  "dateModified": "2026-10-24",
+  "keywords": [
+    "black culture",
+    "black history",
+    "Chicago",
+    "archives",
+    "knowledge graph",
+    "digital humanities",
+    "open data",
+    "cultural heritage"
+  ],
+  "identifier": [
+    "https://doi.org/10.5281/zenodo.23081630",
+    "https://doi.org/10.5281/zenodo.23253532"
+  ]
+}

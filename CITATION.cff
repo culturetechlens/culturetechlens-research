@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: dataset
+title: "CultureTechLens Research Corpus"
+abstract: "The public research corpus of CultureTechLens NFP (Chicago) — Black Cultural Intelligence: 14 flagship Deep Research packages, 26 research briefs, 9 research dossiers, the CultureTechLens Index record, and the Sports lane dossiers. Every claim is evidence-graded (VERIFIED / SUPPORTED / PROVISIONAL / DISPUTED / UNRESOLVED), sourced, and covered by a public corrections record."
+authors:
+  - family-names: Maxey
+    given-names: William
+    orcid: "https://orcid.org/0009-0004-2837-8037"
+    affiliation: "CultureTechLens NFP"
+  - name: "CultureTechLens NFP"
+version: "2026-10-24"
+date-released: 2026-10-24
+repository-code: "https://github.com/culturetechlens/culturetechlens-research"
+url: "https://culturetechlens.com"
+license: CC-BY-4.0
+keywords:
+  - black-culture
+  - black-history
+  - chicago
+  - archives
+  - knowledge-graph
+  - digital-humanities
+  - open-data
+  - cultural-heritage
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23081630"
+    description: "CultureTechLens Index — Edition 2026-10 (Zenodo deposit)"
+  - type: doi
+    value: "10.5281/zenodo.23253532"
+    description: "CTL Black Cultural Knowledge Graph — Public Edition, 2026-10-06 (Zenodo deposit)"
+preferred-citation:
+  type: generic
+  title: "CultureTechLens Research Corpus"
+  authors:
+    - family-names: Maxey
+      given-names: William
+      orcid: "https://orcid.org/0009-0004-2837-8037"
+      affiliation: "CultureTechLens NFP"
+    - name: "CultureTechLens NFP"
+  year: 2026
+  url: "https://github.com/culturetechlens/culturetechlens-research"
+  notes: "Cite individual items by their CTL ID using citation/manifest.csv in this repository."

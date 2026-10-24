@@ -1,5 +1,10 @@
 # CultureTechLens Research Repository
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/cornerstone-wordmark-on-dark.png">
+  <img alt="CultureTechLens — Culture, Clearly Seen." src="assets/brand/cornerstone-wordmark-on-light.png" width="640">
+</picture>
+
 **CultureTechLens (CTL)**  
 Public research methodology, source records, datasets, citations, corrections, and revision history.
 
@@ -34,6 +39,12 @@ The repository documents how CTL:
 - [Operational documents](docs/README.md)
 - [Corrections](CORRECTIONS.md)
 - [Changelog](CHANGELOG.md)
+
+
+- [Research Briefs](research-briefs/INDEX.md) — the 26 briefs, deposited in the layout the website links to
+- [Research Dossiers](research-dossiers/INDEX.md) — the 9 dossiers
+- [Flagship Research Packages](research/INDEX.md) — the 14 CTL-DR packages
+- [Citation Infrastructure](citation/README.md) — CITATION.cff, BibTeX, CodeMeta, the corpus manifest, Dublin Core
 
 ## Methodology version
 
@@ -80,6 +91,30 @@ A single claim — cite the claim ID, its grade, and the package, e.g. "per CTL-
 ## What's not here
 
 Internal build artifacts are intentionally excluded: package `working/` directories, `_tracks/` build tracks, pre-remediation backups, and cross-package audit working files. What ships is the governed package: research, evidence, sources, timelines, red-team findings, and rights logs.
+
+## The record
+
+- **The CultureTechLens Index** — monthly ranking of Black cultural resonance. Edition 2026-10 on Zenodo: [doi.org/10.5281/zenodo.23081630](https://doi.org/10.5281/zenodo.23081630)
+- **The Black Cultural Knowledge Graph** — Public Edition (2026-10-06): [doi.org/10.5281/zenodo.23253532](https://doi.org/10.5281/zenodo.23253532) · concept DOI [10.5281/zenodo.23403147](https://doi.org/10.5281/zenodo.23403147)
+- **The flagship repository** — graph, Citation Register, reviews, Index: [github.com/culturetechlens/culturetechlens](https://github.com/culturetechlens/culturetechlens)
+- **How to cite us, in one place:** [culturetechlens.com/cite](https://culturetechlens.com/cite/)
+
+## Cite this work
+
+GitHub's **"Cite this repository"** widget (right sidebar) reads [CITATION.cff](CITATION.cff). For reference managers: [citation/citation.bib](citation/citation.bib). For item-level citation — one row per corpus item, with CTL ID and canonical URL: [citation/manifest.csv](citation/manifest.csv).
+
+- **Chicago:** CultureTechLens NFP. "CultureTechLens Research Corpus." 2026. https://github.com/culturetechlens/culturetechlens-research.
+- **APA:** CultureTechLens NFP. (2026). *CultureTechLens research corpus* [Data set]. https://github.com/culturetechlens/culturetechlens-research
+- **MLA:** CultureTechLens NFP. "CultureTechLens Research Corpus." *GitHub*, 2026, github.com/culturetechlens/culturetechlens-research.
+
+Cite the specific item whenever possible — its CTL ID is its handle (see the manifest).
+
+## For librarians
+
+- **Collection record:** a Dublin Core (oai_dc) record for the corpus is at [citation/dublin-core.xml](citation/dublin-core.xml).
+- **Subject headings:** suggested LCSH-style headings at [citation/subjects-lcsh.md](citation/subjects-lcsh.md).
+- **Preservation:** this repository is the working public copy. Archival snapshots are preserved on Zenodo under DOIs — the Index edition (10.5281/zenodo.23081630) and the Knowledge Graph Public Edition (10.5281/zenodo.23253532).
+- **Contact:** info@culturetechlens.com
 
 ## License
 

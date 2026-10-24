@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>CultureTechLens Research Corpus</dc:title>
+  <dc:creator>Maxey, William</dc:creator>
+  <dc:creator>CultureTechLens NFP</dc:creator>
+  <dc:publisher>CultureTechLens NFP</dc:publisher>
+  <dc:date>2026</dc:date>
+  <dc:language>en</dc:language>
+  <dc:type>Collection</dc:type>
+  <dc:format>text/markdown; application/json; text/csv</dc:format>
+  <dc:identifier>https://github.com/culturetechlens/culturetechlens-research</dc:identifier>
+  <dc:identifier>https://doi.org/10.5281/zenodo.23081630</dc:identifier>
+  <dc:identifier>https://doi.org/10.5281/zenodo.23253532</dc:identifier>
+  <dc:source>https://culturetechlens.com</dc:source>
+  <dc:coverage>Chicago (Ill.)</dc:coverage>
+  <dc:coverage>1869–2026 (subject matter)</dc:coverage>
+  <dc:rights>Content and data: Creative Commons Attribution 4.0 International (CC BY 4.0). Code: MIT License.</dc:rights>
+  <dc:description>Evidence-graded research corpus on Black cultural history, Chicago-first: 14 flagship Deep Research packages, 26 research briefs, 9 research dossiers, the CultureTechLens Index record, and Sports lane dossiers. Every claim carries an evidence grade (VERIFIED / SUPPORTED / PROVISIONAL / DISPUTED / UNRESOLVED), named sources, structured entities and relationships, and a public corrections record. Archival copies of the Index edition and the Knowledge Graph Public Edition are preserved on Zenodo under DOIs.</dc:description>
+  <dc:subject>African Americans—Illinois—Chicago</dc:subject>
+  <dc:subject>African Americans—Illinois—Chicago—History</dc:subject>
+  <dc:subject>African American arts—Illinois—Chicago</dc:subject>
+  <dc:subject>African American musicians—Illinois—Chicago</dc:subject>
+  <dc:subject>African American newspapers—Illinois—Chicago</dc:subject>
+  <dc:subject>Black press—Illinois—Chicago</dc:subject>
+  <dc:subject>Bronzeville (Chicago, Ill.)</dc:subject>
+  <dc:subject>African American churches—Illinois—Chicago</dc:subject>
+  <dc:subject>African American businesses—Illinois—Chicago</dc:subject>
+  <dc:subject>Gospel music—Illinois—Chicago</dc:subject>
+  <dc:subject>House music—Illinois—Chicago</dc:subject>
+  <dc:subject>Blues (Music)—Illinois—Chicago</dc:subject>
+  <dc:subject>Great Migration (African Americans)</dc:subject>
+  <dc:subject>African Americans—Archives</dc:subject>
+  <dc:subject>Collective memory—Illinois—Chicago</dc:subject>
+  <dc:subject>Cultural heritage—Illinois—Chicago</dc:subject>
+</oai_dc:dc>

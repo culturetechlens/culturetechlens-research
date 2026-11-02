@@ -1,0 +1,27 @@
+{
+  "title": "CultureTechLens Research Corpus",
+  "upload_type": "dataset",
+  "description": "The public research corpus of CultureTechLens NFP (Chicago) — Black Cultural Intelligence: 14 flagship Deep Research packages, 26 research briefs, 9 research dossiers, the CultureTechLens Index record, and the Sports lane dossiers. Every claim is evidence-graded (VERIFIED / SUPPORTED / PROVISIONAL / DISPUTED / UNRESOLVED), sourced, and covered by a public corrections record.",
+  "creators": [
+    {
+      "name": "Maxey, William",
+      "affiliation": "CultureTechLens NFP",
+      "orcid": "0009-0004-2837-8037"
+    },
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "black-culture",
+    "black-history",
+    "chicago",
+    "archives",
+    "knowledge-graph",
+    "digital-humanities",
+    "open-data",
+    "cultural-heritage"
+  ]
+}
